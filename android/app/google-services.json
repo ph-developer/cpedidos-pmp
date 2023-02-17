@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1083881374343",
+    "firebase_url": "https://cpedidos-pmp-default-rtdb.firebaseio.com",
+    "project_id": "cpedidos-pmp",
+    "storage_bucket": "cpedidos-pmp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083881374343:android:ebe0f155ed13005d636e22",
+        "android_client_info": {
+          "package_name": "com.example.cpedidos_pmp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083881374343-68d0bumijkma3la6k8ttfjj1p699hn08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9aaWzCR4goea0b5c_wOOTzOeZGAiXeCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083881374343-68d0bumijkma3la6k8ttfjj1p699hn08.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1083881374343-a0149pof3cupehapbcaa4m3qmdj67ljj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cpedidosPmp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
