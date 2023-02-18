@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 
 import 'package:lottie/lottie.dart';
 
+import 'shared/themes/themes.dart';
+
 class BootWidget extends StatefulWidget {
   final WidgetsBinding widgetsBinding;
 
@@ -33,10 +35,18 @@ class _BootWidgetState extends State<BootWidget> {
 
   @override
   Widget build(BuildContext context) {
-    return Center(
-      child: Lottie.asset(
-        'assets/cart-icon-loader.json',
-        height: logoSize,
+    final theme =
+        widget.widgetsBinding.window.platformBrightness == Brightness.dark
+            ? darkTheme
+            : lightTheme;
+
+    return Container(
+      color: theme.colorScheme.background,
+      child: Center(
+        child: Lottie.asset(
+          'assets/cart-icon-loader.json',
+          height: logoSize * 1.5,
+        ),
       ),
     );
   }
