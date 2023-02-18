@@ -33,13 +33,10 @@ class _BootWidgetState extends State<BootWidget> {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      color: Theme.of(context).colorScheme.background,
-      child: Center(
-        child: Lottie.asset(
-          'assets/cart-icon-loader.json',
-          height: 178,
-        ),
+    return Center(
+      child: Lottie.asset(
+        'assets/cart-icon-loader.json',
+        height: logoSize,
       ),
     );
   }
