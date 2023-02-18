@@ -40,10 +40,10 @@ import 'package:cpedidos_pmp/src/shared/helpers/debounce.dart';
 import 'package:cpedidos_pmp/src/shared/helpers/input_formatters.dart';
 import 'package:cpedidos_pmp/src/shared/helpers/notify.dart';
 import 'package:cpedidos_pmp/src/shared/themes/themes.dart';
-import 'package:cpedidos_pmp/src/shared/widgets/outline_button.dart';
-import 'package:cpedidos_pmp/src/shared/widgets/password_input.dart';
-import 'package:cpedidos_pmp/src/shared/widgets/select_input.dart';
-import 'package:cpedidos_pmp/src/shared/widgets/text_area_input.dart';
-import 'package:cpedidos_pmp/src/shared/widgets/text_input.dart';
+import 'package:cpedidos_pmp/src/shared/widgets/buttons/outline_button.dart';
+import 'package:cpedidos_pmp/src/shared/widgets/inputs/password_input.dart';
+import 'package:cpedidos_pmp/src/shared/widgets/inputs/select_input.dart';
+import 'package:cpedidos_pmp/src/shared/widgets/inputs/text_area_input.dart';
+import 'package:cpedidos_pmp/src/shared/widgets/inputs/text_input.dart';
 
 void main() {}

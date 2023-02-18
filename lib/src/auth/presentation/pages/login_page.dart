@@ -4,9 +4,9 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../../../../injector.dart';
 import '../../../../router.dart';
-import '../../../shared/widgets/outline_button.dart';
-import '../../../shared/widgets/password_input.dart';
-import '../../../shared/widgets/text_input.dart';
+import '../../../shared/widgets/buttons/outline_button.dart';
+import '../../../shared/widgets/inputs/password_input.dart';
+import '../../../shared/widgets/inputs/text_input.dart';
 import '../cubits/auth_cubit.dart';
 import '../cubits/auth_state.dart';
 
