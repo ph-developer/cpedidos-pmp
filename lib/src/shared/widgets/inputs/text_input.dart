@@ -9,6 +9,7 @@ class TextInput extends StatelessWidget {
   final String label;
   final FocusNode? focusNode;
   final Widget? suffixIcon;
+  final Function(String)? onSubmitted;
 
   const TextInput({
     super.key,
@@ -17,6 +18,7 @@ class TextInput extends StatelessWidget {
     this.formatters = const [],
     this.focusNode,
     this.suffixIcon,
+    this.onSubmitted,
     required this.controller,
     required this.label,
   });
@@ -29,6 +31,7 @@ class TextInput extends StatelessWidget {
       controller: controller,
       inputFormatters: formatters,
       autofocus: autofocus,
+      onSubmitted: onSubmitted,
       style: TextStyle(
         color: isEnabled ? null : Theme.of(context).disabledColor,
       ),

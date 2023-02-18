@@ -4,10 +4,12 @@ class PasswordInput extends StatelessWidget {
   final bool isEnabled;
   final TextEditingController controller;
   final String label;
+  final Function(String)? onSubmitted;
 
   const PasswordInput({
     super.key,
     this.isEnabled = true,
+    this.onSubmitted,
     required this.controller,
     required this.label,
   });
@@ -17,6 +19,7 @@ class PasswordInput extends StatelessWidget {
     return TextField(
       enabled: isEnabled,
       controller: controller,
+      onSubmitted: onSubmitted,
       obscureText: true,
       enableSuggestions: false,
       autocorrect: false,
