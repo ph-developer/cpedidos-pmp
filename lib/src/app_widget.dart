@@ -13,7 +13,7 @@ class AppWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp.router(
       title: 'Controle de Pedidos - Prefeitura Municipal de Penápolis',
-      themeMode: ThemeMode.light,
+      themeMode: ThemeMode.system,
       theme: lightTheme,
       darkTheme: darkTheme,
       builder: Asuka.builder,
