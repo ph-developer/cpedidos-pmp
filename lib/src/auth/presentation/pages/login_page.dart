@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_svg/flutter_svg.dart';
 
 import '../../../../injector.dart';
 import '../../../../router.dart';
@@ -64,10 +65,11 @@ class _LoginPageState extends State<LoginPage> {
   Widget _buildLogo(BuildContext context) {
     return Container(
       alignment: Alignment.center,
-      //TODO: child: SvgPicture.asset(
-      //   'assets/logo.svg',
-      //   height: 100,
-      // ),
+      padding: const EdgeInsets.all(16.0),
+      child: SvgPicture.asset(
+        'assets/logo.svg',
+        height: 70,
+      ),
     );
   }
 

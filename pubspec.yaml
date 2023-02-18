@@ -27,6 +27,7 @@ dependencies:
   flutter_bloc: ^8.1.2
   lottie: ^2.2.0
   universal_io: ^2.2.0
+  flutter_svg: ^2.0.1
 
 dev_dependencies:
   flutter_test:
