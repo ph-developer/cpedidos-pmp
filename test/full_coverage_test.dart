@@ -32,9 +32,7 @@ import 'package:cpedidos_pmp/src/orders/domain/usecases/get_order_by_type_and_nu
 import 'package:cpedidos_pmp/src/orders/domain/usecases/save_order.dart';
 import 'package:cpedidos_pmp/src/orders/presentation/cubits/order_register_cubit.dart';
 import 'package:cpedidos_pmp/src/orders/presentation/cubits/order_register_state.dart';
-import 'package:cpedidos_pmp/src/orders/presentation/dialogs/order_delete_confirm_dialog.dart';
 import 'package:cpedidos_pmp/src/orders/presentation/pages/order_register_page.dart';
-import 'package:cpedidos_pmp/src/shared/dialogs/confirm_dialog.dart';
 import 'package:cpedidos_pmp/src/shared/errors/failure.dart';
 import 'package:cpedidos_pmp/src/shared/helpers/debounce.dart';
 import 'package:cpedidos_pmp/src/shared/helpers/input_formatters.dart';

@@ -6,13 +6,13 @@ import '../../../../injector.dart';
 import '../../../shared/helpers/debounce.dart';
 import '../../../shared/helpers/input_formatters.dart';
 import '../../../shared/widgets/buttons/outline_button.dart';
+import '../../../shared/widgets/dialogs/confirm_dialog.dart';
 import '../../../shared/widgets/inputs/select_input.dart';
 import '../../../shared/widgets/inputs/text_area_input.dart';
 import '../../../shared/widgets/inputs/text_input.dart';
 import '../../domain/entities/order.dart';
 import '../cubits/order_register_cubit.dart';
 import '../cubits/order_register_state.dart';
-import '../dialogs/order_delete_confirm_dialog.dart';
 
 class OrderRegisterPage extends StatefulWidget {
   const OrderRegisterPage({super.key});
@@ -386,9 +386,17 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
                 icon: Icons.delete_outline_rounded,
                 label: 'Excluir',
                 type: ButtonType.error,
-                onPressed: () => showOrderDeleteConfirmDialog(
-                  onOk: () => cubit.delete(currentOrder),
-                ),
+                onPressed: () {
+                  showDialog(
+                    context: context,
+                    builder: (context) => ConfirmDialog(
+                      title: 'Excluir pedido?',
+                      content: 'Deseja realmente excluir este pedido? '
+                          'Esta ação é irreversível.',
+                      onYes: () => cubit.delete(currentOrder),
+                    ),
+                  );
+                },
               ),
             ),
           ],
