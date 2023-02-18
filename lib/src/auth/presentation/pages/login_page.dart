@@ -91,6 +91,12 @@ class _LoginPageState extends State<LoginPage> {
                       controller: emailEC,
                       label: 'Email',
                       autofocus: true,
+                      onSubmitted: (_) {
+                        if (emailEC.text.isNotEmpty &&
+                            passwordEC.text.isNotEmpty) {
+                          cubit.login(emailEC.text, passwordEC.text);
+                        }
+                      },
                     ),
                   ),
                 ),
@@ -105,6 +111,12 @@ class _LoginPageState extends State<LoginPage> {
                       isEnabled: isEnabled,
                       controller: passwordEC,
                       label: 'Senha',
+                      onSubmitted: (_) {
+                        if (emailEC.text.isNotEmpty &&
+                            passwordEC.text.isNotEmpty) {
+                          cubit.login(emailEC.text, passwordEC.text);
+                        }
+                      },
                     ),
                   ),
                 ),
