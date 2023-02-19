@@ -1,14 +1,15 @@
 import 'package:bloc_test/bloc_test.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
+import 'package:result_dart/result_dart.dart';
 
 import 'package:cpedidos_pmp/src/orders/domain/entities/order.dart';
+import 'package:cpedidos_pmp/src/orders/domain/errors/failures.dart';
 import 'package:cpedidos_pmp/src/orders/domain/usecases/delete_order.dart';
 import 'package:cpedidos_pmp/src/orders/domain/usecases/get_order_by_type_and_number.dart';
 import 'package:cpedidos_pmp/src/orders/domain/usecases/save_order.dart';
 import 'package:cpedidos_pmp/src/orders/presentation/cubits/order_register_cubit.dart';
 import 'package:cpedidos_pmp/src/orders/presentation/cubits/order_register_state.dart';
-import 'package:cpedidos_pmp/src/shared/errors/failure.dart';
 
 class MockSaveOrder extends Mock implements ISaveOrder {}
 
@@ -17,9 +18,7 @@ class MockDeleteOrder extends Mock implements IDeleteOrder {}
 class MockGetOrderByTypeAndNumber extends Mock
     implements IGetOrderByTypeAndNumber {}
 
-class MockFailure extends Failure {
-  MockFailure([String message = 'failure']) : super(message);
-}
+class MockOrdersFailure extends Mock implements OrdersFailure {}
 
 void main() {
   late ISaveOrder mockSaveOrder;
@@ -33,7 +32,7 @@ void main() {
   });
 
   const tOrder = Order(number: 'number', type: 'type');
-  final tFailure = MockFailure();
+  final tOrdersFailure = MockOrdersFailure();
 
   group('reset', () {
     blocTest<OrderRegisterCubit, OrderRegisterState>(
@@ -88,7 +87,7 @@ void main() {
       'should emits [OrderRegisterLoadingState, OrderRegisterLoadedSuccessState] when find order.',
       setUp: () {
         when(() => mockGetOrderByTypeAndNumber(any(), any()))
-            .thenAnswer((_) async => tOrder);
+            .thenAnswer((_) async => const Success(tOrder));
       },
       build: () => OrderRegisterCubit(
         mockSaveOrder,
@@ -106,7 +105,7 @@ void main() {
       'should emits [OrderRegisterLoadingState, OrderRegisterLoadedEmptyState] when not find order.',
       setUp: () {
         when(() => mockGetOrderByTypeAndNumber(any(), any()))
-            .thenAnswer((_) async => null);
+            .thenAnswer((_) async => Failure(OrderNotFound()));
       },
       build: () => OrderRegisterCubit(
         mockSaveOrder,
@@ -121,10 +120,10 @@ void main() {
     );
 
     blocTest<OrderRegisterCubit, OrderRegisterState>(
-      'should emits [OrderRegisterLoadingState, OrderRegisterFailureState] when usecase throws a failure.',
+      'should emits [OrderRegisterLoadingState, OrderRegisterFailureState] when usecase return a failure.',
       setUp: () {
         when(() => mockGetOrderByTypeAndNumber(any(), any()))
-            .thenThrow(tFailure);
+            .thenAnswer((_) async => Failure(tOrdersFailure));
       },
       build: () => OrderRegisterCubit(
         mockSaveOrder,
@@ -134,7 +133,7 @@ void main() {
       act: (cubit) => cubit.search('type', 'number'),
       expect: () => [
         OrderRegisterLoadingState(),
-        OrderRegisterFailureState(failure: tFailure),
+        OrderRegisterFailureState(failure: tOrdersFailure),
       ],
     );
   });
@@ -143,7 +142,8 @@ void main() {
     blocTest<OrderRegisterCubit, OrderRegisterState>(
       'should emits [OrderRegisterSavingState, OrderRegisterSavedState] when save order successfull.',
       setUp: () {
-        when(() => mockSaveOrder(tOrder)).thenAnswer((_) async => tOrder);
+        when(() => mockSaveOrder(tOrder))
+            .thenAnswer((_) async => const Success(tOrder));
       },
       build: () => OrderRegisterCubit(
         mockSaveOrder,
@@ -158,9 +158,10 @@ void main() {
     );
 
     blocTest<OrderRegisterCubit, OrderRegisterState>(
-      'should emits [OrderRegisterSavingState, OrderRegisterFailureState] when usecase throws a failure.',
+      'should emits [OrderRegisterSavingState, OrderRegisterFailureState] when usecase return a failure.',
       setUp: () {
-        when(() => mockSaveOrder(tOrder)).thenThrow(tFailure);
+        when(() => mockSaveOrder(tOrder))
+            .thenAnswer((_) async => Failure(tOrdersFailure));
       },
       build: () => OrderRegisterCubit(
         mockSaveOrder,
@@ -170,7 +171,7 @@ void main() {
       act: (cubit) => cubit.save(tOrder),
       expect: () => [
         OrderRegisterSavingState(),
-        OrderRegisterFailureState(failure: tFailure),
+        OrderRegisterFailureState(failure: tOrdersFailure),
       ],
     );
   });
@@ -179,7 +180,8 @@ void main() {
     blocTest<OrderRegisterCubit, OrderRegisterState>(
       'should emits [OrderRegisterDeletingState, OrderRegisterDeletedState] when save order successfull.',
       setUp: () {
-        when(() => mockDeleteOrder(tOrder)).thenAnswer((_) async => true);
+        when(() => mockDeleteOrder(tOrder))
+            .thenAnswer((_) async => const Success(true));
       },
       build: () => OrderRegisterCubit(
         mockSaveOrder,
@@ -194,9 +196,10 @@ void main() {
     );
 
     blocTest<OrderRegisterCubit, OrderRegisterState>(
-      'should emits [OrderRegisterDeletingState, OrderRegisterFailureState] when usecase throws a failure.',
+      'should emits [OrderRegisterDeletingState, OrderRegisterFailureState] when usecase return a failure.',
       setUp: () {
-        when(() => mockDeleteOrder(tOrder)).thenThrow(tFailure);
+        when(() => mockDeleteOrder(tOrder))
+            .thenAnswer((_) async => Failure(tOrdersFailure));
       },
       build: () => OrderRegisterCubit(
         mockSaveOrder,
@@ -206,7 +209,7 @@ void main() {
       act: (cubit) => cubit.delete(tOrder),
       expect: () => [
         OrderRegisterDeletingState(),
-        OrderRegisterFailureState(failure: tFailure),
+        OrderRegisterFailureState(failure: tOrdersFailure),
       ],
     );
   });

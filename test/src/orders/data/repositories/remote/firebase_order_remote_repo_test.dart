@@ -1,9 +1,10 @@
-import 'package:cpedidos_pmp/src/orders/data/errors/failures.dart';
-import 'package:cpedidos_pmp/src/orders/data/repositories/remote/firebase_order_remote_repo.dart';
-import 'package:cpedidos_pmp/src/orders/domain/entities/order.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
+
+import 'package:cpedidos_pmp/src/orders/data/repositories/remote/firebase_order_remote_repo.dart';
+import 'package:cpedidos_pmp/src/orders/domain/entities/order.dart';
+import 'package:cpedidos_pmp/src/orders/domain/errors/failures.dart';
 
 class MockFirebaseDatabase extends Mock implements FirebaseDatabase {}
 
@@ -41,13 +42,12 @@ void main() {
         // act
         final result = await repo.getByTypeAndNumber('type', 'number');
         // assert
-        expect(result, isA<Order>());
-        expect(result, equals(tOrder));
+        expect(result.getOrNull(), equals(tOrder));
       },
     );
 
     test(
-      'should return null when not exists one with type and number param.',
+      'should return an OrderNotFound failure when not exists one with type and number param.',
       () async {
         // arrange
         when(() => mockDatabase.ref('orders/not_exists'))
@@ -58,21 +58,7 @@ void main() {
         // act
         final result = await repo.getByTypeAndNumber('not', 'exists');
         // assert
-        expect(result, isNull);
-      },
-    );
-
-    test(
-      'should throws a GetByTypeAndNumberFailure when an error occurs.',
-      () async {
-        // arrange
-        when(() => mockDatabase.ref('orders/throws_error'))
-            .thenThrow(Exception());
-
-        // act
-        final future = repo.getByTypeAndNumber('throws', 'error');
-        // assert
-        expect(future, throwsA(isA<GetByTypeAndNumberFailure>()));
+        expect(result.exceptionOrNull(), isA<OrderNotFound>());
       },
     );
   });
@@ -105,8 +91,7 @@ void main() {
         // act
         final result = await repo.getAllBySendDate('sendDate');
         // assert
-        expect(result, isA<List<Order>>());
-        expect(result, equals(tOrderList));
+        expect(result.getOrNull(), equals(tOrderList));
       },
     );
 
@@ -128,13 +113,13 @@ void main() {
         // act
         final result = await repo.getAllBySendDate('notExists');
         // assert
-        expect(result, isA<List<Order>>());
-        expect(result, isEmpty);
+        expect(result.getOrNull(), isA<List<Order>>());
+        expect(result.getOrNull(), isEmpty);
       },
     );
 
     test(
-      'should return an empty list when orders snapshot with sendDate param not exists.',
+      'should return an OrdersNotFound failure when orders snapshot with sendDate param not exists.',
       () async {
         // arrange
         when(() => mockDatabase.ref('orders'))
@@ -149,21 +134,7 @@ void main() {
         // act
         final result = await repo.getAllBySendDate('notExists');
         // assert
-        expect(result, isA<List<Order>>());
-        expect(result, isEmpty);
-      },
-    );
-
-    test(
-      'should throws a GetAllBySendDateFailure when an error occurs.',
-      () async {
-        // arrange
-        when(() => mockDatabase.ref('orders')).thenThrow(Exception());
-
-        // act
-        final future = repo.getAllBySendDate('throws_error');
-        // assert
-        expect(future, throwsA(isA<GetAllBySendDateFailure>()));
+        expect(result.exceptionOrNull(), isA<OrdersNotFound>());
       },
     );
   });
@@ -194,22 +165,7 @@ void main() {
 
         final result = await repo.save(tOrder);
         // assert
-        expect(result, isA<Order>());
-        expect(result, equals(tOrder));
-      },
-    );
-
-    test(
-      'should throws a SaveFailure when an error occurs.',
-      () async {
-        // arrange
-        when(() => mockDatabase.ref('orders/type_number'))
-            .thenThrow(Exception());
-
-        // act
-        final future = repo.save(tOrder);
-        // assert
-        expect(future, throwsA(isA<SaveFailure>()));
+        expect(result.getOrNull(), equals(tOrder));
       },
     );
   });
@@ -227,21 +183,7 @@ void main() {
 
         final result = await repo.delete(tOrder);
         // assert
-        expect(result, isTrue);
-      },
-    );
-
-    test(
-      'should throws a DeleteFailure when an error occurs.',
-      () async {
-        // arrange
-        when(() => mockDatabase.ref('orders/type_number'))
-            .thenThrow(Exception());
-
-        // act
-        final future = repo.delete(tOrder);
-        // assert
-        expect(future, throwsA(isA<DeleteFailure>()));
+        expect(result.getOrNull(), isTrue);
       },
     );
   });

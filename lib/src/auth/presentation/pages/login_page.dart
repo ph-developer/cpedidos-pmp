@@ -1,12 +1,14 @@
 import 'package:flutter/material.dart';
 
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_svg/flutter_svg.dart';
 
 import '../../../../injector.dart';
 import '../../../../router.dart';
-import '../../../shared/widgets/outline_button.dart';
-import '../../../shared/widgets/password_input.dart';
-import '../../../shared/widgets/text_input.dart';
+import '../../../shared/widgets/buttons/outline_button.dart';
+import '../../../shared/widgets/inputs/password_input.dart';
+import '../../../shared/widgets/inputs/text_input.dart';
+import '../../../shared/widgets/snack_bars/error_snack_bar.dart';
 import '../cubits/auth_cubit.dart';
 import '../cubits/auth_state.dart';
 
@@ -37,6 +39,8 @@ class _LoginPageState extends State<LoginPage> {
       listener: (context, state) {
         if (state is AuthLoggedInState) {
           router.pushReplacement('/pedidos/cadastro');
+        } else if (state is AuthFailureState) {
+          ErrorSnackBar(context, text: state.failure.message).show();
         }
       },
       child: Scaffold(
@@ -64,10 +68,11 @@ class _LoginPageState extends State<LoginPage> {
   Widget _buildLogo(BuildContext context) {
     return Container(
       alignment: Alignment.center,
-      //TODO: child: SvgPicture.asset(
-      //   'assets/logo.svg',
-      //   height: 100,
-      // ),
+      padding: const EdgeInsets.all(16.0),
+      child: SvgPicture.asset(
+        'assets/logo.svg',
+        height: 70,
+      ),
     );
   }
 
@@ -89,6 +94,12 @@ class _LoginPageState extends State<LoginPage> {
                       controller: emailEC,
                       label: 'Email',
                       autofocus: true,
+                      onSubmitted: (_) {
+                        if (emailEC.text.isNotEmpty &&
+                            passwordEC.text.isNotEmpty) {
+                          cubit.login(emailEC.text, passwordEC.text);
+                        }
+                      },
                     ),
                   ),
                 ),
@@ -103,6 +114,12 @@ class _LoginPageState extends State<LoginPage> {
                       isEnabled: isEnabled,
                       controller: passwordEC,
                       label: 'Senha',
+                      onSubmitted: (_) {
+                        if (emailEC.text.isNotEmpty &&
+                            passwordEC.text.isNotEmpty) {
+                          cubit.login(emailEC.text, passwordEC.text);
+                        }
+                      },
                     ),
                   ),
                 ),

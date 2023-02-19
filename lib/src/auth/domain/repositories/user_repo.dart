@@ -1,5 +1,8 @@
+import 'package:result_dart/result_dart.dart';
+
 import '../entities/user.dart';
+import '../errors/failures.dart';
 
 abstract class IUserRepo {
-  Future<User> getById(String id);
+  AsyncResult<User, AuthFailure> getById(String id);
 }

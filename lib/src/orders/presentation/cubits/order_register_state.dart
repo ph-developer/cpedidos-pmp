@@ -1,8 +1,7 @@
-// ignore_for_file: public_member_api_docs, sort_constructors_first
 import 'package:equatable/equatable.dart';
 
-import '../../../shared/errors/failure.dart';
 import '../../domain/entities/order.dart';
+import '../../domain/errors/failures.dart';
 
 abstract class OrderRegisterState extends Equatable {}
 
@@ -64,7 +63,7 @@ class OrderRegisterDeletedState extends OrderRegisterState {
 }
 
 class OrderRegisterFailureState extends OrderRegisterState {
-  final Failure failure;
+  final OrdersFailure failure;
 
   OrderRegisterFailureState({required this.failure});
 

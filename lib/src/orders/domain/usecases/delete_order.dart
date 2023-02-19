@@ -1,10 +1,11 @@
-import '../../../shared/errors/failure.dart';
-import '../../../shared/helpers/notify.dart';
+import 'package:result_dart/result_dart.dart';
+
 import '../entities/order.dart';
+import '../errors/failures.dart';
 import '../repositories/order_repo.dart';
 
 abstract class IDeleteOrder {
-  Future<bool> call(Order order);
+  AsyncResult<bool, OrdersFailure> call(Order order);
 }
 
 class DeleteOrder implements IDeleteOrder {
@@ -13,28 +14,15 @@ class DeleteOrder implements IDeleteOrder {
   DeleteOrder(this._orderRepo);
 
   @override
-  Future<bool> call(Order order) async {
-    try {
-      if (order.number.isEmpty) {
-        notifyError('O campo "número" deve ser preenchido.');
-        return false;
-      }
-
-      if (order.type.isEmpty) {
-        notifyError('O campo "tipo" deve ser preenchido.');
-        return false;
-      }
-
-      final result = await _orderRepo.delete(order);
-
-      if (result) {
-        notifySuccess('Pedido excluido com sucesso.');
-      }
-
-      return result;
-    } on Failure catch (failure) {
-      notifyError(failure.message);
-      return false;
+  AsyncResult<bool, OrdersFailure> call(Order order) async {
+    if (order.number.isEmpty) {
+      return Failure(InvalidInput('O campo "número" deve ser preenchido.'));
     }
+
+    if (order.type.isEmpty) {
+      return Failure(InvalidInput('O campo "tipo" deve ser preenchido.'));
+    }
+
+    return _orderRepo.delete(order);
   }
 }

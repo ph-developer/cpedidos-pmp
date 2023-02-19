@@ -5,14 +5,16 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import '../../../../injector.dart';
 import '../../../shared/helpers/debounce.dart';
 import '../../../shared/helpers/input_formatters.dart';
-import '../../../shared/widgets/outline_button.dart';
-import '../../../shared/widgets/select_input.dart';
-import '../../../shared/widgets/text_area_input.dart';
-import '../../../shared/widgets/text_input.dart';
+import '../../../shared/widgets/buttons/outline_button.dart';
+import '../../../shared/widgets/dialogs/confirm_dialog.dart';
+import '../../../shared/widgets/inputs/select_input.dart';
+import '../../../shared/widgets/inputs/text_area_input.dart';
+import '../../../shared/widgets/inputs/text_input.dart';
+import '../../../shared/widgets/snack_bars/error_snack_bar.dart';
+import '../../../shared/widgets/snack_bars/success_snack_bar.dart';
 import '../../domain/entities/order.dart';
 import '../cubits/order_register_cubit.dart';
 import '../cubits/order_register_state.dart';
-import '../dialogs/order_delete_confirm_dialog.dart';
 
 class OrderRegisterPage extends StatefulWidget {
   const OrderRegisterPage({super.key});
@@ -132,10 +134,14 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
               typeEC.text != state.typeQuery) return;
           clearDataForm();
         } else if (state is OrderRegisterSavedState) {
+          SuccessSnackBar(context, text: 'Pedido salvo com sucesso.').show();
           cubit.search(typeEC.text, numberEC.text);
         } else if (state is OrderRegisterDeletedState) {
+          SuccessSnackBar(context, text: 'Pedido excluído com sucesso.').show();
           clearDataForm();
           clearSearchForm();
+        } else if (state is OrderRegisterFailureState) {
+          ErrorSnackBar(context, text: state.failure.message).show();
         }
       },
       child: Scaffold(
@@ -386,9 +392,17 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
                 icon: Icons.delete_outline_rounded,
                 label: 'Excluir',
                 type: ButtonType.error,
-                onPressed: () => showOrderDeleteConfirmDialog(
-                  onOk: () => cubit.delete(currentOrder),
-                ),
+                onPressed: () {
+                  showDialog(
+                    context: context,
+                    builder: (context) => ConfirmDialog(
+                      title: 'Excluir pedido?',
+                      content: 'Deseja realmente excluir este pedido? '
+                          'Esta ação é irreversível.',
+                      onYes: () => cubit.delete(currentOrder),
+                    ),
+                  );
+                },
               ),
             ),
           ],

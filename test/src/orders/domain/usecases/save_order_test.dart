@@ -1,12 +1,15 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
+import 'package:result_dart/result_dart.dart';
 
-import 'package:cpedidos_pmp/src/orders/data/errors/failures.dart';
 import 'package:cpedidos_pmp/src/orders/domain/entities/order.dart';
+import 'package:cpedidos_pmp/src/orders/domain/errors/failures.dart';
 import 'package:cpedidos_pmp/src/orders/domain/repositories/order_repo.dart';
 import 'package:cpedidos_pmp/src/orders/domain/usecases/save_order.dart';
 
 class MockOrderRepo extends Mock implements IOrderRepo {}
+
+class MockOrdersFailure extends Mock implements OrdersFailure {}
 
 void main() {
   late IOrderRepo mockOrderRepo;
@@ -17,55 +20,57 @@ void main() {
     usecase = SaveOrder(mockOrderRepo);
   });
 
+  final tOrdersFailure = MockOrdersFailure();
+
   test(
     'should return an order on successfull saving.',
     () async {
       // arrange
       const tOrderParam = Order(number: 'number', type: 'type');
       when(() => mockOrderRepo.save(tOrderParam))
-          .thenAnswer((_) async => tOrderParam);
+          .thenAnswer((_) async => const Success(tOrderParam));
       // act
       final result = await usecase(tOrderParam);
       // assert
-      expect(result, equals(tOrderParam));
+      expect(result.getOrNull(), equals(tOrderParam));
     },
   );
 
   test(
-    'should return null order number param is empty.',
+    'should return an InvalidInput failure when order number param is empty.',
     () async {
       // arrange
       const tOrderParam = Order(number: '', type: 'type');
       // act
       final result = await usecase(tOrderParam);
       // assert
-      expect(result, isNull);
+      expect(result.exceptionOrNull(), isA<InvalidInput>());
     },
   );
 
   test(
-    'should return null when order type param is empty.',
+    'should return an InvalidInput failure when order type param is empty.',
     () async {
       // arrange
       const tOrderParam = Order(number: 'number', type: '');
       // act
       final result = await usecase(tOrderParam);
       // assert
-      expect(result, isNull);
+      expect(result.exceptionOrNull(), isA<InvalidInput>());
     },
   );
 
   test(
-    'should return null when repo throws a Failure.',
+    'should return an orders failure when order repo returns an orders failure.',
     () async {
       // arrange
       const tOrderParam = Order(number: 'number', type: 'type');
-      final failure = SaveFailure();
-      when(() => mockOrderRepo.save(tOrderParam)).thenThrow(failure);
+      when(() => mockOrderRepo.save(tOrderParam))
+          .thenAnswer((_) async => Failure(tOrdersFailure));
       // act
       final result = await usecase(tOrderParam);
       // assert
-      expect(result, isNull);
+      expect(result.exceptionOrNull(), equals(tOrdersFailure));
     },
   );
 }

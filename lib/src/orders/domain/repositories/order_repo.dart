@@ -1,8 +1,12 @@
+import 'package:result_dart/result_dart.dart';
+
 import '../entities/order.dart';
+import '../errors/failures.dart';
 
 abstract class IOrderRepo {
-  Future<Order?> getByTypeAndNumber(String type, String number);
-  Future<List<Order>> getAllBySendDate(String sendDate);
-  Future<Order?> save(Order order);
-  Future<bool> delete(Order order);
+  AsyncResult<Order, OrdersFailure> getByTypeAndNumber(
+      String type, String number);
+  AsyncResult<List<Order>, OrdersFailure> getAllBySendDate(String sendDate);
+  AsyncResult<Order, OrdersFailure> save(Order order);
+  AsyncResult<bool, OrdersFailure> delete(Order order);
 }

@@ -1,7 +1,7 @@
 import 'package:bloc/bloc.dart';
 
-import '../../../shared/errors/failure.dart';
 import '../../domain/entities/order.dart';
+import '../../domain/errors/failures.dart';
 import '../../domain/usecases/delete_order.dart';
 import '../../domain/usecases/get_order_by_type_and_number.dart';
 import '../../domain/usecases/save_order.dart';
@@ -29,39 +29,45 @@ class OrderRegisterCubit extends Cubit<OrderRegisterState> {
 
   Future<void> search(String type, String number) async {
     if (type.isEmpty || number.isEmpty) return;
-    try {
-      emit(OrderRegisterLoadingState());
-      final loadedOrder = await _getOrderByTypeAndNumber(type, number);
-      if (loadedOrder != null) {
-        emit(OrderRegisterLoadedSuccessState(loadedOrder: loadedOrder));
-      } else {
+    emit(OrderRegisterLoadingState());
+
+    final result = await _getOrderByTypeAndNumber(type, number);
+
+    result.fold((loadedOrder) {
+      emit(OrderRegisterLoadedSuccessState(loadedOrder: loadedOrder));
+    }, (failure) {
+      if (failure is OrderNotFound) {
         emit(OrderRegisterLoadedEmptyState(
           typeQuery: type,
           numberQuery: number,
         ));
+      } else {
+        emit(OrderRegisterFailureState(failure: failure));
       }
-    } on Failure catch (failure) {
-      emit(OrderRegisterFailureState(failure: failure));
-    }
+    });
   }
 
   Future<void> save(Order order) async {
-    try {
-      emit(OrderRegisterSavingState());
-      await _saveOrder(order);
+    emit(OrderRegisterSavingState());
+
+    final result = await _saveOrder(order);
+
+    result.fold((success) {
       emit(OrderRegisterSavedState());
-    } on Failure catch (failure) {
+    }, (failure) {
       emit(OrderRegisterFailureState(failure: failure));
-    }
+    });
   }
 
   Future<void> delete(Order order) async {
-    try {
-      emit(OrderRegisterDeletingState());
-      await _deleteOrder(order);
+    emit(OrderRegisterDeletingState());
+
+    final result = await _deleteOrder(order);
+
+    result.fold((success) {
       emit(OrderRegisterDeletedState());
-    } on Failure catch (failure) {
+    }, (failure) {
       emit(OrderRegisterFailureState(failure: failure));
-    }
+    });
   }
 }

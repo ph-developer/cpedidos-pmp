@@ -1,7 +1,7 @@
 import 'package:equatable/equatable.dart';
 
-import '../../../shared/errors/failure.dart';
 import '../../domain/entities/user.dart';
+import '../../domain/errors/failures.dart';
 
 abstract class AuthState extends Equatable {}
 
@@ -40,7 +40,7 @@ class AuthLoggedOutState extends AuthState {
 }
 
 class AuthFailureState extends AuthState {
-  final Failure failure;
+  final AuthFailure failure;
 
   AuthFailureState({required this.failure});
 

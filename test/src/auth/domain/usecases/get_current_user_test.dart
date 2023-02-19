@@ -1,8 +1,9 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
+import 'package:result_dart/result_dart.dart';
 
-import 'package:cpedidos_pmp/src/auth/data/errors/failures.dart';
 import 'package:cpedidos_pmp/src/auth/domain/entities/user.dart';
+import 'package:cpedidos_pmp/src/auth/domain/errors/failures.dart';
 import 'package:cpedidos_pmp/src/auth/domain/repositories/auth_repo.dart';
 import 'package:cpedidos_pmp/src/auth/domain/repositories/user_repo.dart';
 import 'package:cpedidos_pmp/src/auth/domain/usecases/get_current_user.dart';
@@ -10,6 +11,8 @@ import 'package:cpedidos_pmp/src/auth/domain/usecases/get_current_user.dart';
 class MockAuthRepo extends Mock implements IAuthRepo {}
 
 class MockUserRepo extends Mock implements IUserRepo {}
+
+class MockAuthFailure extends Mock implements AuthFailure {}
 
 void main() {
   late IAuthRepo mockAuthRepo;
@@ -22,46 +25,38 @@ void main() {
     usecase = GetCurrentUser(mockAuthRepo, mockUserRepo);
   });
 
-  test(
-    'should return null when user is not logget in.',
-    () async {
-      // arrange
-      when(() => mockAuthRepo.getCurrentUserId()).thenAnswer((_) async => null);
-      // act
-      final result = await usecase();
-      // assert
-      expect(result, isNull);
-    },
-  );
+  final tAuthFailure = MockAuthFailure();
 
   test(
-    'should return user when user is logged in.',
+    'should return an User when user is logged in.',
     () async {
       // arrange
       const tUserId = 'id';
       const tUser = User(id: 'id', email: 'email@example.com', name: 'name');
-      when(() => mockAuthRepo.getCurrentUserId()).thenAnswer((_) async => 'id');
-      when(() => mockUserRepo.getById(tUserId)).thenAnswer((_) async => tUser);
+      when(() => mockAuthRepo.getCurrentUserId())
+          .thenAnswer((_) async => const Success('id'));
+      when(() => mockUserRepo.getById(tUserId))
+          .thenAnswer((_) async => const Success(tUser));
       // act
       final result = await usecase();
       // assert
-      expect(result, tUser);
+      expect(result.getOrNull(), equals(tUser));
     },
   );
 
   test(
-    'should return null when user repo throws a Failure.',
+    'should return an auth failure when auth repo returns an auth failure.',
     () async {
       // arrange
       const tUserId = 'id';
-      final failure = GetUserFailure();
       when(() => mockAuthRepo.getCurrentUserId())
-          .thenAnswer((_) async => tUserId);
-      when(() => mockUserRepo.getById(tUserId)).thenThrow(failure);
+          .thenAnswer((_) async => const Success(tUserId));
+      when(() => mockUserRepo.getById(tUserId))
+          .thenAnswer((_) async => Failure(tAuthFailure));
       // act
       final result = await usecase();
       // assert
-      expect(result, isNull);
+      expect(result.exceptionOrNull(), equals(tAuthFailure));
     },
   );
 }
