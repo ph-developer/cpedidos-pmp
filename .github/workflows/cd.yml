@@ -64,32 +64,8 @@ jobs:
       - name: Run Flutter Pub Get
         run: flutter pub get
 
-      # - name: Download Android Keystore
-      #   id: android_keystore
-      #   uses: timheuer/base64-to-file@v1.0.3
-      #   with:
-      #     fileName: key.jks
-      #     encodedString: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
-
-      # - name: Create key.properties
-      #   run: |
-      #     echo "storeFile=${{ steps.android_keystore.outputs.filePath }}" > android/key.properties
-      #     echo "storePassword=${{ secrets.ANDROID_KEYSTORE_PASSWORD }}" >> android/key.properties
-      #     echo "keyPassword=${{ secrets.ANDROID_KEY_PASSWORD }}" >> android/key.properties
-      #     echo "keyAlias=${{ secrets.ANDROID_KEY_ALIAS }}" >> android/key.properties
-      - name: Build App Bundle
-        run: flutter build appbundle --release
-
-      # - uses: actions/upload-artifact@v1
-      #   with:
-      #     name: release-appbundle
-      #     path: ./build/app/outputs/bundle/release/app-release.aab
-
       - name: Build Web App
         run: flutter build web --release
-
-      - name: Copy Tree Shaked Material Icons to Web App
-        run: cp -r ./build/app/intermediates/flutter/release/flutter_assets/fonts/MaterialIcons-Regular.otf ./build/web/assets/fonts/MaterialIcons-Regular.otf
 
       - name: Deploy Web App to Firebase Hosting
         uses: FirebaseExtended/action-hosting-deploy@v0

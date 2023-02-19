@@ -36,29 +36,5 @@ jobs:
       - name: Run Unit and Widget Tests
         run: flutter test
 
-      # - name: Google Cloud Auth
-      #   uses: google-github-actions/auth@v0
-      #   with:
-      #     credentials_json: "${{ secrets.GCP_CREDENTIALS }}"
-
-      # - name: Setup Google Cloud SDK
-      #   uses: google-github-actions/setup-gcloud@v0
-
-      # - name: Download Android Keystore
-      #   id: android_keystore
-      #   uses: timheuer/base64-to-file@v1.0.3
-      #   with:
-      #     fileName: key.jks
-      #     encodedString: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
-
-      # - name: Create key.properties
-      #   run: |
-      #     echo "storeFile=${{ steps.android_keystore.outputs.filePath }}" > android/key.properties
-      #     echo "storePassword=${{ secrets.ANDROID_KEYSTORE_PASSWORD }}" >> android/key.properties
-      #     echo "keyPassword=${{ secrets.ANDROID_KEY_PASSWORD }}" >> android/key.properties
-      #     echo "keyAlias=${{ secrets.ANDROID_KEY_ALIAS }}" >> android/key.properties
-      # - name: Test Build App Bundle
-      #   run: flutter build appbundle --release
-
       - name: Test Build Web App
         run: flutter build web --release
