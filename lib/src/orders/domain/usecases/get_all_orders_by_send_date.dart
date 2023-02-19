@@ -1,10 +1,11 @@
-import '../../../shared/errors/failure.dart';
-import '../../../shared/helpers/notify.dart';
+import 'package:result_dart/result_dart.dart';
+
 import '../entities/order.dart';
+import '../errors/failures.dart';
 import '../repositories/order_repo.dart';
 
 abstract class IGetAllOrdersBySendDate {
-  Future<List<Order>> call(String sendDate);
+  AsyncResult<List<Order>, OrdersFailure> call(String sendDate);
 }
 
 class GetAllOrdersBySendDate implements IGetAllOrdersBySendDate {
@@ -13,19 +14,13 @@ class GetAllOrdersBySendDate implements IGetAllOrdersBySendDate {
   GetAllOrdersBySendDate(this._orderRepo);
 
   @override
-  Future<List<Order>> call(String sendDate) async {
-    try {
-      if (sendDate.isEmpty) {
-        notifyError('O campo "data de envio" deve ser preenchido.');
-        return [];
-      }
-
-      final result = await _orderRepo.getAllBySendDate(sendDate);
-
-      return result;
-    } on Failure catch (failure) {
-      notifyError(failure.message);
-      return [];
+  AsyncResult<List<Order>, OrdersFailure> call(String sendDate) async {
+    if (sendDate.isEmpty) {
+      return Failure(
+        InvalidInput('O campo "data de envio" deve ser preenchido.'),
+      );
     }
+
+    return _orderRepo.getAllBySendDate(sendDate);
   }
 }
