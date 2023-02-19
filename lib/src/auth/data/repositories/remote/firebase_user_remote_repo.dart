@@ -1,9 +1,10 @@
 import 'package:firebase_database/firebase_database.dart';
+import 'package:result_dart/result_dart.dart';
 
 import '../../../domain/entities/user.dart';
+import '../../../domain/errors/failures.dart';
 import '../../../domain/repositories/user_repo.dart';
 import '../../dtos/user_dto.dart';
-import '../../errors/failures.dart';
 
 class FirebaseUserRemoteRepo implements IUserRepo {
   final FirebaseDatabase _database;
@@ -11,24 +12,17 @@ class FirebaseUserRemoteRepo implements IUserRepo {
   FirebaseUserRemoteRepo(this._database);
 
   @override
-  Future<User> getById(String id) async {
-    try {
-      final userRef = _database.ref('users/$id');
-      final userSnapshot = await userRef.get();
+  AsyncResult<User, AuthFailure> getById(String id) async {
+    final userRef = _database.ref('users/$id');
+    final userSnapshot = await userRef.get();
 
-      if (!userSnapshot.exists) {
-        throw GetUserFailure(
-          'Os dados do usuário não foram encontrados no banco de dados.',
-        );
-      }
-
-      final userMap = userSnapshot.value as Map<String, dynamic>;
-
-      return UserDTO.fromMap(userMap);
-    } on GetUserFailure {
-      rethrow;
-    } catch (e) {
-      throw GetUserFailure();
+    if (!userSnapshot.exists) {
+      return Failure(UserDataNotFound());
     }
+
+    final userMap = userSnapshot.value as Map<String, dynamic>;
+    final user = UserDTO.fromMap(userMap);
+
+    return Success(user);
   }
 }

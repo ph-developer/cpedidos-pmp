@@ -1,8 +1,9 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
+import 'package:result_dart/result_dart.dart';
 
-import 'package:cpedidos_pmp/src/auth/data/errors/failures.dart';
 import 'package:cpedidos_pmp/src/auth/domain/entities/user.dart';
+import 'package:cpedidos_pmp/src/auth/domain/errors/failures.dart';
 import 'package:cpedidos_pmp/src/auth/domain/repositories/auth_repo.dart';
 import 'package:cpedidos_pmp/src/auth/domain/repositories/user_repo.dart';
 import 'package:cpedidos_pmp/src/auth/domain/usecases/do_login.dart';
@@ -10,6 +11,8 @@ import 'package:cpedidos_pmp/src/auth/domain/usecases/do_login.dart';
 class MockAuthRepo extends Mock implements IAuthRepo {}
 
 class MockUserRepo extends Mock implements IUserRepo {}
+
+class MockAuthFailure extends Mock implements AuthFailure {}
 
 void main() {
   late IAuthRepo mockAuthRepo;
@@ -22,26 +25,29 @@ void main() {
     usecase = DoLogin(mockAuthRepo, mockUserRepo);
   });
 
+  final tAuthFailure = MockAuthFailure();
+  const tUserId = 'id';
+  const tUser = User(id: 'id', email: 'email@example.com', name: 'name');
+
   test(
-    'should return an user on successfull login.',
+    'should return an User on successfull login.',
     () async {
       // arrange
       const tUserEmail = 'email@example.com';
       const tUserPassword = '1234';
-      const tUserId = 'id';
-      const tUser = User(id: 'id', email: 'email@example.com', name: 'name');
       when(() => mockAuthRepo.login(tUserEmail, tUserPassword))
-          .thenAnswer((_) async => tUserId);
-      when(() => mockUserRepo.getById(tUserId)).thenAnswer((_) async => tUser);
+          .thenAnswer((_) async => const Success(tUserId));
+      when(() => mockUserRepo.getById(tUserId))
+          .thenAnswer((_) async => const Success(tUser));
       // act
       final result = await usecase(tUserEmail, tUserPassword);
       // assert
-      expect(result, equals(tUser));
+      expect(result.getOrNull(), equals(tUser));
     },
   );
 
   test(
-    'should return null when email param is empty.',
+    'should return an InvalidInput failure when email param is empty.',
     () async {
       // arrange
       const tUserEmail = '';
@@ -49,12 +55,12 @@ void main() {
       // act
       final result = await usecase(tUserEmail, tUserPassword);
       // assert
-      expect(result, isNull);
+      expect(result.exceptionOrNull(), isA<InvalidInput>());
     },
   );
 
   test(
-    'should return null when password param is empty.',
+    'should return an InvalidInput failure when password param is empty.',
     () async {
       // arrange
       const tUserEmail = 'email@example.com';
@@ -62,12 +68,12 @@ void main() {
       // act
       final result = await usecase(tUserEmail, tUserPassword);
       // assert
-      expect(result, isNull);
+      expect(result.exceptionOrNull(), isA<InvalidInput>());
     },
   );
 
   test(
-    'should return null when email param is invalid.',
+    'should return an InvalidInput failure when email param is invalid.',
     () async {
       // arrange
       const tUserEmail = 'invalid_email';
@@ -75,41 +81,22 @@ void main() {
       // act
       final result = await usecase(tUserEmail, tUserPassword);
       // assert
-      expect(result, isNull);
+      expect(result.exceptionOrNull(), isA<InvalidInput>());
     },
   );
 
   test(
-    'should return null when auth repo throws a Failure.',
+    'should return an auth failure when auth repo returns an auth failure.',
     () async {
       // arrange
       const tUserEmail = 'email@example.com';
       const tUserPassword = '1234';
-      final failure = LoginFailure();
       when(() => mockAuthRepo.login(tUserEmail, tUserPassword))
-          .thenThrow(failure);
+          .thenAnswer((_) async => Failure(tAuthFailure));
       // act
       final result = await usecase(tUserEmail, tUserPassword);
       // assert
-      expect(result, isNull);
-    },
-  );
-
-  test(
-    'should return null when user repo throws a Failure.',
-    () async {
-      // arrange
-      const tUserEmail = 'email@example.com';
-      const tUserPassword = '1234';
-      const tUserId = 'id';
-      final failure = GetUserFailure();
-      when(() => mockAuthRepo.login(tUserEmail, tUserPassword))
-          .thenAnswer((_) async => tUserId);
-      when(() => mockUserRepo.getById(tUserId)).thenThrow(failure);
-      // act
-      final result = await usecase(tUserEmail, tUserPassword);
-      // assert
-      expect(result, isNull);
+      expect(result.exceptionOrNull(), equals(tAuthFailure));
     },
   );
 }

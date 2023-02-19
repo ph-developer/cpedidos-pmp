@@ -1,8 +1,9 @@
-import 'package:cpedidos_pmp/src/auth/data/errors/failures.dart';
-import 'package:cpedidos_pmp/src/auth/data/repositories/remote/firebase_auth_remote_repo.dart';
 import 'package:firebase_auth/firebase_auth.dart' as firebase;
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
+
+import 'package:cpedidos_pmp/src/auth/data/repositories/remote/firebase_auth_remote_repo.dart';
+import 'package:cpedidos_pmp/src/auth/domain/errors/failures.dart';
 
 class MockFirebaseUser extends Mock implements firebase.User {}
 
@@ -36,7 +37,7 @@ void main() {
 
   group('login', () {
     test(
-      'should return user id when successfull login.',
+      'should return an user id when successfull login.',
       () async {
         // arrange
         when(() => authMock.signInWithEmailAndPassword(
@@ -46,43 +47,43 @@ void main() {
         // act
         final result = await repo.login('test@test.dev', 'test');
         // assert
-        expect(result, isA<String>());
+        expect(result.getOrNull(), isA<String>());
       },
     );
 
     test(
-      'should throws a LoginFailure when usar has been blocked.',
-      () {
+      'should return an UserDisabled failure when user has been disabled.',
+      () async {
         // arrange
         when(() => authMock.signInWithEmailAndPassword(
               email: any(named: 'email'),
               password: any(named: 'password'),
             )).thenThrow(firebase.FirebaseAuthException(code: 'user-disabled'));
         // act
-        final result = repo.login('test@test.dev', 'test');
+        final result = await repo.login('test@test.dev', 'test');
         // assert
-        expect(result, throwsA(isA<LoginFailure>()));
+        expect(result.exceptionOrNull(), isA<UserDisabled>());
       },
     );
 
     test(
-      'should throws a LoginFailure when user email is invalid.',
-      () {
+      'should return a InvalidCredentials failure when user email is invalid.',
+      () async {
         // arrange
         when(() => authMock.signInWithEmailAndPassword(
               email: any(named: 'email'),
               password: any(named: 'password'),
             )).thenThrow(firebase.FirebaseAuthException(code: 'invalid-email'));
         // act
-        final result = repo.login('test@test.dev', 'test');
+        final result = await repo.login('test@test.dev', 'test');
         // assert
-        expect(result, throwsA(isA<LoginFailure>()));
+        expect(result.exceptionOrNull(), isA<InvalidCredentials>());
       },
     );
 
     test(
-      'should throws a LoginFailure when user has not found.',
-      () {
+      'should return a InvalidCredentials failure when user has not found.',
+      () async {
         // arrange
         when(() => authMock.signInWithEmailAndPassword(
                   email: any(named: 'email'),
@@ -90,15 +91,15 @@ void main() {
                 ))
             .thenThrow(firebase.FirebaseAuthException(code: 'user-not-found'));
         // act
-        final result = repo.login('test@test.dev', 'test');
+        final result = await repo.login('test@test.dev', 'test');
         // assert
-        expect(result, throwsA(isA<LoginFailure>()));
+        expect(result.exceptionOrNull(), isA<InvalidCredentials>());
       },
     );
 
     test(
-      'should throws a LoginFailure when password is incorrect.',
-      () {
+      'should return a InvalidCredentials failure when password is incorrect.',
+      () async {
         // arrange
         when(() => authMock.signInWithEmailAndPassword(
                   email: any(named: 'email'),
@@ -106,14 +107,14 @@ void main() {
                 ))
             .thenThrow(firebase.FirebaseAuthException(code: 'wrong-password'));
         // act
-        final result = repo.login('test@test.dev', 'test');
+        final result = await repo.login('test@test.dev', 'test');
         // assert
-        expect(result, throwsA(isA<LoginFailure>()));
+        expect(result.exceptionOrNull(), isA<InvalidCredentials>());
       },
     );
 
     test(
-      'should throws a LoginFailure when throws undefined firebase error code.',
+      'should rethrow an FirebaseAuthException when throws undefined firebase error code.',
       () {
         // arrange
         when(() => authMock.signInWithEmailAndPassword(
@@ -123,37 +124,22 @@ void main() {
         // act
         final result = repo.login('test@test.dev', 'test');
         // assert
-        expect(result, throwsA(isA<LoginFailure>()));
+        expect(result, throwsA(isA<firebase.FirebaseAuthException>()));
       },
     );
 
     test(
-      'should throws a LoginFailure when firebase returns null credentials',
-      () {
+      'should return a InvalidCredentials failure when firebase returns null credentials',
+      () async {
         // arrange
         when(() => authMock.signInWithEmailAndPassword(
               email: any(named: 'email'),
               password: any(named: 'password'),
             )).thenAnswer((_) async => nullCredentialMock);
         // act
-        final result = repo.login('test@test.dev', 'test');
+        final result = await repo.login('test@test.dev', 'test');
         // assert
-        expect(result, throwsA(isA<LoginFailure>()));
-      },
-    );
-
-    test(
-      'should throws a LoginFailure when an error occurs.',
-      () {
-        // arrange
-        when(() => authMock.signInWithEmailAndPassword(
-              email: any(named: 'email'),
-              password: any(named: 'password'),
-            )).thenThrow(Exception());
-        // act
-        final result = repo.login('test@test.dev', 'test');
-        // assert
-        expect(result, throwsA(isA<LoginFailure>()));
+        expect(result.exceptionOrNull(), isA<InvalidCredentials>());
       },
     );
   });
@@ -167,20 +153,7 @@ void main() {
         // act
         final result = await repo.logout();
         // assert
-        expect(result, isA<bool>());
-        expect(result, true);
-      },
-    );
-
-    test(
-      'should throws a LogoutFailure when an error occurs.',
-      () {
-        // arrange
-        when(() => authMock.signOut()).thenThrow(Exception());
-        // act
-        final result = repo.logout();
-        // assert
-        expect(result, throwsA(isA<LogoutFailure>()));
+        expect(result.getOrNull(), isTrue);
       },
     );
   });
@@ -196,12 +169,12 @@ void main() {
         // act
         final result = await repo.getCurrentUserId();
         // assert
-        expect(result, isA<String>());
+        expect(result.getOrNull(), isA<String>());
       },
     );
 
     test(
-      'should return null when user is not logged in.',
+      'should return an UserUnauthenticated failure when user is not logged in.',
       () async {
         // arrange
         when(() => authMock.currentUser).thenAnswer((_) => null);
@@ -210,35 +183,7 @@ void main() {
         // act
         final result = await repo.getCurrentUserId();
         // assert
-        expect(result, isNull);
-      },
-    );
-  });
-
-  group('currentUserIdChanged', () {
-    test(
-      'should send user id over stream on successfull login.',
-      () {
-        // arrange
-        when(authMock.authStateChanges)
-            .thenAnswer((_) => Stream.fromIterable([userMock]));
-        // act
-        final stream = repo.currentUserIdChanged();
-        // assert
-        expect(stream, emits(isA<String>()));
-      },
-    );
-
-    test(
-      'should send null over stream on successfull logout.',
-      () {
-        // arrange
-        when(authMock.authStateChanges)
-            .thenAnswer((_) => Stream.fromIterable([null]));
-        // act
-        final stream = repo.currentUserIdChanged();
-        // assert
-        expect(stream, emits(null));
+        expect(result.exceptionOrNull(), isA<UserUnauthenticated>());
       },
     );
   });

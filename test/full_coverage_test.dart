@@ -5,10 +5,10 @@ import 'package:cpedidos_pmp/main.dart';
 import 'package:cpedidos_pmp/router.dart';
 import 'package:cpedidos_pmp/src/app_widget.dart';
 import 'package:cpedidos_pmp/src/auth/data/dtos/user_dto.dart';
-import 'package:cpedidos_pmp/src/auth/data/errors/failures.dart';
 import 'package:cpedidos_pmp/src/auth/data/repositories/remote/firebase_auth_remote_repo.dart';
 import 'package:cpedidos_pmp/src/auth/data/repositories/remote/firebase_user_remote_repo.dart';
 import 'package:cpedidos_pmp/src/auth/domain/entities/user.dart';
+import 'package:cpedidos_pmp/src/auth/domain/errors/failures.dart';
 import 'package:cpedidos_pmp/src/auth/domain/repositories/auth_repo.dart';
 import 'package:cpedidos_pmp/src/auth/domain/repositories/user_repo.dart';
 import 'package:cpedidos_pmp/src/auth/domain/usecases/do_login.dart';
@@ -39,9 +39,13 @@ import 'package:cpedidos_pmp/src/shared/helpers/input_formatters.dart';
 import 'package:cpedidos_pmp/src/shared/helpers/notify.dart';
 import 'package:cpedidos_pmp/src/shared/themes/themes.dart';
 import 'package:cpedidos_pmp/src/shared/widgets/buttons/outline_button.dart';
+import 'package:cpedidos_pmp/src/shared/widgets/dialogs/confirm_dialog.dart';
 import 'package:cpedidos_pmp/src/shared/widgets/inputs/password_input.dart';
 import 'package:cpedidos_pmp/src/shared/widgets/inputs/select_input.dart';
 import 'package:cpedidos_pmp/src/shared/widgets/inputs/text_area_input.dart';
 import 'package:cpedidos_pmp/src/shared/widgets/inputs/text_input.dart';
+import 'package:cpedidos_pmp/src/shared/widgets/snack_bars/error_snack_bar.dart';
+import 'package:cpedidos_pmp/src/shared/widgets/snack_bars/snack_bar.dart';
+import 'package:cpedidos_pmp/src/shared/widgets/snack_bars/success_snack_bar.dart';
 
 void main() {}

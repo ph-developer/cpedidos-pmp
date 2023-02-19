@@ -8,6 +8,7 @@ import '../../../../router.dart';
 import '../../../shared/widgets/buttons/outline_button.dart';
 import '../../../shared/widgets/inputs/password_input.dart';
 import '../../../shared/widgets/inputs/text_input.dart';
+import '../../../shared/widgets/snack_bars/error_snack_bar.dart';
 import '../cubits/auth_cubit.dart';
 import '../cubits/auth_state.dart';
 
@@ -38,6 +39,8 @@ class _LoginPageState extends State<LoginPage> {
       listener: (context, state) {
         if (state is AuthLoggedInState) {
           router.pushReplacement('/pedidos/cadastro');
+        } else if (state is AuthFailureState) {
+          ErrorSnackBar(context, text: state.failure.message).show();
         }
       },
       child: Scaffold(

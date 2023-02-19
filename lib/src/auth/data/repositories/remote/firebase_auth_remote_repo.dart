@@ -1,7 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:result_dart/result_dart.dart';
 
+import '../../../domain/errors/failures.dart';
 import '../../../domain/repositories/auth_repo.dart';
-import '../../errors/failures.dart';
 
 class FirebaseAuthRemoteRepo implements IAuthRepo {
   final FirebaseAuth _auth;
@@ -9,57 +10,53 @@ class FirebaseAuthRemoteRepo implements IAuthRepo {
   FirebaseAuthRemoteRepo(this._auth);
 
   @override
-  Future<String> login(String email, String password) async {
+  AsyncResult<String, AuthFailure> login(String email, String password) async {
     try {
       final result = await _auth.signInWithEmailAndPassword(
         email: email,
         password: password,
       );
 
-      if (result.user == null) throw LoginFailure('Credenciais inválidas.');
+      if (result.user == null) {
+        return Failure(InvalidCredentials());
+      }
 
-      return result.user!.uid;
+      final userId = result.user!.uid;
+
+      return Success(userId);
     } on FirebaseAuthException catch (e) {
       switch (e.code) {
         case 'user-disabled':
-          throw LoginFailure('O usuário informado está desativado.');
+          return Failure(UserDisabled());
         case 'invalid-email':
         case 'user-not-found':
         case 'wrong-password':
-          throw LoginFailure('Credenciais inválidas.');
+          return Failure(InvalidCredentials());
         default:
-          throw LoginFailure();
+          rethrow;
       }
-    } on LoginFailure {
-      rethrow;
-    } catch (e) {
-      throw LoginFailure();
     }
   }
 
   @override
-  Future<bool> logout() async {
-    try {
-      await _auth.signOut();
-      return true;
-    } catch (e) {
-      throw LogoutFailure();
-    }
+  AsyncResult<bool, AuthFailure> logout() async {
+    await _auth.signOut();
+
+    return const Success(true);
   }
 
   @override
-  Future<String?> getCurrentUserId() async {
+  AsyncResult<String, AuthFailure> getCurrentUserId() async {
     var user = _auth.currentUser;
 
     user ??= await _auth.authStateChanges().first;
 
-    return user?.uid;
-  }
+    if (user == null) {
+      return Failure(UserUnauthenticated());
+    }
 
-  @override
-  Stream<String?> currentUserIdChanged() {
-    return _auth.authStateChanges().map((user) {
-      return user?.uid;
-    });
+    final userId = user.uid;
+
+    return Success(userId);
   }
 }
