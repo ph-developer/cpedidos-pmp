@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../../../../injector.dart';
+import '../../../auth/presentation/widgets/logout_button.dart';
 import '../../../shared/helpers/debounce.dart';
 import '../../../shared/helpers/input_formatters.dart';
 import '../../../shared/widgets/buttons/outline_button.dart';
@@ -151,12 +152,18 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
             color: Theme.of(context).colorScheme.primary,
             weight: 2.0,
           ),
-          title: Text(
-            'Cadastro de Pedidos',
-            style: TextStyle(
-              color: Theme.of(context).colorScheme.primary,
-              fontWeight: FontWeight.bold,
-            ),
+          title: Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              Text(
+                'Cadastro de Pedidos',
+                style: TextStyle(
+                  color: Theme.of(context).colorScheme.primary,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              LogoutButton(),
+            ],
           ),
         ),
         body: SingleChildScrollView(
