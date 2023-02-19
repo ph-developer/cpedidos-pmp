@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'package:asuka/asuka.dart';
-
 import '../router.dart';
 
 import 'shared/themes/themes.dart';
@@ -16,7 +14,6 @@ class AppWidget extends StatelessWidget {
       themeMode: ThemeMode.system,
       theme: lightTheme,
       darkTheme: darkTheme,
-      builder: Asuka.builder,
       routerConfig: router,
     ); //added by extension
   }
