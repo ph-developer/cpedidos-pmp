@@ -26,6 +26,8 @@ dependencies:
   flutter_svg: ^2.0.1
   result_dart: ^1.0.5
   sentry_flutter: ^6.20.1
+  pdf: ^3.9.0
+  printing: ^5.10.1
 
 dev_dependencies:
   flutter_test:
