@@ -1,9 +1,10 @@
-import 'src/orders/presentation/pages/order_register_page.dart';
 import 'package:go_router/go_router.dart';
 
 import 'src/auth/presentation/guards/auth_guard.dart';
 import 'src/auth/presentation/guards/guest_guard.dart';
 import 'src/auth/presentation/pages/login_page.dart';
+import 'src/orders/presentation/pages/order_register_page.dart';
+import 'src/orders/presentation/pages/orders_report_page.dart';
 
 bool _initialized = false;
 
@@ -23,6 +24,11 @@ void setupRouter([String initialRoute = '/login']) {
       GoRoute(
         path: '/pedidos/cadastro',
         builder: (_, __) => const OrderRegisterPage(),
+        redirect: authGuard,
+      ),
+      GoRoute(
+        path: '/pedidos/relatorio',
+        builder: (_, __) => const OrdersReportPage(),
         redirect: authGuard,
       ),
     ],
