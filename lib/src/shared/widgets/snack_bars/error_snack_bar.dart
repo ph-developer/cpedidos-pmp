@@ -11,11 +11,6 @@ class ErrorSnackBar implements ISnackBar {
     required this.text,
   });
 
-  Color get textColor =>
-      WidgetsBinding.instance.window.platformBrightness == Brightness.dark
-          ? Colors.black87
-          : Colors.white;
-
   SnackBar get buildSnackBar => SnackBar(
         backgroundColor: Colors.transparent,
         elevation: 0,
@@ -37,14 +32,16 @@ class ErrorSnackBar implements ISnackBar {
                         padding: const EdgeInsets.all(8.0),
                         child: Text(
                           text,
-                          style: TextStyle(color: textColor),
+                          style: TextStyle(
+                            color: Theme.of(context).colorScheme.onError,
+                          ),
                         ),
                       ),
                       IconButton(
                         onPressed: hide,
                         icon: Icon(
                           Icons.close_rounded,
-                          color: textColor,
+                          color: Theme.of(context).colorScheme.onError,
                         ),
                       ),
                     ],
