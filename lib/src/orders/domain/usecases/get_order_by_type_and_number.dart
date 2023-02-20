@@ -16,11 +16,15 @@ class GetOrderByTypeAndNumber implements IGetOrderByTypeAndNumber {
   @override
   AsyncResult<Order, OrdersFailure> call(String type, String number) async {
     if (number.isEmpty) {
-      return Failure(InvalidInput('O campo "número" deve ser preenchido.'));
+      return const Failure(
+        InvalidInput('O campo "número" deve ser preenchido.'),
+      );
     }
 
     if (type.isEmpty) {
-      return Failure(InvalidInput('O campo "tipo" deve ser preenchido.'));
+      return const Failure(
+        InvalidInput('O campo "tipo" deve ser preenchido.'),
+      );
     }
 
     return _orderRepo.getByTypeAndNumber(type, number);

@@ -16,11 +16,15 @@ class SaveOrder implements ISaveOrder {
   @override
   AsyncResult<Order, OrdersFailure> call(Order order) async {
     if (order.number.isEmpty) {
-      return Failure(InvalidInput('O campo "número" deve ser preenchido.'));
+      return const Failure(
+        InvalidInput('O campo "número" deve ser preenchido.'),
+      );
     }
 
     if (order.type.isEmpty) {
-      return Failure(InvalidInput('O campo "tipo" deve ser preenchido.'));
+      return const Failure(
+        InvalidInput('O campo "tipo" deve ser preenchido.'),
+      );
     }
 
     return _orderRepo.save(order);

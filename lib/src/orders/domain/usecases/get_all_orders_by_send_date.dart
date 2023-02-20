@@ -16,7 +16,7 @@ class GetAllOrdersBySendDate implements IGetAllOrdersBySendDate {
   @override
   AsyncResult<List<Order>, OrdersFailure> call(String sendDate) async {
     if (sendDate.isEmpty) {
-      return Failure(
+      return const Failure(
         InvalidInput('O campo "data de envio" deve ser preenchido.'),
       );
     }

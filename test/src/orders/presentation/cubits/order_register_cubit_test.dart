@@ -105,7 +105,7 @@ void main() {
       'should emits [OrderRegisterLoadingState, OrderRegisterLoadedEmptyState] when not find order.',
       setUp: () {
         when(() => mockGetOrderByTypeAndNumber(any(), any()))
-            .thenAnswer((_) async => Failure(OrderNotFound()));
+            .thenAnswer((_) async => const Failure(OrderNotFound()));
       },
       build: () => OrderRegisterCubit(
         mockSaveOrder,

@@ -18,7 +18,9 @@ class PrintOrdersReport implements IPrintOrdersReport {
   @override
   AsyncResult<Unit, OrdersFailure> call(List<Order> orders) async {
     if (orders.isEmpty) {
-      return Failure(InvalidInput('Nenhum pedido foi carregado.'));
+      return const Failure(
+        InvalidInput('Nenhum pedido foi carregado.'),
+      );
     }
 
     return _pdfService
