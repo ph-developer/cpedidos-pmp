@@ -26,13 +26,8 @@ Future<void> main() async {
   );
 
   if (kDebugMode) {
-    try {
-      FirebaseDatabase.instance.useDatabaseEmulator('localhost', 9000);
-      FirebaseAuth.instance.useAuthEmulator('localhost', 9099);
-    } catch (e) {
-      // ignore: avoid_print
-      print(e);
-    }
+    FirebaseDatabase.instance.useDatabaseEmulator('localhost', 9000);
+    await FirebaseAuth.instance.useAuthEmulator('localhost', 9099);
   }
 
   setupInjector();
