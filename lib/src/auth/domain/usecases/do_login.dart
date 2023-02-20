@@ -19,15 +19,19 @@ class DoLogin implements IDoLogin {
   @override
   AsyncResult<User, AuthFailure> call(String email, String password) async {
     if (email.isEmpty) {
-      return Failure(InvalidInput('O campo "email" deve ser preenchido.'));
+      return const Failure(
+        InvalidInput('O campo "email" deve ser preenchido.'),
+      );
     }
 
     if (password.isEmpty) {
-      return Failure(InvalidInput('O campo "senha" deve ser preenchido.'));
+      return const Failure(
+        InvalidInput('O campo "senha" deve ser preenchido.'),
+      );
     }
 
     if (!EmailValidator.validate(email)) {
-      return Failure(
+      return const Failure(
         InvalidInput('O email informado possui um formato inválido.'),
       );
     }

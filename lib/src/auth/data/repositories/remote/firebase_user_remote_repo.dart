@@ -17,7 +17,7 @@ class FirebaseUserRemoteRepo implements IUserRepo {
     final userSnapshot = await userRef.get();
 
     if (!userSnapshot.exists) {
-      return Failure(UserDataNotFound());
+      return const Failure(UserDataNotFound());
     }
 
     final userMap = userSnapshot.value as Map<String, dynamic>;

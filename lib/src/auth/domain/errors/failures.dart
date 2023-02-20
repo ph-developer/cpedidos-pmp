@@ -1,25 +1,25 @@
 abstract class AuthFailure implements Exception {
   final String message;
-  AuthFailure(this.message);
+  const AuthFailure(this.message);
 }
 
 class InvalidInput extends AuthFailure {
-  InvalidInput(super.message);
+  const InvalidInput(super.message);
 }
 
 class UserDataNotFound extends AuthFailure {
-  UserDataNotFound()
+  const UserDataNotFound()
       : super('Os dados do usuário não foram encontrados no banco de dados.');
 }
 
 class InvalidCredentials extends AuthFailure {
-  InvalidCredentials() : super('Credenciais inválidas.');
+  const InvalidCredentials() : super('Credenciais inválidas.');
 }
 
 class UserDisabled extends AuthFailure {
-  UserDisabled() : super('O usuário informado está desativado.');
+  const UserDisabled() : super('O usuário informado está desativado.');
 }
 
 class UserUnauthenticated extends AuthFailure {
-  UserUnauthenticated() : super('Usuário não autenticado.');
+  const UserUnauthenticated() : super('Usuário não autenticado.');
 }

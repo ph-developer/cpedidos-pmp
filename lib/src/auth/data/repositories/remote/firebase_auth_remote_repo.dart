@@ -18,7 +18,7 @@ class FirebaseAuthRemoteRepo implements IAuthRepo {
       );
 
       if (result.user == null) {
-        return Failure(InvalidCredentials());
+        return const Failure(InvalidCredentials());
       }
 
       final userId = result.user!.uid;
@@ -27,11 +27,11 @@ class FirebaseAuthRemoteRepo implements IAuthRepo {
     } on FirebaseAuthException catch (e) {
       switch (e.code) {
         case 'user-disabled':
-          return Failure(UserDisabled());
+          return const Failure(UserDisabled());
         case 'invalid-email':
         case 'user-not-found':
         case 'wrong-password':
-          return Failure(InvalidCredentials());
+          return const Failure(InvalidCredentials());
         default:
           rethrow;
       }
@@ -52,7 +52,7 @@ class FirebaseAuthRemoteRepo implements IAuthRepo {
     user ??= await _auth.authStateChanges().first;
 
     if (user == null) {
-      return Failure(UserUnauthenticated());
+      return const Failure(UserUnauthenticated());
     }
 
     final userId = user.uid;
