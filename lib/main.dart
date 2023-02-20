@@ -15,11 +15,11 @@ import 'src/auth/presentation/cubits/auth_state.dart';
 import 'src/boot_widget.dart';
 
 Future<void> main() async {
-  final widgetsBinding = WidgetsFlutterBinding.ensureInitialized();
+  WidgetsFlutterBinding.ensureInitialized();
 
   // usePathUrlStrategy();
 
-  runApp(BootWidget(widgetsBinding: widgetsBinding));
+  runApp(const BootWidget());
 
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,

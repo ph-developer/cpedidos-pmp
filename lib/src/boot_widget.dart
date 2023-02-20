@@ -4,21 +4,11 @@ import 'package:lottie/lottie.dart';
 
 import 'shared/themes/themes.dart';
 
-class BootWidget extends StatefulWidget {
-  final WidgetsBinding widgetsBinding;
+class BootWidget extends StatelessWidget {
+  const BootWidget({super.key});
 
-  const BootWidget({
-    required this.widgetsBinding,
-    Key? key,
-  }) : super(key: key);
-
-  @override
-  State<BootWidget> createState() => _BootWidgetState();
-}
-
-class _BootWidgetState extends State<BootWidget> {
   double get logoSize {
-    final density = widget.widgetsBinding.window.devicePixelRatio;
+    final density = WidgetsBinding.instance.window.devicePixelRatio;
 
     if (density <= 1.0) {
       return 178;
@@ -35,13 +25,8 @@ class _BootWidgetState extends State<BootWidget> {
 
   @override
   Widget build(BuildContext context) {
-    final theme =
-        widget.widgetsBinding.window.platformBrightness == Brightness.dark
-            ? darkTheme
-            : lightTheme;
-
     return Container(
-      color: theme.colorScheme.background,
+      color: systemTheme.colorScheme.background,
       child: Center(
         child: Lottie.asset(
           'assets/cart-icon-loader.json',

@@ -14,6 +14,11 @@ ThemeData get darkTheme => ThemeData(
       inputDecorationTheme: _inputDecorationTheme,
     );
 
+ThemeData get systemTheme =>
+    WidgetsBinding.instance.window.platformBrightness == Brightness.dark
+        ? darkTheme
+        : lightTheme;
+
 InputDecorationTheme get _inputDecorationTheme => const InputDecorationTheme(
       border: OutlineInputBorder(),
       floatingLabelBehavior: FloatingLabelBehavior.always,
