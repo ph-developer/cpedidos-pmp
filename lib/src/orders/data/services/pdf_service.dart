@@ -17,6 +17,7 @@ class PdfService implements IPdfService {
     pdf.addPage(
       pw.MultiPage(
         pageFormat: PdfPageFormat.a4,
+        margin: const pw.EdgeInsets.symmetric(horizontal: 18.0, vertical: 26.0),
         build: (context) => [
           pw.Row(
             mainAxisAlignment: pw.MainAxisAlignment.center,
@@ -33,7 +34,7 @@ class PdfService implements IPdfService {
                   ),
                   pw.SizedBox(height: 6.0),
                   pw.Text(
-                    'Data de Envio: xx/xx/xxxx',
+                    'Data de Envio: ${orders.first.sendDate}',
                     style: const pw.TextStyle(
                       fontSize: 10.0,
                     ),
@@ -56,6 +57,12 @@ class PdfService implements IPdfService {
               1: pw.Alignment.centerLeft,
               2: pw.Alignment.centerLeft,
               3: pw.Alignment.centerLeft,
+            },
+            columnWidths: {
+              0: const pw.FixedColumnWidth(50.0),
+              1: const pw.FlexColumnWidth(3.0),
+              2: const pw.FlexColumnWidth(2.0),
+              3: const pw.FlexColumnWidth(10.0),
             },
             headers: ['#', 'Secretaria', 'Projeto', 'Descrição'],
             data: [
