@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_database/firebase_database.dart';
+import 'package:sentry_flutter/sentry_flutter.dart';
 
 import 'firebase_options.dart';
 import 'injector.dart';
@@ -52,7 +53,13 @@ Future<void> main() async {
 
       await Future.delayed(const Duration(seconds: 1));
 
-      runApp(const AppWidget());
+      await SentryFlutter.init(
+        (options) {
+          options.dsn = const String.fromEnvironment('SENTRY_DSN');
+          options.tracesSampleRate = 1.0;
+        },
+        appRunner: () => runApp(const AppWidget()),
+      );
     },
   );
 }
