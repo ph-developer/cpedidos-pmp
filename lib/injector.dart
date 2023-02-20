@@ -22,6 +22,7 @@ import 'src/orders/domain/usecases/get_order_by_type_and_number.dart';
 import 'src/orders/domain/usecases/print_orders_report.dart';
 import 'src/orders/domain/usecases/save_order.dart';
 import 'src/orders/presentation/cubits/order_register_cubit.dart';
+import 'src/orders/presentation/cubits/orders_report_cubit.dart';
 
 bool _injected = false;
 
@@ -112,6 +113,10 @@ void _injectControllers() {
   );
   _container.registerFactory<OrderRegisterCubit>(
     (i) => OrderRegisterCubit(i(), i(), i()),
+  );
+
+  _container.registerFactory<OrdersReportCubit>(
+    (i) => OrdersReportCubit(i(), i()),
   );
 }
 
