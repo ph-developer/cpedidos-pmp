@@ -12,5 +12,5 @@ class OrderNotFound extends OrdersFailure {
 }
 
 class OrdersNotFound extends OrdersFailure {
-  OrdersNotFound() : super('Pedidos não encontrados.');
+  OrdersNotFound() : super('Nenhum pedido encontrado.');
 }
