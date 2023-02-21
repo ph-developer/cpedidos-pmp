@@ -38,12 +38,15 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
   }
 
   void initSearchForm() {
+    var lastSendDate = '';
+
     onChange() async {
       if (sendDateEC.text.isEmpty) {
         await cubit.reset();
-      } else {
+      } else if (lastSendDate != sendDateEC.text) {
         await cubit.setDirty();
       }
+      lastSendDate = sendDateEC.text;
     }
 
     sendDateEC.addListener(onChange);
@@ -97,11 +100,14 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
           ),
         ),
         body: SingleChildScrollView(
-          child: Column(
-            children: [
-              _buildSearchFormRow(context),
-              _buildDataTableRow(context),
-            ],
+          child: Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: Column(
+              children: [
+                _buildSearchFormRow(context),
+                _buildDataTableRow(context),
+              ],
+            ),
           ),
         ),
       ),
@@ -175,7 +181,6 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
               ),
             ),
             const Flexible(child: SizedBox()),
-            const Flexible(child: SizedBox()),
           ],
         );
       },
@@ -200,22 +205,99 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
             }
 
             return Table(
+              border: TableBorder.all(
+                color: Theme.of(context).colorScheme.onBackground,
+                width: 1.0,
+              ),
+              columnWidths: const {
+                0: FixedColumnWidth(70.0),
+                1: FlexColumnWidth(3.0),
+                2: FlexColumnWidth(3.0),
+                3: FlexColumnWidth(9.0),
+              },
+              defaultVerticalAlignment: TableCellVerticalAlignment.middle,
               children: [
                 const TableRow(
                   children: [
-                    TableCell(child: Text('#')),
-                    TableCell(child: Text('Secretaria')),
-                    TableCell(child: Text('Projeto')),
-                    TableCell(child: Text('Descrição')),
+                    TableCell(
+                      child: Padding(
+                        padding: EdgeInsets.all(8.0),
+                        child: Center(
+                          child: Text(
+                            '#',
+                            style: TextStyle(fontWeight: FontWeight.bold),
+                          ),
+                        ),
+                      ),
+                    ),
+                    TableCell(
+                      child: Padding(
+                        padding: EdgeInsets.all(8.0),
+                        child: Center(
+                          child: Text(
+                            'Secretaria',
+                            style: TextStyle(fontWeight: FontWeight.bold),
+                          ),
+                        ),
+                      ),
+                    ),
+                    TableCell(
+                      child: Padding(
+                        padding: EdgeInsets.all(8.0),
+                        child: Center(
+                          child: Text(
+                            'Projeto',
+                            style: TextStyle(fontWeight: FontWeight.bold),
+                          ),
+                        ),
+                      ),
+                    ),
+                    TableCell(
+                      child: Padding(
+                        padding: EdgeInsets.all(8.0),
+                        child: Center(
+                          child: Text(
+                            'Descrição',
+                            style: TextStyle(fontWeight: FontWeight.bold),
+                          ),
+                        ),
+                      ),
+                    ),
                   ],
                 ),
                 ...state.orders.map(
                   (order) => TableRow(
                     children: [
-                      TableCell(child: Text('${order.type}\n${order.number}')),
-                      TableCell(child: Text(order.secretary)),
-                      TableCell(child: Text(order.project)),
-                      TableCell(child: Text(order.description)),
+                      TableCell(
+                        child: Padding(
+                          padding: const EdgeInsets.all(8.0),
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.center,
+                            children: [
+                              Text(order.type),
+                              Text(order.number),
+                            ],
+                          ),
+                        ),
+                      ),
+                      TableCell(
+                        child: Padding(
+                          padding: const EdgeInsets.all(8.0),
+                          child: Text(order.secretary),
+                        ),
+                      ),
+                      TableCell(
+                        child: Padding(
+                          padding: const EdgeInsets.all(8.0),
+                          child: Text(order.project),
+                        ),
+                      ),
+                      TableCell(
+                        child: Padding(
+                          padding: const EdgeInsets.all(8.0),
+                          child: Text(order.description),
+                        ),
+                      ),
                     ],
                   ),
                 ),
