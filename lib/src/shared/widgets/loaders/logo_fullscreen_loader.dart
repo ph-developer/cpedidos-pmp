@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 
 import 'package:lottie/lottie.dart';
 
-import 'shared/themes/themes.dart';
+import '../../config/theme/theme_config.dart';
 
-class BootWidget extends StatelessWidget {
-  const BootWidget({super.key});
+class LogoFullscreenLoader extends StatelessWidget {
+  const LogoFullscreenLoader({super.key});
 
   double get logoSize {
     final density = WidgetsBinding.instance.window.devicePixelRatio;
@@ -26,7 +26,7 @@ class BootWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      color: systemTheme.colorScheme.background,
+      color: ThemeConfig.currentTheme.colorScheme.background,
       child: Center(
         child: Lottie.asset(
           'assets/cart-icon-loader.json',

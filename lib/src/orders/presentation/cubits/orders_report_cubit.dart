@@ -49,8 +49,7 @@ class OrdersReportCubit extends Cubit<OrdersReportState> {
 
     result.fold((success) {}, (failure) {
       emit(OrdersReportFailureState(failure: failure));
+      emit(OrdersReportLoadedState(orders: orders));
     });
-
-    emit(OrdersReportLoadedState(orders: orders));
   }
 }

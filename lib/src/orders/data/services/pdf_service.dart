@@ -1,4 +1,4 @@
-import 'dart:typed_data';
+import 'package:flutter/services.dart';
 
 import 'package:pdf/pdf.dart';
 import 'package:pdf/widgets.dart' as pw;
@@ -12,7 +12,22 @@ class PdfService implements IPdfService {
   @override
   AsyncResult<Uint8List, OrdersFailure> generateOrdersReport(
       List<Order> orders) async {
-    final pdf = pw.Document();
+    final pdf = pw.Document(
+      theme: pw.ThemeData.withFont(
+        base: pw.Font.ttf(
+          await rootBundle.load('assets/fonts/OpenSans-Regular.ttf'),
+        ),
+        bold: pw.Font.ttf(
+          await rootBundle.load('assets/fonts/OpenSans-Bold.ttf'),
+        ),
+        italic: pw.Font.ttf(
+          await rootBundle.load('assets/fonts/OpenSans-Italic.ttf'),
+        ),
+        boldItalic: pw.Font.ttf(
+          await rootBundle.load('assets/fonts/OpenSans-BoldItalic.ttf'),
+        ),
+      ),
+    );
 
     pdf.addPage(
       pw.MultiPage(
