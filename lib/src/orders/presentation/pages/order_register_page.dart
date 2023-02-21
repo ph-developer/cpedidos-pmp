@@ -180,12 +180,15 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
           ),
         ),
         body: SingleChildScrollView(
-          child: Column(
-            children: [
-              _buildSearchFormRow(context),
-              _buildDataFormRows(context),
-              _buildActionsFormRow(context),
-            ],
+          child: Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: Column(
+              children: [
+                _buildSearchFormRow(context),
+                _buildDataFormRows(context),
+                _buildActionsFormRow(context),
+              ],
+            ),
           ),
         ),
       ),
