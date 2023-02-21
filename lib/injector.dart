@@ -11,12 +11,18 @@ import 'src/auth/domain/usecases/do_logout.dart';
 import 'src/auth/domain/usecases/get_current_user.dart';
 import 'src/auth/presentation/cubits/auth_cubit.dart';
 import 'src/orders/data/repositories/remote/firebase_order_remote_repo.dart';
+import 'src/orders/data/services/pdf_service.dart';
+import 'src/orders/data/services/print_service.dart';
 import 'src/orders/domain/repositories/order_repo.dart';
+import 'src/orders/domain/services/pdf_service.dart';
+import 'src/orders/domain/services/print_service.dart';
 import 'src/orders/domain/usecases/delete_order.dart';
 import 'src/orders/domain/usecases/get_all_orders_by_send_date.dart';
 import 'src/orders/domain/usecases/get_order_by_type_and_number.dart';
+import 'src/orders/domain/usecases/print_orders_report.dart';
 import 'src/orders/domain/usecases/save_order.dart';
 import 'src/orders/presentation/cubits/order_register_cubit.dart';
+import 'src/orders/presentation/cubits/orders_report_cubit.dart';
 
 bool _injected = false;
 
@@ -65,7 +71,14 @@ void _injectRepositories() {
   );
 }
 
-void _injectServices() {}
+void _injectServices() {
+  _container.registerFactory<IPdfService>(
+    (i) => PdfService(),
+  );
+  _container.registerFactory<IPrintService>(
+    (i) => PrintService(),
+  );
+}
 
 void _injectUsecases() {
   _container.registerFactory<IDoLogin>(
@@ -89,6 +102,9 @@ void _injectUsecases() {
   _container.registerFactory<ISaveOrder>(
     (i) => SaveOrder(i()),
   );
+  _container.registerFactory<IPrintOrdersReport>(
+    (i) => PrintOrdersReport(i(), i()),
+  );
 }
 
 void _injectControllers() {
@@ -97,6 +113,10 @@ void _injectControllers() {
   );
   _container.registerFactory<OrderRegisterCubit>(
     (i) => OrderRegisterCubit(i(), i(), i()),
+  );
+
+  _container.registerFactory<OrdersReportCubit>(
+    (i) => OrdersReportCubit(i(), i()),
   );
 }
 

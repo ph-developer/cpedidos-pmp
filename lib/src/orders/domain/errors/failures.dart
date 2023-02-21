@@ -1,16 +1,16 @@
 abstract class OrdersFailure implements Exception {
   final String message;
-  OrdersFailure(this.message);
+  const OrdersFailure(this.message);
 }
 
 class InvalidInput extends OrdersFailure {
-  InvalidInput(super.message);
+  const InvalidInput(super.message);
 }
 
 class OrderNotFound extends OrdersFailure {
-  OrderNotFound() : super('Pedido não encontrado.');
+  const OrderNotFound() : super('Pedido não encontrado.');
 }
 
 class OrdersNotFound extends OrdersFailure {
-  OrdersNotFound() : super('Pedidos não encontrados.');
+  const OrdersNotFound() : super('Nenhum pedido encontrado.');
 }

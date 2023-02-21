@@ -18,7 +18,7 @@ class FirebaseOrderRemoteRepo implements IOrderRepo {
     final orderSnapshot = await orderRef.get();
 
     if (!orderSnapshot.exists) {
-      return Failure(OrderNotFound());
+      return const Failure(OrderNotFound());
     }
 
     final orderMap = orderSnapshot.value as Map<String, dynamic>;
@@ -37,7 +37,7 @@ class FirebaseOrderRemoteRepo implements IOrderRepo {
         .get();
 
     if (!ordersSnapshot.exists) {
-      return Failure(OrdersNotFound());
+      return const Failure(OrdersNotFound());
     }
 
     final ordersMap = ordersSnapshot.value as Map<String, dynamic>;
