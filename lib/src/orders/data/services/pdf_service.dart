@@ -61,8 +61,8 @@ class PdfService implements IPdfService {
             columnWidths: {
               0: const pw.FixedColumnWidth(50.0),
               1: const pw.FlexColumnWidth(3.0),
-              2: const pw.FlexColumnWidth(2.0),
-              3: const pw.FlexColumnWidth(10.0),
+              2: const pw.FlexColumnWidth(3.0),
+              3: const pw.FlexColumnWidth(9.0),
             },
             headers: ['#', 'Secretaria', 'Projeto', 'Descrição'],
             data: [
