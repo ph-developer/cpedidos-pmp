@@ -30,7 +30,7 @@ import 'orders/presentation/cubits/order_register_cubit.dart';
 import 'orders/presentation/cubits/orders_report_cubit.dart';
 import 'orders/presentation/pages/order_register_page.dart';
 import 'orders/presentation/pages/orders_report_page.dart';
-import 'shared/themes/themes.dart';
+import 'shared/config/theme/theme_config.dart';
 
 class AppModule extends Module {
   @override
@@ -121,9 +121,9 @@ class AppWidget extends StatelessWidget {
 
     return MaterialApp.router(
       title: 'Controle de Pedidos - Prefeitura Municipal de Penápolis',
-      themeMode: ThemeMode.system,
-      theme: lightTheme,
-      darkTheme: darkTheme,
+      themeMode: ThemeConfig.themeMode,
+      theme: ThemeConfig.lightTheme,
+      darkTheme: ThemeConfig.darkTheme,
       routeInformationParser: Modular.routeInformationParser,
       routerDelegate: Modular.routerDelegate,
     );

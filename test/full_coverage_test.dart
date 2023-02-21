@@ -41,9 +41,9 @@ import 'package:cpedidos_pmp/src/orders/presentation/pages/order_register_page.d
 import 'package:cpedidos_pmp/src/shared/config/firebase/firebase_config.dart';
 import 'package:cpedidos_pmp/src/shared/config/firebase/firebase_options.dart';
 import 'package:cpedidos_pmp/src/shared/config/sentry/sentry_config.dart';
+import 'package:cpedidos_pmp/src/shared/config/theme/theme_config.dart';
 import 'package:cpedidos_pmp/src/shared/helpers/debounce.dart';
 import 'package:cpedidos_pmp/src/shared/helpers/input_formatters.dart';
-import 'package:cpedidos_pmp/src/shared/themes/themes.dart';
 import 'package:cpedidos_pmp/src/shared/widgets/buttons/outline_button.dart';
 import 'package:cpedidos_pmp/src/shared/widgets/dialogs/confirm_dialog.dart';
 import 'package:cpedidos_pmp/src/shared/widgets/inputs/password_input.dart';
