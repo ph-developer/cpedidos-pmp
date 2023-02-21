@@ -9,6 +9,7 @@ void main() {
   late PdfService service;
 
   setUp(() {
+    TestWidgetsFlutterBinding.ensureInitialized();
     service = PdfService();
   });
 
