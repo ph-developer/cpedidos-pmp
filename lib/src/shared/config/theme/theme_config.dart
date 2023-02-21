@@ -3,6 +3,8 @@ part 'color_schemes.g.dart';
 part 'widget_decorations.g.dart';
 
 abstract class ThemeConfig {
+  static ThemeMode themeMode = ThemeMode.light;
+
   static ThemeData get lightTheme => ThemeData(
         useMaterial3: true,
         colorScheme: _lightColorScheme,
@@ -19,8 +21,6 @@ abstract class ThemeConfig {
       WidgetsBinding.instance.window.platformBrightness == Brightness.dark
           ? darkTheme
           : lightTheme;
-
-  static ThemeMode get themeMode => ThemeMode.light;
 
   static ThemeData get currentTheme {
     if (themeMode == ThemeMode.system) {
