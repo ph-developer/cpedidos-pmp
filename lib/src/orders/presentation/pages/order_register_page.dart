@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_modular/flutter_modular.dart';
 
-import '../../../../injector.dart';
-import '../../../../router.dart';
 import '../../../auth/presentation/widgets/logout_button.dart';
 import '../../../shared/helpers/debounce.dart';
 import '../../../shared/helpers/input_formatters.dart';
@@ -26,7 +25,7 @@ class OrderRegisterPage extends StatefulWidget {
 }
 
 class _OrderRegisterPageState extends State<OrderRegisterPage> {
-  final cubit = inject<OrderRegisterCubit>();
+  final cubit = Modular.get<OrderRegisterCubit>();
 
   final numberFocus = FocusNode();
   final numberEC = TextEditingController();
@@ -169,7 +168,7 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
                     icon: const Icon(Icons.bar_chart_rounded),
                     color: Theme.of(context).colorScheme.primary,
                     onPressed: () =>
-                        router.pushReplacement('/pedidos/relatorio'),
+                        Modular.to.pushReplacementNamed('/pedidos/relatorio'),
                     tooltip: 'Relatório de Pedidos para Envio',
                   ),
                   const SizedBox(width: 8.0),

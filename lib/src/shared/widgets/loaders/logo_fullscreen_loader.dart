@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 
 import 'package:lottie/lottie.dart';
 
-import 'shared/themes/themes.dart';
+import '../../themes/themes.dart';
 
-class BootWidget extends StatelessWidget {
-  const BootWidget({super.key});
+class LogoFullscreenLoader extends StatelessWidget {
+  const LogoFullscreenLoader({super.key});
 
   double get logoSize {
     final density = WidgetsBinding.instance.window.devicePixelRatio;

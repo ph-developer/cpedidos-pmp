@@ -1,17 +1,21 @@
 import 'dart:async';
 
-import 'package:flutter/material.dart';
+import 'package:flutter_modular/flutter_modular.dart';
 
-import 'package:go_router/go_router.dart';
-
-import '../../../../../injector.dart';
 import '../cubits/auth_cubit.dart';
 import '../cubits/auth_state.dart';
 
-Future<String?> guestGuard(BuildContext context, GoRouterState state) async {
-  final AuthCubit cubit = inject();
+class GuestGuard extends RouteGuard {
+  GuestGuard() : super(redirectTo: '/pedidos/cadastro');
 
-  if (cubit.state is! AuthLoggedOutState) return '/pedidos/cadastro';
+  @override
+  Future<bool> canActivate(String path, ModularRoute route) async {
+    final cubit = Modular.get<AuthCubit>();
 
-  return null;
+    if (cubit.state is AuthLoadingState) {
+      await cubit.stream.first;
+    }
+
+    return (cubit.state is AuthLoggedOutState);
+  }
 }

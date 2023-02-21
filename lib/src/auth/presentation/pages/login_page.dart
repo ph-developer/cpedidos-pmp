@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
 
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_modular/flutter_modular.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
-import '../../../../injector.dart';
-import '../../../../router.dart';
 import '../../../shared/widgets/buttons/outline_button.dart';
 import '../../../shared/widgets/inputs/password_input.dart';
 import '../../../shared/widgets/inputs/text_input.dart';
@@ -20,7 +19,7 @@ class LoginPage extends StatefulWidget {
 }
 
 class _LoginPageState extends State<LoginPage> {
-  final cubit = inject<AuthCubit>();
+  final cubit = Modular.get<AuthCubit>();
 
   final emailEC = TextEditingController();
   final passwordEC = TextEditingController();
@@ -38,7 +37,7 @@ class _LoginPageState extends State<LoginPage> {
       bloc: cubit,
       listener: (context, state) {
         if (state is AuthLoggedInState) {
-          router.pushReplacement('/pedidos/cadastro');
+          Modular.to.pushReplacementNamed('/pedidos/cadastro');
         } else if (state is AuthFailureState) {
           ErrorSnackBar(context, text: state.failure.message).show();
         }

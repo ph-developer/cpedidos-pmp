@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_modular/flutter_modular.dart';
 
-import '../../../../injector.dart';
-import '../../../../router.dart';
 import '../../../auth/presentation/widgets/logout_button.dart';
 import '../../../shared/helpers/input_formatters.dart';
 import '../../../shared/widgets/buttons/outline_button.dart';
@@ -20,7 +19,7 @@ class OrdersReportPage extends StatefulWidget {
 }
 
 class _OrdersReportPageState extends State<OrdersReportPage> {
-  final cubit = inject<OrdersReportCubit>();
+  final cubit = Modular.get<OrdersReportCubit>();
 
   final sendDateEC = TextEditingController();
   final sendDateFocus = FocusNode();
@@ -89,7 +88,7 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
                     icon: const Icon(Icons.edit_note_outlined),
                     color: Theme.of(context).colorScheme.primary,
                     onPressed: () =>
-                        router.pushReplacement('/pedidos/cadastro'),
+                        Modular.to.pushReplacementNamed('/pedidos/cadastro'),
                     tooltip: 'Cadastro de Pedidos',
                   ),
                   const SizedBox(width: 8.0),

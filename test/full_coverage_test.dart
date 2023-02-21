@@ -1,9 +1,6 @@
 // ignore_for_file: unused_import
-import 'package:cpedidos_pmp/firebase_options.dart';
-import 'package:cpedidos_pmp/injector.dart';
 import 'package:cpedidos_pmp/main.dart';
-import 'package:cpedidos_pmp/router.dart';
-import 'package:cpedidos_pmp/src/app_widget.dart';
+import 'package:cpedidos_pmp/src/app_module.dart';
 import 'package:cpedidos_pmp/src/auth/data/dtos/user_dto.dart';
 import 'package:cpedidos_pmp/src/auth/data/repositories/remote/firebase_auth_remote_repo.dart';
 import 'package:cpedidos_pmp/src/auth/data/repositories/remote/firebase_user_remote_repo.dart';
@@ -20,7 +17,6 @@ import 'package:cpedidos_pmp/src/auth/presentation/guards/auth_guard.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/guards/guest_guard.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/pages/login_page.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/widgets/logout_button.dart';
-import 'package:cpedidos_pmp/src/boot_widget.dart';
 import 'package:cpedidos_pmp/src/orders/data/dtos/order_dto.dart';
 import 'package:cpedidos_pmp/src/orders/data/repositories/remote/firebase_order_remote_repo.dart';
 import 'package:cpedidos_pmp/src/orders/data/services/pdf_service.dart';
@@ -42,6 +38,9 @@ import 'package:cpedidos_pmp/src/orders/presentation/cubits/order_register_cubit
 import 'package:cpedidos_pmp/src/orders/presentation/cubits/order_register_state.dart';
 import 'package:cpedidos_pmp/src/orders/presentation/pages/orders_report_page.dart';
 import 'package:cpedidos_pmp/src/orders/presentation/pages/order_register_page.dart';
+import 'package:cpedidos_pmp/src/shared/config/firebase/firebase_config.dart';
+import 'package:cpedidos_pmp/src/shared/config/firebase/firebase_options.dart';
+import 'package:cpedidos_pmp/src/shared/config/sentry/sentry_config.dart';
 import 'package:cpedidos_pmp/src/shared/helpers/debounce.dart';
 import 'package:cpedidos_pmp/src/shared/helpers/input_formatters.dart';
 import 'package:cpedidos_pmp/src/shared/themes/themes.dart';
@@ -51,6 +50,7 @@ import 'package:cpedidos_pmp/src/shared/widgets/inputs/password_input.dart';
 import 'package:cpedidos_pmp/src/shared/widgets/inputs/select_input.dart';
 import 'package:cpedidos_pmp/src/shared/widgets/inputs/text_area_input.dart';
 import 'package:cpedidos_pmp/src/shared/widgets/inputs/text_input.dart';
+import 'package:cpedidos_pmp/src/shared/widgets/loaders/logo_fullscreen_loader.dart';
 import 'package:cpedidos_pmp/src/shared/widgets/snack_bars/error_snack_bar.dart';
 import 'package:cpedidos_pmp/src/shared/widgets/snack_bars/snack_bar.dart';
 import 'package:cpedidos_pmp/src/shared/widgets/snack_bars/success_snack_bar.dart';

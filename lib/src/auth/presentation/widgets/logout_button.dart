@@ -1,15 +1,14 @@
 import 'package:flutter/material.dart';
 
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_modular/flutter_modular.dart';
 
-import '../../../../injector.dart';
-import '../../../../router.dart';
 import '../../../shared/widgets/snack_bars/error_snack_bar.dart';
 import '../cubits/auth_cubit.dart';
 import '../cubits/auth_state.dart';
 
 class LogoutButton extends StatelessWidget {
-  final cubit = inject<AuthCubit>();
+  final cubit = Modular.get<AuthCubit>();
 
   LogoutButton({Key? key}) : super(key: key);
 
@@ -21,7 +20,7 @@ class LogoutButton extends StatelessWidget {
         if (state is AuthFailureState) {
           ErrorSnackBar(context, text: state.failure.message).show();
         } else if (state is AuthLoggedOutState) {
-          router.pushReplacement('/login');
+          Modular.to.pushReplacementNamed('/login');
         }
       },
       child: IconButton(
