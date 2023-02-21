@@ -39,7 +39,7 @@ import 'package:cpedidos_pmp/src/orders/presentation/cubits/order_register_state
 import 'package:cpedidos_pmp/src/orders/presentation/pages/orders_report_page.dart';
 import 'package:cpedidos_pmp/src/orders/presentation/pages/order_register_page.dart';
 import 'package:cpedidos_pmp/src/shared/config/firebase/firebase_config.dart';
-import 'package:cpedidos_pmp/src/shared/config/firebase/firebase_options.dart';
+import 'package:cpedidos_pmp/src/shared/config/firebase/firebase_options.g.dart';
 import 'package:cpedidos_pmp/src/shared/config/sentry/sentry_config.dart';
 import 'package:cpedidos_pmp/src/shared/config/theme/theme_config.dart';
 import 'package:cpedidos_pmp/src/shared/helpers/debounce.dart';

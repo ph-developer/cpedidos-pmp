@@ -61,7 +61,7 @@ DA:106,0
 DA:107,0
 DA:109,0
 DA:110,0
-DA:116,26
+DA:116,27
 DA:118,0
 DA:120,0
 DA:122,0
@@ -125,13 +125,13 @@ LF:3
 LH:3
 end_of_record
 SF:lib\src\auth\domain\errors\failures.dart
-DA:3,78
-DA:7,26
-DA:11,26
+DA:3,81
+DA:7,27
+DA:11,27
 DA:12,0
-DA:16,26
-DA:20,26
-DA:24,26
+DA:16,27
+DA:20,27
+DA:24,27
 LF:7
 LH:6
 end_of_record
@@ -237,7 +237,7 @@ LF:6
 LH:6
 end_of_record
 SF:lib\src\auth\presentation\pages\login_page.dart
-DA:15,26
+DA:15,27
 DA:17,0
 DA:18,0
 DA:27,0
@@ -443,7 +443,7 @@ LF:13
 LH:13
 end_of_record
 SF:lib\src\orders\domain\entities\order.dart
-DA:15,41
+DA:15,42
 DA:28,5
 DA:29,5
 DA:30,5
@@ -460,10 +460,10 @@ LF:13
 LH:13
 end_of_record
 SF:lib\src\orders\domain\errors\failures.dart
-DA:3,158
-DA:7,130
-DA:11,27
-DA:15,27
+DA:3,164
+DA:7,135
+DA:11,28
+DA:15,28
 LF:4
 LH:4
 end_of_record
@@ -617,7 +617,7 @@ LF:23
 LH:23
 end_of_record
 SF:lib\src\orders\presentation\pages\orders_report_page.dart
-DA:15,26
+DA:15,27
 DA:17,0
 DA:18,0
 DA:27,0
@@ -729,7 +729,7 @@ LF:108
 LH:1
 end_of_record
 SF:lib\src\orders\presentation\pages\order_register_page.dart
-DA:21,26
+DA:21,27
 DA:23,0
 DA:24,0
 DA:42,0
@@ -953,7 +953,7 @@ DA:20,0
 LF:6
 LH:0
 end_of_record
-SF:lib\src\shared\config\firebase\firebase_options.dart
+SF:lib\src\shared\config\firebase\firebase_options.g.dart
 DA:18,0
 DA:22,0
 DA:23,0
@@ -1133,7 +1133,7 @@ LF:15
 LH:0
 end_of_record
 SF:lib\src\shared\widgets\loaders\logo_fullscreen_loader.dart
-DA:8,26
+DA:8,27
 DA:10,0
 DA:11,0
 DA:13,0
