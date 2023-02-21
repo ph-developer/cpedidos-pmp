@@ -25,7 +25,7 @@ Future<void> main() async {
     options: DefaultFirebaseOptions.currentPlatform,
   );
 
-  if (kDebugMode) {
+  if (kDebugMode && const bool.fromEnvironment('USE_FIREBASE_EMULATORS')) {
     FirebaseDatabase.instance.useDatabaseEmulator('localhost', 9000);
     await FirebaseAuth.instance.useAuthEmulator('localhost', 9099);
   }
