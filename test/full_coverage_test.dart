@@ -32,12 +32,12 @@ import 'package:cpedidos_pmp/src/orders/domain/usecases/get_all_orders_by_send_d
 import 'package:cpedidos_pmp/src/orders/domain/usecases/get_order_by_type_and_number.dart';
 import 'package:cpedidos_pmp/src/orders/domain/usecases/print_orders_report.dart';
 import 'package:cpedidos_pmp/src/orders/domain/usecases/save_order.dart';
-import 'package:cpedidos_pmp/src/orders/presentation/cubits/orders_report_cubit.dart';
-import 'package:cpedidos_pmp/src/orders/presentation/cubits/orders_report_state.dart';
 import 'package:cpedidos_pmp/src/orders/presentation/cubits/order_register_cubit.dart';
 import 'package:cpedidos_pmp/src/orders/presentation/cubits/order_register_state.dart';
-import 'package:cpedidos_pmp/src/orders/presentation/pages/orders_report_page.dart';
+import 'package:cpedidos_pmp/src/orders/presentation/cubits/orders_report_cubit.dart';
+import 'package:cpedidos_pmp/src/orders/presentation/cubits/orders_report_state.dart';
 import 'package:cpedidos_pmp/src/orders/presentation/pages/order_register_page.dart';
+import 'package:cpedidos_pmp/src/orders/presentation/pages/orders_report_page.dart';
 import 'package:cpedidos_pmp/src/shared/config/firebase/firebase_config.dart';
 import 'package:cpedidos_pmp/src/shared/config/firebase/firebase_options.g.dart';
 import 'package:cpedidos_pmp/src/shared/config/sentry/sentry_config.dart';
@@ -51,8 +51,5 @@ import 'package:cpedidos_pmp/src/shared/widgets/inputs/select_input.dart';
 import 'package:cpedidos_pmp/src/shared/widgets/inputs/text_area_input.dart';
 import 'package:cpedidos_pmp/src/shared/widgets/inputs/text_input.dart';
 import 'package:cpedidos_pmp/src/shared/widgets/loaders/logo_fullscreen_loader.dart';
-import 'package:cpedidos_pmp/src/shared/widgets/snack_bars/error_snack_bar.dart';
-import 'package:cpedidos_pmp/src/shared/widgets/snack_bars/snack_bar.dart';
-import 'package:cpedidos_pmp/src/shared/widgets/snack_bars/success_snack_bar.dart';
 
 void main() {}

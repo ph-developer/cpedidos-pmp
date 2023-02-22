@@ -11,11 +11,10 @@ import '../../../shared/widgets/dialogs/confirm_dialog.dart';
 import '../../../shared/widgets/inputs/select_input.dart';
 import '../../../shared/widgets/inputs/text_area_input.dart';
 import '../../../shared/widgets/inputs/text_input.dart';
-import '../../../shared/widgets/snack_bars/error_snack_bar.dart';
-import '../../../shared/widgets/snack_bars/success_snack_bar.dart';
 import '../../domain/entities/order.dart';
 import '../cubits/order_register_cubit.dart';
 import '../cubits/order_register_state.dart';
+import '../../../shared/managers/snackbar_manager.dart';
 
 class OrderRegisterPage extends StatefulWidget {
   const OrderRegisterPage({super.key});
@@ -135,14 +134,14 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
               typeEC.text != state.typeQuery) return;
           clearDataForm();
         } else if (state is OrderRegisterSavedState) {
-          SuccessSnackBar(context, text: 'Pedido salvo com sucesso.').show();
+          context.showSuccessSnackBar('Pedido salvo com sucesso.');
           cubit.search(typeEC.text, numberEC.text);
         } else if (state is OrderRegisterDeletedState) {
-          SuccessSnackBar(context, text: 'Pedido excluído com sucesso.').show();
+          context.showSuccessSnackBar('Pedido excluído com sucesso.');
           clearDataForm();
           clearSearchForm();
         } else if (state is OrderRegisterFailureState) {
-          ErrorSnackBar(context, text: state.failure.message).show();
+          context.showErrorSnackBar(state.failure.message);
         }
       },
       child: Scaffold(
