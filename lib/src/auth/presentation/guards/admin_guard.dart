@@ -6,7 +6,7 @@ import '../cubits/auth_cubit.dart';
 import '../cubits/auth_state.dart';
 
 class AdminGuard extends RouteGuard {
-  AdminGuard() : super(redirectTo: '/login');
+  AdminGuard() : super(redirectTo: '/auth/login');
 
   @override
   Future<bool> canActivate(String path, ModularRoute route) async {

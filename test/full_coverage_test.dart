@@ -1,6 +1,7 @@
 // ignore_for_file: unused_import
 import 'package:cpedidos_pmp/main.dart';
 import 'package:cpedidos_pmp/src/app_module.dart';
+import 'package:cpedidos_pmp/src/auth/auth_module.dart';
 import 'package:cpedidos_pmp/src/auth/data/dtos/user_dto.dart';
 import 'package:cpedidos_pmp/src/auth/data/repositories/remote/firebase_auth_remote_repo.dart';
 import 'package:cpedidos_pmp/src/auth/data/repositories/remote/firebase_user_remote_repo.dart';
@@ -34,6 +35,7 @@ import 'package:cpedidos_pmp/src/orders/domain/usecases/get_all_orders_by_send_d
 import 'package:cpedidos_pmp/src/orders/domain/usecases/get_order_by_type_and_number.dart';
 import 'package:cpedidos_pmp/src/orders/domain/usecases/print_orders_report.dart';
 import 'package:cpedidos_pmp/src/orders/domain/usecases/save_order.dart';
+import 'package:cpedidos_pmp/src/orders/orders_module.dart';
 import 'package:cpedidos_pmp/src/orders/presentation/cubits/orders_report_cubit.dart';
 import 'package:cpedidos_pmp/src/orders/presentation/cubits/orders_report_state.dart';
 import 'package:cpedidos_pmp/src/orders/presentation/cubits/order_register_cubit.dart';

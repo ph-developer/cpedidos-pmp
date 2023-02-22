@@ -20,7 +20,7 @@ class LogoutButton extends StatelessWidget {
         if (state is AuthFailureState) {
           context.showErrorSnackBar(state.failure.message);
         } else if (state is AuthLoggedOutState) {
-          Modular.to.pushReplacementNamed('/login');
+          Modular.to.pushReplacementNamed('/auth/login');
         }
       },
       child: IconButton(
