@@ -13,6 +13,7 @@ import 'package:cpedidos_pmp/src/auth/domain/usecases/do_logout.dart';
 import 'package:cpedidos_pmp/src/auth/domain/usecases/get_current_user.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/cubits/auth_cubit.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/cubits/auth_state.dart';
+import 'package:cpedidos_pmp/src/auth/presentation/guards/admin_guard.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/guards/auth_guard.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/guards/guest_guard.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/pages/login_page.dart';
