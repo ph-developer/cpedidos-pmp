@@ -214,7 +214,7 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
                   focusNode: numberFocus,
                   controller: numberEC,
                   label: 'Número',
-                  formatters: [InputFormatters.digitsOnly],
+                  formatters: [InputFormatters.digitsAndHyphensOnly],
                   autofocus: true,
                   suffixIcon: isBusy
                       ? Transform.scale(

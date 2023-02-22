@@ -31,6 +31,28 @@ void main() {
     );
   });
 
+  group('digitsAndHyphensOnly', () {
+    test(
+      'should accept only numbers and hyphens.',
+      () async {
+        // arrange
+        const tChars =
+            '-abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ01234-56789\'\\|",<.>;:/?~^[{()}]\$!@#*-_=+%¨&';
+        final formatter = InputFormatters.digitsAndHyphensOnly;
+        // act
+        for (var char in tChars.split('')) {
+          textEditingValue = formatter.formatEditUpdate(
+            textEditingValue,
+            TextEditingValue(text: textEditingValue.text + char),
+          );
+        }
+        final result = textEditingValue.text;
+        // assert
+        expect(result, equals('-01234-56789-'));
+      },
+    );
+  });
+
   group('uppercase', () {
     test(
       'should uppercase inputted characters and not affect other chars.',
