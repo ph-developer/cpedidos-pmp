@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 
+import '../../../auth/presentation/widgets/admin_button.dart';
 import '../../../auth/presentation/widgets/logout_button.dart';
 import '../../../shared/helpers/debounce.dart';
 import '../../../shared/helpers/input_formatters.dart';
@@ -163,6 +164,8 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
               ),
               Row(
                 children: [
+                  AdminButton(),
+                  const SizedBox(width: 8.0),
                   IconButton(
                     icon: const Icon(Icons.bar_chart_rounded),
                     color: Theme.of(context).colorScheme.primary,

@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 
+import '../../../auth/presentation/widgets/admin_button.dart';
 import '../../../auth/presentation/widgets/logout_button.dart';
 import '../../../shared/helpers/input_formatters.dart';
 import '../../../shared/managers/snackbar_manager.dart';
@@ -84,6 +85,8 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
               ),
               Row(
                 children: [
+                  AdminButton(),
+                  const SizedBox(width: 8.0),
                   IconButton(
                     icon: const Icon(Icons.edit_note_outlined),
                     color: Theme.of(context).colorScheme.primary,
