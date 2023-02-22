@@ -1,5 +1,10 @@
 import 'package:flutter/material.dart';
 
+import 'package:js/js.dart';
+
+@JS('fixPasswordCss')
+external void fixPasswordCss();
+
 class PasswordInput extends StatefulWidget {
   final bool isEnabled;
   final TextEditingController controller;
@@ -19,7 +24,16 @@ class PasswordInput extends StatefulWidget {
 }
 
 class _PasswordInputState extends State<PasswordInput> {
+  final focusNode = FocusNode();
   var showPassword = false;
+
+  _fixEdgePasswordRevealButton() {
+    focusNode.unfocus();
+    Future.microtask(() {
+      focusNode.requestFocus();
+      fixPasswordCss();
+    });
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -30,6 +44,8 @@ class _PasswordInputState extends State<PasswordInput> {
       obscureText: !showPassword,
       enableSuggestions: false,
       autocorrect: false,
+      focusNode: focusNode,
+      onChanged: (_) => _fixEdgePasswordRevealButton(),
       style: TextStyle(
         color: widget.isEnabled ? null : Theme.of(context).disabledColor,
       ),
