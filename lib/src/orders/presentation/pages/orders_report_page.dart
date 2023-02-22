@@ -3,11 +3,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 
+import '../../../auth/presentation/widgets/admin_button.dart';
 import '../../../auth/presentation/widgets/logout_button.dart';
 import '../../../shared/helpers/input_formatters.dart';
+import '../../../shared/managers/snackbar_manager.dart';
 import '../../../shared/widgets/buttons/outline_button.dart';
 import '../../../shared/widgets/inputs/text_input.dart';
-import '../../../shared/widgets/snack_bars/error_snack_bar.dart';
 import '../cubits/orders_report_cubit.dart';
 import '../cubits/orders_report_state.dart';
 
@@ -62,7 +63,7 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
       bloc: cubit,
       listener: (context, state) {
         if (state is OrdersReportFailureState) {
-          ErrorSnackBar(context, text: state.failure.message).show();
+          context.showErrorSnackBar(state.failure.message);
         }
       },
       child: Scaffold(
@@ -84,6 +85,8 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
               ),
               Row(
                 children: [
+                  AdminButton(),
+                  const SizedBox(width: 8.0),
                   IconButton(
                     icon: const Icon(Icons.edit_note_outlined),
                     color: Theme.of(context).colorScheme.primary,

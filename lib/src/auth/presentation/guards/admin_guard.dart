@@ -5,8 +5,8 @@ import 'package:flutter_modular/flutter_modular.dart';
 import '../cubits/auth_cubit.dart';
 import '../cubits/auth_state.dart';
 
-class AuthGuard extends RouteGuard {
-  AuthGuard() : super(redirectTo: '/auth/login');
+class AdminGuard extends RouteGuard {
+  AdminGuard() : super(redirectTo: '/auth/login');
 
   @override
   Future<bool> canActivate(String path, ModularRoute route) async {
@@ -16,6 +16,10 @@ class AuthGuard extends RouteGuard {
       await cubit.stream.first;
     }
 
-    return (cubit.state is AuthLoggedInState);
+    if (cubit.state is! AuthLoggedInState) {
+      return false;
+    }
+
+    return (cubit.state as AuthLoggedInState).loggedUser.isAdmin;
   }
 }

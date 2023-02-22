@@ -6,6 +6,7 @@ extension UserDTO on User {
       id: map['id'],
       email: map['email'],
       name: map['name'],
+      isAdmin: map['isAdmin'] ?? false,
     );
   }
 }
