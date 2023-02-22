@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../../helpers/universal_imports.dart' show JS
-  if (dart.library.js) 'package:js/js.dart';
+import '../../helpers/universal_imports.dart'
+    if (dart.library.js) 'package:js/js.dart' show JS;
 
 @JS('fixPasswordCss')
 external void fixPasswordCss();
