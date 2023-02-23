@@ -102,7 +102,12 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
           ),
         ),
         body: SingleChildScrollView(
-          child: Padding(
+          child: Container(
+            margin: EdgeInsets.symmetric(
+              horizontal: MediaQuery.of(context).size.width > 1140
+                  ? (MediaQuery.of(context).size.width - 1140) / 2
+                  : 0,
+            ),
             padding: const EdgeInsets.all(8.0),
             child: Column(
               children: [

@@ -7,6 +7,7 @@ import '../../../auth/presentation/widgets/admin_button.dart';
 import '../../../auth/presentation/widgets/logout_button.dart';
 import '../../../shared/helpers/debounce.dart';
 import '../../../shared/helpers/input_formatters.dart';
+import '../../../shared/managers/snackbar_manager.dart';
 import '../../../shared/widgets/buttons/outline_button.dart';
 import '../../../shared/widgets/dialogs/confirm_dialog.dart';
 import '../../../shared/widgets/inputs/select_input.dart';
@@ -15,7 +16,6 @@ import '../../../shared/widgets/inputs/text_input.dart';
 import '../../domain/entities/order.dart';
 import '../cubits/order_register_cubit.dart';
 import '../cubits/order_register_state.dart';
-import '../../../shared/managers/snackbar_manager.dart';
 
 class OrderRegisterPage extends StatefulWidget {
   const OrderRegisterPage({super.key});
@@ -181,7 +181,12 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
           ),
         ),
         body: SingleChildScrollView(
-          child: Padding(
+          child: Container(
+            margin: EdgeInsets.symmetric(
+              horizontal: MediaQuery.of(context).size.width > 1140
+                  ? (MediaQuery.of(context).size.width - 1140) / 2
+                  : 0,
+            ),
             padding: const EdgeInsets.all(8.0),
             child: Column(
               children: [
