@@ -31,7 +31,14 @@ void main() {
     mockGetOrderByTypeAndNumber = MockGetOrderByTypeAndNumber();
   });
 
-  const tOrder = Order(number: 'number', type: 'type');
+  const tOrder = Order(
+    number: 'number',
+    type: 'type',
+    arrivalDate: 'arrivalDate',
+    secretary: 'secretary',
+    project: 'project',
+    description: 'description',
+  );
   final tOrdersFailure = MockOrdersFailure();
 
   group('reset', () {

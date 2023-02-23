@@ -26,7 +26,14 @@ void main() {
     'should return true on successfull delete.',
     () async {
       // arrange
-      const tOrderParam = Order(number: 'number', type: 'type');
+      const tOrderParam = Order(
+        number: 'number',
+        type: 'type',
+        arrivalDate: 'arrivalDate',
+        secretary: 'secretary',
+        project: 'project',
+        description: 'description',
+      );
       when(() => mockOrderRepo.delete(tOrderParam))
           .thenAnswer((_) async => const Success(true));
       // act
@@ -40,7 +47,14 @@ void main() {
     'should return an InvalidInput failure when order number param is empty.',
     () async {
       // arrange
-      const tOrderParam = Order(number: '', type: 'type');
+      const tOrderParam = Order(
+        number: '',
+        type: 'type',
+        arrivalDate: 'arrivalDate',
+        secretary: 'secretary',
+        project: 'project',
+        description: 'description',
+      );
       // act
       final result = await usecase(tOrderParam);
       // assert
@@ -52,7 +66,14 @@ void main() {
     'should return an InvalidInput failure when order type param is empty.',
     () async {
       // arrange
-      const tOrderParam = Order(number: 'number', type: '');
+      const tOrderParam = Order(
+        number: 'number',
+        type: '',
+        arrivalDate: 'arrivalDate',
+        secretary: 'secretary',
+        project: 'project',
+        description: 'description',
+      );
       // act
       final result = await usecase(tOrderParam);
       // assert
@@ -64,7 +85,14 @@ void main() {
     'should return an orders failure when order repo returns an orders failure.',
     () async {
       // arrange
-      const tOrderParam = Order(number: 'number', type: 'type');
+      const tOrderParam = Order(
+        number: 'number',
+        type: 'type',
+        arrivalDate: 'arrivalDate',
+        secretary: 'secretary',
+        project: 'project',
+        description: 'description',
+      );
       when(() => mockOrderRepo.delete(tOrderParam))
           .thenAnswer((_) async => Failure(tOrdersFailure));
       // act

@@ -17,6 +17,7 @@ void main() {
     Order(
       number: 'number',
       type: 'type',
+      arrivalDate: 'arrivalDate',
       secretary: 'secretary',
       project: 'project',
       description: 'description',

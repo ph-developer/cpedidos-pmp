@@ -26,8 +26,22 @@ void main() {
   });
 
   group('getByTypeAndNumber', () {
-    const tOrder = Order(number: 'number', type: 'type');
-    const tOrderMap = {'number': 'number', 'type': 'type'};
+    const tOrder = Order(
+      number: 'number',
+      type: 'type',
+      arrivalDate: 'arrivalDate',
+      secretary: 'secretary',
+      project: 'project',
+      description: 'description',
+    );
+    const tOrderMap = {
+      'number': 'number',
+      'type': 'type',
+      'arrivalDate': 'arrivalDate',
+      'secretary': 'secretary',
+      'project': 'project',
+      'description': 'description',
+    };
 
     test(
       'should return an order entity when exists one with type and number param.',
@@ -65,12 +79,24 @@ void main() {
 
   group('getAllBySendDate', () {
     const tOrderList = [
-      Order(number: 'number', type: 'type', sendDate: 'sendDate'),
+      Order(
+        number: 'number',
+        type: 'type',
+        sendDate: 'sendDate',
+        arrivalDate: 'arrivalDate',
+        secretary: 'secretary',
+        project: 'project',
+        description: 'description',
+      ),
     ];
     const tOrderMap = {
       'number': 'number',
       'type': 'type',
-      'sendDate': 'sendDate'
+      'sendDate': 'sendDate',
+      'arrivalDate': 'arrivalDate',
+      'secretary': 'secretary',
+      'project': 'project',
+      'description': 'description',
     };
     const tOrderListMap = {'type_number': tOrderMap};
 
@@ -140,14 +166,22 @@ void main() {
   });
 
   group('save', () {
-    const tOrder = Order(number: 'number', type: 'type', notes: 'notes');
+    const tOrder = Order(
+      number: 'number',
+      type: 'type',
+      notes: 'notes',
+      arrivalDate: 'arrivalDate',
+      secretary: 'secretary',
+      project: 'project',
+      description: 'description',
+    );
     const tOrderMap = {
       'number': 'number',
       'type': 'type',
-      'arrivalDate': '',
-      'secretary': '',
-      'project': '',
-      'description': '',
+      'arrivalDate': 'arrivalDate',
+      'secretary': 'secretary',
+      'project': 'project',
+      'description': 'description',
       'sendDate': '',
       'returnDate': '',
       'situation': '',
@@ -171,7 +205,15 @@ void main() {
   });
 
   group('delete', () {
-    const tOrder = Order(number: 'number', type: 'type', notes: 'notes');
+    const tOrder = Order(
+      number: 'number',
+      type: 'type',
+      notes: 'notes',
+      arrivalDate: 'arrivalDate',
+      secretary: 'secretary',
+      project: 'project',
+      description: 'description',
+    );
 
     test(
       'should delete an order entity and return true.',

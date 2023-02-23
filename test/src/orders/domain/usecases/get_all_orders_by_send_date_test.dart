@@ -28,7 +28,15 @@ void main() {
       // arrange
       const tSendDateParam = '02/02/2023';
       const tOrderList = [
-        Order(number: 'number', type: 'type', sendDate: '02/02/2023'),
+        Order(
+          number: 'number',
+          type: 'type',
+          sendDate: '02/02/2023',
+          arrivalDate: 'arrivalDate',
+          secretary: 'secretary',
+          project: 'project',
+          description: 'description',
+        ),
       ];
       when(() => mockOrderRepo.getAllBySendDate(tSendDateParam))
           .thenAnswer((_) async => const Success(tOrderList));
