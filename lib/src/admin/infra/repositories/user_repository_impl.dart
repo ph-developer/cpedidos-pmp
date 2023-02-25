@@ -41,4 +41,19 @@ class UserRepositoryImpl implements IUserRepository {
       return const Failure(AdminFailure.unknownError);
     }
   }
+
+  @override
+  AsyncResult<bool, AdminFailure> deleteUser(String id) async {
+    try {
+      await _accountDatasource.deleteAccount(id);
+      await _profileDatasource.deleteProfile(id);
+
+      return const Success(true);
+    } on AdminFailure catch (failure) {
+      return Failure(failure);
+    } catch (exception, stackTrace) {
+      await _errorService.reportException(exception, stackTrace);
+      return const Failure(AdminFailure.unknownError);
+    }
+  }
 }

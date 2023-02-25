@@ -56,4 +56,33 @@ void main() {
       },
     );
   });
+
+  group('deleteProfile', () {
+    test(
+      'should return true when delete with success.',
+      () async {
+        // arrange
+        when(() => mockFirebaseDatabase.ref('users/$tId'))
+            .thenReturn(mockDatabaseReference);
+        when(() => mockDatabaseReference.remove()).thenAnswer((_) async {});
+        // act
+        final result = await datasource.deleteProfile(tId);
+        // assert
+        expect(result, isTrue);
+      },
+    );
+
+    test(
+      'should rethrows an exception when occurs an unknown exception.',
+      () async {
+        // arrange
+        final tException = Exception();
+        when(() => mockFirebaseDatabase.ref(any())).thenThrow(tException);
+        // act
+        final future = datasource.deleteProfile(tId);
+        // assert
+        expect(future, throwsA(equals(tException)));
+      },
+    );
+  });
 }

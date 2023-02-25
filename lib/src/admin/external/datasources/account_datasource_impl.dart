@@ -33,4 +33,9 @@ class AccountDatasourceImpl implements IAccountDatasource {
       }
     }
   }
+
+  @override
+  Future<bool> deleteAccount(String id) async {
+    return true;
+  }
 }

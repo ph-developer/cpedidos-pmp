@@ -21,4 +21,13 @@ class ProfileDatasourceImpl implements IProfileDatasource {
 
     return profileMap;
   }
+
+  @override
+  Future<bool> deleteProfile(String id) async {
+    final profileRef = _database.ref('users/$id');
+
+    await profileRef.remove();
+
+    return true;
+  }
 }

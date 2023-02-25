@@ -137,4 +137,16 @@ void main() {
       },
     );
   });
+
+  group('createAccount', () {
+    test(
+      'should return true when delete with success.',
+      () async {
+        // act
+        final result = await datasource.deleteAccount(tId);
+        // assert
+        expect(result, isTrue);
+      },
+    );
+  });
 }

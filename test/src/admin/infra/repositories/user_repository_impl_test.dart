@@ -89,4 +89,53 @@ void main() {
       },
     );
   });
+
+  group('deleteUser', () {
+    test(
+      'should return an user when create a user with success.',
+      () async {
+        // arrange
+        when(() => mockAccountDatasource.deleteAccount(tId))
+            .thenAnswer((_) async => true);
+        when(() => mockProfileDatasource.deleteProfile(tId))
+            .thenAnswer((_) async => true);
+        // act
+        final result = await repository.deleteUser(tId);
+        // assert
+        expect(result.getOrNull(), isTrue);
+      },
+    );
+
+    test(
+      'should return a known failure when some datasource throws a known failure.',
+      () async {
+        // arrange
+        const tFailure = AdminFailure.weakPassword;
+        when(() => mockAccountDatasource.deleteAccount(tId))
+            .thenThrow(tFailure);
+        // act
+        final result = await repository.deleteUser(tId);
+        // assert
+        expect(result.exceptionOrNull(), equals(tFailure));
+      },
+    );
+
+    test(
+      'should report exception and return a failure when some unknown exception occurs.',
+      () async {
+        // arrange
+        final tException = Exception('unknown');
+        when(() => mockAccountDatasource.deleteAccount(tId))
+            .thenThrow(tException);
+        when(() => mockErrorService.reportException(tException, any()))
+            .thenAnswer((_) async {});
+        // act
+        final result = await repository.deleteUser(tId);
+        // assert
+        verify(() => mockErrorService.reportException(tException, any()))
+            .called(1);
+        expect(result.exceptionOrNull(), equals(AdminFailure.unknownError));
+      },
+    );
+  });
 }
