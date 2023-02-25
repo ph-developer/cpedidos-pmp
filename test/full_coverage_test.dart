@@ -1,17 +1,5 @@
 // ignore_for_file: unused_import
 import 'package:cpedidos_pmp/main.dart';
-import 'package:cpedidos_pmp/src/admin/domain/entities/user.dart';
-import 'package:cpedidos_pmp/src/admin/domain/errors/failures.dart';
-import 'package:cpedidos_pmp/src/admin/domain/repositories/user_repository.dart';
-import 'package:cpedidos_pmp/src/admin/domain/usecases/create_user.dart';
-import 'package:cpedidos_pmp/src/admin/domain/usecases/delete_user.dart';
-import 'package:cpedidos_pmp/src/admin/domain/usecases/get_all_users.dart';
-import 'package:cpedidos_pmp/src/admin/external/datasources/account_datasource_impl.dart';
-import 'package:cpedidos_pmp/src/admin/external/datasources/profile_datasource_impl.dart';
-import 'package:cpedidos_pmp/src/admin/infra/datasources/account_datasource.dart';
-import 'package:cpedidos_pmp/src/admin/infra/datasources/profile_datasource.dart';
-import 'package:cpedidos_pmp/src/admin/infra/dtos/user_dto.dart';
-import 'package:cpedidos_pmp/src/admin/infra/repositories/user_repository_impl.dart';
 import 'package:cpedidos_pmp/src/auth/data/dtos/user_dto.dart';
 import 'package:cpedidos_pmp/src/auth/data/repositories/remote/firebase_auth_remote_repo.dart';
 import 'package:cpedidos_pmp/src/auth/data/repositories/remote/firebase_user_remote_repo.dart';
@@ -28,7 +16,6 @@ import 'package:cpedidos_pmp/src/auth/presentation/guards/admin_guard.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/guards/auth_guard.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/guards/guest_guard.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/pages/login_page.dart';
-import 'package:cpedidos_pmp/src/auth/presentation/widgets/admin_button.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/widgets/logout_button.dart';
 import 'package:cpedidos_pmp/src/orders/data/dtos/order_dto.dart';
 import 'package:cpedidos_pmp/src/orders/data/repositories/remote/firebase_order_remote_repo.dart';
