@@ -1,39 +1,40 @@
 import 'package:email_validator/email_validator.dart';
 import 'package:result_dart/result_dart.dart';
 
+import '../../../shared/helpers/string_generator.dart';
 import '../entities/user.dart';
 import '../errors/failures.dart';
-import '../repositories/user_repo.dart';
+import '../repositories/user_repository.dart';
 
 abstract class ICreateUser {
-  AsyncResult<User, AdminFailure> call(User user);
+  AsyncResult<User, AdminFailure> call(
+      String email, String password, String name, bool isAdmin);
 }
 
 class CreateUser implements ICreateUser {
-  final IUserRepo _userRepo;
+  final IUserRepository _userRepository;
 
-  CreateUser(this._userRepo);
+  CreateUser(this._userRepository);
 
   @override
-  AsyncResult<User, AdminFailure> call(User user) async {
-    if (user.name.isEmpty) {
-      return const Failure(
-        InvalidInput('O campo "nome" deve ser preenchido.'),
-      );
+  AsyncResult<User, AdminFailure> call(
+      String email, String password, String name, bool isAdmin) async {
+    if (name.isEmpty) {
+      return const Failure(AdminFailure.nameCantBeEmpty);
     }
 
-    if (user.email.isEmpty) {
-      return const Failure(
-        InvalidInput('O campo "email" deve ser preenchido.'),
-      );
+    if (email.isEmpty) {
+      return const Failure(AdminFailure.emailCantBeEmpty);
     }
 
-    if (!EmailValidator.validate(user.email)) {
-      return const Failure(
-        InvalidInput('O email informado possui um formato inválido.'),
-      );
+    if (!EmailValidator.validate(email)) {
+      return const Failure(AdminFailure.invalidEmail);
     }
 
-    return _userRepo.create(user);
+    if (password.isEmpty) {
+      password = generateRandomString(12);
+    }
+
+    return _userRepository.createUser(email, password, name, isAdmin);
   }
 }

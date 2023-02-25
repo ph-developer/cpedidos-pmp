@@ -8,6 +8,8 @@ import 'admin/admin_module.dart';
 import 'auth/auth_module.dart';
 import 'orders/orders_module.dart';
 import 'shared/config/theme/theme_config.dart';
+import 'shared/services/error_service.dart';
+import 'shared/services/error_service_impl.dart';
 
 class AppModule extends Module {
   @override
@@ -25,6 +27,9 @@ class AppModule extends Module {
         ),
         Bind.factory<FirebaseDatabase>(
           (i) => FirebaseDatabase.instance,
+        ),
+        Bind.factory<IErrorService>(
+          (i) => ErrorServiceImpl(),
         ),
       ];
 

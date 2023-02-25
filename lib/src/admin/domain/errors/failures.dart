@@ -1,8 +1,13 @@
-abstract class AdminFailure implements Exception {
-  final String message;
-  const AdminFailure(this.message);
-}
+enum AdminFailure {
+  emailAlreadyInUse('O email informado já está em uso.'),
+  invalidEmail('O email informado possui um formato inválido.'),
+  nameCantBeEmpty('O campo nome é obrigatório.'),
+  emailCantBeEmpty('O campo email é obrigatório.'),
+  operationNotAllowed('Operação não permitida.'),
+  weakPassword('A senha informada é muito fraca.'),
+  unknownError('Ocorreu um erro desconhecido.');
 
-class InvalidInput extends AdminFailure {
-  const InvalidInput(super.message);
+  final String message;
+
+  const AdminFailure(this.message);
 }

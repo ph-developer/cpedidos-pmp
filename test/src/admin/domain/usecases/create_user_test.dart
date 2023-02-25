@@ -1,88 +1,115 @@
+import 'package:cpedidos_pmp/src/admin/domain/entities/user.dart';
+import 'package:cpedidos_pmp/src/admin/domain/repositories/user_repository.dart';
+import 'package:cpedidos_pmp/src/admin/domain/usecases/create_user.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 import 'package:result_dart/result_dart.dart';
 
-import 'package:cpedidos_pmp/src/admin/domain/entities/user.dart';
 import 'package:cpedidos_pmp/src/admin/domain/errors/failures.dart';
-import 'package:cpedidos_pmp/src/admin/domain/repositories/user_repo.dart';
-import 'package:cpedidos_pmp/src/admin/domain/usecases/create_user.dart';
 
-class MockUserRepo extends Mock implements IUserRepo {}
-
-class MockAdminFailure extends Mock implements AdminFailure {}
+class MockUserRepository extends Mock implements IUserRepository {}
 
 void main() {
-  late IUserRepo mockUserRepo;
+  late IUserRepository mockUserRepository;
   late CreateUser usecase;
 
   setUp(() {
-    mockUserRepo = MockUserRepo();
-    usecase = CreateUser(mockUserRepo);
+    mockUserRepository = MockUserRepository();
+    usecase = CreateUser(mockUserRepository);
   });
 
-  final tAdminFailure = MockAdminFailure();
+  const tEmail = 'test@test.dev';
+  const tPassword = 'password';
+  const tName = 'name';
+  const tIsAdmin = true;
+  const tUser = User(id: 'id', email: tEmail, name: tName, isAdmin: tIsAdmin);
 
   test(
     'should return an user on successfull creation.',
     () async {
       // arrange
-      const tUserParam = User(email: 'email@example.com', name: 'name');
-      when(() => mockUserRepo.create(tUserParam))
-          .thenAnswer((_) async => const Success(tUserParam));
+      when(() => mockUserRepository.createUser(any(), any(), any(), any()))
+          .thenAnswer((_) async => const Success(tUser));
       // act
-      final result = await usecase(tUserParam);
+      final result = await usecase(tEmail, tPassword, tName, tIsAdmin);
       // assert
-      expect(result.getOrNull(), equals(tUserParam));
+      expect(result.getOrNull(), equals(tUser));
     },
   );
 
   test(
-    'should return an InvalidInput failure when user email param is empty.',
+    'should create an user with especified password when password is informed.',
     () async {
       // arrange
-      const tUserParam = User(email: '', name: 'name');
+      when(() => mockUserRepository.createUser(any(), any(), any(), any()))
+          .thenAnswer((_) async => const Success(tUser));
       // act
-      final result = await usecase(tUserParam);
+      await usecase(tEmail, tPassword, tName, tIsAdmin);
       // assert
-      expect(result.exceptionOrNull(), isA<InvalidInput>());
+      verify(() =>
+              mockUserRepository.createUser(tEmail, tPassword, tName, tIsAdmin))
+          .called(1);
     },
   );
 
   test(
-    'should return an InvalidInput failure when user name param is empty.',
+    'should create an user with generated 12 digits password when password is not informed.',
     () async {
       // arrange
-      const tUserParam = User(email: 'email@example.com', name: '');
+      when(() => mockUserRepository.createUser(any(), any(), any(), any()))
+          .thenAnswer((_) async => const Success(tUser));
       // act
-      final result = await usecase(tUserParam);
+      await usecase(tEmail, '', tName, tIsAdmin);
+      final String capturedPassword = verify(() => mockUserRepository
+          .createUser(tEmail, captureAny(), tName, tIsAdmin)).captured[0];
       // assert
-      expect(result.exceptionOrNull(), isA<InvalidInput>());
+      verifyNever(
+          () => mockUserRepository.createUser(tEmail, '', tName, tIsAdmin));
+      expect(capturedPassword.length, equals(12));
     },
   );
 
   test(
-    'should return an InvalidInput failure when user email param is invalid.',
+    'should return an emailCantBeEmpty failure when email is empty.',
     () async {
-      // arrange
-      const tUserParam = User(email: 'invalid_email', name: 'name');
       // act
-      final result = await usecase(tUserParam);
+      final result = await usecase('', tPassword, tName, tIsAdmin);
       // assert
-      expect(result.exceptionOrNull(), isA<InvalidInput>());
+      expect(result.exceptionOrNull(), equals(AdminFailure.emailCantBeEmpty));
     },
   );
 
   test(
-    'should return an admin failure when user repo returns an admin failure.',
+    'should return a nameCantBeEmpty failure when name is empty.',
+    () async {
+      // act
+      final result = await usecase(tEmail, tPassword, '', tIsAdmin);
+      // assert
+      expect(result.exceptionOrNull(), equals(AdminFailure.nameCantBeEmpty));
+    },
+  );
+
+  test(
+    'should return an invalidEmail failure when email is invalid.',
+    () async {
+      // act
+      final result = await usecase('invalid', tPassword, tName, tIsAdmin);
+      // assert
+      expect(result.exceptionOrNull(), equals(AdminFailure.invalidEmail));
+    },
+  );
+
+  test(
+    'should return a failure when user repository returns a failure.',
     () async {
       // arrange
-      const tUserParam = User(email: 'email@example.com', name: 'name');
-      when(() => mockUserRepo.create(tUserParam))
-          .thenAnswer((_) async => Failure(tAdminFailure));
+      const tFailure = AdminFailure.unknownError;
+      when(() => mockUserRepository.createUser(any(), any(), any(), any()))
+          .thenAnswer((_) async => const Failure(tFailure));
       // act
-      final result = await usecase(tUserParam);
+      final result = await usecase(tEmail, tPassword, tName, tIsAdmin);
       // assert
-      expect(result.exceptionOrNull(), equals(tAdminFailure));
+      expect(result.exceptionOrNull(), equals(tFailure));
     },
   );
 }
