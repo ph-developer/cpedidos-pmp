@@ -32,7 +32,7 @@ class AdminModule extends Module {
 
         //! Domain
         Bind.factory<ICreateUser>(
-          (i) => CreateUser(i()),
+          (i) => CreateUserImpl(i()),
           export: true,
         ),
 

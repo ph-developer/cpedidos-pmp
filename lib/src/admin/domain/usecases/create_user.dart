@@ -11,10 +11,10 @@ abstract class ICreateUser {
       String email, String password, String name, bool isAdmin);
 }
 
-class CreateUser implements ICreateUser {
+class CreateUserImpl implements ICreateUser {
   final IUserRepository _userRepository;
 
-  CreateUser(this._userRepository);
+  CreateUserImpl(this._userRepository);
 
   @override
   AsyncResult<User, AdminFailure> call(

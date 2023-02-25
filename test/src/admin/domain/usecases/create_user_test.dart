@@ -11,11 +11,11 @@ class MockUserRepository extends Mock implements IUserRepository {}
 
 void main() {
   late IUserRepository mockUserRepository;
-  late CreateUser usecase;
+  late CreateUserImpl usecase;
 
   setUp(() {
     mockUserRepository = MockUserRepository();
-    usecase = CreateUser(mockUserRepository);
+    usecase = CreateUserImpl(mockUserRepository);
   });
 
   const tEmail = 'test@test.dev';
@@ -28,7 +28,8 @@ void main() {
     'should return an user on successfull creation.',
     () async {
       // arrange
-      when(() => mockUserRepository.createUser(any(), any(), any(), any()))
+      when(() =>
+              mockUserRepository.createUser(tEmail, tPassword, tName, tIsAdmin))
           .thenAnswer((_) async => const Success(tUser));
       // act
       final result = await usecase(tEmail, tPassword, tName, tIsAdmin);
@@ -41,7 +42,8 @@ void main() {
     'should create an user with especified password when password is informed.',
     () async {
       // arrange
-      when(() => mockUserRepository.createUser(any(), any(), any(), any()))
+      when(() =>
+              mockUserRepository.createUser(tEmail, tPassword, tName, tIsAdmin))
           .thenAnswer((_) async => const Success(tUser));
       // act
       await usecase(tEmail, tPassword, tName, tIsAdmin);
@@ -56,7 +58,7 @@ void main() {
     'should create an user with generated 12 digits password when password is not informed.',
     () async {
       // arrange
-      when(() => mockUserRepository.createUser(any(), any(), any(), any()))
+      when(() => mockUserRepository.createUser(tEmail, any(), tName, tIsAdmin))
           .thenAnswer((_) async => const Success(tUser));
       // act
       await usecase(tEmail, '', tName, tIsAdmin);
@@ -104,7 +106,8 @@ void main() {
     () async {
       // arrange
       const tFailure = AdminFailure.unknownError;
-      when(() => mockUserRepository.createUser(any(), any(), any(), any()))
+      when(() =>
+              mockUserRepository.createUser(tEmail, tPassword, tName, tIsAdmin))
           .thenAnswer((_) async => const Failure(tFailure));
       // act
       final result = await usecase(tEmail, tPassword, tName, tIsAdmin);
