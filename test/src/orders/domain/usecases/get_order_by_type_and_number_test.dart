@@ -28,7 +28,14 @@ void main() {
       // arrange
       const tNumberParam = 'number';
       const tTypeParam = 'type';
-      const tOrder = Order(number: 'number', type: 'type');
+      const tOrder = Order(
+        number: 'number',
+        type: 'type',
+        arrivalDate: 'arrivalDate',
+        secretary: 'secretary',
+        project: 'project',
+        description: 'description',
+      );
       when(() => mockOrderRepo.getByTypeAndNumber(tTypeParam, tNumberParam))
           .thenAnswer((_) async => const Success(tOrder));
       // act

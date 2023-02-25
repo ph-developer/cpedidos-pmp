@@ -27,6 +27,30 @@ class SaveOrder implements ISaveOrder {
       );
     }
 
+    if (order.arrivalDate.isEmpty) {
+      return const Failure(
+        InvalidInput('O campo "data de chegada" deve ser preenchido.'),
+      );
+    }
+
+    if (order.secretary.isEmpty) {
+      return const Failure(
+        InvalidInput('O campo "secretaria" deve ser preenchido.'),
+      );
+    }
+
+    if (order.project.isEmpty) {
+      return const Failure(
+        InvalidInput('O campo "projeto" deve ser preenchido.'),
+      );
+    }
+
+    if (order.description.isEmpty) {
+      return const Failure(
+        InvalidInput('O campo "descrição" deve ser preenchido.'),
+      );
+    }
+
     return _orderRepo.save(order);
   }
 }

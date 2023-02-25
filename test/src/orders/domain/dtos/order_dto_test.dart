@@ -1,6 +1,7 @@
+import 'package:flutter_test/flutter_test.dart';
+
 import 'package:cpedidos_pmp/src/orders/domain/dtos/order_dto.dart';
 import 'package:cpedidos_pmp/src/orders/domain/entities/order.dart';
-import 'package:flutter_test/flutter_test.dart';
 
 void main() {
   group('copyWith', () {
@@ -8,7 +9,14 @@ void main() {
       'should make an order copy with none field changed.',
       () async {
         // arrange
-        const tOrder = Order(number: 'number', type: 'type');
+        const tOrder = Order(
+          number: 'number',
+          type: 'type',
+          arrivalDate: 'arrivalDate',
+          secretary: 'secretary',
+          project: 'project',
+          description: 'description',
+        );
         // act
         final result = tOrder.copyWith();
         // assert
@@ -29,7 +37,14 @@ void main() {
       'should make an order copy with all fields changed.',
       () async {
         // arrange
-        const tOrder = Order(number: 'number', type: 'type');
+        const tOrder = Order(
+          number: 'number',
+          type: 'type',
+          arrivalDate: 'arrivalDate',
+          secretary: 'secretary',
+          project: 'project',
+          description: 'description',
+        );
         // act
         final result = tOrder.copyWith(
           number: 'new_number',

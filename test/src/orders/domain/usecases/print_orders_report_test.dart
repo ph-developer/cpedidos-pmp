@@ -30,6 +30,7 @@ void main() {
   const tOrder = Order(
     number: 'number',
     type: 'type',
+    arrivalDate: 'arrivalDate',
     secretary: 'secretary',
     project: 'project',
     description: 'description',
