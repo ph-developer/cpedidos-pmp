@@ -1,6 +1,6 @@
 import 'package:cpedidos_pmp/src/admin/domain/errors/failures.dart';
 import 'package:cpedidos_pmp/src/admin/domain/repositories/user_repository.dart';
-import 'package:cpedidos_pmp/src/admin/domain/usecases/delete_user..dart';
+import 'package:cpedidos_pmp/src/admin/domain/usecases/delete_user.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 import 'package:result_dart/result_dart.dart';

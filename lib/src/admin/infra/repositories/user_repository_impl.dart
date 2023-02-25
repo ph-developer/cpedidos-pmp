@@ -24,13 +24,8 @@ class UserRepositoryImpl implements IUserRepository {
       String email, String password, String name, bool isAdmin) async {
     try {
       final userId = await _accountDatasource.createAccount(email, password);
-      await _profileDatasource.createProfile(userId, name, isAdmin);
-      final userMap = {
-        'id': userId,
-        'email': email,
-        'name': name,
-        'isAdmin': isAdmin,
-      };
+      final userMap =
+          await _profileDatasource.createProfile(userId, email, name, isAdmin);
       final user = UserDTO.fromMap(userMap);
 
       return Success(user);
@@ -49,6 +44,21 @@ class UserRepositoryImpl implements IUserRepository {
       await _profileDatasource.deleteProfile(id);
 
       return const Success(true);
+    } on AdminFailure catch (failure) {
+      return Failure(failure);
+    } catch (exception, stackTrace) {
+      await _errorService.reportException(exception, stackTrace);
+      return const Failure(AdminFailure.unknownError);
+    }
+  }
+
+  @override
+  AsyncResult<List<User>, AdminFailure> getAllUsers() async {
+    try {
+      final profilesMaps = await _profileDatasource.getAllProfiles();
+      final profiles = profilesMaps.map(UserDTO.fromMap).toList();
+
+      return Success(profiles);
     } on AdminFailure catch (failure) {
       return Failure(failure);
     } catch (exception, stackTrace) {

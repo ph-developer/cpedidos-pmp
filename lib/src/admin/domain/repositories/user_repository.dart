@@ -8,4 +8,6 @@ abstract class IUserRepository {
       String email, String password, String name, bool isAdmin);
 
   AsyncResult<bool, AdminFailure> deleteUser(String id);
+
+  AsyncResult<List<User>, AdminFailure> getAllUsers();
 }

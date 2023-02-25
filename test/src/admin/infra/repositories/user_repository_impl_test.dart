@@ -36,7 +36,14 @@ void main() {
   const tName = 'name';
   const tIsAdmin = true;
   const tUser = User(id: tId, email: tEmail, name: tName, isAdmin: tIsAdmin);
-  const tProfileMap = {'id': tId, 'name': tName, 'isAdmin': tIsAdmin};
+  const tUserList = [tUser];
+  const tProfileMap = {
+    'id': tId,
+    'email': tEmail,
+    'name': tName,
+    'isAdmin': tIsAdmin
+  };
+  const tProfileMapList = [tProfileMap];
 
   group('createUser', () {
     test(
@@ -45,8 +52,8 @@ void main() {
         // arrange
         when(() => mockAccountDatasource.createAccount(tEmail, tPassword))
             .thenAnswer((_) async => tId);
-        when(() => mockProfileDatasource.createProfile(tId, tName, tIsAdmin))
-            .thenAnswer((_) async => tProfileMap);
+        when(() => mockProfileDatasource.createProfile(
+            tId, tEmail, tName, tIsAdmin)).thenAnswer((_) async => tProfileMap);
         // act
         final result =
             await repository.createUser(tEmail, tPassword, tName, tIsAdmin);
@@ -131,6 +138,52 @@ void main() {
             .thenAnswer((_) async {});
         // act
         final result = await repository.deleteUser(tId);
+        // assert
+        verify(() => mockErrorService.reportException(tException, any()))
+            .called(1);
+        expect(result.exceptionOrNull(), equals(AdminFailure.unknownError));
+      },
+    );
+  });
+
+  group('getAllUsers', () {
+    test(
+      'should return an user list when get with success.',
+      () async {
+        // arrange
+        when(() => mockProfileDatasource.getAllProfiles())
+            .thenAnswer((_) async => tProfileMapList);
+        // act
+        final result = await repository.getAllUsers();
+        // assert
+        expect(result.getOrNull(), equals(tUserList));
+      },
+    );
+
+    test(
+      'should return a known failure when some datasource throws a known failure.',
+      () async {
+        // arrange
+        const tFailure = AdminFailure.weakPassword;
+        when(() => mockProfileDatasource.getAllProfiles()).thenThrow(tFailure);
+        // act
+        final result = await repository.getAllUsers();
+        // assert
+        expect(result.exceptionOrNull(), equals(tFailure));
+      },
+    );
+
+    test(
+      'should report exception and return a failure when some unknown exception occurs.',
+      () async {
+        // arrange
+        final tException = Exception('unknown');
+        when(() => mockProfileDatasource.getAllProfiles())
+            .thenThrow(tException);
+        when(() => mockErrorService.reportException(tException, any()))
+            .thenAnswer((_) async {});
+        // act
+        final result = await repository.getAllUsers();
         // assert
         verify(() => mockErrorService.reportException(tException, any()))
             .called(1);

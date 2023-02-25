@@ -9,10 +9,15 @@ class ProfileDatasourceImpl implements IProfileDatasource {
 
   @override
   Future<Map<String, dynamic>> createProfile(
-      String id, String name, bool isAdmin) async {
+    String id,
+    String email,
+    String name,
+    bool isAdmin,
+  ) async {
     final profileRef = _database.ref('users/$id');
     final profileMap = {
       'id': id,
+      'email': email,
       'name': name,
       'isAdmin': isAdmin,
     };
@@ -29,5 +34,15 @@ class ProfileDatasourceImpl implements IProfileDatasource {
     await profileRef.remove();
 
     return true;
+  }
+
+  @override
+  Future<List<Map<String, dynamic>>> getAllProfiles() async {
+    final profilesRef = _database.ref('users');
+    final profilesSnapshot = await profilesRef.get();
+    final profilesMap = profilesSnapshot.value! as Map<String, dynamic>;
+    final profilesMapList = List<Map<String, dynamic>>.from(profilesMap.values);
+
+    return profilesMapList;
   }
 }
