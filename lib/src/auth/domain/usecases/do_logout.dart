@@ -1,19 +1,19 @@
 import 'package:result_dart/result_dart.dart';
 
 import '../errors/failures.dart';
-import '../repositories/auth_repo.dart';
+import '../repositories/auth_repository.dart';
 
 abstract class IDoLogout {
-  AsyncResult<bool, AuthFailure> call();
+  AsyncResult<Unit, AuthFailure> call();
 }
 
 class DoLogout implements IDoLogout {
-  final IAuthRepo _authRepo;
+  final IAuthRepository _authRepository;
 
-  DoLogout(this._authRepo);
+  DoLogout(this._authRepository);
 
   @override
-  AsyncResult<bool, AuthFailure> call() async {
-    return _authRepo.logout();
+  AsyncResult<Unit, AuthFailure> call() async {
+    return _authRepository.logout();
   }
 }

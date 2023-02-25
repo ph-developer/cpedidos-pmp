@@ -1,6 +1,6 @@
 import 'package:equatable/equatable.dart';
 
-import '../../domain/entities/user.dart';
+import '../../domain/entities/logged_user.dart';
 import '../../domain/errors/failures.dart';
 
 abstract class AuthState extends Equatable {}
@@ -21,7 +21,7 @@ class AuthLoggingInState extends AuthState {
 }
 
 class AuthLoggedInState extends AuthState {
-  final User loggedUser;
+  final LoggedUser loggedUser;
 
   AuthLoggedInState({required this.loggedUser});
 

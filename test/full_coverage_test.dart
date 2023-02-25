@@ -1,18 +1,17 @@
 // ignore_for_file: unused_import
 import 'package:cpedidos_pmp/main.dart';
-import 'package:cpedidos_pmp/src/auth/data/dtos/user_dto.dart';
-import 'package:cpedidos_pmp/src/auth/data/repositories/remote/firebase_auth_remote_repo.dart';
-import 'package:cpedidos_pmp/src/auth/data/repositories/remote/firebase_user_remote_repo.dart';
-import 'package:cpedidos_pmp/src/auth/domain/entities/user.dart';
+import 'package:cpedidos_pmp/src/auth/domain/entities/logged_user.dart';
 import 'package:cpedidos_pmp/src/auth/domain/errors/failures.dart';
-import 'package:cpedidos_pmp/src/auth/domain/repositories/auth_repo.dart';
-import 'package:cpedidos_pmp/src/auth/domain/repositories/user_repo.dart';
+import 'package:cpedidos_pmp/src/auth/domain/repositories/auth_repository.dart';
 import 'package:cpedidos_pmp/src/auth/domain/usecases/do_login.dart';
 import 'package:cpedidos_pmp/src/auth/domain/usecases/do_logout.dart';
 import 'package:cpedidos_pmp/src/auth/domain/usecases/get_current_user.dart';
+import 'package:cpedidos_pmp/src/auth/external/datasources/auth_datasource_impl.dart';
+import 'package:cpedidos_pmp/src/auth/infra/datasources/auth_datasource.dart';
+import 'package:cpedidos_pmp/src/auth/infra/models/logged_user_model.dart';
+import 'package:cpedidos_pmp/src/auth/infra/repositories/auth_repository_impl.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/cubits/auth_cubit.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/cubits/auth_state.dart';
-import 'package:cpedidos_pmp/src/auth/presentation/guards/admin_guard.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/guards/auth_guard.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/guards/guest_guard.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/pages/login_page.dart';

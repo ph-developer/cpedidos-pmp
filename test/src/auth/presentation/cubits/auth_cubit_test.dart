@@ -1,15 +1,14 @@
 import 'package:bloc_test/bloc_test.dart';
-import 'package:flutter_test/flutter_test.dart';
-import 'package:mocktail/mocktail.dart';
-import 'package:result_dart/result_dart.dart';
-
-import 'package:cpedidos_pmp/src/auth/domain/entities/user.dart';
+import 'package:cpedidos_pmp/src/auth/domain/entities/logged_user.dart';
 import 'package:cpedidos_pmp/src/auth/domain/errors/failures.dart';
 import 'package:cpedidos_pmp/src/auth/domain/usecases/do_login.dart';
 import 'package:cpedidos_pmp/src/auth/domain/usecases/do_logout.dart';
 import 'package:cpedidos_pmp/src/auth/domain/usecases/get_current_user.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/cubits/auth_cubit.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/cubits/auth_state.dart';
+import 'package:flutter_test/flutter_test.dart';
+import 'package:mocktail/mocktail.dart';
+import 'package:result_dart/result_dart.dart';
 
 class MockGetCurrentUser extends Mock implements IGetCurrentUser {}
 
@@ -30,7 +29,7 @@ void main() {
     mockDoLogout = MockDoLogout();
   });
 
-  const tUser = User(id: 'id', email: 'email', name: 'name');
+  const tUser = LoggedUser(id: 'id', email: 'email');
   final tAuthFailure = MockAuthFailure();
 
   blocTest<AuthCubit, AuthState>(
@@ -149,7 +148,7 @@ void main() {
     blocTest<AuthCubit, AuthState>(
       'should emits [AuthLoggingOutState, AuthLoggedOutState] when user log out successfull.',
       setUp: () {
-        when(() => mockDoLogout()).thenAnswer((_) async => const Success(true));
+        when(() => mockDoLogout()).thenAnswer((_) async => const Success(unit));
       },
       build: () => AuthCubit(
         mockGetCurrentUser,

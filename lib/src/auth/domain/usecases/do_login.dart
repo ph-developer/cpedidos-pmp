@@ -1,23 +1,27 @@
 import 'package:email_validator/email_validator.dart';
 import 'package:result_dart/result_dart.dart';
 
-import '../entities/user.dart';
+import '../entities/logged_user.dart';
 import '../errors/failures.dart';
-import '../repositories/auth_repo.dart';
-import '../repositories/user_repo.dart';
+import '../repositories/auth_repository.dart';
 
 abstract class IDoLogin {
-  AsyncResult<User, AuthFailure> call(String email, String password);
+  AsyncResult<LoggedUser, AuthFailure> call(
+    String email,
+    String password,
+  );
 }
 
 class DoLogin implements IDoLogin {
-  final IAuthRepo _authRepo;
-  final IUserRepo _userRepo;
+  final IAuthRepository _authRepository;
 
-  DoLogin(this._authRepo, this._userRepo);
+  DoLogin(this._authRepository);
 
   @override
-  AsyncResult<User, AuthFailure> call(String email, String password) async {
+  AsyncResult<LoggedUser, AuthFailure> call(
+    String email,
+    String password,
+  ) async {
     if (email.isEmpty) {
       return const Failure(
         InvalidInput('O campo "email" deve ser preenchido.'),
@@ -36,8 +40,6 @@ class DoLogin implements IDoLogin {
       );
     }
 
-    return _authRepo
-        .login(email, password)
-        .flatMap((userId) => _userRepo.getById(userId));
+    return _authRepository.login(email, password);
   }
 }

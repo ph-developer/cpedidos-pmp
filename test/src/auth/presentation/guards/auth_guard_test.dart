@@ -4,7 +4,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 import 'package:modular_test/modular_test.dart';
 
-import 'package:cpedidos_pmp/src/auth/domain/entities/user.dart';
+import 'package:cpedidos_pmp/src/auth/domain/entities/logged_user.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/cubits/auth_cubit.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/cubits/auth_state.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/guards/auth_guard.dart';
@@ -32,7 +32,7 @@ void main() {
     guard = AuthGuard();
   });
 
-  const tUser = User(id: 'id', email: 'email', name: 'name');
+  const tUser = LoggedUser(id: 'id', email: 'email');
   final tModularRoute = MockModularRoute();
 
   group('canActivate', () {
