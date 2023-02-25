@@ -11,7 +11,8 @@ import '../../domain/services/pdf_service.dart';
 class PdfService implements IPdfService {
   @override
   AsyncResult<Uint8List, OrdersFailure> generateOrdersReport(
-      List<Order> orders) async {
+    List<Order> orders,
+  ) async {
     final pdf = pw.Document(
       theme: pw.ThemeData.withFont(
         base: pw.Font.ttf(
@@ -27,73 +28,70 @@ class PdfService implements IPdfService {
           await rootBundle.load('assets/fonts/OpenSans-BoldItalic.ttf'),
         ),
       ),
-    );
-
-    pdf.addPage(
-      pw.MultiPage(
-        pageFormat: PdfPageFormat.a4,
-        margin: const pw.EdgeInsets.symmetric(horizontal: 18.0, vertical: 26.0),
-        build: (context) => [
-          pw.Row(
-            mainAxisAlignment: pw.MainAxisAlignment.center,
-            children: [
-              pw.Column(
-                crossAxisAlignment: pw.CrossAxisAlignment.center,
-                children: [
-                  pw.Text(
-                    'Listagem de Pedidos para Envio',
-                    style: pw.TextStyle(
-                      fontWeight: pw.FontWeight.bold,
-                      fontSize: 16.0,
+    )..addPage(
+        pw.MultiPage(
+          pageFormat: PdfPageFormat.a4,
+          margin: const pw.EdgeInsets.symmetric(horizontal: 18, vertical: 26),
+          build: (context) => [
+            pw.Row(
+              mainAxisAlignment: pw.MainAxisAlignment.center,
+              children: [
+                pw.Column(
+                  children: [
+                    pw.Text(
+                      'Listagem de Pedidos para Envio',
+                      style: pw.TextStyle(
+                        fontWeight: pw.FontWeight.bold,
+                        fontSize: 16,
+                      ),
                     ),
-                  ),
-                  pw.SizedBox(height: 6.0),
-                  pw.Text(
-                    'Data de Envio: ${orders.first.sendDate}',
-                    style: const pw.TextStyle(
-                      fontSize: 10.0,
+                    pw.SizedBox(height: 6),
+                    pw.Text(
+                      'Data de Envio: ${orders.first.sendDate}',
+                      style: const pw.TextStyle(
+                        fontSize: 10,
+                      ),
                     ),
-                  ),
-                  pw.SizedBox(height: 12.0),
-                ],
-              ),
-            ],
-          ),
-          pw.Table.fromTextArray(
-            context: context,
-            headerAlignments: {
-              0: pw.Alignment.center,
-              1: pw.Alignment.center,
-              2: pw.Alignment.center,
-              3: pw.Alignment.center,
-            },
-            cellAlignments: {
-              0: pw.Alignment.center,
-              1: pw.Alignment.centerLeft,
-              2: pw.Alignment.centerLeft,
-              3: pw.Alignment.centerLeft,
-            },
-            columnWidths: {
-              0: const pw.FixedColumnWidth(50.0),
-              1: const pw.FlexColumnWidth(3.0),
-              2: const pw.FlexColumnWidth(3.0),
-              3: const pw.FlexColumnWidth(9.0),
-            },
-            headers: ['#', 'Secretaria', 'Projeto', 'Descrição'],
-            data: [
-              ...orders.map(
-                (order) => [
-                  '${order.type}\n${order.number}',
-                  order.secretary,
-                  order.project,
-                  order.description,
-                ],
-              ),
-            ],
-          ),
-        ],
-      ),
-    );
+                    pw.SizedBox(height: 12),
+                  ],
+                ),
+              ],
+            ),
+            pw.Table.fromTextArray(
+              context: context,
+              headerAlignments: {
+                0: pw.Alignment.center,
+                1: pw.Alignment.center,
+                2: pw.Alignment.center,
+                3: pw.Alignment.center,
+              },
+              cellAlignments: {
+                0: pw.Alignment.center,
+                1: pw.Alignment.centerLeft,
+                2: pw.Alignment.centerLeft,
+                3: pw.Alignment.centerLeft,
+              },
+              columnWidths: {
+                0: const pw.FixedColumnWidth(50),
+                1: const pw.FlexColumnWidth(3),
+                2: const pw.FlexColumnWidth(3),
+                3: const pw.FlexColumnWidth(9),
+              },
+              headers: ['#', 'Secretaria', 'Projeto', 'Descrição'],
+              data: [
+                ...orders.map(
+                  (order) => [
+                    '${order.type}\n${order.number}',
+                    order.secretary,
+                    order.project,
+                    order.description,
+                  ],
+                ),
+              ],
+            ),
+          ],
+        ),
+      );
 
     final pdfBytes = await pdf.save();
 

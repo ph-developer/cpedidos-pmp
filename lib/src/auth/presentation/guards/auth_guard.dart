@@ -16,6 +16,6 @@ class AuthGuard extends RouteGuard {
       await cubit.stream.first;
     }
 
-    return (cubit.state is AuthLoggedInState);
+    return cubit.state is AuthLoggedInState;
   }
 }

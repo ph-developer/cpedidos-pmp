@@ -1,13 +1,12 @@
 import 'package:bloc_test/bloc_test.dart';
-import 'package:flutter_modular/flutter_modular.dart';
-import 'package:flutter_test/flutter_test.dart';
-import 'package:mocktail/mocktail.dart';
-import 'package:modular_test/modular_test.dart';
-
 import 'package:cpedidos_pmp/src/auth/domain/entities/logged_user.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/cubits/auth_cubit.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/cubits/auth_state.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/guards/auth_guard.dart';
+import 'package:flutter_modular/flutter_modular.dart';
+import 'package:flutter_test/flutter_test.dart';
+import 'package:mocktail/mocktail.dart';
+import 'package:modular_test/modular_test.dart';
 
 class MockAuthCubit extends Mock implements AuthCubit {}
 
@@ -24,9 +23,12 @@ void main() {
   final AuthCubit mockAuthCubit = MockAuthCubit();
   late AuthGuard guard;
 
-  initModule(MockModule(), replaceBinds: [
-    Bind.instance<AuthCubit>(mockAuthCubit),
-  ]);
+  initModule(
+    MockModule(),
+    replaceBinds: [
+      Bind.instance<AuthCubit>(mockAuthCubit),
+    ],
+  );
 
   setUp(() {
     guard = AuthGuard();

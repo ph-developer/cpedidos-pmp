@@ -37,10 +37,12 @@ class OrderRegisterCubit extends Cubit<OrderRegisterState> {
       emit(OrderRegisterLoadedSuccessState(loadedOrder: loadedOrder));
     }, (failure) {
       if (failure is OrderNotFound) {
-        emit(OrderRegisterLoadedEmptyState(
-          typeQuery: type,
-          numberQuery: number,
-        ));
+        emit(
+          OrderRegisterLoadedEmptyState(
+            typeQuery: type,
+            numberQuery: number,
+          ),
+        );
       } else {
         emit(OrderRegisterFailureState(failure: failure));
       }

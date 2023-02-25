@@ -1,7 +1,6 @@
-import 'package:flutter_test/flutter_test.dart';
-
 import 'package:cpedidos_pmp/src/orders/domain/dtos/order_dto.dart';
 import 'package:cpedidos_pmp/src/orders/domain/entities/order.dart';
+import 'package:flutter_test/flutter_test.dart';
 
 void main() {
   group('copyWith', () {
@@ -85,10 +84,6 @@ void main() {
           secretary: '',
           project: '',
           description: '',
-          sendDate: '',
-          returnDate: '',
-          situation: '',
-          notes: '',
         );
         // act
         final result = OrderDTO.empty();

@@ -1,9 +1,8 @@
 import 'dart:typed_data';
 
-import 'package:flutter_test/flutter_test.dart';
-
 import 'package:cpedidos_pmp/src/orders/data/services/pdf_service.dart';
 import 'package:cpedidos_pmp/src/orders/domain/entities/order.dart';
+import 'package:flutter_test/flutter_test.dart';
 
 void main() {
   late PdfService service;

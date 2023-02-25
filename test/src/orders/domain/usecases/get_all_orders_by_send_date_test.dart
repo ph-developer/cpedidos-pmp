@@ -1,11 +1,10 @@
-import 'package:flutter_test/flutter_test.dart';
-import 'package:mocktail/mocktail.dart';
-import 'package:result_dart/result_dart.dart';
-
 import 'package:cpedidos_pmp/src/orders/domain/entities/order.dart';
 import 'package:cpedidos_pmp/src/orders/domain/errors/failures.dart';
 import 'package:cpedidos_pmp/src/orders/domain/repositories/order_repo.dart';
 import 'package:cpedidos_pmp/src/orders/domain/usecases/get_all_orders_by_send_date.dart';
+import 'package:flutter_test/flutter_test.dart';
+import 'package:mocktail/mocktail.dart';
+import 'package:result_dart/result_dart.dart';
 
 class MockOrderRepo extends Mock implements IOrderRepo {}
 
@@ -52,7 +51,7 @@ void main() {
     () async {
       // arrange
       const tSendDateParam = '02/02/2023';
-      const List<Order> tOrderList = [];
+      const tOrderList = <Order>[];
       when(() => mockOrderRepo.getAllBySendDate(tSendDateParam))
           .thenAnswer((_) async => const Success(tOrderList));
       // act

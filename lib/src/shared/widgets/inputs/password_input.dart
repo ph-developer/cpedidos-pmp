@@ -26,9 +26,9 @@ class PasswordInput extends StatefulWidget {
 
 class _PasswordInputState extends State<PasswordInput> {
   final focusNode = FocusNode();
-  var showPassword = false;
+  bool showPassword = false;
 
-  _fixEdgePasswordRevealButton() {
+  void _fixEdgePasswordRevealButton() {
     focusNode.unfocus();
     Future.microtask(() {
       focusNode.requestFocus();
@@ -57,9 +57,9 @@ class _PasswordInputState extends State<PasswordInput> {
         isDense: true,
         enabled: widget.isEnabled,
         suffixIcon: IconButton(
-          icon: Icon(showPassword
-              ? Icons.lock_open_rounded
-              : Icons.lock_outline_rounded),
+          icon: Icon(
+            showPassword ? Icons.lock_open_rounded : Icons.lock_outline_rounded,
+          ),
           onPressed: () {
             setState(() {
               showPassword = !showPassword;

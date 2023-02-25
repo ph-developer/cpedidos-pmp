@@ -64,7 +64,7 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
       () => cubit.search(typeEC.text, numberEC.text),
       500,
     );
-    onChange() async {
+    Future<void> onChange() async {
       if (numberEC.text.isEmpty || typeEC.text.isEmpty) {
         if (typeEC.text == 'SE') {
           await cubit.reset();
@@ -149,7 +149,7 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
           leading: Icon(
             Icons.edit_note_outlined,
             color: Theme.of(context).colorScheme.primary,
-            weight: 2.0,
+            weight: 2,
           ),
           title: Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -170,7 +170,7 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
                         Modular.to.pushReplacementNamed('/pedidos/relatorio'),
                     tooltip: 'Relatório de Pedidos para Envio',
                   ),
-                  const SizedBox(width: 8.0),
+                  const SizedBox(width: 8),
                   LogoutButton(),
                 ],
               ),
@@ -184,7 +184,7 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
                   ? (MediaQuery.of(context).size.width - 1140) / 2
                   : 0,
             ),
-            padding: const EdgeInsets.all(8.0),
+            padding: const EdgeInsets.all(8),
             child: Column(
               children: [
                 _buildSearchFormRow(context),
@@ -213,7 +213,7 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
           children: [
             Flexible(
               child: Padding(
-                padding: const EdgeInsets.all(8.0),
+                padding: const EdgeInsets.all(8),
                 child: TextInput(
                   isEnabled: isEnabled,
                   focusNode: numberFocus,
@@ -232,7 +232,7 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
             ),
             Flexible(
               child: Padding(
-                padding: const EdgeInsets.all(8.0),
+                padding: const EdgeInsets.all(8),
                 child: SelectInput(
                   isEnabled: isEnabled,
                   controller: typeEC,
@@ -267,7 +267,7 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
               children: [
                 Flexible(
                   child: Padding(
-                    padding: const EdgeInsets.all(8.0),
+                    padding: const EdgeInsets.all(8),
                     child: TextInput(
                       isEnabled: isEnabled,
                       controller: arrivalDateEC,
@@ -278,7 +278,7 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
                 ),
                 Flexible(
                   child: Padding(
-                    padding: const EdgeInsets.all(8.0),
+                    padding: const EdgeInsets.all(8),
                     child: TextInput(
                       isEnabled: isEnabled,
                       controller: secretaryEC,
@@ -289,7 +289,7 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
                 ),
                 Flexible(
                   child: Padding(
-                    padding: const EdgeInsets.all(8.0),
+                    padding: const EdgeInsets.all(8),
                     child: TextInput(
                       isEnabled: isEnabled,
                       controller: projectEC,
@@ -304,7 +304,7 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
               children: [
                 Flexible(
                   child: Padding(
-                    padding: const EdgeInsets.all(8.0),
+                    padding: const EdgeInsets.all(8),
                     child: TextAreaInput(
                       isEnabled: isEnabled,
                       controller: descriptionEC,
@@ -320,7 +320,7 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
               children: [
                 Flexible(
                   child: Padding(
-                    padding: const EdgeInsets.all(8.0),
+                    padding: const EdgeInsets.all(8),
                     child: TextInput(
                       isEnabled: isEnabled,
                       controller: sendDateEC,
@@ -331,7 +331,7 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
                 ),
                 Flexible(
                   child: Padding(
-                    padding: const EdgeInsets.all(8.0),
+                    padding: const EdgeInsets.all(8),
                     child: TextInput(
                       isEnabled: isEnabled,
                       controller: returnDateEC,
@@ -342,7 +342,7 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
                 ),
                 Flexible(
                   child: Padding(
-                    padding: const EdgeInsets.all(8.0),
+                    padding: const EdgeInsets.all(8),
                     child: TextInput(
                       isEnabled: isEnabled,
                       controller: situationEC,
@@ -357,7 +357,7 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
               children: [
                 Flexible(
                   child: Padding(
-                    padding: const EdgeInsets.all(8.0),
+                    padding: const EdgeInsets.all(8),
                     child: TextAreaInput(
                       isEnabled: isEnabled,
                       controller: notesEC,
@@ -389,7 +389,7 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
         return Row(
           children: [
             Padding(
-              padding: const EdgeInsets.all(8.0),
+              padding: const EdgeInsets.all(8),
               child: OutlineButton(
                 isEnabled: isEnabled,
                 icon: Icons.save_outlined,
@@ -399,7 +399,7 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
               ),
             ),
             Padding(
-              padding: const EdgeInsets.all(8.0),
+              padding: const EdgeInsets.all(8),
               child: OutlineButton(
                 isEnabled: canClear,
                 icon: Icons.clear_rounded,
@@ -412,7 +412,7 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
               ),
             ),
             Padding(
-              padding: const EdgeInsets.all(8.0),
+              padding: const EdgeInsets.all(8),
               child: OutlineButton(
                 isEnabled: canDelete,
                 icon: Icons.delete_outline_rounded,

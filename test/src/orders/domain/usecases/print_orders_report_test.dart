@@ -1,14 +1,13 @@
 import 'dart:typed_data';
 
-import 'package:flutter_test/flutter_test.dart';
-import 'package:mocktail/mocktail.dart';
-import 'package:result_dart/result_dart.dart';
-
 import 'package:cpedidos_pmp/src/orders/domain/entities/order.dart';
 import 'package:cpedidos_pmp/src/orders/domain/errors/failures.dart';
 import 'package:cpedidos_pmp/src/orders/domain/services/pdf_service.dart';
 import 'package:cpedidos_pmp/src/orders/domain/services/print_service.dart';
 import 'package:cpedidos_pmp/src/orders/domain/usecases/print_orders_report.dart';
+import 'package:flutter_test/flutter_test.dart';
+import 'package:mocktail/mocktail.dart';
+import 'package:result_dart/result_dart.dart';
 
 class MockPdfService extends Mock implements IPdfService {}
 

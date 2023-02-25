@@ -1,11 +1,10 @@
-import 'package:flutter_test/flutter_test.dart';
-import 'package:mocktail/mocktail.dart';
-import 'package:result_dart/result_dart.dart';
-
 import 'package:cpedidos_pmp/src/orders/domain/entities/order.dart';
 import 'package:cpedidos_pmp/src/orders/domain/errors/failures.dart';
 import 'package:cpedidos_pmp/src/orders/domain/repositories/order_repo.dart';
 import 'package:cpedidos_pmp/src/orders/domain/usecases/delete_order.dart';
+import 'package:flutter_test/flutter_test.dart';
+import 'package:mocktail/mocktail.dart';
+import 'package:result_dart/result_dart.dart';
 
 class MockOrderRepo extends Mock implements IOrderRepo {}
 

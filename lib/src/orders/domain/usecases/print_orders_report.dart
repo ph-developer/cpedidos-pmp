@@ -25,6 +25,6 @@ class PrintOrdersReport implements IPrintOrdersReport {
 
     return _pdfService
         .generateOrdersReport(orders)
-        .flatMap((pdfBytes) => _printService.printPdfBytes(pdfBytes));
+        .flatMap(_printService.printPdfBytes);
   }
 }

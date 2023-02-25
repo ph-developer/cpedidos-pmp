@@ -1,6 +1,5 @@
-import 'package:flutter_test/flutter_test.dart';
-
 import 'package:cpedidos_pmp/src/orders/domain/entities/order.dart';
+import 'package:flutter_test/flutter_test.dart';
 
 void main() {
   test(

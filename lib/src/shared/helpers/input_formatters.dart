@@ -7,7 +7,7 @@ extension InputFormatters on TextInputFormatter {
       FilteringTextInputFormatter.digitsOnly;
 
   static TextInputFormatter get digitsAndHyphensOnly =>
-      FilteringTextInputFormatter.allow(RegExp(r'[0-9-]'));
+      FilteringTextInputFormatter.allow(RegExp('[0-9-]'));
 
   static TextInputFormatter get uppercase => TextInputFormatter.withFunction(
         (oldValue, newValue) => TextEditingValue(

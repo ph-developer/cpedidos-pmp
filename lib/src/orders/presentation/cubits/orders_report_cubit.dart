@@ -27,9 +27,7 @@ class OrdersReportCubit extends Cubit<OrdersReportState> {
   Future<void> search(String sendDate) async {
     emit(OrdersReportLoadingState());
 
-    final result = _getAllOrdersBySendDate(sendDate);
-
-    result.fold((orders) {
+    await _getAllOrdersBySendDate(sendDate).fold((orders) {
       emit(OrdersReportLoadedState(orders: orders));
     }, (failure) {
       if (failure is OrdersNotFound) {

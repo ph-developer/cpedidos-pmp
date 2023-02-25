@@ -1,8 +1,4 @@
 import 'package:bloc_test/bloc_test.dart';
-import 'package:flutter_test/flutter_test.dart';
-import 'package:mocktail/mocktail.dart';
-import 'package:result_dart/result_dart.dart';
-
 import 'package:cpedidos_pmp/src/orders/domain/entities/order.dart';
 import 'package:cpedidos_pmp/src/orders/domain/errors/failures.dart';
 import 'package:cpedidos_pmp/src/orders/domain/usecases/delete_order.dart';
@@ -10,6 +6,9 @@ import 'package:cpedidos_pmp/src/orders/domain/usecases/get_order_by_type_and_nu
 import 'package:cpedidos_pmp/src/orders/domain/usecases/save_order.dart';
 import 'package:cpedidos_pmp/src/orders/presentation/cubits/order_register_cubit.dart';
 import 'package:cpedidos_pmp/src/orders/presentation/cubits/order_register_state.dart';
+import 'package:flutter_test/flutter_test.dart';
+import 'package:mocktail/mocktail.dart';
+import 'package:result_dart/result_dart.dart';
 
 class MockSaveOrder extends Mock implements ISaveOrder {}
 

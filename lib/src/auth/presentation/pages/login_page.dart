@@ -67,7 +67,7 @@ class _LoginPageState extends State<LoginPage> {
   Widget _buildLogo(BuildContext context) {
     return Container(
       alignment: Alignment.center,
-      padding: const EdgeInsets.all(16.0),
+      padding: const EdgeInsets.all(16),
       child: SvgPicture.asset(
         'assets/logo.svg',
         height: 70,
@@ -87,7 +87,7 @@ class _LoginPageState extends State<LoginPage> {
               children: [
                 Expanded(
                   child: Padding(
-                    padding: const EdgeInsets.all(8.0),
+                    padding: const EdgeInsets.all(8),
                     child: TextInput(
                       isEnabled: isEnabled,
                       controller: emailEC,
@@ -108,7 +108,7 @@ class _LoginPageState extends State<LoginPage> {
               children: [
                 Expanded(
                   child: Padding(
-                    padding: const EdgeInsets.all(8.0),
+                    padding: const EdgeInsets.all(8),
                     child: PasswordInput(
                       isEnabled: isEnabled,
                       controller: passwordEC,
@@ -140,7 +140,7 @@ class _LoginPageState extends State<LoginPage> {
           children: [
             Expanded(
               child: Padding(
-                padding: const EdgeInsets.all(8.0),
+                padding: const EdgeInsets.all(8),
                 child: OutlineButton(
                   isEnabled: isEnabled,
                   icon: Icons.login_rounded,

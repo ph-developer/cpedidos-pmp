@@ -39,7 +39,7 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
   void initSearchForm() {
     var lastSendDate = '';
 
-    onChange() async {
+    Future<void> onChange() async {
       if (sendDateEC.text.isEmpty) {
         await cubit.reset();
       } else if (lastSendDate != sendDateEC.text) {
@@ -70,7 +70,7 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
           leading: Icon(
             Icons.bar_chart_rounded,
             color: Theme.of(context).colorScheme.primary,
-            weight: 2.0,
+            weight: 2,
           ),
           title: Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -91,7 +91,7 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
                         Modular.to.pushReplacementNamed('/pedidos/cadastro'),
                     tooltip: 'Cadastro de Pedidos',
                   ),
-                  const SizedBox(width: 8.0),
+                  const SizedBox(width: 8),
                   LogoutButton(),
                 ],
               ),
@@ -105,7 +105,7 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
                   ? (MediaQuery.of(context).size.width - 1140) / 2
                   : 0,
             ),
-            padding: const EdgeInsets.all(8.0),
+            padding: const EdgeInsets.all(8),
             child: Column(
               children: [
                 _buildSearchFormRow(context),
@@ -136,7 +136,7 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
           children: [
             Flexible(
               child: Padding(
-                padding: const EdgeInsets.all(8.0),
+                padding: const EdgeInsets.all(8),
                 child: TextInput(
                   isEnabled: isEnabled,
                   focusNode: sendDateFocus,
@@ -155,7 +155,7 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
               ),
             ),
             Padding(
-              padding: const EdgeInsets.all(8.0),
+              padding: const EdgeInsets.all(8),
               child: OutlineButton(
                 isEnabled: isEnabled,
                 icon: Icons.search_rounded,
@@ -165,7 +165,7 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
               ),
             ),
             Padding(
-              padding: const EdgeInsets.all(8.0),
+              padding: const EdgeInsets.all(8),
               child: OutlineButton(
                 isEnabled: canClear,
                 icon: Icons.clear_rounded,
@@ -175,7 +175,7 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
               ),
             ),
             Padding(
-              padding: const EdgeInsets.all(8.0),
+              padding: const EdgeInsets.all(8),
               child: OutlineButton(
                 isEnabled: canPrint,
                 icon: Icons.print_rounded,
@@ -193,7 +193,7 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
 
   Widget _buildDataTableRow(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.all(8.0),
+      padding: const EdgeInsets.all(8),
       child: BlocBuilder<OrdersReportCubit, OrdersReportState>(
         bloc: cubit,
         builder: (context, state) {
@@ -211,13 +211,12 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
             return Table(
               border: TableBorder.all(
                 color: Theme.of(context).colorScheme.onBackground,
-                width: 1.0,
               ),
               columnWidths: const {
-                0: FixedColumnWidth(70.0),
-                1: FlexColumnWidth(3.0),
-                2: FlexColumnWidth(3.0),
-                3: FlexColumnWidth(9.0),
+                0: FixedColumnWidth(70),
+                1: FlexColumnWidth(3),
+                2: FlexColumnWidth(3),
+                3: FlexColumnWidth(9),
               },
               defaultVerticalAlignment: TableCellVerticalAlignment.middle,
               children: [
@@ -225,7 +224,7 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
                   children: [
                     TableCell(
                       child: Padding(
-                        padding: EdgeInsets.all(8.0),
+                        padding: EdgeInsets.all(8),
                         child: Center(
                           child: Text(
                             '#',
@@ -236,7 +235,7 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
                     ),
                     TableCell(
                       child: Padding(
-                        padding: EdgeInsets.all(8.0),
+                        padding: EdgeInsets.all(8),
                         child: Center(
                           child: Text(
                             'Secretaria',
@@ -247,7 +246,7 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
                     ),
                     TableCell(
                       child: Padding(
-                        padding: EdgeInsets.all(8.0),
+                        padding: EdgeInsets.all(8),
                         child: Center(
                           child: Text(
                             'Projeto',
@@ -258,7 +257,7 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
                     ),
                     TableCell(
                       child: Padding(
-                        padding: EdgeInsets.all(8.0),
+                        padding: EdgeInsets.all(8),
                         child: Center(
                           child: Text(
                             'Descrição',
@@ -274,9 +273,8 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
                     children: [
                       TableCell(
                         child: Padding(
-                          padding: const EdgeInsets.all(8.0),
+                          padding: const EdgeInsets.all(8),
                           child: Column(
-                            crossAxisAlignment: CrossAxisAlignment.center,
                             children: [
                               Text(order.type),
                               Text(order.number),
@@ -286,19 +284,19 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
                       ),
                       TableCell(
                         child: Padding(
-                          padding: const EdgeInsets.all(8.0),
+                          padding: const EdgeInsets.all(8),
                           child: Text(order.secretary),
                         ),
                       ),
                       TableCell(
                         child: Padding(
-                          padding: const EdgeInsets.all(8.0),
+                          padding: const EdgeInsets.all(8),
                           child: Text(order.project),
                         ),
                       ),
                       TableCell(
                         child: Padding(
-                          padding: const EdgeInsets.all(8.0),
+                          padding: const EdgeInsets.all(8),
                           child: Text(order.description),
                         ),
                       ),

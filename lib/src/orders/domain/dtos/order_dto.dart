@@ -26,16 +26,12 @@ extension OrderDTO on Order {
         notes: notes ?? this.notes,
       );
 
-  static empty() => const Order(
+  static Order empty() => const Order(
         number: '',
         type: 'SE',
         arrivalDate: '',
         secretary: '',
         project: '',
         description: '',
-        sendDate: '',
-        returnDate: '',
-        situation: '',
-        notes: '',
       );
 }

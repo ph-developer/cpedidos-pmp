@@ -1,6 +1,5 @@
-import 'package:flutter_test/flutter_test.dart';
-
 import 'package:cpedidos_pmp/src/shared/helpers/input_formatters.dart';
+import 'package:flutter_test/flutter_test.dart';
 
 void main() {
   late TextEditingValue textEditingValue;
@@ -18,7 +17,7 @@ void main() {
             'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789\'\\|",<.>;:/?~^[{()}]\$!@#*-_=+%¨&';
         final formatter = InputFormatters.digitsOnly;
         // act
-        for (var char in tChars.split('')) {
+        for (final char in tChars.split('')) {
           textEditingValue = formatter.formatEditUpdate(
             textEditingValue,
             TextEditingValue(text: textEditingValue.text + char),
@@ -40,7 +39,7 @@ void main() {
             '-abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ01234-56789\'\\|",<.>;:/?~^[{()}]\$!@#*-_=+%¨&';
         final formatter = InputFormatters.digitsAndHyphensOnly;
         // act
-        for (var char in tChars.split('')) {
+        for (final char in tChars.split('')) {
           textEditingValue = formatter.formatEditUpdate(
             textEditingValue,
             TextEditingValue(text: textEditingValue.text + char),
@@ -64,7 +63,7 @@ void main() {
             'ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789\'\\|",<.>;:/?~^[{()}]\$!@#*-_=+%¨&';
         final formatter = InputFormatters.uppercase;
         // act
-        for (var char in tChars.split('')) {
+        for (final char in tChars.split('')) {
           textEditingValue = formatter.formatEditUpdate(
             textEditingValue,
             TextEditingValue(text: textEditingValue.text + char),
@@ -86,7 +85,7 @@ void main() {
             'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789\'\\|",<.>;:/?~^[{()}]\$!@#*-_=+%¨&';
         final formatter = InputFormatters.date;
         // act
-        for (var char in tChars.split('')) {
+        for (final char in tChars.split('')) {
           textEditingValue = formatter.formatEditUpdate(
             textEditingValue,
             TextEditingValue(text: textEditingValue.text + char),

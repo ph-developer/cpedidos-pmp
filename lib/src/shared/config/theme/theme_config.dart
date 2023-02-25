@@ -17,7 +17,7 @@ abstract class ThemeConfig {
         inputDecorationTheme: _inputDecorationTheme,
       );
 
-  static get systemTheme =>
+  static ThemeData get systemTheme =>
       WidgetsBinding.instance.window.platformBrightness == Brightness.dark
           ? darkTheme
           : lightTheme;

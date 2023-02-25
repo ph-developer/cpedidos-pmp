@@ -1,4 +1,3 @@
-import 'package:cpedidos_pmp/src/auth/domain/entities/logged_user.dart';
 import 'package:cpedidos_pmp/src/auth/domain/errors/failures.dart';
 import 'package:cpedidos_pmp/src/auth/infra/datasources/auth_datasource.dart';
 import 'package:cpedidos_pmp/src/auth/infra/models/logged_user_model.dart';
@@ -25,7 +24,6 @@ void main() {
   const tEmail = 'test@test.dev';
   const tPassword = 'password';
   const tLoggedUserModel = LoggedUserModel(id: tId, email: tEmail);
-  const tLoggedUser = LoggedUser(id: tId, email: tEmail);
   final tAuthFailure = MockAuthFailure();
 
   group('login', () {

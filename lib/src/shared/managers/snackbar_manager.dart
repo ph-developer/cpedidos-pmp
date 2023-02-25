@@ -18,22 +18,22 @@ class _SnackBarManager {
         mainAxisAlignment: MainAxisAlignment.end,
         children: [
           Material(
-            borderRadius: BorderRadius.circular(6.0),
-            elevation: 6.0,
+            borderRadius: BorderRadius.circular(6),
+            elevation: 6,
             child: ClipRRect(
-              borderRadius: BorderRadius.circular(6.0),
+              borderRadius: BorderRadius.circular(6),
               child: Container(
-                padding: const EdgeInsets.all(8.0),
+                padding: const EdgeInsets.all(8),
                 color: backgroundColor,
                 child: Row(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Padding(
-                      padding: const EdgeInsets.all(8.0),
+                      padding: const EdgeInsets.all(8),
                       child: Row(
                         children: [
                           Icon(icon, color: textColor),
-                          const SizedBox(width: 8.0),
+                          const SizedBox(width: 8),
                           Text(
                             message,
                             style: TextStyle(

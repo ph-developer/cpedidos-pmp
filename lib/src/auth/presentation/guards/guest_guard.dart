@@ -16,6 +16,6 @@ class GuestGuard extends RouteGuard {
       await cubit.stream.first;
     }
 
-    return (cubit.state is AuthLoggedOutState);
+    return cubit.state is AuthLoggedOutState;
   }
 }

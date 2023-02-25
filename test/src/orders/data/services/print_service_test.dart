@@ -1,5 +1,6 @@
 import 'dart:typed_data';
 
+import 'package:cpedidos_pmp/src/orders/data/services/print_service.dart';
 import 'package:flutter/services.dart';
 
 import 'package:flutter_test/flutter_test.dart';
@@ -11,14 +12,18 @@ import 'package:printing/src/interface.dart';
 import 'package:printing/src/printer.dart';
 import 'package:result_dart/result_dart.dart';
 
-import 'package:cpedidos_pmp/src/orders/data/services/print_service.dart';
-
 class MockPrintingPlatform extends Mock
     with MockPlatformInterfaceMixin
     implements PrintingPlatform {
   @override
-  Future<bool> layoutPdf(Printer? printer, LayoutCallback onLayout, String name,
-      PdfPageFormat format, bool dynamicLayout, bool usePrinterSettings) async {
+  Future<bool> layoutPdf(
+    Printer? printer,
+    LayoutCallback onLayout,
+    String name,
+    PdfPageFormat format,
+    bool dynamicLayout,
+    bool usePrinterSettings,
+  ) async {
     return true;
   }
 }
@@ -29,7 +34,7 @@ void main() {
   setUp(() {
     service = PrintService();
     PrintingPlatform.instance = MockPrintingPlatform();
-    registerFallbackValue(const PdfPageFormat(1.0, 1.0));
+    registerFallbackValue(const PdfPageFormat(1, 1));
   });
 
   final tEmptyBytes = Uint8List(0);
