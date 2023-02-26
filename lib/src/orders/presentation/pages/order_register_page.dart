@@ -218,7 +218,7 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
                   focusNode: numberFocus,
                   controller: numberEC,
                   label: 'Número',
-                  formatters: [InputFormatters.digitsAndHyphensOnly],
+                  formatters: [InputFormatters.digitsAndOneHyphenOnly],
                   autofocus: true,
                   suffixIcon: isBusy
                       ? Transform.scale(
@@ -293,7 +293,7 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
                       isEnabled: isEnabled,
                       controller: projectEC,
                       label: 'Projeto',
-                      formatters: [InputFormatters.uppercase],
+                      formatters: [InputFormatters.digitsAndOneDotOnly],
                     ),
                   ),
                 ),

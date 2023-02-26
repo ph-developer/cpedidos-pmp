@@ -32,12 +32,12 @@ import 'package:cpedidos_pmp/src/orders/infra/datasources/order_datasource.dart'
 import 'package:cpedidos_pmp/src/orders/infra/drivers/printer_driver.dart';
 import 'package:cpedidos_pmp/src/orders/infra/repositories/order_repository_impl.dart';
 import 'package:cpedidos_pmp/src/orders/infra/services/report_service_impl.dart';
-import 'package:cpedidos_pmp/src/orders/presentation/cubits/order_register_cubit.dart';
-import 'package:cpedidos_pmp/src/orders/presentation/cubits/order_register_state.dart';
 import 'package:cpedidos_pmp/src/orders/presentation/cubits/orders_report_cubit.dart';
 import 'package:cpedidos_pmp/src/orders/presentation/cubits/orders_report_state.dart';
-import 'package:cpedidos_pmp/src/orders/presentation/pages/order_register_page.dart';
+import 'package:cpedidos_pmp/src/orders/presentation/cubits/order_register_cubit.dart';
+import 'package:cpedidos_pmp/src/orders/presentation/cubits/order_register_state.dart';
 import 'package:cpedidos_pmp/src/orders/presentation/pages/orders_report_page.dart';
+import 'package:cpedidos_pmp/src/orders/presentation/pages/order_register_page.dart';
 import 'package:cpedidos_pmp/src/shared/config/firebase/firebase_config.dart';
 import 'package:cpedidos_pmp/src/shared/config/firebase/firebase_options.g.dart';
 import 'package:cpedidos_pmp/src/shared/config/sentry/sentry_config.dart';
