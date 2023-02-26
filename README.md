@@ -25,7 +25,7 @@
 <br>
 
 ## Binaries for Tests
----
+
 <br>
 
 In the folder 'bin' we have some binaries to help development, they are:
@@ -35,7 +35,7 @@ In the folder 'bin' we have some binaries to help development, they are:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## User for Tests
----
+
 <br>
 
 For testing purposes, we have a user created, which is:
@@ -45,7 +45,7 @@ For testing purposes, we have a user created, which is:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Maintaned by
----
+
 <br>
 <p align="center">
   <a href="https://github.com/ph-developer">
