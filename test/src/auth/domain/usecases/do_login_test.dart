@@ -18,18 +18,18 @@ void main() {
   });
 
   final tAuthFailure = MockAuthFailure();
-  const tLoggedUser = LoggedUser(id: 'id', email: 'email@example.com');
+  const tEmail = 'test@test.dev';
+  const tPassword = 'password';
+  const tLoggedUser = LoggedUser(id: 'id', email: tEmail);
 
   test(
     'should return a LoggedUser on successfull login.',
     () async {
       // arrange
-      const tUserEmail = 'email@example.com';
-      const tUserPassword = '1234';
-      when(() => mockAuthRepository.login(tUserEmail, tUserPassword))
+      when(() => mockAuthRepository.login(tEmail, tPassword))
           .thenAnswer((_) async => const Success(tLoggedUser));
       // act
-      final result = await usecase(tUserEmail, tUserPassword);
+      final result = await usecase(tEmail, tPassword);
       // assert
       expect(result.getOrNull(), equals(tLoggedUser));
     },
@@ -38,11 +38,8 @@ void main() {
   test(
     'should return an InvalidInput failure when email param is empty.',
     () async {
-      // arrange
-      const tUserEmail = '';
-      const tUserPassword = '1234';
       // act
-      final result = await usecase(tUserEmail, tUserPassword);
+      final result = await usecase('', tPassword);
       // assert
       expect(result.exceptionOrNull(), isA<InvalidInput>());
     },
@@ -51,11 +48,8 @@ void main() {
   test(
     'should return an InvalidInput failure when password param is empty.',
     () async {
-      // arrange
-      const tUserEmail = 'email@example.com';
-      const tUserPassword = '';
       // act
-      final result = await usecase(tUserEmail, tUserPassword);
+      final result = await usecase(tEmail, '');
       // assert
       expect(result.exceptionOrNull(), isA<InvalidInput>());
     },
@@ -64,11 +58,8 @@ void main() {
   test(
     'should return an InvalidInput failure when email param is invalid.',
     () async {
-      // arrange
-      const tUserEmail = 'invalid_email';
-      const tUserPassword = '1234';
       // act
-      final result = await usecase(tUserEmail, tUserPassword);
+      final result = await usecase('invalid', tPassword);
       // assert
       expect(result.exceptionOrNull(), isA<InvalidInput>());
     },
@@ -78,12 +69,10 @@ void main() {
     'should return a failure when repository returns a failure.',
     () async {
       // arrange
-      const tUserEmail = 'email@example.com';
-      const tUserPassword = '1234';
-      when(() => mockAuthRepository.login(tUserEmail, tUserPassword))
+      when(() => mockAuthRepository.login(tEmail, tPassword))
           .thenAnswer((_) async => Failure(tAuthFailure));
       // act
-      final result = await usecase(tUserEmail, tUserPassword);
+      final result = await usecase(tEmail, tPassword);
       // assert
       expect(result.exceptionOrNull(), equals(tAuthFailure));
     },
