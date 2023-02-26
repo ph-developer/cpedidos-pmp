@@ -2,16 +2,16 @@ import 'package:result_dart/result_dart.dart';
 
 import '../entities/order.dart';
 import '../errors/failures.dart';
-import '../repositories/order_repo.dart';
+import '../repositories/order_repository.dart';
 
 abstract class ISaveOrder {
   AsyncResult<Order, OrdersFailure> call(Order order);
 }
 
 class SaveOrder implements ISaveOrder {
-  final IOrderRepo _orderRepo;
+  final IOrderRepository _orderRepository;
 
-  SaveOrder(this._orderRepo);
+  SaveOrder(this._orderRepository);
 
   @override
   AsyncResult<Order, OrdersFailure> call(Order order) async {
@@ -51,6 +51,6 @@ class SaveOrder implements ISaveOrder {
       );
     }
 
-    return _orderRepo.save(order);
+    return _orderRepository.saveOrder(order);
   }
 }

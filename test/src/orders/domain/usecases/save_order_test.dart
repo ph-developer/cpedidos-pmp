@@ -1,52 +1,50 @@
 import 'package:cpedidos_pmp/src/orders/domain/entities/order.dart';
 import 'package:cpedidos_pmp/src/orders/domain/errors/failures.dart';
-import 'package:cpedidos_pmp/src/orders/domain/repositories/order_repo.dart';
+import 'package:cpedidos_pmp/src/orders/domain/repositories/order_repository.dart';
 import 'package:cpedidos_pmp/src/orders/domain/usecases/save_order.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 import 'package:result_dart/result_dart.dart';
 
-class MockOrderRepo extends Mock implements IOrderRepo {}
-
-class MockOrdersFailure extends Mock implements OrdersFailure {}
+import '../../mocks.dart';
 
 void main() {
-  late IOrderRepo mockOrderRepo;
+  late IOrderRepository mockOrderRepository;
   late SaveOrder usecase;
 
   setUp(() {
-    mockOrderRepo = MockOrderRepo();
-    usecase = SaveOrder(mockOrderRepo);
+    mockOrderRepository = MockOrderRepository();
+    usecase = SaveOrder(mockOrderRepository);
   });
 
   final tOrdersFailure = MockOrdersFailure();
+  const tOrder = Order(
+    number: 'number',
+    type: 'type',
+    arrivalDate: 'arrivalDate',
+    secretary: 'secretary',
+    project: 'project',
+    description: 'description',
+  );
 
   test(
     'should return an order on successfull saving.',
     () async {
       // arrange
-      const tOrderParam = Order(
-        number: 'number',
-        type: 'type',
-        arrivalDate: 'arrivalDate',
-        secretary: 'secretary',
-        project: 'project',
-        description: 'description',
-      );
-      when(() => mockOrderRepo.save(tOrderParam))
-          .thenAnswer((_) async => const Success(tOrderParam));
+      when(() => mockOrderRepository.saveOrder(tOrder))
+          .thenAnswer((_) async => const Success(tOrder));
       // act
-      final result = await usecase(tOrderParam);
+      final result = await usecase(tOrder);
       // assert
-      expect(result.getOrNull(), equals(tOrderParam));
+      expect(result.getOrNull(), equals(tOrder));
     },
   );
 
   test(
-    'should return an InvalidInput failure when order number param is empty.',
+    'should return an InvalidInput failure when number param is empty.',
     () async {
       // arrange
-      const tOrderParam = Order(
+      const tOrder = Order(
         number: '',
         type: 'type',
         arrivalDate: 'arrivalDate',
@@ -55,17 +53,17 @@ void main() {
         description: 'description',
       );
       // act
-      final result = await usecase(tOrderParam);
+      final result = await usecase(tOrder);
       // assert
       expect(result.exceptionOrNull(), isA<InvalidInput>());
     },
   );
 
   test(
-    'should return an InvalidInput failure when order type param is empty.',
+    'should return an InvalidInput failure when type param is empty.',
     () async {
       // arrange
-      const tOrderParam = Order(
+      const tOrder = Order(
         number: 'number',
         type: '',
         arrivalDate: 'arrivalDate',
@@ -74,17 +72,17 @@ void main() {
         description: 'description',
       );
       // act
-      final result = await usecase(tOrderParam);
+      final result = await usecase(tOrder);
       // assert
       expect(result.exceptionOrNull(), isA<InvalidInput>());
     },
   );
 
   test(
-    'should return an InvalidInput failure when order arrivalDate param is empty.',
+    'should return an InvalidInput failure when arrivalDate param is empty.',
     () async {
       // arrange
-      const tOrderParam = Order(
+      const tOrder = Order(
         number: 'number',
         type: 'type',
         arrivalDate: '',
@@ -93,17 +91,17 @@ void main() {
         description: 'description',
       );
       // act
-      final result = await usecase(tOrderParam);
+      final result = await usecase(tOrder);
       // assert
       expect(result.exceptionOrNull(), isA<InvalidInput>());
     },
   );
 
   test(
-    'should return an InvalidInput failure when order secretary param is empty.',
+    'should return an InvalidInput failure when secretary param is empty.',
     () async {
       // arrange
-      const tOrderParam = Order(
+      const tOrder = Order(
         number: 'number',
         type: 'type',
         arrivalDate: 'arrivalDate',
@@ -112,17 +110,17 @@ void main() {
         description: 'description',
       );
       // act
-      final result = await usecase(tOrderParam);
+      final result = await usecase(tOrder);
       // assert
       expect(result.exceptionOrNull(), isA<InvalidInput>());
     },
   );
 
   test(
-    'should return an InvalidInput failure when order project param is empty.',
+    'should return an InvalidInput failure when project param is empty.',
     () async {
       // arrange
-      const tOrderParam = Order(
+      const tOrder = Order(
         number: 'number',
         type: 'type',
         arrivalDate: 'arrivalDate',
@@ -131,17 +129,17 @@ void main() {
         description: 'description',
       );
       // act
-      final result = await usecase(tOrderParam);
+      final result = await usecase(tOrder);
       // assert
       expect(result.exceptionOrNull(), isA<InvalidInput>());
     },
   );
 
   test(
-    'should return an InvalidInput failure when order description param is empty.',
+    'should return an InvalidInput failure when description param is empty.',
     () async {
       // arrange
-      const tOrderParam = Order(
+      const tOrder = Order(
         number: 'number',
         type: 'type',
         arrivalDate: 'arrivalDate',
@@ -150,28 +148,20 @@ void main() {
         description: '',
       );
       // act
-      final result = await usecase(tOrderParam);
+      final result = await usecase(tOrder);
       // assert
       expect(result.exceptionOrNull(), isA<InvalidInput>());
     },
   );
 
   test(
-    'should return an orders failure when order repo returns an orders failure.',
+    'should return a failure when repository returns a failure.',
     () async {
       // arrange
-      const tOrderParam = Order(
-        number: 'number',
-        type: 'type',
-        arrivalDate: 'arrivalDate',
-        secretary: 'secretary',
-        project: 'project',
-        description: 'description',
-      );
-      when(() => mockOrderRepo.save(tOrderParam))
+      when(() => mockOrderRepository.saveOrder(tOrder))
           .thenAnswer((_) async => Failure(tOrdersFailure));
       // act
-      final result = await usecase(tOrderParam);
+      final result = await usecase(tOrder);
       // assert
       expect(result.exceptionOrNull(), equals(tOrdersFailure));
     },

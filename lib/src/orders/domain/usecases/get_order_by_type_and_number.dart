@@ -2,16 +2,16 @@ import 'package:result_dart/result_dart.dart';
 
 import '../entities/order.dart';
 import '../errors/failures.dart';
-import '../repositories/order_repo.dart';
+import '../repositories/order_repository.dart';
 
 abstract class IGetOrderByTypeAndNumber {
   AsyncResult<Order, OrdersFailure> call(String type, String number);
 }
 
 class GetOrderByTypeAndNumber implements IGetOrderByTypeAndNumber {
-  final IOrderRepo _orderRepo;
+  final IOrderRepository _orderRepository;
 
-  GetOrderByTypeAndNumber(this._orderRepo);
+  GetOrderByTypeAndNumber(this._orderRepository);
 
   @override
   AsyncResult<Order, OrdersFailure> call(String type, String number) async {
@@ -27,6 +27,6 @@ class GetOrderByTypeAndNumber implements IGetOrderByTypeAndNumber {
       );
     }
 
-    return _orderRepo.getByTypeAndNumber(type, number);
+    return _orderRepository.getOrderByTypeAndNumber(type, number);
   }
 }

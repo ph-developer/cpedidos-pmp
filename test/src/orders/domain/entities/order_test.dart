@@ -3,7 +3,7 @@ import 'package:flutter_test/flutter_test.dart';
 
 void main() {
   test(
-    'should return true when all order props are equals.',
+    'should return true when all props are equals.',
     () async {
       // arrange
       const tOrderA = Order(
@@ -30,7 +30,7 @@ void main() {
   );
 
   test(
-    'should return false when any order prop are different.',
+    'should return false when any prop are different.',
     () async {
       // arrange
       const tOrderA = Order(

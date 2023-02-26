@@ -64,7 +64,7 @@ class OrderRegisterCubit extends Cubit<OrderRegisterState> {
   Future<void> delete(Order order) async {
     emit(OrderRegisterDeletingState());
 
-    final result = await _deleteOrder(order);
+    final result = await _deleteOrder(order.type, order.number);
 
     result.fold((success) {
       emit(OrderRegisterDeletedState());

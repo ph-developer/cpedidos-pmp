@@ -1,5 +1,5 @@
-import 'package:cpedidos_pmp/src/orders/data/dtos/order_dto.dart';
 import 'package:cpedidos_pmp/src/orders/domain/entities/order.dart';
+import 'package:cpedidos_pmp/src/orders/external/dtos/order_dto.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
@@ -50,20 +50,6 @@ void main() {
         // assert
         expect(result, isA<Order>());
         expect(result, equals(tOrder));
-      },
-    );
-  });
-
-  group('id', () {
-    test(
-      'should return an string containing order type and number.',
-      () async {
-        // act
-        final result = tOrder.id;
-        // assert
-        expect(result, isA<String>());
-        expect(result, contains(tOrder.type));
-        expect(result, contains(tOrder.number));
       },
     );
   });

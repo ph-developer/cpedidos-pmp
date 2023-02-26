@@ -186,8 +186,8 @@ void main() {
     blocTest<OrderRegisterCubit, OrderRegisterState>(
       'should emits [OrderRegisterDeletingState, OrderRegisterDeletedState] when save order successfull.',
       setUp: () {
-        when(() => mockDeleteOrder(tOrder))
-            .thenAnswer((_) async => const Success(true));
+        when(() => mockDeleteOrder(tOrder.type, tOrder.number))
+            .thenAnswer((_) async => const Success(unit));
       },
       build: () => OrderRegisterCubit(
         mockSaveOrder,
@@ -204,7 +204,7 @@ void main() {
     blocTest<OrderRegisterCubit, OrderRegisterState>(
       'should emits [OrderRegisterDeletingState, OrderRegisterFailureState] when usecase return a failure.',
       setUp: () {
-        when(() => mockDeleteOrder(tOrder))
+        when(() => mockDeleteOrder(tOrder.type, tOrder.number))
             .thenAnswer((_) async => Failure(tOrdersFailure));
       },
       build: () => OrderRegisterCubit(
