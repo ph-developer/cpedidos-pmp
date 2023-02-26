@@ -1,7 +1,7 @@
 name: cpedidos_pmp
 description: Controle de Pedidos da Prefeitura Municipal de Penápolis.
 publish_to: 'none'
-version: 1.2.1+2
+version: 1.2.1+3
 
 environment:
   sdk: '>=2.19.0 <3.0.0'
