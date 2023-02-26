@@ -116,9 +116,9 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
     return BlocListener<OrderRegisterCubit, OrderRegisterState>(
       bloc: cubit,
       listener: (context, state) {
-        if (state is OrderRegisterDirtyState) {
+        if (state is DirtyState) {
           clearDataForm();
-        } else if (state is OrderRegisterLoadedSuccessState) {
+        } else if (state is LoadedSuccessState) {
           if (numberEC.text != state.loadedOrder.number ||
               typeEC.text != state.loadedOrder.type) return;
           arrivalDateEC.text = state.loadedOrder.arrivalDate;
@@ -129,18 +129,18 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
           returnDateEC.text = state.loadedOrder.returnDate;
           situationEC.text = state.loadedOrder.situation;
           notesEC.text = state.loadedOrder.notes;
-        } else if (state is OrderRegisterLoadedEmptyState) {
+        } else if (state is LoadedEmptyState) {
           if (numberEC.text != state.numberQuery ||
               typeEC.text != state.typeQuery) return;
           clearDataForm();
-        } else if (state is OrderRegisterSavedState) {
+        } else if (state is SavedState) {
           context.showSuccessSnackBar('Pedido salvo com sucesso.');
           cubit.search(typeEC.text, numberEC.text);
-        } else if (state is OrderRegisterDeletedState) {
+        } else if (state is DeletedState) {
           context.showSuccessSnackBar('Pedido excluído com sucesso.');
           clearDataForm();
           clearSearchForm();
-        } else if (state is OrderRegisterFailureState) {
+        } else if (state is FailureState) {
           context.showErrorSnackBar(state.failure.message);
         }
       },
@@ -202,12 +202,11 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
     return BlocBuilder<OrderRegisterCubit, OrderRegisterState>(
       bloc: cubit,
       builder: (context, state) {
-        final isEnabled = state is! OrderRegisterSavingState &&
-            state is! OrderRegisterDeletingState;
+        final isEnabled = state is! SavingState && state is! DeletingState;
 
-        final isBusy = state is OrderRegisterLoadingState ||
-            state is OrderRegisterSavingState ||
-            state is OrderRegisterDeletingState;
+        final isBusy = state is LoadingState ||
+            state is SavingState ||
+            state is DeletingState;
 
         return Row(
           children: [
@@ -257,9 +256,9 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
     return BlocBuilder<OrderRegisterCubit, OrderRegisterState>(
       bloc: cubit,
       builder: (context, state) {
-        final isEnabled = state is OrderRegisterLoadedSuccessState ||
-            state is OrderRegisterLoadedEmptyState ||
-            state is OrderRegisterFailureState;
+        final isEnabled = state is LoadedSuccessState ||
+            state is LoadedEmptyState ||
+            state is FailureState;
 
         return Column(
           children: [
@@ -379,12 +378,12 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
     return BlocBuilder<OrderRegisterCubit, OrderRegisterState>(
       bloc: cubit,
       builder: (context, state) {
-        final isEnabled = state is OrderRegisterLoadedSuccessState ||
-            state is OrderRegisterLoadedEmptyState ||
-            state is OrderRegisterFailureState;
+        final isEnabled = state is LoadedSuccessState ||
+            state is LoadedEmptyState ||
+            state is FailureState;
 
-        final canClear = isEnabled || state is OrderRegisterDirtyState;
-        final canDelete = isEnabled && state is OrderRegisterLoadedSuccessState;
+        final canClear = isEnabled || state is DirtyState;
+        final canDelete = isEnabled && state is LoadedSuccessState;
 
         return Row(
           children: [

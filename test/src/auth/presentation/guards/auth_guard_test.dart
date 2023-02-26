@@ -43,7 +43,7 @@ void main() {
       () async {
         // arrange
         when(() => mockAuthCubit.state)
-            .thenReturn(AuthLoggedInState(loggedUser: tUser));
+            .thenReturn(LoggedInState(loggedUser: tUser));
         // act
         final result = await guard.canActivate('', tModularRoute);
         // assert
@@ -55,7 +55,7 @@ void main() {
       'should return false when auth cubit state is AuthLoggedOutState.',
       () async {
         // arrange
-        when(() => mockAuthCubit.state).thenReturn(AuthLoggedOutState());
+        when(() => mockAuthCubit.state).thenReturn(LoggedOutState());
         // act
         final result = await guard.canActivate('', tModularRoute);
         // assert
@@ -69,8 +69,8 @@ void main() {
         // arrange
         whenListen(
           mockAuthCubit,
-          Stream.fromIterable([AuthLoggedInState(loggedUser: tUser)]),
-          initialState: AuthLoadingState(),
+          Stream.fromIterable([LoggedInState(loggedUser: tUser)]),
+          initialState: LoadingState(),
         );
         // act
         final result = await guard.canActivate('', tModularRoute);

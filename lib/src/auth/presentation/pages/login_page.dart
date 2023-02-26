@@ -36,9 +36,9 @@ class _LoginPageState extends State<LoginPage> {
     return BlocListener<AuthCubit, AuthState>(
       bloc: cubit,
       listener: (context, state) {
-        if (state is AuthLoggedInState) {
+        if (state is LoggedInState) {
           Modular.to.pushReplacementNamed('/pedidos/cadastro');
-        } else if (state is AuthFailureState) {
+        } else if (state is FailureState) {
           context.showErrorSnackBar(state.failure.message);
         }
       },
@@ -79,7 +79,7 @@ class _LoginPageState extends State<LoginPage> {
     return BlocBuilder<AuthCubit, AuthState>(
       bloc: cubit,
       builder: (context, state) {
-        final isEnabled = state is! AuthLoggingInState;
+        final isEnabled = state is! LoggingInState;
 
         return Column(
           children: [
@@ -134,7 +134,7 @@ class _LoginPageState extends State<LoginPage> {
     return BlocBuilder<AuthCubit, AuthState>(
       bloc: cubit,
       builder: (context, state) {
-        final isEnabled = state is! AuthLoggingInState;
+        final isEnabled = state is! LoggingInState;
 
         return Row(
           children: [

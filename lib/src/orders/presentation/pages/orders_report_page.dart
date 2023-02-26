@@ -61,7 +61,7 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
     return BlocListener<OrdersReportCubit, OrdersReportState>(
       bloc: cubit,
       listener: (context, state) {
-        if (state is OrdersReportFailureState) {
+        if (state is FailureState) {
           context.showErrorSnackBar(state.failure.message);
         }
       },
@@ -122,15 +122,14 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
     return BlocBuilder<OrdersReportCubit, OrdersReportState>(
       bloc: cubit,
       builder: (context, state) {
-        final isEnabled = state is! OrdersReportLoadingState;
-        final isBusy = state is OrdersReportLoadingState;
+        final isEnabled = state is! LoadingState;
+        final isBusy = state is LoadingState;
         final canClear = isEnabled &&
-            (state is OrdersReportDirtyState ||
-                state is OrdersReportLoadedState ||
-                state is OrdersReportFailureState);
-        final canPrint = isEnabled &&
-            state is OrdersReportLoadedState &&
-            state.orders.isNotEmpty;
+            (state is DirtyState ||
+                state is LoadedState ||
+                state is FailureState);
+        final canPrint =
+            isEnabled && state is LoadedState && state.orders.isNotEmpty;
 
         return Row(
           children: [
@@ -197,12 +196,12 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
       child: BlocBuilder<OrdersReportCubit, OrdersReportState>(
         bloc: cubit,
         builder: (context, state) {
-          if (state is OrdersReportLoadedState) {
+          if (state is LoadedState) {
             if (state.orders.isEmpty) {
               return Row(
                 children: const [
                   Text(
-                    'Não foi encontrado nenhum pedido enviado na data informada.',
+                    'Não foram encontrados pedidos enviados na data informada.',
                   ),
                 ],
               );

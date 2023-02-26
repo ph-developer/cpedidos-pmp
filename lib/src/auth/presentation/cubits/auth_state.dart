@@ -5,44 +5,44 @@ import '../../domain/errors/failures.dart';
 
 abstract class AuthState extends Equatable {}
 
-class AuthInitialState extends AuthState {
+class InitialState extends AuthState {
   @override
   List<Object> get props => [];
 }
 
-class AuthLoadingState extends AuthState {
+class LoadingState extends AuthState {
   @override
   List<Object> get props => [];
 }
 
-class AuthLoggingInState extends AuthState {
+class LoggingInState extends AuthState {
   @override
   List<Object> get props => [];
 }
 
-class AuthLoggedInState extends AuthState {
+class LoggedInState extends AuthState {
   final LoggedUser loggedUser;
 
-  AuthLoggedInState({required this.loggedUser});
+  LoggedInState({required this.loggedUser});
 
   @override
   List<Object> get props => [loggedUser];
 }
 
-class AuthLoggingOutState extends AuthState {
+class LoggingOutState extends AuthState {
   @override
   List<Object> get props => [];
 }
 
-class AuthLoggedOutState extends AuthState {
+class LoggedOutState extends AuthState {
   @override
   List<Object> get props => [];
 }
 
-class AuthFailureState extends AuthState {
+class FailureState extends AuthState {
   final AuthFailure failure;
 
-  AuthFailureState({required this.failure});
+  FailureState({required this.failure});
 
   @override
   List<Object> get props => [failure];

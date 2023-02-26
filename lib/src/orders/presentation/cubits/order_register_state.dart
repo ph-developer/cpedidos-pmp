@@ -5,35 +5,35 @@ import '../../domain/errors/failures.dart';
 
 abstract class OrderRegisterState extends Equatable {}
 
-class OrderRegisterInitialState extends OrderRegisterState {
+class InitialState extends OrderRegisterState {
   @override
   List<Object> get props => [];
 }
 
-class OrderRegisterDirtyState extends OrderRegisterState {
+class DirtyState extends OrderRegisterState {
   @override
   List<Object> get props => [];
 }
 
-class OrderRegisterLoadingState extends OrderRegisterState {
+class LoadingState extends OrderRegisterState {
   @override
   List<Object> get props => [];
 }
 
-class OrderRegisterLoadedSuccessState extends OrderRegisterState {
+class LoadedSuccessState extends OrderRegisterState {
   final Order loadedOrder;
 
-  OrderRegisterLoadedSuccessState({required this.loadedOrder});
+  LoadedSuccessState({required this.loadedOrder});
 
   @override
   List<Object> get props => [loadedOrder];
 }
 
-class OrderRegisterLoadedEmptyState extends OrderRegisterState {
+class LoadedEmptyState extends OrderRegisterState {
   final String numberQuery;
   final String typeQuery;
 
-  OrderRegisterLoadedEmptyState({
+  LoadedEmptyState({
     required this.numberQuery,
     required this.typeQuery,
   });
@@ -42,30 +42,30 @@ class OrderRegisterLoadedEmptyState extends OrderRegisterState {
   List<Object> get props => [numberQuery, typeQuery];
 }
 
-class OrderRegisterSavingState extends OrderRegisterState {
+class SavingState extends OrderRegisterState {
   @override
   List<Object> get props => [];
 }
 
-class OrderRegisterSavedState extends OrderRegisterState {
+class SavedState extends OrderRegisterState {
   @override
   List<Object> get props => [];
 }
 
-class OrderRegisterDeletingState extends OrderRegisterState {
+class DeletingState extends OrderRegisterState {
   @override
   List<Object> get props => [];
 }
 
-class OrderRegisterDeletedState extends OrderRegisterState {
+class DeletedState extends OrderRegisterState {
   @override
   List<Object> get props => [];
 }
 
-class OrderRegisterFailureState extends OrderRegisterState {
+class FailureState extends OrderRegisterState {
   final OrdersFailure failure;
 
-  OrderRegisterFailureState({required this.failure});
+  FailureState({required this.failure});
 
   @override
   List<Object> get props => [failure];

@@ -17,59 +17,59 @@ class OrderRegisterCubit extends Cubit<OrderRegisterState> {
     this._saveOrder,
     this._deleteOrder,
     this._getOrderByTypeAndNumber,
-  ) : super(OrderRegisterInitialState());
+  ) : super(InitialState());
 
   Future<void> reset() async {
-    emit(OrderRegisterInitialState());
+    emit(InitialState());
   }
 
   Future<void> setDirty() async {
-    emit(OrderRegisterDirtyState());
+    emit(DirtyState());
   }
 
   Future<void> search(String type, String number) async {
     if (type.isEmpty || number.isEmpty) return;
-    emit(OrderRegisterLoadingState());
+    emit(LoadingState());
 
     final result = await _getOrderByTypeAndNumber(type, number);
 
     result.fold((loadedOrder) {
-      emit(OrderRegisterLoadedSuccessState(loadedOrder: loadedOrder));
+      emit(LoadedSuccessState(loadedOrder: loadedOrder));
     }, (failure) {
       if (failure is OrderNotFound) {
         emit(
-          OrderRegisterLoadedEmptyState(
+          LoadedEmptyState(
             typeQuery: type,
             numberQuery: number,
           ),
         );
       } else {
-        emit(OrderRegisterFailureState(failure: failure));
+        emit(FailureState(failure: failure));
       }
     });
   }
 
   Future<void> save(Order order) async {
-    emit(OrderRegisterSavingState());
+    emit(SavingState());
 
     final result = await _saveOrder(order);
 
     result.fold((success) {
-      emit(OrderRegisterSavedState());
+      emit(SavedState());
     }, (failure) {
-      emit(OrderRegisterFailureState(failure: failure));
+      emit(FailureState(failure: failure));
     });
   }
 
   Future<void> delete(Order order) async {
-    emit(OrderRegisterDeletingState());
+    emit(DeletingState());
 
     final result = await _deleteOrder(order.type, order.number);
 
     result.fold((success) {
-      emit(OrderRegisterDeletedState());
+      emit(DeletedState());
     }, (failure) {
-      emit(OrderRegisterFailureState(failure: failure));
+      emit(FailureState(failure: failure));
     });
   }
 }
