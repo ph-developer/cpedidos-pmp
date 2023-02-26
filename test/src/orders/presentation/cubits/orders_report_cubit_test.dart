@@ -1,14 +1,13 @@
 import 'package:bloc_test/bloc_test.dart';
-import 'package:flutter_test/flutter_test.dart';
-import 'package:mocktail/mocktail.dart';
-import 'package:result_dart/result_dart.dart';
-
 import 'package:cpedidos_pmp/src/orders/domain/entities/order.dart';
 import 'package:cpedidos_pmp/src/orders/domain/errors/failures.dart';
 import 'package:cpedidos_pmp/src/orders/domain/usecases/get_all_orders_by_send_date.dart';
 import 'package:cpedidos_pmp/src/orders/domain/usecases/print_orders_report.dart';
 import 'package:cpedidos_pmp/src/orders/presentation/cubits/orders_report_cubit.dart';
 import 'package:cpedidos_pmp/src/orders/presentation/cubits/orders_report_state.dart';
+import 'package:flutter_test/flutter_test.dart';
+import 'package:mocktail/mocktail.dart';
+import 'package:result_dart/result_dart.dart';
 
 class MockGetAllOrdersBySendDate extends Mock
     implements IGetAllOrdersBySendDate {}
@@ -40,31 +39,31 @@ void main() {
 
   group('reset', () {
     blocTest<OrdersReportCubit, OrdersReportState>(
-      'should emits [OrdersReportInitialState] when called.',
+      'should emits [InitialState] when called.',
       build: () => OrdersReportCubit(
         mockGetAllOrdersBySendDate,
         mockPrintOrdersReport,
       ),
       act: (cubit) => cubit.reset(),
-      expect: () => [OrdersReportInitialState()],
+      expect: () => [InitialState()],
     );
   });
 
   group('setDirty', () {
     blocTest<OrdersReportCubit, OrdersReportState>(
-      'should emits [OrdersReportDirtyState] when called.',
+      'should emits [DirtyState] when called.',
       build: () => OrdersReportCubit(
         mockGetAllOrdersBySendDate,
         mockPrintOrdersReport,
       ),
       act: (cubit) => cubit.setDirty(),
-      expect: () => [OrdersReportDirtyState()],
+      expect: () => [DirtyState()],
     );
   });
 
   group('search', () {
     blocTest<OrdersReportCubit, OrdersReportState>(
-      'should emits [OrdersReportLoadingState, OrdersReportLoadedState] when find orders.',
+      'should emits [LoadingState, LoadedState] when find orders.',
       setUp: () {
         when(() => mockGetAllOrdersBySendDate(any()))
             .thenAnswer((_) async => Success(tFilledOrdersList));
@@ -75,13 +74,13 @@ void main() {
       ),
       act: (cubit) => cubit.search('date'),
       expect: () => [
-        OrdersReportLoadingState(),
-        OrdersReportLoadedState(orders: tFilledOrdersList),
+        LoadingState(),
+        LoadedState(orders: tFilledOrdersList),
       ],
     );
 
     blocTest<OrdersReportCubit, OrdersReportState>(
-      'should emits [OrdersReportLoadingState, OrdersReportLoadedState] when not find orders.',
+      'should emits [LoadingState, LoadedState] when not find orders.',
       setUp: () {
         when(() => mockGetAllOrdersBySendDate(any()))
             .thenAnswer((_) async => const Failure(OrdersNotFound()));
@@ -92,13 +91,14 @@ void main() {
       ),
       act: (cubit) => cubit.search('date'),
       expect: () => [
-        OrdersReportLoadingState(),
-        OrdersReportLoadedState(orders: tEmptyOrdersList),
+        LoadingState(),
+        LoadedState(orders: tEmptyOrdersList),
       ],
     );
 
     blocTest<OrdersReportCubit, OrdersReportState>(
-      'should emits [OrdersReportLoadingState, OrdersReportFailureState] when usecase return a failure (not OrdersNotFound).',
+      'should emits [LoadingState, FailureState] when usecase return a failure'
+      ' (not OrdersNotFound).',
       setUp: () {
         when(() => mockGetAllOrdersBySendDate(any()))
             .thenAnswer((_) async => Failure(tOrdersFailure));
@@ -109,29 +109,29 @@ void main() {
       ),
       act: (cubit) => cubit.search('date'),
       expect: () => [
-        OrdersReportLoadingState(),
-        OrdersReportFailureState(failure: tOrdersFailure),
+        LoadingState(),
+        FailureState(failure: tOrdersFailure),
       ],
     );
   });
 
   group('printReport', () {
     blocTest<OrdersReportCubit, OrdersReportState>(
-      'should emits nothing when state is not OrdersReportLoadedState.',
+      'should emits nothing when state is not LoadedState.',
       build: () => OrdersReportCubit(
         mockGetAllOrdersBySendDate,
         mockPrintOrdersReport,
-      )..emit(OrdersReportInitialState()),
+      )..emit(InitialState()),
       act: (cubit) => cubit.printReport(),
       expect: () => [],
     );
 
     blocTest<OrdersReportCubit, OrdersReportState>(
-      'should emits nothing when state is OrdersReportLoadedState but not find none orders.',
+      'should emits nothing when state is LoadedState but not find orders.',
       build: () => OrdersReportCubit(
         mockGetAllOrdersBySendDate,
         mockPrintOrdersReport,
-      )..emit(OrdersReportLoadedState(orders: tEmptyOrdersList)),
+      )..emit(LoadedState(orders: tEmptyOrdersList)),
       act: (cubit) => cubit.printReport(),
       expect: () => [],
     );
@@ -145,13 +145,13 @@ void main() {
       build: () => OrdersReportCubit(
         mockGetAllOrdersBySendDate,
         mockPrintOrdersReport,
-      )..emit(OrdersReportLoadedState(orders: tFilledOrdersList)),
+      )..emit(LoadedState(orders: tFilledOrdersList)),
       act: (cubit) => cubit.printReport(),
       expect: () => [],
     );
 
     blocTest<OrdersReportCubit, OrdersReportState>(
-      'should emits [OrdersReportFailureState, OrdersReportLoadedState] when usecase return a failure.',
+      'should emits [FailureState, LoadedState] when usecase return a failure.',
       setUp: () {
         when(() => mockPrintOrdersReport(tFilledOrdersList))
             .thenAnswer((_) async => Failure(tOrdersFailure));
@@ -159,11 +159,11 @@ void main() {
       build: () => OrdersReportCubit(
         mockGetAllOrdersBySendDate,
         mockPrintOrdersReport,
-      )..emit(OrdersReportLoadedState(orders: tFilledOrdersList)),
+      )..emit(LoadedState(orders: tFilledOrdersList)),
       act: (cubit) => cubit.printReport(),
       expect: () => [
-        OrdersReportFailureState(failure: tOrdersFailure),
-        OrdersReportLoadedState(orders: tFilledOrdersList),
+        FailureState(failure: tOrdersFailure),
+        LoadedState(orders: tFilledOrdersList),
       ],
     );
   });

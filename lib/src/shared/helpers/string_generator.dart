@@ -2,15 +2,14 @@ import 'dart:math';
 
 String generateRandomString(int length) {
   final rng = Random();
-  const chars =
-      '0123456789abcdefghijklmnopqrstuvwxyz!@#\$%^&*()ABCDEFGHIJKLMNOPQRSTUVWXYZ';
-  var string = '';
+  const chars = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
+      r'!@#$%^&*()';
+  final buffer = StringBuffer();
 
   for (var i = 0; i < length; i++) {
     final randomNumber = rng.nextInt(chars.length);
-
-    string += chars[randomNumber];
+    buffer.write(chars[randomNumber]);
   }
 
-  return string;
+  return buffer.toString();
 }

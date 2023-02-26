@@ -1,12 +1,12 @@
 import 'package:flutter_modular/flutter_modular.dart';
 
-import 'data/repositories/remote/firebase_auth_remote_repo.dart';
-import 'data/repositories/remote/firebase_user_remote_repo.dart';
-import 'domain/repositories/auth_repo.dart';
-import 'domain/repositories/user_repo.dart';
+import 'domain/repositories/auth_repository.dart';
 import 'domain/usecases/do_login.dart';
 import 'domain/usecases/do_logout.dart';
 import 'domain/usecases/get_current_user.dart';
+import 'external/datasources/auth_datasource_impl.dart';
+import 'infra/datasources/auth_datasource.dart';
+import 'infra/repositories/auth_repository_impl.dart';
 import 'presentation/cubits/auth_cubit.dart';
 import 'presentation/guards/guest_guard.dart';
 import 'presentation/pages/login_page.dart';
@@ -24,16 +24,21 @@ class AuthModule extends Module {
 
   @override
   List<Bind> get binds => [
-        Bind.factory<IAuthRepo>(
-          (i) => FirebaseAuthRemoteRepo(i()),
+        //! External
+        Bind.factory<IAuthDatasource>(
+          (i) => AuthDatasourceImpl(i()),
           export: true,
         ),
-        Bind.factory<IUserRepo>(
-          (i) => FirebaseUserRemoteRepo(i()),
+
+        //! Infra
+        Bind.factory<IAuthRepository>(
+          (i) => AuthRepositoryImpl(i(), i()),
           export: true,
         ),
+
+        //! Domain
         Bind.factory<IDoLogin>(
-          (i) => DoLogin(i(), i()),
+          (i) => DoLogin(i()),
           export: true,
         ),
         Bind.factory<IDoLogout>(
@@ -41,9 +46,11 @@ class AuthModule extends Module {
           export: true,
         ),
         Bind.factory<IGetCurrentUser>(
-          (i) => GetCurrentUser(i(), i()),
+          (i) => GetCurrentUser(i()),
           export: true,
         ),
+
+        //! Presentation
         Bind.singleton<AuthCubit>(
           (i) => AuthCubit(i(), i(), i())..fetchLoggedUser(),
           export: true,

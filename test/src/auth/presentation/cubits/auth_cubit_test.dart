@@ -1,15 +1,14 @@
 import 'package:bloc_test/bloc_test.dart';
-import 'package:flutter_test/flutter_test.dart';
-import 'package:mocktail/mocktail.dart';
-import 'package:result_dart/result_dart.dart';
-
-import 'package:cpedidos_pmp/src/auth/domain/entities/user.dart';
+import 'package:cpedidos_pmp/src/auth/domain/entities/logged_user.dart';
 import 'package:cpedidos_pmp/src/auth/domain/errors/failures.dart';
 import 'package:cpedidos_pmp/src/auth/domain/usecases/do_login.dart';
 import 'package:cpedidos_pmp/src/auth/domain/usecases/do_logout.dart';
 import 'package:cpedidos_pmp/src/auth/domain/usecases/get_current_user.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/cubits/auth_cubit.dart';
 import 'package:cpedidos_pmp/src/auth/presentation/cubits/auth_state.dart';
+import 'package:flutter_test/flutter_test.dart';
+import 'package:mocktail/mocktail.dart';
+import 'package:result_dart/result_dart.dart';
 
 class MockGetCurrentUser extends Mock implements IGetCurrentUser {}
 
@@ -30,24 +29,24 @@ void main() {
     mockDoLogout = MockDoLogout();
   });
 
-  const tUser = User(id: 'id', email: 'email', name: 'name');
+  const tUser = LoggedUser(id: 'id', email: 'email');
   final tAuthFailure = MockAuthFailure();
 
   blocTest<AuthCubit, AuthState>(
-    'should emits [AuthInitialState] when instance is created.',
+    'should emits [InitialState] when instance is created.',
     build: () => AuthCubit(
       mockGetCurrentUser,
       mockDoLogin,
       mockDoLogout,
     ),
     verify: (cubit) {
-      expect(cubit.state, equals(AuthInitialState()));
+      expect(cubit.state, equals(InitialState()));
     },
   );
 
   group('fetchLoggedUser', () {
     blocTest<AuthCubit, AuthState>(
-      'should emits [AuthLoadingState, AuthLoggedInState] when user is logged in.',
+      'should emits [LoadingState, LoggedInState] when user is logged in.',
       setUp: () {
         when(() => mockGetCurrentUser())
             .thenAnswer((_) async => const Success(tUser));
@@ -59,13 +58,14 @@ void main() {
       ),
       act: (cubit) => cubit.fetchLoggedUser(),
       expect: () => [
-        AuthLoadingState(),
-        AuthLoggedInState(loggedUser: tUser),
+        LoadingState(),
+        LoggedInState(loggedUser: tUser),
       ],
     );
 
     blocTest<AuthCubit, AuthState>(
-      'should emits [AuthLoadingState, AuthFailureState, AuthLoggedOutState] when user is not logged in.',
+      'should emits [LoadingState, FailureState, LoggedOutState] when user is'
+      ' not logged in.',
       setUp: () {
         when(() => mockGetCurrentUser())
             .thenAnswer((_) async => Failure(tAuthFailure));
@@ -77,9 +77,9 @@ void main() {
       ),
       act: (cubit) => cubit.fetchLoggedUser(),
       expect: () => [
-        AuthLoadingState(),
-        AuthFailureState(failure: tAuthFailure),
-        AuthLoggedOutState(),
+        LoadingState(),
+        FailureState(failure: tAuthFailure),
+        LoggedOutState(),
       ],
     );
   });
@@ -91,13 +91,14 @@ void main() {
         mockGetCurrentUser,
         mockDoLogin,
         mockDoLogout,
-      )..emit(AuthLoggedInState(loggedUser: tUser)),
+      )..emit(LoggedInState(loggedUser: tUser)),
       act: (cubit) => cubit.login('email', 'password'),
       expect: () => [],
     );
 
     blocTest<AuthCubit, AuthState>(
-      'should emits [AuthLoggingInState, AuthLoggedInState] when user log in successfull.',
+      'should emits [LoggingInState, LoggedInState] when user log in'
+      ' successfull.',
       setUp: () {
         when(() => mockDoLogin(any(), any()))
             .thenAnswer((_) async => const Success(tUser));
@@ -106,16 +107,17 @@ void main() {
         mockGetCurrentUser,
         mockDoLogin,
         mockDoLogout,
-      )..emit(AuthLoggedOutState()),
+      )..emit(LoggedOutState()),
       act: (cubit) => cubit.login('email', 'password'),
       expect: () => [
-        AuthLoggingInState(),
-        AuthLoggedInState(loggedUser: tUser),
+        LoggingInState(),
+        LoggedInState(loggedUser: tUser),
       ],
     );
 
     blocTest<AuthCubit, AuthState>(
-      'should emits [AuthLoggingInState, AuthFailureState, AuthLoggedOutState] when login fails.',
+      'should emits [LoggingInState, FailureState, LoggedOutState] when login'
+      ' fails.',
       setUp: () {
         when(() => mockDoLogin(any(), any()))
             .thenAnswer((_) async => Failure(tAuthFailure));
@@ -124,12 +126,12 @@ void main() {
         mockGetCurrentUser,
         mockDoLogin,
         mockDoLogout,
-      )..emit(AuthLoggedOutState()),
+      )..emit(LoggedOutState()),
       act: (cubit) => cubit.login('email', 'password'),
       expect: () => [
-        AuthLoggingInState(),
-        AuthFailureState(failure: tAuthFailure),
-        AuthLoggedOutState(),
+        LoggingInState(),
+        FailureState(failure: tAuthFailure),
+        LoggedOutState(),
       ],
     );
   });
@@ -141,30 +143,32 @@ void main() {
         mockGetCurrentUser,
         mockDoLogin,
         mockDoLogout,
-      )..emit(AuthLoggedOutState()),
+      )..emit(LoggedOutState()),
       act: (cubit) => cubit.logout(),
       expect: () => [],
     );
 
     blocTest<AuthCubit, AuthState>(
-      'should emits [AuthLoggingOutState, AuthLoggedOutState] when user log out successfull.',
+      'should emits [LoggingOutState, LoggedOutState] when user log out'
+      ' successfull.',
       setUp: () {
-        when(() => mockDoLogout()).thenAnswer((_) async => const Success(true));
+        when(() => mockDoLogout()).thenAnswer((_) async => const Success(unit));
       },
       build: () => AuthCubit(
         mockGetCurrentUser,
         mockDoLogin,
         mockDoLogout,
-      )..emit(AuthLoggedInState(loggedUser: tUser)),
+      )..emit(LoggedInState(loggedUser: tUser)),
       act: (cubit) => cubit.logout(),
       expect: () => [
-        AuthLoggingOutState(),
-        AuthLoggedOutState(),
+        LoggingOutState(),
+        LoggedOutState(),
       ],
     );
 
     blocTest<AuthCubit, AuthState>(
-      'should emits [AuthLoggingOutState,AuthFailureState, AuthLoggedInState] when logout fails.',
+      'should emits [LoggingOutState, FailureState, LoggedInState] when logout'
+      ' fails.',
       setUp: () {
         when(() => mockDoLogout())
             .thenAnswer((_) async => Failure(tAuthFailure));
@@ -173,12 +177,12 @@ void main() {
         mockGetCurrentUser,
         mockDoLogin,
         mockDoLogout,
-      )..emit(AuthLoggedInState(loggedUser: tUser)),
+      )..emit(LoggedInState(loggedUser: tUser)),
       act: (cubit) => cubit.logout(),
       expect: () => [
-        AuthLoggingOutState(),
-        AuthFailureState(failure: tAuthFailure),
-        AuthLoggedInState(loggedUser: tUser),
+        LoggingOutState(),
+        FailureState(failure: tAuthFailure),
+        LoggedInState(loggedUser: tUser),
       ],
     );
   });

@@ -12,10 +12,10 @@ class GuestGuard extends RouteGuard {
   Future<bool> canActivate(String path, ModularRoute route) async {
     final cubit = Modular.get<AuthCubit>();
 
-    if (cubit.state is AuthLoadingState) {
+    if (cubit.state is LoadingState) {
       await cubit.stream.first;
     }
 
-    return (cubit.state is AuthLoggedOutState);
+    return cubit.state is LoggedOutState;
   }
 }

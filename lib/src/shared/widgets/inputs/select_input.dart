@@ -16,7 +16,7 @@ class SelectInput extends StatelessWidget {
     required this.items,
   }) : assert(
           items.isNotEmpty,
-          'SelectInput: items property can\'t be empty!',
+          "SelectInput: items property can't be empty!",
         );
 
   @override
@@ -31,14 +31,16 @@ class SelectInput extends StatelessWidget {
         border: const OutlineInputBorder(),
         enabled: isEnabled,
         floatingLabelBehavior: FloatingLabelBehavior.always,
-        contentPadding: const EdgeInsets.fromLTRB(14.0, 14.0, 8.0, 14.0),
+        contentPadding: const EdgeInsets.fromLTRB(14, 14, 8, 14),
         isDense: true,
       ),
       items: items.entries
-          .map((entry) => DropdownMenuItem(
-                value: entry.key,
-                child: Text(entry.value),
-              ))
+          .map(
+            (entry) => DropdownMenuItem(
+              value: entry.key,
+              child: Text(entry.value),
+            ),
+          )
           .toList(),
     );
   }

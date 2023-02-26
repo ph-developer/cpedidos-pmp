@@ -1,32 +1,31 @@
 import 'package:result_dart/result_dart.dart';
 
-import '../entities/order.dart';
 import '../errors/failures.dart';
-import '../repositories/order_repo.dart';
+import '../repositories/order_repository.dart';
 
 abstract class IDeleteOrder {
-  AsyncResult<bool, OrdersFailure> call(Order order);
+  AsyncResult<Unit, OrdersFailure> call(String type, String number);
 }
 
 class DeleteOrder implements IDeleteOrder {
-  final IOrderRepo _orderRepo;
+  final IOrderRepository _orderRepository;
 
-  DeleteOrder(this._orderRepo);
+  DeleteOrder(this._orderRepository);
 
   @override
-  AsyncResult<bool, OrdersFailure> call(Order order) async {
-    if (order.number.isEmpty) {
+  AsyncResult<Unit, OrdersFailure> call(String type, String number) async {
+    if (number.isEmpty) {
       return const Failure(
         InvalidInput('O campo "número" deve ser preenchido.'),
       );
     }
 
-    if (order.type.isEmpty) {
+    if (type.isEmpty) {
       return const Failure(
         InvalidInput('O campo "tipo" deve ser preenchido.'),
       );
     }
 
-    return _orderRepo.delete(order);
+    return _orderRepository.deleteOrder(type, number);
   }
 }

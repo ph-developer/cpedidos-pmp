@@ -1,59 +1,45 @@
+import 'package:cpedidos_pmp/src/auth/domain/entities/logged_user.dart';
+import 'package:cpedidos_pmp/src/auth/domain/errors/failures.dart';
+import 'package:cpedidos_pmp/src/auth/domain/repositories/auth_repository.dart';
+import 'package:cpedidos_pmp/src/auth/domain/usecases/do_login.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 import 'package:result_dart/result_dart.dart';
 
-import 'package:cpedidos_pmp/src/auth/domain/entities/user.dart';
-import 'package:cpedidos_pmp/src/auth/domain/errors/failures.dart';
-import 'package:cpedidos_pmp/src/auth/domain/repositories/auth_repo.dart';
-import 'package:cpedidos_pmp/src/auth/domain/repositories/user_repo.dart';
-import 'package:cpedidos_pmp/src/auth/domain/usecases/do_login.dart';
-
-class MockAuthRepo extends Mock implements IAuthRepo {}
-
-class MockUserRepo extends Mock implements IUserRepo {}
-
-class MockAuthFailure extends Mock implements AuthFailure {}
+import '../../mocks.dart';
 
 void main() {
-  late IAuthRepo mockAuthRepo;
-  late IUserRepo mockUserRepo;
+  late IAuthRepository mockAuthRepository;
   late DoLogin usecase;
 
   setUp(() {
-    mockAuthRepo = MockAuthRepo();
-    mockUserRepo = MockUserRepo();
-    usecase = DoLogin(mockAuthRepo, mockUserRepo);
+    mockAuthRepository = MockAuthRepository();
+    usecase = DoLogin(mockAuthRepository);
   });
 
   final tAuthFailure = MockAuthFailure();
-  const tUserId = 'id';
-  const tUser = User(id: 'id', email: 'email@example.com', name: 'name');
+  const tEmail = 'test@test.dev';
+  const tPassword = 'password';
+  const tLoggedUser = LoggedUser(id: 'id', email: tEmail);
 
   test(
-    'should return an User on successfull login.',
+    'should return a LoggedUser on successfull login.',
     () async {
       // arrange
-      const tUserEmail = 'email@example.com';
-      const tUserPassword = '1234';
-      when(() => mockAuthRepo.login(tUserEmail, tUserPassword))
-          .thenAnswer((_) async => const Success(tUserId));
-      when(() => mockUserRepo.getById(tUserId))
-          .thenAnswer((_) async => const Success(tUser));
+      when(() => mockAuthRepository.login(tEmail, tPassword))
+          .thenAnswer((_) async => const Success(tLoggedUser));
       // act
-      final result = await usecase(tUserEmail, tUserPassword);
+      final result = await usecase(tEmail, tPassword);
       // assert
-      expect(result.getOrNull(), equals(tUser));
+      expect(result.getOrNull(), equals(tLoggedUser));
     },
   );
 
   test(
     'should return an InvalidInput failure when email param is empty.',
     () async {
-      // arrange
-      const tUserEmail = '';
-      const tUserPassword = '1234';
       // act
-      final result = await usecase(tUserEmail, tUserPassword);
+      final result = await usecase('', tPassword);
       // assert
       expect(result.exceptionOrNull(), isA<InvalidInput>());
     },
@@ -62,11 +48,8 @@ void main() {
   test(
     'should return an InvalidInput failure when password param is empty.',
     () async {
-      // arrange
-      const tUserEmail = 'email@example.com';
-      const tUserPassword = '';
       // act
-      final result = await usecase(tUserEmail, tUserPassword);
+      final result = await usecase(tEmail, '');
       // assert
       expect(result.exceptionOrNull(), isA<InvalidInput>());
     },
@@ -75,26 +58,21 @@ void main() {
   test(
     'should return an InvalidInput failure when email param is invalid.',
     () async {
-      // arrange
-      const tUserEmail = 'invalid_email';
-      const tUserPassword = '1234';
       // act
-      final result = await usecase(tUserEmail, tUserPassword);
+      final result = await usecase('invalid', tPassword);
       // assert
       expect(result.exceptionOrNull(), isA<InvalidInput>());
     },
   );
 
   test(
-    'should return an auth failure when auth repo returns an auth failure.',
+    'should return a failure when repository returns a failure.',
     () async {
       // arrange
-      const tUserEmail = 'email@example.com';
-      const tUserPassword = '1234';
-      when(() => mockAuthRepo.login(tUserEmail, tUserPassword))
+      when(() => mockAuthRepository.login(tEmail, tPassword))
           .thenAnswer((_) async => Failure(tAuthFailure));
       // act
-      final result = await usecase(tUserEmail, tUserPassword);
+      final result = await usecase(tEmail, tPassword);
       // assert
       expect(result.exceptionOrNull(), equals(tAuthFailure));
     },

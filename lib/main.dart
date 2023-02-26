@@ -17,9 +17,11 @@ Future<void> main() async {
   await FirebaseConfig.setup();
 
   await SentryConfig.setup(
-    () => runApp(ModularApp(
-      module: AppModule(),
-      child: const AppWidget(),
-    )),
+    () => runApp(
+      ModularApp(
+        module: AppModule(),
+        child: const AppWidget(),
+      ),
+    ),
   );
 }

@@ -2,16 +2,16 @@ import 'package:result_dart/result_dart.dart';
 
 import '../entities/order.dart';
 import '../errors/failures.dart';
-import '../repositories/order_repo.dart';
+import '../repositories/order_repository.dart';
 
 abstract class IGetAllOrdersBySendDate {
   AsyncResult<List<Order>, OrdersFailure> call(String sendDate);
 }
 
 class GetAllOrdersBySendDate implements IGetAllOrdersBySendDate {
-  final IOrderRepo _orderRepo;
+  final IOrderRepository _orderRepository;
 
-  GetAllOrdersBySendDate(this._orderRepo);
+  GetAllOrdersBySendDate(this._orderRepository);
 
   @override
   AsyncResult<List<Order>, OrdersFailure> call(String sendDate) async {
@@ -21,6 +21,6 @@ class GetAllOrdersBySendDate implements IGetAllOrdersBySendDate {
       );
     }
 
-    return _orderRepo.getAllBySendDate(sendDate);
+    return _orderRepository.getAllOrdersBySendDate(sendDate);
   }
 }

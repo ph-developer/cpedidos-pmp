@@ -1,13 +1,12 @@
 import 'package:bloc_test/bloc_test.dart';
+import 'package:cpedidos_pmp/src/auth/domain/entities/logged_user.dart';
+import 'package:cpedidos_pmp/src/auth/presentation/cubits/auth_cubit.dart';
+import 'package:cpedidos_pmp/src/auth/presentation/cubits/auth_state.dart';
+import 'package:cpedidos_pmp/src/auth/presentation/guards/auth_guard.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 import 'package:modular_test/modular_test.dart';
-
-import 'package:cpedidos_pmp/src/auth/domain/entities/user.dart';
-import 'package:cpedidos_pmp/src/auth/presentation/cubits/auth_cubit.dart';
-import 'package:cpedidos_pmp/src/auth/presentation/cubits/auth_state.dart';
-import 'package:cpedidos_pmp/src/auth/presentation/guards/auth_guard.dart';
 
 class MockAuthCubit extends Mock implements AuthCubit {}
 
@@ -24,15 +23,18 @@ void main() {
   final AuthCubit mockAuthCubit = MockAuthCubit();
   late AuthGuard guard;
 
-  initModule(MockModule(), replaceBinds: [
-    Bind.instance<AuthCubit>(mockAuthCubit),
-  ]);
+  initModule(
+    MockModule(),
+    replaceBinds: [
+      Bind.instance<AuthCubit>(mockAuthCubit),
+    ],
+  );
 
   setUp(() {
     guard = AuthGuard();
   });
 
-  const tUser = User(id: 'id', email: 'email', name: 'name');
+  const tUser = LoggedUser(id: 'id', email: 'email');
   final tModularRoute = MockModularRoute();
 
   group('canActivate', () {
@@ -41,7 +43,7 @@ void main() {
       () async {
         // arrange
         when(() => mockAuthCubit.state)
-            .thenReturn(AuthLoggedInState(loggedUser: tUser));
+            .thenReturn(LoggedInState(loggedUser: tUser));
         // act
         final result = await guard.canActivate('', tModularRoute);
         // assert
@@ -53,7 +55,7 @@ void main() {
       'should return false when auth cubit state is AuthLoggedOutState.',
       () async {
         // arrange
-        when(() => mockAuthCubit.state).thenReturn(AuthLoggedOutState());
+        when(() => mockAuthCubit.state).thenReturn(LoggedOutState());
         // act
         final result = await guard.canActivate('', tModularRoute);
         // assert
@@ -67,8 +69,8 @@ void main() {
         // arrange
         whenListen(
           mockAuthCubit,
-          Stream.fromIterable([AuthLoggedInState(loggedUser: tUser)]),
-          initialState: AuthLoadingState(),
+          Stream.fromIterable([LoggedInState(loggedUser: tUser)]),
+          initialState: LoadingState(),
         );
         // act
         final result = await guard.canActivate('', tModularRoute);

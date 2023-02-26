@@ -5,34 +5,34 @@ import '../../domain/errors/failures.dart';
 
 abstract class OrdersReportState extends Equatable {}
 
-class OrdersReportInitialState extends OrdersReportState {
+class InitialState extends OrdersReportState {
   @override
   List<Object> get props => [];
 }
 
-class OrdersReportDirtyState extends OrdersReportState {
+class DirtyState extends OrdersReportState {
   @override
   List<Object> get props => [];
 }
 
-class OrdersReportLoadingState extends OrdersReportState {
+class LoadingState extends OrdersReportState {
   @override
   List<Object> get props => [];
 }
 
-class OrdersReportLoadedState extends OrdersReportState {
+class LoadedState extends OrdersReportState {
   final List<Order> orders;
 
-  OrdersReportLoadedState({required this.orders});
+  LoadedState({required this.orders});
 
   @override
   List<Object> get props => [orders];
 }
 
-class OrdersReportFailureState extends OrdersReportState {
+class FailureState extends OrdersReportState {
   final OrdersFailure failure;
 
-  OrdersReportFailureState({required this.failure});
+  FailureState({required this.failure});
 
   @override
   List<Object> get props => [failure];

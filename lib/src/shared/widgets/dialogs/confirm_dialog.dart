@@ -29,6 +29,7 @@ class ConfirmDialog extends StatelessWidget {
         OutlineButton(
           label: yesButtonText,
           icon: Icons.check_rounded,
+          type: ButtonType.primary,
           onPressed: () {
             onYes();
             Navigator.pop(context);
@@ -37,6 +38,7 @@ class ConfirmDialog extends StatelessWidget {
         OutlineButton(
           label: cancelButtonText,
           icon: Icons.close_rounded,
+          type: ButtonType.primary,
           onPressed: () {
             onCancel?.call();
             Navigator.pop(context);

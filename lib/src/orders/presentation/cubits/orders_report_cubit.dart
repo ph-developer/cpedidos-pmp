@@ -14,42 +14,40 @@ class OrdersReportCubit extends Cubit<OrdersReportState> {
   OrdersReportCubit(
     this._getAllOrdersBySendDate,
     this._printOrdersReport,
-  ) : super(OrdersReportInitialState());
+  ) : super(InitialState());
 
   Future<void> reset() async {
-    emit(OrdersReportInitialState());
+    emit(InitialState());
   }
 
   Future<void> setDirty() async {
-    emit(OrdersReportDirtyState());
+    emit(DirtyState());
   }
 
   Future<void> search(String sendDate) async {
-    emit(OrdersReportLoadingState());
+    emit(LoadingState());
 
-    final result = _getAllOrdersBySendDate(sendDate);
-
-    result.fold((orders) {
-      emit(OrdersReportLoadedState(orders: orders));
+    await _getAllOrdersBySendDate(sendDate).fold((orders) {
+      emit(LoadedState(orders: orders));
     }, (failure) {
       if (failure is OrdersNotFound) {
-        emit(OrdersReportLoadedState(orders: const []));
+        emit(LoadedState(orders: const []));
       } else {
-        emit(OrdersReportFailureState(failure: failure));
+        emit(FailureState(failure: failure));
       }
     });
   }
 
   Future<void> printReport() async {
-    if (state is! OrdersReportLoadedState) return;
-    final orders = (state as OrdersReportLoadedState).orders;
+    if (state is! LoadedState) return;
+    final orders = (state as LoadedState).orders;
     if (orders.isEmpty) return;
 
     final result = await _printOrdersReport(orders);
 
     result.fold((success) {}, (failure) {
-      emit(OrdersReportFailureState(failure: failure));
-      emit(OrdersReportLoadedState(orders: orders));
+      emit(FailureState(failure: failure));
+      emit(LoadedState(orders: orders));
     });
   }
 }

@@ -17,9 +17,9 @@ class LogoutButton extends StatelessWidget {
     return BlocListener<AuthCubit, AuthState>(
       bloc: cubit,
       listener: (context, state) {
-        if (state is AuthFailureState) {
+        if (state is FailureState) {
           context.showErrorSnackBar(state.failure.message);
-        } else if (state is AuthLoggedOutState) {
+        } else if (state is LoggedOutState) {
           Modular.to.pushReplacementNamed('/auth/login');
         }
       },

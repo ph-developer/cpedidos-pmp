@@ -14,3 +14,7 @@ class OrderNotFound extends OrdersFailure {
 class OrdersNotFound extends OrdersFailure {
   const OrdersNotFound() : super('Nenhum pedido encontrado.');
 }
+
+class UnknownError extends OrdersFailure {
+  const UnknownError() : super('Ocorreu um erro desconhecido.');
+}

@@ -23,3 +23,7 @@ class UserDisabled extends AuthFailure {
 class UserUnauthenticated extends AuthFailure {
   const UserUnauthenticated() : super('Usuário não autenticado.');
 }
+
+class UnknownError extends AuthFailure {
+  const UnknownError() : super('Ocorreu um erro desconhecido.');
+}

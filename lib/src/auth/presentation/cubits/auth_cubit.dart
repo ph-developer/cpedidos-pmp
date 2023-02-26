@@ -15,47 +15,47 @@ class AuthCubit extends Cubit<AuthState> {
     this._getCurrentUser,
     this._doLogin,
     this._doLogout,
-  ) : super(AuthInitialState());
+  ) : super(InitialState());
 
   Future<void> fetchLoggedUser() async {
-    emit(AuthLoadingState());
+    emit(LoadingState());
 
     final result = await _getCurrentUser();
 
     result.fold((currentUser) {
-      emit(AuthLoggedInState(loggedUser: currentUser));
+      emit(LoggedInState(loggedUser: currentUser));
     }, (failure) {
-      emit(AuthFailureState(failure: failure));
-      emit(AuthLoggedOutState());
+      emit(FailureState(failure: failure));
+      emit(LoggedOutState());
     });
   }
 
   Future<void> login(String email, String password) async {
-    if (state is! AuthLoggedOutState) return;
-    emit(AuthLoggingInState());
+    if (state is! LoggedOutState) return;
+    emit(LoggingInState());
 
     final result = await _doLogin(email, password);
 
     result.fold((currentUser) {
-      emit(AuthLoggedInState(loggedUser: currentUser));
+      emit(LoggedInState(loggedUser: currentUser));
     }, (failure) {
-      emit(AuthFailureState(failure: failure));
-      emit(AuthLoggedOutState());
+      emit(FailureState(failure: failure));
+      emit(LoggedOutState());
     });
   }
 
   Future<void> logout() async {
-    if (state is! AuthLoggedInState) return;
-    final loggedUser = (state as AuthLoggedInState).loggedUser;
-    emit(AuthLoggingOutState());
+    if (state is! LoggedInState) return;
+    final loggedUser = (state as LoggedInState).loggedUser;
+    emit(LoggingOutState());
 
     final result = await _doLogout();
 
     result.fold((success) {
-      emit(AuthLoggedOutState());
+      emit(LoggedOutState());
     }, (failure) {
-      emit(AuthFailureState(failure: failure));
-      emit(AuthLoggedInState(loggedUser: loggedUser));
+      emit(FailureState(failure: failure));
+      emit(LoggedInState(loggedUser: loggedUser));
     });
   }
 }

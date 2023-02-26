@@ -12,7 +12,7 @@ class OutlineButton extends StatelessWidget {
   const OutlineButton({
     super.key,
     this.isEnabled = true,
-    this.type = ButtonType.primary,
+    required this.type,
     required this.onPressed,
     required this.label,
     required this.icon,
@@ -35,7 +35,7 @@ class OutlineButton extends StatelessWidget {
       icon: Icon(icon),
       label: Text(label),
       style: OutlinedButton.styleFrom(
-        minimumSize: const Size(140.0, 45.0),
+        minimumSize: const Size(140, 45),
         foregroundColor: getColor(context),
         side: BorderSide(
           color:

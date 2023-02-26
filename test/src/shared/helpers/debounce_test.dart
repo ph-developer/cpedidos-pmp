@@ -1,7 +1,6 @@
+import 'package:cpedidos_pmp/src/shared/helpers/debounce.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
-
-import 'package:cpedidos_pmp/src/shared/helpers/debounce.dart';
 
 abstract class Callable<T> {
   void call([T? arg]) {}

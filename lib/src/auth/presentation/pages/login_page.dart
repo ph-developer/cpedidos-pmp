@@ -36,9 +36,9 @@ class _LoginPageState extends State<LoginPage> {
     return BlocListener<AuthCubit, AuthState>(
       bloc: cubit,
       listener: (context, state) {
-        if (state is AuthLoggedInState) {
+        if (state is LoggedInState) {
           Modular.to.pushReplacementNamed('/pedidos/cadastro');
-        } else if (state is AuthFailureState) {
+        } else if (state is FailureState) {
           context.showErrorSnackBar(state.failure.message);
         }
       },
@@ -67,7 +67,7 @@ class _LoginPageState extends State<LoginPage> {
   Widget _buildLogo(BuildContext context) {
     return Container(
       alignment: Alignment.center,
-      padding: const EdgeInsets.all(16.0),
+      padding: const EdgeInsets.all(16),
       child: SvgPicture.asset(
         'assets/logo.svg',
         height: 70,
@@ -79,7 +79,7 @@ class _LoginPageState extends State<LoginPage> {
     return BlocBuilder<AuthCubit, AuthState>(
       bloc: cubit,
       builder: (context, state) {
-        final isEnabled = state is! AuthLoggingInState;
+        final isEnabled = state is! LoggingInState;
 
         return Column(
           children: [
@@ -87,7 +87,7 @@ class _LoginPageState extends State<LoginPage> {
               children: [
                 Expanded(
                   child: Padding(
-                    padding: const EdgeInsets.all(8.0),
+                    padding: const EdgeInsets.all(8),
                     child: TextInput(
                       isEnabled: isEnabled,
                       controller: emailEC,
@@ -108,7 +108,7 @@ class _LoginPageState extends State<LoginPage> {
               children: [
                 Expanded(
                   child: Padding(
-                    padding: const EdgeInsets.all(8.0),
+                    padding: const EdgeInsets.all(8),
                     child: PasswordInput(
                       isEnabled: isEnabled,
                       controller: passwordEC,
@@ -134,13 +134,13 @@ class _LoginPageState extends State<LoginPage> {
     return BlocBuilder<AuthCubit, AuthState>(
       bloc: cubit,
       builder: (context, state) {
-        final isEnabled = state is! AuthLoggingInState;
+        final isEnabled = state is! LoggingInState;
 
         return Row(
           children: [
             Expanded(
               child: Padding(
-                padding: const EdgeInsets.all(8.0),
+                padding: const EdgeInsets.all(8),
                 child: OutlineButton(
                   isEnabled: isEnabled,
                   icon: Icons.login_rounded,
