@@ -1,5 +1,6 @@
-import 'package:flutter_modular/flutter_modular.dart';
+// coverage:ignore-file
 
+import 'package:flutter_modular/flutter_modular.dart';
 import 'domain/repositories/auth_repository.dart';
 import 'domain/usecases/do_login.dart';
 import 'domain/usecases/do_logout.dart';

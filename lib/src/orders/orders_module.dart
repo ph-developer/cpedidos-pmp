@@ -1,7 +1,7 @@
+// coverage:ignore-file
+
 import 'package:flutter_modular/flutter_modular.dart';
-
 import '../auth/presentation/guards/auth_guard.dart';
-
 import 'domain/repositories/order_repository.dart';
 import 'domain/services/report_service.dart';
 import 'domain/usecases/delete_order.dart';
