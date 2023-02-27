@@ -1,0 +1,32 @@
+[
+  {
+    "grupo": "942",
+    "classe": "'-7",
+    "codigo": "24708",
+    "descricao": "TRATAMENTO DE RESIDUOS"
+  },
+  {
+    "grupo": "942",
+    "classe": "9421",
+    "codigo": "1333",
+    "descricao": "INCINERACAO / ATERRAMENTO - RESIDUOS INDUSTRIAIS / LIXO ESPECIAL"
+  },
+  {
+    "grupo": "942",
+    "classe": "9421",
+    "codigo": "19232",
+    "descricao": "INCINERACAO MATERIAL APREENDIDO"
+  },
+  {
+    "grupo": "942",
+    "classe": "9422",
+    "codigo": "14966",
+    "descricao": "COLETA DE REJEITO NUCLEAR"
+  },
+  {
+    "grupo": "942",
+    "classe": "9422",
+    "codigo": "19380",
+    "descricao": "COLETA / TRATAMENTO LIXO - HOSPITALAR"
+  }
+]

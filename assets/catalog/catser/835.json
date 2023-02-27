@@ -1,0 +1,266 @@
+[
+  {
+    "grupo": "835",
+    "classe": "'-7",
+    "codigo": "957",
+    "descricao": "BATIMETRIA"
+  },
+  {
+    "grupo": "835",
+    "classe": "'-7",
+    "codigo": "973",
+    "descricao": "SONDAGENS TERRESTRES ROTATIVAS"
+  },
+  {
+    "grupo": "835",
+    "classe": "'-7",
+    "codigo": "981",
+    "descricao": "SONDAGENS SUBAQUATICAS"
+  },
+  {
+    "grupo": "835",
+    "classe": "'-7",
+    "codigo": "990",
+    "descricao": "ENSAIO GEOTECNICO"
+  },
+  {
+    "grupo": "835",
+    "classe": "'-7",
+    "codigo": "1007",
+    "descricao": "MAPEAMENTO GEOLOGICO"
+  },
+  {
+    "grupo": "835",
+    "classe": "'-7",
+    "codigo": "1015",
+    "descricao": "PESQUISA MINERAL"
+  },
+  {
+    "grupo": "835",
+    "classe": "'-7",
+    "codigo": "1040",
+    "descricao": "SISMOLOGIA"
+  },
+  {
+    "grupo": "835",
+    "classe": "'-7",
+    "codigo": "1058",
+    "descricao": "CONTROLE TECNOLOGICO DE CONCRETO"
+  },
+  {
+    "grupo": "835",
+    "classe": "'-7",
+    "codigo": "1066",
+    "descricao": "CONTROLE TECNOLOGICO DE PAVIMENTACAO"
+  },
+  {
+    "grupo": "835",
+    "classe": "'-7",
+    "codigo": "1074",
+    "descricao": "CONTROLE TECNOLOGICO DE MATERIAIS DE CONSTRUCAO"
+  },
+  {
+    "grupo": "835",
+    "classe": "'-7",
+    "codigo": "16888",
+    "descricao": "PESQUISA E ESTUDO - GEOGRAFICO / RECURSOS NATURAIS /  MEIO -AMBIENTE"
+  },
+  {
+    "grupo": "835",
+    "classe": "'-7",
+    "codigo": "25119",
+    "descricao": "SERVICO DE CALCULO / DESENHO E MEMORIAL DESCRITIVO"
+  },
+  {
+    "grupo": "835",
+    "classe": "8351",
+    "codigo": "20613",
+    "descricao": "GEOPROCESSAMENTO"
+  },
+  {
+    "grupo": "835",
+    "classe": "8352",
+    "codigo": "21369",
+    "descricao": "ESTUDOS E PROJETOS DE TOPOGRAFIA"
+  },
+  {
+    "grupo": "835",
+    "classe": "8353",
+    "codigo": "914",
+    "descricao": "TOPOGRAFIA DE FAIXAS"
+  },
+  {
+    "grupo": "835",
+    "classe": "8353",
+    "codigo": "922",
+    "descricao": "TOPOGRAFIA DE AREAS"
+  },
+  {
+    "grupo": "835",
+    "classe": "8354",
+    "codigo": "17264",
+    "descricao": "EXECUCAO SERVICO - GEODESICO / CARTOGRAFICO"
+  },
+  {
+    "grupo": "835",
+    "classe": "8354",
+    "codigo": "21270",
+    "descricao": "EXECUCAO SERVICO - MAPEAMENTO CARTOGRAFICO"
+  },
+  {
+    "grupo": "835",
+    "classe": "8355",
+    "codigo": "25810",
+    "descricao": "IMPLANTACAO / MANUTENCAO ESTACAO HIDROLOGICA"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "876",
+    "descricao": "PERICIA / LAUDO / AVALIACAO - TECNICA"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "1163",
+    "descricao": "ENSAIOS MECANICOS"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "1171",
+    "descricao": "ENSAIO E ANALISES QUIMICAS"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "1180",
+    "descricao": "ENSAIOS ELETRICOS"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "1198",
+    "descricao": "ENSAIOS ELETRONICOS"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "1201",
+    "descricao": "ENSAIOS METALURGICOS"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "14524",
+    "descricao": "AVALIACAO RADIOMETRICA"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "16276",
+    "descricao": "EXECUCAO DE TESTE DE ESTANQUEIDADE"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "17094",
+    "descricao": "FABRICACAO / ANALISE - VACINAS"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "18830",
+    "descricao": "LABORATORIO - ANALISE QUIMICA"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "19062",
+    "descricao": "ANALISE - ALIMENTO / INSUMO"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "19070",
+    "descricao": "ANALISE - RADIOMETRICA / RADIOQUIMICA"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "19100",
+    "descricao": "IRRADIACAO AMOSTRAS - TECNICAS DOSIMETRICAS"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "19127",
+    "descricao": "CONTROLE QUALIDADE - LABORATORIO"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "19143",
+    "descricao": "ANALISE FISICO - QUIMICA AGUA"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "20095",
+    "descricao": "DEPURACAO MATERIA ORGANICA"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "20729",
+    "descricao": "LABORATORIO - ANALISE TOXICOLOGICA"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "20737",
+    "descricao": "LABORATORIO - ANALISE BIOLOGICA / ANÁLISE IMUNOBIOLÓGICA /  MONITORAMENTO SANITÁRIO - GENÉTICO"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "20745",
+    "descricao": "LABORATORIO - ANALISE CROMATOGRAFICA"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "20753",
+    "descricao": "LABORATORIO - ANALISE FISICO-QUIMICA"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "20761",
+    "descricao": "LABORATORIO - ANALISE TOXICIDADE"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "21245",
+    "descricao": "ANALISE POR ATIVACAO COM PARTICULAS CARREGADAS"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "21717",
+    "descricao": "ENSAIO EQUIPAMENTO A GAS"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "24937",
+    "descricao": "ESTUDOS E PROJETOS - FONTES ALTERNATIVAS DE ENERGIA ELETRICA"
+  },
+  {
+    "grupo": "835",
+    "classe": "8356",
+    "codigo": "25798",
+    "descricao": "EXAME GRAFOTECNICO"
+  }
+]

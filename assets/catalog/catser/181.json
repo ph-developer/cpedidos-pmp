@@ -1,0 +1,62 @@
+[
+  {
+    "grupo": "181",
+    "classe": "1811",
+    "codigo": "27383",
+    "descricao": "ARRENDAMENTO MERCANTIL FINANCEIRO DE SERVIDOR / STORAGE (LEASING)"
+  },
+  {
+    "grupo": "181",
+    "classe": "1811",
+    "codigo": "27391",
+    "descricao": "ARRENDAMENTO MERCANTIL  FINANCEIRO DE EQUIPAMENTOS DE TELECOMUNICACOES (LEASING)"
+  },
+  {
+    "grupo": "181",
+    "classe": "1811",
+    "codigo": "27626",
+    "descricao": "ARRENDAMENTO MERCANTIL FINANCEIRO DE COMPUTADORES (LEASING)"
+  },
+  {
+    "grupo": "181",
+    "classe": "1811",
+    "codigo": "27766",
+    "descricao": "ARRENDAMENTO MERCANTIL FINANCEIRO DE IMPRESSORA / MULTIFUNCIONAL / PLOTTER (LEASING)"
+  },
+  {
+    "grupo": "181",
+    "classe": "1812",
+    "codigo": "27405",
+    "descricao": "LOCACAO DE ESTACAO DE  TRABALHO - ARRENDAMENTO MERCANTIL OPERACIONAL DE MAQUINAS E EQUIPAMENTOS, SEM OPERADOR"
+  },
+  {
+    "grupo": "181",
+    "classe": "1812",
+    "codigo": "27413",
+    "descricao": "LOCACAO DE EQUIPAMENTO SERVIDOR/STORAGE- ARRENDAMENTO MERCANTIL OPERCIONAL DE MAQUINAS E EQUIPAMENTOS, SEM OPERADOR"
+  },
+  {
+    "grupo": "181",
+    "classe": "1812",
+    "codigo": "27421",
+    "descricao": "LOCACAO DE EQUIPAMENTO DE TELECOMUNICACOES- ARRENDAMENTO MERCANTIL OPERACIONAL DE MAQUINAS E EQUIPAMENTOS, SEM OPERADOR"
+  },
+  {
+    "grupo": "181",
+    "classe": "1812",
+    "codigo": "27430",
+    "descricao": "LOCACAO DE EQUIPAMENTO DE CONTROLE DE ACESSO PESSOAL - ARRENDAMENTO MERCANTIL OPERACIONAL DE EQUIPAMENTOS, SEM OPERADOR"
+  },
+  {
+    "grupo": "181",
+    "classe": "1812",
+    "codigo": "27448",
+    "descricao": "LOCACAO DE OUTROS  EQUIPAMENTOS DE TIC - ARRENDAMENTO MERCANTIL OPERACIONAL DE MAQUINAS E EQUIPAMENTOS, SEM OPERADOR"
+  },
+  {
+    "grupo": "181",
+    "classe": "1812",
+    "codigo": "27618",
+    "descricao": "ALUGUEL DE IMPRESSORA / MULTIFUNCIONAL / PLOTTER / SCANNER"
+  }
+]

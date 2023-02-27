@@ -1,0 +1,2326 @@
+[
+  {
+    "grupo": "30",
+    "classe": "3020",
+    "padrao": "10954",
+    "codigo": "385825",
+    "descricao": " POLIA, MATERIAL:ALUMÍNIO, APLICAÇÃO:MOTOR VOLVO PENTA KAD 42 PA, CARACTERÍSTICAS ADICIONAIS:TIPO: ESTRIADA. REFERÊNCIA: 861541"
+  },
+  {
+    "grupo": "30",
+    "classe": "3020",
+    "padrao": "10954",
+    "codigo": "397748",
+    "descricao": " POLIA, MATERIAL:ALUMÍNIO, DIÂMETRO TOTAL:90 MM, APLICAÇÃO:MOTO BOMBA YANMAR, CARACTERÍSTICAS ADICIONAIS:REFERÊNCIA: NSB18R"
+  },
+  {
+    "grupo": "30",
+    "classe": "3020",
+    "padrao": "10954",
+    "codigo": "454274",
+    "descricao": " POLIA, MATERIAL:PLÁSTICO, DIÂMETRO TOTAL:140 MM, DIÂMETRO FURO CENTRAL:40 MM, APLICAÇÃO:MOBILIÁRIO EM GERAL, CARACTERÍSTICAS ADICIONAIS:CHAVETA: 8MMX8MM; 4 GORNES B, TIPO:MOVIDA"
+  },
+  {
+    "grupo": "30",
+    "classe": "3020",
+    "padrao": "10954",
+    "codigo": "466477",
+    "descricao": " POLIA, APLICAÇÃO:ALTERNADOR, CARACTERÍSTICAS ADICIONAIS:VEÍCULO BLINDADO URUTU / CASCAVEL, REFERÊNCIA:2307-010-081"
+  },
+  {
+    "grupo": "30",
+    "classe": "3020",
+    "padrao": "10954",
+    "codigo": "466478",
+    "descricao": " POLIA, APLICAÇÃO:BOMBA D'ÁGUA, CARACTERÍSTICAS ADICIONAIS:VEÍCULO BLINDADO URUTU / CASCAVEL, REFERÊNCIA:2681-600-739"
+  },
+  {
+    "grupo": "30",
+    "classe": "3020",
+    "padrao": "10954",
+    "codigo": "466479",
+    "descricao": " POLIA, APLICAÇÃO:MOTOR, CARACTERÍSTICAS ADICIONAIS:VEÍCULO BLINDADO URUTU / CASCAVEL, REFERÊNCIA:2307-010-057[["
+  },
+  {
+    "grupo": "30",
+    "classe": "3020",
+    "padrao": "10954",
+    "codigo": "476140",
+    "descricao": " POLIA, APLICAÇÃO:ALTERNADOR, CARACTERÍSTICAS ADICIONAIS:VEÍCULO LAND ROVER DEFENDER 4X4 DIESEL, REFERÊNCIA:STC 3202"
+  },
+  {
+    "grupo": "30",
+    "classe": "3020",
+    "padrao": "10954",
+    "codigo": "478570",
+    "descricao": " POLIA, APLICAÇÃO:BOMBA D'ÁGUA, CARACTERÍSTICAS ADICIONAIS:VEÍCULO[FORD RANGER 3.0 POWER STROKE, REFERÊNCIA:BG5T 8509/AA"
+  },
+  {
+    "grupo": "30",
+    "classe": "3020",
+    "padrao": "10954",
+    "codigo": "478854",
+    "descricao": " POLIA, APLICAÇÃO:VEÍCULO VOLKSWAGEN WORKER 15.210, TIPO:POLIA DO ALTERNADOR, REFERÊNCIA:2RD/105251"
+  },
+  {
+    "grupo": "30",
+    "classe": "3020",
+    "padrao": "10954",
+    "codigo": "478973",
+    "descricao": " POLIA, APLICAÇÃO:MOTOR ESPECTROMETRO DE FLUOR RAIO X SHIMADZU, CARACTERÍSTICAS ADICIONAIS:MODELO EDX-720, REFERÊNCIA:032.21922"
+  },
+  {
+    "grupo": "30",
+    "classe": "3020",
+    "padrao": "10954",
+    "codigo": "479859",
+    "descricao": " POLIA, MATERIAL:ALUMÍNIO, DIÂMETRO FURO CENTRAL:5 MM, APLICAÇÃO:IMPRESSORA 3D ENDER 3, CARACTERÍSTICAS ADICIONAIS:20 DENTES, TIPO:GT2, REFERÊNCIA:1487"
+  },
+  {
+    "grupo": "30",
+    "classe": "3020",
+    "padrao": "10954",
+    "codigo": "486265",
+    "descricao": " POLIA, MATERIAL:ALUMÍNIO, CARACTERÍSTICAS ADICIONAIS:ROLAMENTADA, COM PLACAS OSCILANTES,CAPACIDADE DE 3, TIPO:DUPLA., REFERÊNCIA:COM CERTIFICAÇÃO EN OU CE."
+  },
+  {
+    "grupo": "30",
+    "classe": "3020",
+    "padrao": "10954",
+    "codigo": "486266",
+    "descricao": " POLIA, MATERIAL:ALUMÍNIO, CARACTERÍSTICAS ADICIONAIS:ROLAMENTADA, COM PLACAS OSCILANTES,CAPACIDADE DE 3, TIPO:SIMPLES, REFERÊNCIA:COM CERTIFICAÇÃO EN OU CE."
+  },
+  {
+    "grupo": "30",
+    "classe": "3020",
+    "padrao": "10954",
+    "codigo": "486267",
+    "descricao": " POLIA, MATERIAL:ALUMÍNIO, CARACTERÍSTICAS ADICIONAIS:COM PLACAS OSCILANTES,CAPACIDADE DE 28 KN., TIPO:SIMPLES, REFERÊNCIA:COM CERTIFICAÇÃO EN OU CE."
+  },
+  {
+    "grupo": "30",
+    "classe": "3020",
+    "padrao": "10954",
+    "codigo": "601581",
+    "descricao": " POLIA, MATERIAL:FERRO FUNDIDO, DIÂMETRO TOTAL:220 MM, APLICAÇÃO:CABINE DE PINTURA., CARACTERÍSTICAS ADICIONAIS:DOIS CANAIS COM PERFIL B."
+  },
+  {
+    "grupo": "30",
+    "classe": "3020",
+    "padrao": "10954",
+    "codigo": "602489",
+    "descricao": " POLIA, APLICAÇÃO:VIATURA BLINDADA M109., CARACTERÍSTICAS ADICIONAIS:PARA DUAS CORREIAS., REFERÊNCIA:UF3426."
+  },
+  {
+    "grupo": "30",
+    "classe": "3020",
+    "padrao": "10954",
+    "codigo": "602539",
+    "descricao": " POLIA, APLICAÇÃO:VIATURA BLINDADA M109., CARACTERÍSTICAS ADICIONAIS:APLICADA EM ALTERNADOR ., REFERÊNCIA:UF3426 ."
+  },
+  {
+    "grupo": "30",
+    "classe": "3020",
+    "padrao": "10954",
+    "codigo": "603041",
+    "descricao": " POLIA, MATERIAL:ALUMÍNIO, DIÂMETRO TOTAL:80 MM, DIÂMETRO FURO CENTRAL:19,05 MM, APLICAÇÃO:MOTOR, CARACTERÍSTICAS ADICIONAIS:FURO 3/4\" RASGO CHAVETA, TIPO:DUPLA."
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "246446",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B 90, APLICAÇÃO:MOTOR ELÉTRICO MARCA WEG, 7,5 CV, MODELO 112, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "250902",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B 112, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "250903",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B 40, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "250905",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B 45, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "250906",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B 56, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "250909",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B 42, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "254313",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B 83, APLICAÇÃO:MOTOR ELÉTRICO MARCA WEG DE 3,5 CV, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "254315",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A 62, APLICAÇÃO:MOTOR ELÉTRICO MARCA WEG DE 2,5 CV, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "254316",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A 38, APLICAÇÃO:MOTOR ELÉTRICO_MARCA WEG DE 1,5 CV, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "254317",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A 33, APLICAÇÃO:MOTOR ELÉTRICO MARCA WEG DE 1 CV, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "260981",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B 63, APLICAÇÃO:MOTOBOMBA, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "261066",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B30, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "261067",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B49, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "261068",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A27, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "261069",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A50, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "263251",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B 58, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "263252",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B 59, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "263254",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B 42, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "263255",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A 38, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "263256",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A 36, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "263259",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-42, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "263260",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-45, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "263261",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-60, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "263263",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-68, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "263264",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-80, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "263268",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-26, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "266497",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-60, FORMATO:TRAPEZOIDAL"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "267451",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-64, APLICAÇÃO:COMPRESSOR BITZER IV, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "269828",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-60, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "269829",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-46, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "269830",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-51, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "271868",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-41, APLICAÇÃO:MOTOR ELÉTRICO, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "272281",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A 24, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "275509",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-64, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "283761",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A 35, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "283762",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A 46, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "294978",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-112, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "295340",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-64, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "295341",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-105, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "295342",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-90, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "295345",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-75, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "295347",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-71, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "295348",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-58, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "295350",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-53, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "295354",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-73, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "295356",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-52, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "295357",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-49, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "301220",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B 97, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "307356",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B 113, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "307357",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A 92, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "307358",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B 85, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "307359",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B 44, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "307361",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-46, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "310454",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B 44, APLICAÇÃO:AR CONDICIONADO"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "310457",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-38, APLICAÇÃO:AR CONDICIONADO"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "310458",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-32, APLICAÇÃO:AR CONDICIONADO"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "319714",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-31, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "321114",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-31, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "321116",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-32, APLICAÇÃO:EQUIPAMENTO AR CONDICIONADO CENTRAL, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "324229",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:MÁQUINA COSTURA INDUSTRIAL RETA, FORMATO:CIRCULAR, DIÂMETRO:52 CM, LARGURA:1 CM"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "324352",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A30, APLICAÇÃO:MOTOR ELÉTRICO, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "324359",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A86, APLICAÇÃO:MOTOR ELÉTRICO, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "326718",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-43, APLICAÇÃO:AR CONDICIONADO"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "331607",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B 58, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "331608",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B 90, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "331610",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-78, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "331612",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-39, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "331614",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-68, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "331616",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-51, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "331617",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-120, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "331619",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-124, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "333361",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A 33, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "344613",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-38, APLICAÇÃO:AR CONDICIONADO, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "344614",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-47, APLICAÇÃO:AR CONDICIONADO, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "344748",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-30, APLICAÇÃO:AR CONDICIONADO"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "345095",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-67, APLICAÇÃO:SECADORA DE ROUPA, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "365696",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-44, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "365697",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-63, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "365699",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-70, FORMATO:V"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "368678",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA LONADA, TIPO 1:B-69"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "375845",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:AR CONDICIONADO CENTRAL, TIPO 1:A-22"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "375846",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:AR CONDICIONADO CENTRAL, TIPO 1:A-33"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "375847",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:AR CONDICIONADO CENTRAL, TIPO 1:A-35"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "375848",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:AR CONDICIONADO CENTRAL, TIPO 1:A-34"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "375878",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:AR CONDICIONADO CENTRAL, TIPO 1:A-20"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "386468",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:MOTOR ELÉTRICO, FORMATO:V, TIPO 1:B-50"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "388011",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:B 144"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "396845",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:A 59"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "399906",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A-37, APLICAÇÃO:AR CONDICIONADO"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "422175",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:BX-60"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "422176",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:AX-26"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "422179",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:B-33"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "422180",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:B-41"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "446186",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA LONADA, TIPO 1:A-96"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "446187",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA LONADA, FORMATO:V, TIPO 1:B-100"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "446188",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA LONADA, FORMATO:V, TIPO 1:B-116"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "448288",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA LONADA, APLICAÇÃO:MAQUINAS INDUSTRIAIS, TIPO 1:A-34"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "448741",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:EQUIPAMENTO VENTILAÇÃO/EXAUSTÃO/AR CONDICIONADO, TIPO 1:V-A47"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449029",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:EQUIPAMENTO VENTILAÇÃO/EXAUSTÃO/AR CONDICIONADO, FORMATO:V, TIPO 1:A-100"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449123",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:A-102"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449124",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:A-104"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449125",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:A-111"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449126",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:A-115"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449127",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:A-119"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449128",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:A-23"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449129",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:A-49"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449130",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:A-54"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449131",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:A-55"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449132",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:A-65"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449133",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:A-66"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449134",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:A-95"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449135",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:B-102"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449136",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:B-103"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449139",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:B-119"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449140",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:B-126"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449141",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:B-130"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449145",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:B-141"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449146",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:B-142"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449147",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:B-148"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449148",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:B-149"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449149",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:B-158"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449152",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:B-48"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449153",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:B-62"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449155",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:B-69"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449156",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:B-74"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449157",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:B-79"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449158",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:B-86"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449159",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:B-89"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "449160",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:B-111"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "450653",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, TIPO 1:A-47"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454462",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-140"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454463",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-128"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454464",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-130"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454465",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-132"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454466",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-133"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454467",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-134"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454468",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-136"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454469",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-116"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454470",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-117"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454471",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-118"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454472",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-124"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454473",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-125"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454474",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-127"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454475",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-108"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454476",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-110"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454477",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-113"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454478",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-114"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454479",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-101"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454480",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-103"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454481",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-106"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454482",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-107"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454483",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-16"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454484",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-81"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454485",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-82"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454486",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-72"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454487",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-73"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454488",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-77"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454489",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-70"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454490",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-24"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454491",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-21"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454492",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:B-122"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454493",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:B-125"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454494",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:B-127"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454495",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:B-115"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454510",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-117"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454512",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-118"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454513",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-108"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454514",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-109"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454516",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-110"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454524",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:B-114"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454525",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:B-104"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454526",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:B-105"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454527",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:B-106"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454528",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:B-107"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454529",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-97"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454530",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-98"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454531",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-99"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454532",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:B-101"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454533",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-87"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454534",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-91"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454535",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-93"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454536",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-94"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454537",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-83"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454538",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-84"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454539",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:A-85"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454540",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:B-145"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454541",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:B-146"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454544",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:B-139"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454545",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:B-140"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454546",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:B-143"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454549",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:B-144"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454552",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:B-133"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454553",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 1:B-134"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454556",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-135"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454557",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-136"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454558",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-137"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454559",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-138"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454562",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-52"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454563",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-54"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454564",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-56"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454565",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-57"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454568",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-58"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454569",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-132"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454570",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-42"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454571",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-43"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454572",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-26"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454662",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-35"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454663",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-59"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454664",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-24"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454665",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-98"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454666",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-99"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454667",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-83"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454668",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-90"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454670",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-91"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454671",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-93"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454672",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-94"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454673",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-95"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454674",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-77"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454675",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-82"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454676",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-87"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "454677",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:B-72"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "459889",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA CLOROPRENO, FORMATO:V, TIPO 2:BX-57"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "459890",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA CLOROPRENO, FORMATO:V, TIPO 2:BX-34"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "465741",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:5V 1320"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "465742",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO 2:3V 710"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "466135",
+    "descricao": " CORREIA TRANSMISSÃO, APLICAÇÃO:BOMBA DE PORÃO, REFERÊNCIA:5106-026-132"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "466136",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA LONADA, APLICAÇÃO:DIREÇÃO HIDRÁULICA, REFERÊNCIA:2680-306-527"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "467561",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:LISA, APLICAÇÃO:AR CONDICIONADO, FORMATO:V, TIPO 1:B-34"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "467562",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:LISA, APLICAÇÃO:AR CONDICIONADO, FORMATO:V, TIPO 2:B-39"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "467563",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B 45, APLICAÇÃO:AR CONDICIONADO, FORMATO:V, CARACTERÍSTICAS ADICIONAIS:LISA"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "467564",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B 53, APLICAÇÃO:AR CONDICIONADO, FORMATO:V, CARACTERÍSTICAS ADICIONAIS:LISA"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "467565",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:LISA, APLICAÇÃO:AR CONDICIONADO, FORMATO:V, TIPO 2:B-67"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "472529",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:MOTOR ELÉTRICO, FORMATO:TRAPEZOIDAL, LARGURA:17 MM, TIPO 2:BXS-42"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "472530",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:MOTOR ELÉTRICO, FORMATO:TRAPEZOIDAL, LARGURA:17 MM, TIPO 2:BXS-33"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481648",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-64, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:LISA"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481649",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-73, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:LISA"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481650",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-52, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:LISA"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481651",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-67, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:LISA"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481652",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-49, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:LISA"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481653",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:LISA, TIPO 2:B-50"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481654",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:LISA, TIPO 2:B-136"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481655",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:LISA, TIPO 2:B-53"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481656",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:DENTADA, TIPO 2:AX-42"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481657",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:DENTADA, TIPO 2:AX-40"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481658",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:DENTADA, TIPO 2:AX-36"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481715",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:LISA, FORMATO:TRAPEZOIDAL, TIPO 2:A-26"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481716",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:LISA, FORMATO:TRAPEZOIDAL, TIPO 1:A-33"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481717",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:LISA, FORMATO:TRAPEZOIDAL, TIPO 2:A-41"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481718",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:LISA, FORMATO:TRAPEZOIDAL, TIPO 2:A-30"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481719",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:LISA, FORMATO:TRAPEZOIDAL, TIPO 2:A-48"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481720",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:LISA, FORMATO:TRAPEZOIDAL, TIPO 2:A-32"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481721",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:LISA, FORMATO:TRAPEZOIDAL, TIPO 2:A-43"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481722",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:LISA, FORMATO:TRAPEZOIDAL, TIPO 2:B-29"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481723",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:LISA, FORMATO:TRAPEZOIDAL, TIPO 1:B-34"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481724",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:LISA, FORMATO:TRAPEZOIDAL, TIPO 2:B-38"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481725",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:LISA, FORMATO:TRAPEZOIDAL, TIPO 2:B-39"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481726",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:LISA, FORMATO:TRAPEZOIDAL, TIPO 2:B-43"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481727",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:LISA, FORMATO:TRAPEZOIDAL, TIPO 2:B-45"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481728",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:LISA, FORMATO:TRAPEZOIDAL, TIPO 2:B-46"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "481729",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:LISA, FORMATO:TRAPEZOIDAL, TIPO 1:B-48"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "485249",
+    "descricao": " CORREIA TRANSMISSÃO, APLICAÇÃO:TEAR CIRCULAR DE MALHARIA, FORMATO:CIRCULAR, DIÂMETRO:6.800 MM, LARGURA:10 MM, CARACTERÍSTICAS ADICIONAIS:DENTADA, TIPO 2:FITA DE ALIMENTAÇÃO POSITIVA, REFERÊNCIA:MEMIMGER-IRO OU TEX BELT"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "485253",
+    "descricao": " CORREIA TRANSMISSÃO, APLICAÇÃO:TEAR CIRCULAR DE MALHARIA, FORMATO:CIRCULAR, DIÂMETRO:7.200 CM, LARGURA:10 MM, CARACTERÍSTICAS ADICIONAIS:DENTADA, TIPO 2:FITA DE ALIMENTAÇÃO POSITIVA, REFERÊNCIA:MEMIMGER-IRO OU TEX BELT"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "485254",
+    "descricao": " CORREIA TRANSMISSÃO, APLICAÇÃO:TEAR CIRCULAR DE MALHARIA, FORMATO:CIRCULAR, DIÂMETRO:6.000 CM, LARGURA:10 MM, CARACTERÍSTICAS ADICIONAIS:DENTADA, TIPO 2:FITA DE ALIMENTAÇÃO POSITIVA, REFERÊNCIA:MEMIMGER-IRO OU TEX BELT"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "485255",
+    "descricao": " CORREIA TRANSMISSÃO, APLICAÇÃO:TEAR CIRCULAR DE MALHARIA, FORMATO:CIRCULAR, DIÂMETRO:6.800 CM, LARGURA:10 MM, CARACTERÍSTICAS ADICIONAIS:DENTADA, TIPO 2:FITA DE ALIMENTAÇÃO POSITIVA, REFERÊNCIA:MEMIMGER-IRO OU TEX BELT"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "485256",
+    "descricao": " CORREIA TRANSMISSÃO, APLICAÇÃO:TEAR CIRCULAR DE MALHARIA, FORMATO:CIRCULAR, DIÂMETRO:8.600 CM, LARGURA:10 MM, CARACTERÍSTICAS ADICIONAIS:DENTADA, TIPO 2:FITA DE ALIMENTAÇÃO POSITIVA, REFERÊNCIA:MEMIMGER-IRO OU TEX BELT"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "485257",
+    "descricao": " CORREIA TRANSMISSÃO, APLICAÇÃO:TEAR CIRCULAR DE MALHARIA, FORMATO:CIRCULAR, DIÂMETRO:8.000 CM, LARGURA:10 MM, CARACTERÍSTICAS ADICIONAIS:DENTADA, TIPO 2:FITA DE ALIMENTAÇÃO POSITIVA, REFERÊNCIA:MEMIMGER-IRO OU TEX BELT"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "485258",
+    "descricao": " CORREIA TRANSMISSÃO, APLICAÇÃO:TEAR CIRCULAR DE MALHARIA, FORMATO:CIRCULAR, DIÂMETRO:8.800 CM, LARGURA:10 MM, CARACTERÍSTICAS ADICIONAIS:DENTADA, TIPO 2:FITA DE ALIMENTAÇÃO POSITIVA, REFERÊNCIA:MEMIMGER-IRO OU TEX BELT"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "601195",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:DENTADA, TIPO 2:130 XL 3/8"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "601196",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:DENTADA, TIPO 2:166 XL 3/8"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "601197",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:DENTADA, TIPO 2:190 XL 3/8"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "601198",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:DENTADA, TIPO 2:200 XL 3/8"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "601199",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:DENTADA, TIPO 2:100 XL 3/8"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "601200",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:DENTADA, TIPO 2:120 XL 3/8"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "601201",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:DENTADA, TIPO 2:210 XL 3/8"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "601202",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:DENTADA, TIPO 2:94 XL 3/8"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "601203",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:DENTADA, TIPO 2:230 XL 3/8"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "602680",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:DENTADA, TIPO 2:672XL 1/4"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "603097",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:B-71, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:LISA"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "603147",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:TRAPEZOIDAL, CARACTERÍSTICAS ADICIONAIS:DENTADA, TIPO 2:3VX450"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "603699",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:MAQUINAS INDUSTRIAIS, FORMATO:V, TIPO 2:A44"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "603815",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, TIPO:A25, APLICAÇÃO:MAQUINAS INDUSTRIAIS, FORMATO:V, LARGURA:13 MM"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "603816",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:MAQUINAS INDUSTRIAIS, FORMATO:V, LARGURA:13 MM, TIPO 2:A29"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "603817",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:MAQUINAS INDUSTRIAIS, FORMATO:V, LARGURA:13 MM, TIPO 2:A34"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "603818",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:MAQUINAS INDUSTRIAIS, FORMATO:V, TIPO 2:A48"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "603819",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:MAQUINAS INDUSTRIAIS, FORMATO:V, LARGURA:13 MM, TIPO 2:A56"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "603820",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:MAQUINAS INDUSTRIAIS, FORMATO:V, TIPO 2:A57"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "603821",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, LARGURA:13 MM, TIPO 2:A67"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "603822",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, FORMATO:V, LARGURA:13 MM, TIPO 2:A57"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "603823",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:MAQUINAS INDUSTRIAIS, FORMATO:V, LARGURA:13 MM, TIPO 2:A74"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "603824",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:MAQUINAS INDUSTRIAIS, FORMATO:V, LARGURA:13 MM, TIPO 2:A76"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "603825",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:MAQUINAS INDUSTRIAIS, FORMATO:V, LARGURA:13 MM, TIPO 2:A79"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "603826",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:MAQUINAS INDUSTRIAIS, FORMATO:V, LARGURA:13 MM, TIPO 2:A80"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "603827",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:MAQUINAS INDUSTRIAIS, FORMATO:V, LARGURA:13 MM, TIPO 2:A88"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "603828",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:MAQUINAS INDUSTRIAIS, FORMATO:V, LARGURA:13 MM, TIPO 2:A89"
+  },
+  {
+    "grupo": "30",
+    "classe": "3030",
+    "padrao": "5892",
+    "codigo": "603829",
+    "descricao": " CORREIA TRANSMISSÃO, MATERIAL:BORRACHA, APLICAÇÃO:MAQUINAS INDUSTRIAIS, FORMATO:V, LARGURA:13 MM, TIPO 2:A28"
+  },
+  {
+    "grupo": "30",
+    "classe": "3040",
+    "padrao": "4998",
+    "codigo": "466099",
+    "descricao": " CILINDRO HIDRÁULICO, TIPO:ACIONAMENTO DA BOMBA PORÃO, APLICAÇÃO:BOMBA DE PORÃO VEÍCULO BLINDADO URUTU\\CASCAVEL, REFERÊNCIA:2460-400-034"
+  },
+  {
+    "grupo": "30",
+    "classe": "3040",
+    "padrao": "4998",
+    "codigo": "601940",
+    "descricao": " CILINDRO HIDRÁULICO, TIPO:SIMPLES, ENGATE RÁPIDO, APLICAÇÃO:ELEVAÇÃO DE CARGA, CARACTERíSTICAS ADICIONAIS:COM TAMPA GUARDA PÓ, RETORNO POR MOLA, CAPACIDADE DE CARGA:50 T"
+  },
+  {
+    "grupo": "30",
+    "classe": "3040",
+    "padrao": "4998",
+    "codigo": "601941",
+    "descricao": " CILINDRO HIDRÁULICO, TIPO:SIMPLES, ENGATE RÁPIDO, APLICAÇÃO:ELEVAÇÃO DE CARGA, CARACTERíSTICAS ADICIONAIS:COM TAMPA GUARDA PÓ, RETORNO POR MOLA, CAPACIDADE DE CARGA:100 T"
+  },
+  {
+    "grupo": "30",
+    "classe": "3040",
+    "padrao": "5004",
+    "codigo": "602439",
+    "descricao": " CILINDRO PNEUMÁTICO, TIPO:DUPLA AÇÃO, PRESSÃO TRABALHO:10 BAR., DIÂMETRO:63 MM, CURSO MÁXIMO:100 MM"
+  },
+  {
+    "grupo": "30",
+    "classe": "3040",
+    "padrao": "6427",
+    "codigo": "466043",
+    "descricao": " EIXO CARDAN, TIPO:CARDÃ, APLICAÇÃO:VEÍCULO BLINDADO CASCAVEL / URUTU, USO:TRAÇÃO DIANTEIRA, REFERÊNCIA:1514-170-084"
+  },
+  {
+    "grupo": "30",
+    "classe": "3040",
+    "padrao": "6427",
+    "codigo": "466044",
+    "descricao": " EIXO CARDAN, TIPO:CARDÃ, APLICAÇÃO:VEÍCULO BLINDADO CASCAVEL / URUTU, USO:TRAÇÃO DIANTEIRA, REFERÊNCIA:1514-640-013["
+  },
+  {
+    "grupo": "30",
+    "classe": "3040",
+    "padrao": "6427",
+    "codigo": "466045",
+    "descricao": " EIXO CARDAN, TIPO:CARDÃ, APLICAÇÃO:VEÍCULO BLINDADO CASCAVEL / URUTU, USO:TRAÇÃO TRASEIRA, REFERÊNCIA:1514-490-011"
+  },
+  {
+    "grupo": "30",
+    "classe": "3040",
+    "padrao": "6427",
+    "codigo": "466046",
+    "descricao": " EIXO CARDAN, TIPO:CARDÃ, APLICAÇÃO:VEÍCULO BLINDADO CASCAVEL / URUTU, USO:TRAÇÃO TRASEIRA, REFERÊNCIA:1514-210-051"
+  },
+  {
+    "grupo": "30",
+    "classe": "3040",
+    "padrao": "6427",
+    "codigo": "466048",
+    "descricao": " EIXO CARDAN, TIPO:CARDÃ, APLICAÇÃO:VEÍCULO BLINDADO CASCAVEL / URUTU, USO:TRAÇÃO DIANTEIRA, REFERÊNCIA:1814-040-158"
+  },
+  {
+    "grupo": "30",
+    "classe": "3040",
+    "padrao": "6427",
+    "codigo": "466049",
+    "descricao": " EIXO CARDAN, TIPO:CARDÃ, APLICAÇÃO:VEÍCULO BLINDADO CASCAVEL / URUTU, USO:ENTRE CAIXA DE DESCIDA E CAIXA MUDANÇA, REFERÊNCIA:1814-170-019"
+  },
+  {
+    "grupo": "30",
+    "classe": "3040",
+    "padrao": "6427",
+    "codigo": "466050",
+    "descricao": " EIXO CARDAN, TIPO:CARDÃ, APLICAÇÃO:VEÍCULO BLINDADO CASCAVEL / URUTU, USO:ENTRE CAIXA DE DESCIDA E CAIXA MUDANÇA, REFERÊNCIA:1514-120-052["
+  },
+  {
+    "grupo": "30",
+    "classe": "3040",
+    "padrao": "6427",
+    "codigo": "466051",
+    "descricao": " EIXO CARDAN, TIPO:CARDÃ, APLICAÇÃO:VEÍCULO BLINDADO CASCAVEL / URUTU, USO:ENTRE CAIXA DE DESCIDA E CAIXA MUDANÇA, REFERÊNCIA:1514-610-017"
+  },
+  {
+    "grupo": "30",
+    "classe": "3040",
+    "padrao": "6427",
+    "codigo": "475563",
+    "descricao": " EIXO CARDAN, TIPO:CARDÃ, APLICAÇÃO:VEÍCULO VIATURA LAND ROVER DEFENDER 4X4, USO:TRAÇÃO TRASEIRA, REFERÊNCIA:FRC 8393"
+  },
+  {
+    "grupo": "30",
+    "classe": "3040",
+    "padrao": "6427",
+    "codigo": "475564",
+    "descricao": " EIXO CARDAN, TIPO:CARDÃ, APLICAÇÃO:VEÍCULO VIATURA LAND ROVER DEFENDER 4X4, USO:TRAÇÃO DIANTEIRA, REFERÊNCIA:FRC 8386"
+  },
+  {
+    "grupo": "30",
+    "classe": "3040",
+    "padrao": "6427",
+    "codigo": "475565",
+    "descricao": " EIXO CARDAN, TIPO:CARDÃ, APLICAÇÃO:VEÍCULO VIATURA LAND ROVER DEFENDER 4X4, USO:TRAÇÃO DIANTEIRA, REFERÊNCIA:LR 010465"
+  },
+  {
+    "grupo": "30",
+    "classe": "3040",
+    "padrao": "6427",
+    "codigo": "476443",
+    "descricao": " EIXO CARDAN, APLICAÇÃO:VEÍCULO AGRALE MARRUÁ 4X4 DIESEL, USO:TRAÇÃO TRASEIRA, REFERÊNCIA:6011.009.042.00.4"
+  },
+  {
+    "grupo": "30",
+    "classe": "3040",
+    "padrao": "6427",
+    "codigo": "476444",
+    "descricao": " EIXO CARDAN, APLICAÇÃO:VEÍCULO AGRALE MARRUÁ 4X4 DIESEL, USO:TRAÇÃO TRASEIRA, REFERÊNCIA:6011.009.106.00.7"
+  },
+  {
+    "grupo": "30",
+    "classe": "3040",
+    "padrao": "6427",
+    "codigo": "476445",
+    "descricao": " EIXO CARDAN, APLICAÇÃO:VEÍCULO AGRALE MARRUÁ 4X4 DIESEL, USO:TRAÇÃO DIANTEIRA, REFERÊNCIA:6011.008.036.00.7"
+  },
+  {
+    "grupo": "30",
+    "classe": "3040",
+    "padrao": "6427",
+    "codigo": "476668",
+    "descricao": " EIXO CARDAN, APLICAÇÃO:VIATURA BLINDADA ESPECIAL POSTO DE COMANDO M577 A2, USO:SAÍDA DO DIFERENCIAL CONTROLADO, REFERÊNCIA:12313356-5"
+  }
+]

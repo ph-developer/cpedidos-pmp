@@ -1,0 +1,86 @@
+[
+  {
+    "grupo": "111",
+    "classe": "1111",
+    "codigo": "25852",
+    "descricao": "DESENVOLVIMENTO DE NOVO SOFTWARE - JAVA"
+  },
+  {
+    "grupo": "111",
+    "classe": "1111",
+    "codigo": "25860",
+    "descricao": "DESENVOLVIMENTO E OU EVOLUCAO DE SOFTWATE - PHP"
+  },
+  {
+    "grupo": "111",
+    "classe": "1111",
+    "codigo": "25879",
+    "descricao": "DESENVOLVIMENTO E OU EVOLUCAO DE SOFTWATE - FRAMEWORK, .NET,BASIC, ASP, DELPHI, PASCAL E PERL."
+  },
+  {
+    "grupo": "111",
+    "classe": "1111",
+    "codigo": "25887",
+    "descricao": "DESENVOLVIMENTO E OU EVOLUCAO DE SOFTWATE - PYTHON"
+  },
+  {
+    "grupo": "111",
+    "classe": "1111",
+    "codigo": "25895",
+    "descricao": "DESENVOLVIMENTO E/OU EVOLUCAO DE SOFTWATE - DISPOSITIVOS MOVEIS"
+  },
+  {
+    "grupo": "111",
+    "classe": "1111",
+    "codigo": "25909",
+    "descricao": "DESENVOLVIMENTO E OU EVOLUCAO DE SOFTWATE - MAINFRAME"
+  },
+  {
+    "grupo": "111",
+    "classe": "1111",
+    "codigo": "25917",
+    "descricao": "DESENVOLVIMENTO E/OU EVOLUCAO DE SOFTWATE - OUTRAS LINGUAGENS"
+  },
+  {
+    "grupo": "111",
+    "classe": "1112",
+    "codigo": "25925",
+    "descricao": "MANUTENCAO EVOLUTIVA DE  SOFTWARE (ACRESCIMO DE NOVAS FUNCIONALIDADES) - JAVA"
+  },
+  {
+    "grupo": "111",
+    "classe": "1112",
+    "codigo": "25933",
+    "descricao": "MANUTENCAO EVOLUTIVA DE  SOFTWARE (ACRESCIMO DE NOVAS FUNCIONALIDADES) - PHP"
+  },
+  {
+    "grupo": "111",
+    "classe": "1112",
+    "codigo": "25941",
+    "descricao": "MANUTENCAO EVOLUTIVA DE  SOFTWARE (ACRESCIMO DE NOVAS FUNCIONALIDADES)-FRAMEWORK.NET: C#,VISUAL BASIC,ASP,DELPHI, PASCAL"
+  },
+  {
+    "grupo": "111",
+    "classe": "1112",
+    "codigo": "25950",
+    "descricao": "MANUTENCAO EVOLUTIVA DE  SOFTWARE (ACRESCIMO DE NOVAS FUNCIONALIDADES) - PYTHON"
+  },
+  {
+    "grupo": "111",
+    "classe": "1112",
+    "codigo": "25968",
+    "descricao": "MANUTENCAO EVOLUTIVA DE  SOFTWARE (ACRESCIMO DE NOVAS FUNCIONALIDADES) - DISPOSITIVOS MOVEIS"
+  },
+  {
+    "grupo": "111",
+    "classe": "1112",
+    "codigo": "25976",
+    "descricao": "MANUTENCAO EVOLUTIVA DE  SOFTWARE (ACRESCIMO DE NOVAS FUNCIONALIDADES) - MAINFRAME"
+  },
+  {
+    "grupo": "111",
+    "classe": "1112",
+    "codigo": "25984",
+    "descricao": "MANUTENCAO EVOLUTIVA DE  SOFTWARE (ACRESCIMO DE NOVAS FUNCIONALIDADES) - OUTRAS LINGUAGENS"
+  }
+]

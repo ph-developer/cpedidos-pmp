@@ -1,0 +1,572 @@
+[
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "3131",
+    "descricao": "MANUTENCAO EM OFICINA DE CARPINTARIA E MARCENARIA"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "3140",
+    "descricao": "MANUTENCAO DE VIAS FERREAS (VIA PERMANENTE)"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "3158",
+    "descricao": "MANUTENCAO E REPARO EM INDUSTRIA NAVAL"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "3662",
+    "descricao": "MANUTENCAO EXTINTORES / MANGUEIRAS - COMBATE INCENDIO"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "5886",
+    "descricao": "LANTERNAGEM - VEICULOS LEVES"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "5894",
+    "descricao": "LANTERNAGEM - VEICULOS PESADOS"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "9954",
+    "descricao": "INSTALACAO / MANUTENCAO / REPARO - PORTA SANFONADA /  PERSIANA ( HORIZONTAL / VERTICAL )"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "9970",
+    "descricao": "REPARO EM PORTA SANFONADA COM REVESTIMENTO DE PLASTICO"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "12700",
+    "descricao": "INSTALACAO DE FORRO / PECA DECORATIVA DE GESSO - TETO / PAREDE"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "12750",
+    "descricao": "MANUTENCAO/ REPARO DE CARRO DE TRANSPORTE DE CARGA / PORTA /PORTA DE FERRO/ GRADE DE FERRO/ COLETOR DE LIXO"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "13145",
+    "descricao": "MANUTENCAO E REPARO DE ARMA DE FOGO"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "13471",
+    "descricao": "PINTURA VEICULOS LEVES - SECAGEM POR ESTUFA"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "13480",
+    "descricao": "PINTURA VEICULO PESADO - SECAGEM POR ESTUFA"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "13498",
+    "descricao": "REGULAGEM DE CARBURADOR DE MOTOR A  EXPLOSAO  -  COMBUSTIVELALCOOL / GASOLINA"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "13552",
+    "descricao": "REPARO DE PNEU / CAMARA DE AR"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "13560",
+    "descricao": "TROCA DE OLEO DE VEICULO AUTOMOTIVO"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "13579",
+    "descricao": "MONTAGEM / DESMONTAGEM - MANUTENCAO / REPARO EM CARROCERIAS,CARROCAS E CARRETAS DE MADEIRA"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "13609",
+    "descricao": "RECUPERACAO DE ESQUADRIA METALICA / GRELHAS"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "14133",
+    "descricao": "MANUTENCAO DE MOLDE PARA INJECAO DE PECA"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "14427",
+    "descricao": "AFERICAO, CALIBRACAO E MEDICAO DE MAQUINAS / INSTRUMENTOS  /SENSORES / PADROES / EQUIPAMENTOS"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "14435",
+    "descricao": "AFERICAO E/OU CALIBRAGEM DE MAQUINA UNIVERSAL DE ENSAIOS"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "14443",
+    "descricao": "AFERICAO E/OU CALIBRACAO DE INSTRUMENTO DE  MEDIR  FORCA  DEUSO GERAL"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "14451",
+    "descricao": "AFERICAO DE INSTRUMENTO DIGITAL E ANALOGICO"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "14460",
+    "descricao": "AFERICAO E/OU CALIBRACAO DE SENSORES"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "14478",
+    "descricao": "AFERICAO, CALIBRACAO E MEDICAO DE AVALIACAO GEOMETRICA"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "19550",
+    "descricao": "MANUTENCAO / RECUPERACAO - ESTACAO METEOROLOGICA"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "19569",
+    "descricao": "MANUTENCAO / RECUPERACAO - SISTEMA ANEMOMETRICO"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "19690",
+    "descricao": "FUSAO FIBRA OPTICA"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "25097",
+    "descricao": "RECUPERACAO DE MUNICAO"
+  },
+  {
+    "grupo": "872",
+    "classe": "'-7",
+    "codigo": "27944",
+    "descricao": "MANUTENÇÃO / REPARO / REEMPATAÇÃO DE MANGUEIRA HIDRÁULICA / RÍGIDA / FLEXÍVEL"
+  },
+  {
+    "grupo": "872",
+    "classe": "8724",
+    "codigo": "5410",
+    "descricao": "MANUTENCAO E REPARO DE MOVEIS / UTENSILIOS DE ESCRITORIO"
+  },
+  {
+    "grupo": "872",
+    "classe": "8724",
+    "codigo": "13021",
+    "descricao": "MANUTENCAO DE MOBILIARIO HOSPITALAR"
+  },
+  {
+    "grupo": "872",
+    "classe": "8724",
+    "codigo": "20524",
+    "descricao": "ESTOFAMENTO MOVEIS"
+  },
+  {
+    "grupo": "872",
+    "classe": "8724",
+    "codigo": "25283",
+    "descricao": "PRESTACAO DE SERVICOS DE MARCHETEIRO"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "2887",
+    "descricao": "MANUTENCAO DE REDES AEREAS - TELECOMUNICACOES"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "2895",
+    "descricao": "MANUTENCAO DE REDES SUBTERRANEAS DE TELECOMUNICACOES"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "2909",
+    "descricao": "MANUTENCAO DE REDES SUBAQUATICAS - TELECOMUNICACOES"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "2917",
+    "descricao": "MANUTENCAO DE ISOLAMENTO TERMICO"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "2925",
+    "descricao": "MANUTENCAO DE ISOLAMENTO ACUSTICO"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "3581",
+    "descricao": "MANUTENCAO DE AVIOES"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "3590",
+    "descricao": "MANUTENCAO DE HELICOPTEROS"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "3603",
+    "descricao": "MANUTENCAO DE EMBARCACOES"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "3611",
+    "descricao": "MANUTENCAO DE DRAGAS"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "4936",
+    "descricao": "MANUTENCAO DE LINHAS DE TRANSMISSAO ENERGIA ELETRICA DESENERGIZADAS"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "4944",
+    "descricao": "MANUTENCAO DE LINHAS DE  TRANSMISSAO  ENERGIA  ELETRICA  ATE69KV"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "4995",
+    "descricao": "MANUTENCAO DE LINHAS DE  TRANSMISSAO  ENERGIA  ELETRICA  ATE138KV"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "5029",
+    "descricao": "MANUTENCAO DE LINHAS DE  TRANSMISSAO  ENERGIA  ELETRICA  ATE230KV"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "5037",
+    "descricao": "MANUTENCAO DE LINHAS DE  TRANSMISSAO  ENERGIA  ELETRICA  ATE500KV"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "5045",
+    "descricao": "MANUTENCAO DE LINHAS DE TRANSMISSAO ENERGIA ELETRICA  ENERG.ACIMA DE 500KV"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "5053",
+    "descricao": "MANUTENCAO DE TORRES DE LINHAS DE TRANSMISSAO"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "5061",
+    "descricao": "MANUTENCAO DE LINHAS DE DISTRIBUICAO DE ENERGIA ELETRICA DESENERGIZADA"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "5070",
+    "descricao": "MANUTENCAO DE LINHAS DE DISTRIBUICAO ENERGIA ELETRICA ENERGIZADA"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "8842",
+    "descricao": "MANUTENCAO PONTES DE EMBARQUE - AEROPORTO"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "9903",
+    "descricao": "MANUTENCAO EM BOMBA E BICO INJETOR DE COMBUSTIVEL"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "12629",
+    "descricao": "RECARGA DE CARTUCHO PARA IMPRESSORA \"SUSPENSO\""
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "12980",
+    "descricao": "MANUTENCAO DE CENTRAL DE ESTERILIZACAO"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "13005",
+    "descricao": "MANUTENCAO DE LAVANDERIA HOSPITALAR / INDUSTRIAL"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "13030",
+    "descricao": "MANUTENCAO DE PRENSA"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "13080",
+    "descricao": "ESTOFAMENTO / CAPOTARIA DE AUTOMOVEL"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "13633",
+    "descricao": "MANUTENCAO DE SISTEMA DE TERMOMETRIA DE SILO / ARMAZEM GRANELEIRO"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "13722",
+    "descricao": "MANUTENCAO E REPARO EM PARA-RAIO"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "13846",
+    "descricao": "AFERICAO / CONTROLE DE QUALIDADE DE APARELHOS DETECTORES/EMISSORES - LUZ / CALOR / RADIACAO / SOM / VIBRACAO"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "13854",
+    "descricao": "MANUTENCAO E REPARO EM APARELHO AUDITIVO."
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "14613",
+    "descricao": "MANUTENCAO DE POCO ARTESIANO"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "14842",
+    "descricao": "MANUTENCAO VIDRARIA LABORATORIO"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "14990",
+    "descricao": "MANUTENCAO TURBINAS AERONAUTICAS E COMPONENTES"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "15687",
+    "descricao": "AFINACAO DE INSTRUMENTOS MUSICAIS"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "16004",
+    "descricao": "COMERCIALIZACAO / RECONDICIONAMENTO DE PECA E COMPONENTE"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "16012",
+    "descricao": "MANUTENCAO E REPARO - VARIADOR DE VELOCIDADE"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "16063",
+    "descricao": "MANUTENCAO DE CABINE AUDIOMETRICA"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "16810",
+    "descricao": "MANUTENCAO DE CONTEINER ( CONTAINER )"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "17418",
+    "descricao": "MANUTENCAO SINALIZADOR ACUSTICO / VISUAL"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "17574",
+    "descricao": "REFORMA E REPARO - ARTIGO DE COURO / TECIDO / MATERIAL SINTETICO"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "18406",
+    "descricao": "INSTALACAO / MANUTENCAO - PORTA / CANCELA / PORTAO"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "18791",
+    "descricao": "CONSERTO INSTRUMENTO MUSICAL"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "18856",
+    "descricao": "INSTALACAO / MANUTENCAO - PECA / ACESSORIO DE VEICULO AUTOMOTIVO"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "18872",
+    "descricao": "REMANUFATURAMENTO CARTUCHO (CABECA IMPRESSAO) / IMPRESSORA /COPIADORA / FAX \"SUSPENSO\""
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "19593",
+    "descricao": "RECUPERACAO - TAPETE PERSA"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "19607",
+    "descricao": "MANUTENCAO AQUARIO"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "19879",
+    "descricao": "MANUTENCAO / REPARO - AEROMODELO / AERONAVES TELEGUIADS"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "20125",
+    "descricao": "MANUTENCAO / REFORMA - ARTIGO FIBRA DE VIDRO"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "20575",
+    "descricao": "MANUTENCAO / REPARO - CAMARA REAGENTE"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "20834",
+    "descricao": "MANUTENCAO / REPARO - EQUIPAMENTO METEOROLOGICO"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "20869",
+    "descricao": "MANUTENCAO DE MATERIAL HOSPITALAR"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "20907",
+    "descricao": "RESTAURACAO PROTESE ESTETICA"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "21822",
+    "descricao": "MANUTENCAO / REFORMA - INSTALACAO PREVENCAO COMBATE INCENDIO"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "21970",
+    "descricao": "MANUTENCAO CENTRAL DE CHAMADA"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "22101",
+    "descricao": "INSTALACAO / MANUTENCAO - PERSIANA ENTRE-VIDROS"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "22594",
+    "descricao": "REPARO PROTESE ORTOPEDICA"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "22667",
+    "descricao": "MANUTENCAO E REPARO COMPONENTES PORTADAS LEVES MILITARES"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "23086",
+    "descricao": "INSTALACAO / MANUTENCAO - REDE DISTRIBUICAO GAS"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "24368",
+    "descricao": "SERVICO MANUTENCAO / REFORMA - PROTESE"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "25151",
+    "descricao": "MANUTENCAO E REPARO MATERIAL ESPORTIVO / BRINQUEDO"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "25224",
+    "descricao": "RECUPERACAO DE DISTINTIVOS E INSIGNIAS"
+  },
+  {
+    "grupo": "872",
+    "classe": "8729",
+    "codigo": "27570",
+    "descricao": "SERVICO DE INSTALACAO  / MONTAGEM  / REMANEJAMENTO E MANUTENCAO DE REDE LOCAL DE COMPUTADORES"
+  }
+]

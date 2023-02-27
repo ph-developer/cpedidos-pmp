@@ -1,0 +1,3537 @@
+[
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "3798",
+    "codigo": "265051",
+    "descricao": " BOMBO, MATERIAL:ALUMÍNIO, TAMANHO:30 X 22 CM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "7095",
+    "codigo": "293219",
+    "descricao": " ESTANTE - PARTITURA, MATERIAL:METAL, TIPO:DESMONTÁVEL, COMPRIMENTO:430 MM, LARGURA:220 MM, CARACTERÍSTICAS ADICIONAIS:ACABAMENTO NA COR PRETA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "7095",
+    "codigo": "293220",
+    "descricao": " ESTANTE - PARTITURA, MATERIAL:MADEIRA, COMPRIMENTO:490 MM, LARGURA:300 MM, CARACTERÍSTICAS ADICIONAIS:SUPORTE PARA BATUTA, PEDESTAL EM METAL E PÉS RETRÁ"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "7095",
+    "codigo": "360757",
+    "descricao": " ESTANTE - PARTITURA, MATERIAL:METAL, TIPO:DESMONTÁVEL, COMPRIMENTO:500 MM, CARACTERÍSTICAS ADICIONAIS:ACABAMENTO NA COR PRETA, ALTURA:1300 MM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "7095",
+    "codigo": "471930",
+    "descricao": " ESTANTE - PARTITURA, MATERIAL:METAL, TIPO:DESMONTÁVEL, LARGURA:500 MM, ALTURA:1500 MM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8411",
+    "codigo": "289108",
+    "descricao": " INSTRUMENTO MUSICAL - CORDA, COMPONENTES:VERGA DE BIRIBA, ARAME DE AÇO, BARBANTES, CABEÇA,, COMPRIMENTO:1,55 M, TIPO:BERIMBAU"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8411",
+    "codigo": "441710",
+    "descricao": " INSTRUMENTO MUSICAL - CORDA, COMPONENTES:COM 6 CORDAS E ESTOJO, TIPO:GUITARRA ELÉTRICA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8411",
+    "codigo": "441711",
+    "descricao": " INSTRUMENTO MUSICAL - CORDA, COMPONENTES:COM 5 CORDAS E ESTOJO, TIPO:CONTRABAIXO ELÉTRICO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8411",
+    "codigo": "471929",
+    "descricao": " INSTRUMENTO MUSICAL - CORDA, COMPONENTES:COM 6 CORDAS E ESTOJO, COMPRIMENTO:1,05 M, TIPO:VIOLÃO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8411",
+    "codigo": "472006",
+    "descricao": " INSTRUMENTO MUSICAL - CORDA, COMPONENTES:CORPO EM ALDER EM ROSEWOOD COM 25.5\" (648 MM),ESCA, TIPO:GUITARRA ELÉTRICA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8411",
+    "codigo": "485823",
+    "descricao": " INSTRUMENTO MUSICAL - CORDA, COMPONENTES:COM 4 CORDAS EM AÇO, COMPRIMENTO:62 CM, TIPO:CAVAQUINHO ELÉTRICO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8411",
+    "codigo": "486091",
+    "descricao": " INSTRUMENTO MUSICAL - CORDA, COMPONENTES:COM 4 CORDAS E CAPA, TIPO:CONTRABAIXO ELÉTRICO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8411",
+    "codigo": "486284",
+    "descricao": " INSTRUMENTO MUSICAL - CORDA, COMPONENTES:ESTOJO, ARCO E BREU, TIPO:VIOLINO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8411",
+    "codigo": "486337",
+    "descricao": " INSTRUMENTO MUSICAL - CORDA, COMPONENTES:COM 4 CORDAS E CAPA, TIPO:UKULELE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8411",
+    "codigo": "486338",
+    "descricao": " INSTRUMENTO MUSICAL - CORDA, COMPONENTES:COM 6 CORDAS, NYLON, AFINADOR DIGITAL, TIPO:VIOLÃO ELETROACÚSTICO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8411",
+    "codigo": "486344",
+    "descricao": " INSTRUMENTO MUSICAL - CORDA, COMPONENTES:COM 6 CORDAS, AÇO, AFINADOR DIGITAL, TIPO:VIOLÃO ELÉTRICO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8411",
+    "codigo": "600821",
+    "descricao": " INSTRUMENTO MUSICAL - CORDA, COMPONENTES:COM CORPO EM BASSWOOD, BRAÇO EM MAPLE, TIPO:GUITARRA ELÉTRICA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8411",
+    "codigo": "602791",
+    "descricao": " INSTRUMENTO MUSICAL - CORDA, COMPONENTES:ARCO DE MADEIRA E CRINA ANIMAL, BAG LUXO E BREU, TIPO:VIOLONCELO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "289109",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:PANDEIRO, MATERIAL:MADEIRA, COURO E METAL, TAMANHO:8 POL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "289110",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:PANDEIRO, MATERIAL:MADEIRA, COURO E METAL, TAMANHO:10 POL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "289111",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:ATABAQUE, MATERIAL:BARRICA DE MADEIRA, COURO, CORDA E METAL, TAMANHO:70 X 30 CM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "289112",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:ATABAQUE, MATERIAL:BARRICA DE MADEIRA, COURO, CORDA E METAL, TAMANHO:100 X 30 CM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "289113",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:RECO-RECO, MATERIAL:MADEIRA / BAMBU, TAMANHO:35 X 6 CM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "289115",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:AGOGO, MATERIAL:METAL, COMPONENTES:2 CONES E 1 HASTE, TAMANHO:35 X 9 CM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "354001",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:CAXIXI, MATERIAL:PALHA, TAMANHO:6,50 X 14 X 6,50 CM, CARACTERÍSTICAS ADICIONAIS:FUNDO CABAÇA TRATADA E SEMENTES"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "354013",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:SURDO, MATERIAL:MADEIRA, TAMANHO:45 X 14 CM, CARACTERÍSTICAS ADICIONAIS:SEIS TIRANTES, SUPER LUXO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "391011",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:PRATO, MATERIAL:BRONZE, COMPONENTES:2 PRATOS, TAMANHO:14 POL, CARACTERÍSTICAS ADICIONAIS:MODELO: ZILTANNAN"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "441687",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:CAJON ACÚSTICO, MATERIAL:HDF, CARACTERÍSTICAS ADICIONAIS:ASSENTO EVA, PINTURA AUTOMOTIVA, PERSONALIZADO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "442026",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:CAMPANA TUBULAR, MATERIAL:PRATA, COMPONENTES:26 TUBOS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "442153",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:GLOCKENSPIEL, MATERIAL:AÇO CARBONO, COMPONENTES:34 TECLAS, CARACTERÍSTICAS ADICIONAIS:MESA EM MADEIRA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "442165",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:CONCERT TONS, MATERIAL:METAL CROMADO, COMPONENTES:8 PEÇAS COM AFINAÇÕES DIVERSAS, CARACTERÍSTICAS ADICIONAIS:CORPO EM MADEIRA COM ACABAMENTO EM FÓRMICA BRILHAN"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "442167",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:MARIMBA, MATERIAL:MADEIRA ROSEWOOD DE HONDURAS, COMPONENTES:64 TECLAS, CARACTERÍSTICAS ADICIONAIS:TUBOS EM ALUMÍNIO NA COR PRETO FOSCO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "442168",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:SURDO, MATERIAL:AÇO INOX, COMPONENTES:TALABARTE E BAQUETAS, TAMANHO:18\" X 45 CM, CARACTERÍSTICAS ADICIONAIS:ARO BOLA CROMADO E PELE LEITOSA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "442169",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:BOMBO, MATERIAL:AÇO INOX, COMPONENTES:TALABARTES E BAQUETAS, TAMANHO:22\" X 30 CM, CARACTERÍSTICAS ADICIONAIS:ARO BOLA CROMADO E PELE LEITOSA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "442173",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:GONGO CHINÊS, MATERIAL:COBRE MARTELADO, TAMANHO:36 POL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "450339",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:CHOCALHO/OVINHO, MATERIAL:PLÁSTICO, CARACTERÍSTICAS ADICIONAIS:PREENCHIDO COM CONTAS DE AÇO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "450340",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:TRIÂNGULO, MATERIAL:AÇO CROMADO, COMPONENTES:BATEDOR E CORDA, TAMANHO:25 CM, CARACTERÍSTICAS ADICIONAIS:BATEDOR COM CABO REVESTIDO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "458620",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:CAIXA TENOR, TAMANHO:14 X 12 POL, CARACTERÍSTICAS ADICIONAIS:COLETE,ARO DUPLO E 12 AFINAÇÕES COM CARRIER"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "458632",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:BOMBO, MATERIAL:MADEIRA, TAMANHO:22 X 14 POL, CARACTERÍSTICAS ADICIONAIS:CANOAS INTEIRIÇAS, AFINADORES, COLETE DE ALUMÍNIO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "460871",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:PRATO, MATERIAL:BRONZE, COMPONENTES:2 PRATOS, TAMANHO:18 POL, CARACTERÍSTICAS ADICIONAIS:CORREIAS EM COURO E PROTETORES DE MÃO."
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "460873",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:PRATO, MATERIAL:BRONZE, COMPONENTES:3, TAMANHO:20 X 16 X 14 POL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "460874",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:BOMBO, MATERIAL:ALUMÍNIO, COMPONENTES:COM TALABARTE, TAMANHO:22\" X 30 CM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "460994",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:TÍMPANOS, MATERIAL:ALUMÍNIO/COBRE, COMPONENTES:3, TAMANHO:26 X 29 X 32 POL, CARACTERÍSTICAS ADICIONAIS:CINTURÃO EM AÇO PARA APOIO DE CÚPULA SUSPENSA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "466843",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:BONGÔ, MATERIAL:MADEIRA, TAMANHO:7\" X 8\" POL, CARACTERÍSTICAS ADICIONAIS:PELE EM COURO, CROMADO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "466864",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:PANDEIRO, MATERIAL:SINTÉTICO, TAMANHO:10 POL, CARACTERÍSTICAS ADICIONAIS:MEIA LUA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "467129",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:CARRILHÃO, COMPONENTES:25 BARRAS, CARACTERÍSTICAS ADICIONAIS:COM SUPORTE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "467130",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:TUMBADORA CONGA 11\", 12\", MATERIAL:MADEIRA, COURO E METAL, CARACTERÍSTICAS ADICIONAIS:COM SUPORTE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "467131",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:BLOCO SONORO AGUDO, MATERIAL:PLÁSTICO, COMPONENTES:COM CLAMP EM ALUMÍNIO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "467134",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:GANZÁ, MATERIAL:ALUMÍNIO, TAMANHO:33 X 6,5 CM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "467135",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:QUEIXADA, MATERIAL:MADEIRA/METAL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "467137",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:CAIXA DE GUERRA, MATERIAL:ALUMÍNIO, COMPONENTES:06 AFINADORES CROMADOS, PELE POROSA, PELE RESPOSTA, TAMANHO:14\" X 15 CM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "467138",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:BATERIA, COMPONENTES:BUMBO 22\"X 16, SURDO 16\"X 16, TONS 10\"X 8 E 12\"X 9, CARACTERÍSTICAS ADICIONAIS:ACÚSTICA PROFISSIONAL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "473183",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:BATERIA, MATERIAL:MADEIRA/METAL, COMPONENTES:BUMBO 20X18; TOM 10X8 E 12X9; SURDO 14X14; CAIXA 1"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "474758",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:BATERIA, COMPONENTES:03 PEDESTAL, 01 MáQUINA DE CHIMBAL, 01 SUPORTE DE, CARACTERÍSTICAS ADICIONAIS:REFERENCIA ACúSTICA: FLUENCE FUSION FL-101"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "479002",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:GLOCKENSPIEL, MATERIAL:AÇO, COMPONENTES:32 TECLAS, CARACTERÍSTICAS ADICIONAIS:CASE DE MADEIRA TIPO VALISE, TECLAS FREE FLOATING"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "479003",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:VIBRAFONE, MATERIAL:ALUMÍNIO, COMPONENTES:42 TECLAS, CARACTERÍSTICAS ADICIONAIS:PEDAL \"SUSTAIN,  SEM MOTOR, RODAS PARA TRANSPORTE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "484603",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:TIPANOS, MATERIAL:ALUMÍNIO/COBRE, COMPONENTES:5, TAMANHO:20 X 23 X 26 X 29 X 32 POL, CARACTERÍSTICAS ADICIONAIS:CINTURÃO EM AÇO PARA APOIO DE CÚPULA SUSPE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "485483",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:METALOFONE, MATERIAL:ALUMÍNIO, COMPONENTES:UM PAR DE BAQUETAS, TAMANHO:68 X 20 X 18 CM, CARACTERÍSTICAS ADICIONAIS:13 LÂMINAS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "485495",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:BATERIA, COMPONENTES:TONS -8X7\", 10X8\" E 12X9\"/ SURDO - 14X14\"/ BUMBO:, CARACTERÍSTICAS ADICIONAIS:PROFISSIONAL, COM BANCO, COM ESTANTES, COM MÁQUINA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "485496",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:BATERIA, COMPONENTES:1 PAD DE CAIXA, 3 PADS DE TONS, 2 PADS DE PRATOS,, CARACTERÍSTICAS ADICIONAIS:ELETRÔNICA, COM SUPORTE/ESTANTE, COM PEDAL, COM ES"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "485497",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:BAIXO ELÉTRICO, CARACTERÍSTICAS ADICIONAIS:COM 4 CORDAS E ESTOJO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "485542",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:CAJON ACÚSTICO, MATERIAL:MADEIRA, CARACTERÍSTICAS ADICIONAIS:PÉS EM FELTRO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "485819",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:CAJON ACÚSTICO, MATERIAL:MADEIRA, CARACTERÍSTICAS ADICIONAIS:ASSENTO ACOLCHOADO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "485829",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:CAXIXI, MATERIAL:PALHA, TAMANHO:21 X 10 CM, CARACTERÍSTICAS ADICIONAIS:ENVERNIZADO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "485830",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:CAXIXI, MATERIAL:PALHA, TAMANHO:12 X 6 CM, CARACTERÍSTICAS ADICIONAIS:ACABAMENTO EM CIPÓ E SEMENTES"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "486093",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:CUÍCA, MATERIAL:ALUMÍNIO E COURO, TAMANHO:8 POL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "486124",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:GANZÁ, MATERIAL:ALUMÍNIO, TAMANHO:21 X 5,5 CM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "486125",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:GANZÁ, MATERIAL:PLÁSTICO, TAMANHO:5,5 CM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "486127",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:MALACACHETA, MATERIAL:ALUMÍNIO, CARACTERÍSTICAS ADICIONAIS:PELE LEITOSA, 20CM X 12\""
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "486128",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:MARACÁ, MATERIAL:MADEIRA, TAMANHO:10 X 10 X 35 CM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "486129",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:METALOFONE, MATERIAL:ALUMÍNIO, CARACTERÍSTICAS ADICIONAIS:SOPRANO, 11 TECLAS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "486130",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:OCEAN DRUM, MATERIAL:COURO, TAMANHO:16 POL, CARACTERÍSTICAS ADICIONAIS:COM BAQUETA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "486131",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:PANDEIRO, MATERIAL:MADEIRA/PELE, TAMANHO:6 POL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "486132",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:PAU DE CHUVA, MATERIAL:MADEIRA, TAMANHO:90 CM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "486236",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:SURDO, MATERIAL:ALUMÍNIO/PELE, COMPONENTES:RESPOSTA E TRIPÉ, TAMANHO:16 POL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "486237",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:SURDO, MATERIAL:ALUMÍNIO, TAMANHO:22 POL, CARACTERÍSTICAS ADICIONAIS:CANOAS COM TRAVA DE AFINAÇÃO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "486238",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:SURDO, MATERIAL:ALUMÍNIO, TAMANHO:24 POL, CARACTERÍSTICAS ADICIONAIS:CANOAS COM TRAVA DE AFINAÇÃO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "486239",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:TAMBOR, MATERIAL:MADEIRA/COURO, TAMANHO:14 POL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "486240",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:TAMBOR, MATERIAL:MADEIRA/COURO, TAMANHO:16 POL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "486283",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:VIBRAFONE, MATERIAL:ALUMÍNIO, COMPONENTES:42 TECLAS, CARACTERÍSTICAS ADICIONAIS:DE CONCERTO, COM PEDAL, MOTOR DIGITAL, RODAS PARA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "486285",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:XILOFONE, MATERIAL:METAL, COMPONENTES:UM PAR DE BAQUETAS, TAMANHO:62 X 21 X 16,5 CM, CARACTERÍSTICAS ADICIONAIS:13 LÂMINAS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "486286",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:XILOFONE, MATERIAL:METAL, COMPONENTES:UM PAR DE BAQUETAS, TAMANHO:62 X 16,5 X 15 CM, CARACTERÍSTICAS ADICIONAIS:16 LÂMINAS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "486287",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:ZABUMBA, MATERIAL:MADEIRA/PLÁSTICO, COMPONENTES:TAMBOR, TALABARTE, BAQUETAS, CHAVE DE AFINAÇÃO, TAMANHO:12 POL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "486315",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:TAMBOR DE CHÃO, MATERIAL:MADEIRA/PELE, COMPONENTES:4 BAQUETAS, TAMANHO:52 X 52 X 22 CM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "600674",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:TIMBAL, MATERIAL:ALUMÍNIO, COMPONENTES:FERRAGENS CROMADAS E PELE LEITOSA, TAMANHO:14 POL, CARACTERÍSTICAS ADICIONAIS:16 AFINAÇÕES , PORCA ANTI-VIBRAÇÃO, SISTEMA DUPLO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "600783",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:CASTANHOLA, MATERIAL:FIBRA, COMPONENTES:ACOMPANHA CORDÃO E BOLSA, CARACTERÍSTICAS ADICIONAIS:TAMANHO: MÉDIO, CÔR PRÊTA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "600800",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:XILOFONE, MATERIAL:MADEIRA/METAL, COMPONENTES:44 TECLAS  3,5 OITAVAS, COM EXTENSÃO DE F4 A C8, TAMANHO:67 X 37 X 145 CM, CARACTERÍSTICAS ADICIONAIS:SUPORTE COM TRAVAS NAS RODAS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "600823",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:BATERIA, COMPONENTES:3 TONS E 2 SURDOS SET UP: TONS: 8\"\" / 10\"\" / 12\"\"&, CARACTERÍSTICAS ADICIONAIS:COM BANCO, COM ESTANTE,[2 GIRAFAS, COM PRATOS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8414",
+    "codigo": "602792",
+    "descricao": " INSTRUMENTO MUSICAL - PERCURSÃO, TIPO:TANTAN, MATERIAL:MADEIRA/COURO, COMPONENTES:COM CHAVE E CAPA DE PROTEÇÃO, TAMANHO:14\" X 70 CM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "265596",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:CORNETA SIBEMOL, TAMANHO:LONGA, ACABAMENTO SUPERFICIAL:NIQUELADA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "341942",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:CORNETA, TAMANHO:CURTA, ACABAMENTO SUPERFICIAL:SIB NIQUELADO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "442021",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:OBOÉ, ACABAMENTO SUPERFICIAL:MADEIRA GRENADILHA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "442023",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:TROMPETE, ACABAMENTO SUPERFICIAL:LAQUEADO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "442024",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:CORNE INGLÊS, CARACTERÍSTICAS ADICIONAIS:MADEIRA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "442053",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:TROMBONE, ACABAMENTO SUPERFICIAL:BRONZE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "442061",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:FAGOTE C, CARACTERÍSTICAS ADICIONAIS:MAPLE SELECIONADO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "442154",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:CLARINETE, ACABAMENTO SUPERFICIAL:MADEIRA GRENADILHA, CARACTERÍSTICAS ADICIONAIS:17 CHAVES E 06 ANÉIS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "442155",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:CLARINETE, ACABAMENTO SUPERFICIAL:ABS TEXTURIZADO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "442156",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:FLAUTA TRANSVERSAL, ACABAMENTO SUPERFICIAL:PRATA MACIÇA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "442171",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:FLAUTA PICCOLO, ACABAMENTO SUPERFICIAL:MADEIRA GRENADILHA, CARACTERÍSTICAS ADICIONAIS:CHAVES PRATEADAS E MECÂNICO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "442172",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:CLARONE EM BB, ACABAMENTO SUPERFICIAL:ABS, CARACTERÍSTICAS ADICIONAIS:ESPIGÃO REGULÁVEL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "442177",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:TUBA, TAMANHO:3/4, ACABAMENTO SUPERFICIAL:LAQUEADO, CARACTERÍSTICAS ADICIONAIS:MODELO INTERMEDIÁRIO,  04  VÁLVULAS  ROTATIVAS  DE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "456354",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:ESCALETA, ACABAMENTO SUPERFICIAL:PLÁSTICO, CARACTERÍSTICAS ADICIONAIS:EM \"C\" COM 32 TECLAS, COR AZUL; COM BOCAL, CANO DE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "458619",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:CLARIM, ACABAMENTO SUPERFICIAL:NIQUELADO, CARACTERÍSTICAS ADICIONAIS:SIB/MIB"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "458621",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:TROMPETE, ACABAMENTO SUPERFICIAL:LACADO, CARACTERÍSTICAS ADICIONAIS:SIB/MIB"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "458622",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:TROMBONE, TAMANHO:LONGA, ACABAMENTO SUPERFICIAL:LAQUEADO, CARACTERÍSTICAS ADICIONAIS:SIB/MIB"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "458623",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:SAXOFONE, ACABAMENTO SUPERFICIAL:LAQUEADO, CARACTERÍSTICAS ADICIONAIS:ALTO MIB"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "460991",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:FLUGELHORN, ACABAMENTO SUPERFICIAL:PRATEADO, CARACTERÍSTICAS ADICIONAIS:SISTEMA BOTTON SPRINGS COM MOLAS ENCAPSULADAS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "467139",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:CLARINETA SOPRANO, ACABAMENTO SUPERFICIAL:MADEIRA GRENADILHA, CARACTERÍSTICAS ADICIONAIS:MODELO PROFISSIONAL, 17  CHAVES, 6 ANÉIS, BOQUILHA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "467350",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:EUPHONIUM, ACABAMENTO SUPERFICIAL:LAQUEADO, CARACTERÍSTICAS ADICIONAIS:4 PISTOS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "467351",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:TROMBONE TENOR, TAMANHO:MÉDIO LARGO, ACABAMENTO SUPERFICIAL:LAQUEADO, CARACTERÍSTICAS ADICIONAIS:PESCOÇO FINO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "468367",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:BOMBARDINO, TAMANHO:LARGO, ACABAMENTO SUPERFICIAL:LAQUEADO, CARACTERÍSTICAS ADICIONAIS:03 VÁLVULAS, TUBOS MACHO/FÊMEA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "468368",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:TROMBONE TENOR, TAMANHO:LARGO, ACABAMENTO SUPERFICIAL:LAQUEADO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "468379",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:TROMPETE, TAMANHO:3/4, ACABAMENTO SUPERFICIAL:LAQUEADO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "468668",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:CORNET, TAMANHO:CURTA, ACABAMENTO SUPERFICIAL:LAQUEADO, CARACTERÍSTICAS ADICIONAIS:AFINAÇÃO SI BEMOL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "468669",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:SAXHORN, ACABAMENTO SUPERFICIAL:LAQUEADO, CARACTERÍSTICAS ADICIONAIS:AFINAÇÃO MI BEMOL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "468670",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:SAXOFONE TENOR, ACABAMENTO SUPERFICIAL:LAQUEADO, CARACTERÍSTICAS ADICIONAIS:CHAVE DE F# AGUDO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "468671",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:SAXOFONE ALTO, ACABAMENTO SUPERFICIAL:LAQUEADO, CARACTERÍSTICAS ADICIONAIS:CHAVE DE F# AGUDO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "468672",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:CLARONE ALTO, ACABAMENTO SUPERFICIAL:ABS, CARACTERÍSTICAS ADICIONAIS:AFINAÇÃO MI BEMOL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "468673",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:CLARINETE, ACABAMENTO SUPERFICIAL:ABS, CARACTERÍSTICAS ADICIONAIS:17 CHAVES E 06 ANÉIS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "468674",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:REQUINTA, ACABAMENTO SUPERFICIAL:ABS, CARACTERÍSTICAS ADICIONAIS:17 CHAVES E 06 ANÉIS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "468675",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:FLAUTA, ACABAMENTO SUPERFICIAL:PRATEADO, CARACTERÍSTICAS ADICIONAIS:AFINAÇÃO EM DO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "473184",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:TROMPA DUPLA BB/F, TAMANHO:MÉDIO LARGO, ACABAMENTO SUPERFICIAL:LAQUEADO, CARACTERÍSTICAS ADICIONAIS:COM ESTOJO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "473287",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:SAXOFONE, ACABAMENTO SUPERFICIAL:LAQUEADO, CARACTERÍSTICAS ADICIONAIS:SOPRANO SIB"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "473288",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:SAXOFONE, ACABAMENTO SUPERFICIAL:LAQUEADO, CARACTERÍSTICAS ADICIONAIS:TENOR SIB"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "473289",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:SAXOFONE, ACABAMENTO SUPERFICIAL:LAQUEADO, CARACTERÍSTICAS ADICIONAIS:BARÍTONO MIB"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "473290",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:SOUSAFONE, ACABAMENTO SUPERFICIAL:FOLHEADO A PRATA, CARACTERÍSTICAS ADICIONAIS:SIB"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "473291",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:BOMBARDINO, ACABAMENTO SUPERFICIAL:FOLHEADO A PRATA, CARACTERÍSTICAS ADICIONAIS:SIB"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "473292",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:TROMPA, ACABAMENTO SUPERFICIAL:LAQUEADO, CARACTERÍSTICAS ADICIONAIS:SIB"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "486098",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:ESCALETA, ACABAMENTO SUPERFICIAL:PLÁSTICO, CARACTERÍSTICAS ADICIONAIS:37 TECLAS, BOCAL, EXTENSÃO, CASE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "486121",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:FLAUTA DOCE, ACABAMENTO SUPERFICIAL:RESINA, CARACTERÍSTICAS ADICIONAIS:GERMÂNICA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "486122",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:FLAUTA DOCE, ACABAMENTO SUPERFICIAL:RESINA, CARACTERÍSTICAS ADICIONAIS:BARROCA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "486282",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:TUBO JG BOOMWHACKERS, CARACTERÍSTICAS ADICIONAIS:ESCALA DIATÔNICA, 8 TONS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "602793",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:GAITA, ACABAMENTO SUPERFICIAL:LATãO, CARACTERÍSTICAS ADICIONAIS:VOZES 40; AFINAÇÃO: DÓ, CORPO EM MADEIRA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "8416",
+    "codigo": "602794",
+    "descricao": " INSTRUMENTO MUSICAL - SOPRO, TIPO:ACORDEON, ACABAMENTO SUPERFICIAL:COURO SINTÉTICO IMPERMEÁVEL., CARACTERÍSTICAS ADICIONAIS:80 BAIXOS, 37 TECLAS, POSSUI 2 TRAVAS DE SEGURANÇA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "10698",
+    "codigo": "468488",
+    "descricao": " PIANO, TIPO:ACÚSTICO, MODELO:CAUDA, TECLA:88 TECLAS, ACESSÓRIOS:C/ BANQUETA E PEDAL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "10698",
+    "codigo": "468489",
+    "descricao": " PIANO, TIPO:ACÚSTICO, MODELO:CAUDA, TECLA:88 TECLAS, ACESSÓRIOS:S/ BANQUETA, C/ PEDAL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "10698",
+    "codigo": "468492",
+    "descricao": " PIANO, TIPO:ACÚSTICO, MODELO:VERTICAL / ARMÁRIO, TECLA:88 TECLAS, ACESSÓRIOS:C/ BANQUETA E PEDAL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "10698",
+    "codigo": "468493",
+    "descricao": " PIANO, TIPO:ACÚSTICO, MODELO:VERTICAL / ARMÁRIO, TECLA:88 TECLAS, ACESSÓRIOS:S/ BANQUETA, C/ PEDAL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "10698",
+    "codigo": "468494",
+    "descricao": " PIANO, TIPO:DIGITAL, MODELO:CAUDA, TECLA:88 TECLAS, TIPO SOM:POLIFONIA 256, ACESSÓRIOS:C/ BANQUETA E PEDAL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "10698",
+    "codigo": "468495",
+    "descricao": " PIANO, TIPO:DIGITAL, MODELO:VERTICAL / ARMÁRIO, TECLA:88 TECLAS, TIPO SOM:POLIFONIA 256, ACESSÓRIOS:C/ BANQUETA E PEDAL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "10698",
+    "codigo": "468496",
+    "descricao": " PIANO, TIPO:DIGITAL, MODELO:PORTÁTIL, TECLA:88 TECLAS, TIPO SOM:POLIFONIA 256, ACESSÓRIOS:S/ BANQUETA, C/ PEDAL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "15360",
+    "codigo": "243235",
+    "descricao": " VIOLA, MATERIAL:MADEIRA, MATERIAL CORDA:AÇO, CARACTERÍSTICAS ADICIONAIS:ELETRO ACÚSTICA, COMPRIMENTO TOTAL:960 MM, COMPRIMENTO ESCALA:580 MM, QUANTIDADE CORDAS:10"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "15360",
+    "codigo": "243236",
+    "descricao": " VIOLA, MATERIAL:MADEIRA, MATERIAL CORDA:AÇO, CARACTERÍSTICAS ADICIONAIS:ACÚSTICA, COMPRIMENTO TOTAL:950 MM, COMPRIMENTO ESCALA:580 MM, QUANTIDADE CORDAS:10"
+  },
+  {
+    "grupo": "77",
+    "classe": "7710",
+    "padrao": "17631",
+    "codigo": "265240",
+    "descricao": " TAROL, MATERIAL:ALUMÍNIO, DIÂMETRO:14 POL, TAMANHO:6 CM, CARACTERÍSTICAS ADICIONAIS:CAIXA ARO PINTURA EPÓXI, ARO BOLA, 6 TIRANTES, PE-"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "445317",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BAQUETA, APLICAÇÃO:BATERIA, CARACTERÍSTICAS ADICIONAIS:PONTA MADEIRA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "445340",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BAQUETA, APLICAÇÃO:BATERIA, CARACTERÍSTICAS ADICIONAIS:MADEIRA MODELO 7A"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "445341",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BAQUETA, APLICAÇÃO:BATERIA, CARACTERÍSTICAS ADICIONAIS:MADEIRA MODELO 5A"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "445342",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PELE, APLICAÇÃO:TUBADORA CONGA, CARACTERÍSTICAS ADICIONAIS:HIDRAULICA 22\""
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "445343",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PELE, APLICAÇÃO:TUBADORA, CARACTERÍSTICAS ADICIONAIS:CONGA 10\""
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "445344",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PELE, APLICAÇÃO:TUBADORA, CARACTERÍSTICAS ADICIONAIS:CONGA 12\""
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "445360",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PELE, APLICAÇÃO:CAIXA RESPOSTA, CARACTERÍSTICAS ADICIONAIS:EON314SA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "445361",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:CLARINETA, CARACTERÍSTICAS ADICIONAIS:Nº 2 1/2"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "445362",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:CLARINETA, CARACTERÍSTICAS ADICIONAIS:Nº 3 1/2"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "445363",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:CLARINETA, CARACTERÍSTICAS ADICIONAIS:Nº 3"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "445364",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:SAX BARÍTONO, CARACTERÍSTICAS ADICIONAIS:Nº 2 1/2"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "445365",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ENCODAMENTO, APLICAÇÃO:GUITARRA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "445366",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ENCODAMENTO, APLICAÇÃO:BAIXO ELÉTRICO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "458625",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:SAX ALTO 1,5"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "458626",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:MAÇANETA, APLICAÇÃO:BATERIA, CARACTERÍSTICAS ADICIONAIS:MADEIRA 300 MM X 25 MM COM FELTRO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "458627",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:SAX TENOR 2,5"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "458629",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ÓLEO LUBRIFICANTE, APLICAÇÃO:PARA PISTOS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "458630",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PELE, APLICAÇÃO:BOMBO, CARACTERÍSTICAS ADICIONAIS:HIDRÁULICA 24\""
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "458631",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:TALABARTE, APLICAÇÃO:CAIXA DE GUERRA, CARACTERÍSTICAS ADICIONAIS:COR PRETA COM GANCHO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "461463",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:RASTILHO PARA CAVALETE, APLICAÇÃO:VIOLÃO/VIOLA, CARACTERÍSTICAS ADICIONAIS:NYLON"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "461464",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PESTANA, APLICAÇÃO:VIOLÃO/VIOLA, CARACTERÍSTICAS ADICIONAIS:NYLON"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "464987",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PELE, APLICAÇÃO:TÍMPANO, CARACTERÍSTICAS ADICIONAIS:SINTÉTICA, TAMANHO 26 POLEGADAS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465338",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:FAGOTE, CARACTERÍSTICAS ADICIONAIS:CANA DA ÍNDIA COM ACABAMENTO EM EM LINHA TRANÇADA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465339",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:OBOÉ, CARACTERÍSTICAS ADICIONAIS:CANA DA ÍNDIA MONTANTE DE METAL PARA TUDEL. MÉDIUM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465340",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:CLARONE SIB, CARACTERÍSTICAS ADICIONAIS:CANA DE ORIGEM FRANCESA Nº 2,5"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465341",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:CLARONE SIB, CARACTERÍSTICAS ADICIONAIS:CANA DE ORIGEM FRANCESA Nº 3"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465342",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:SAXOFONE BARÍTONO, CARACTERÍSTICAS ADICIONAIS:CANA DE ORIGEM FRANCESA Nº 3"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465343",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:SAXOFONE TENOR SIB, CARACTERÍSTICAS ADICIONAIS:CANA DE ORIGEM FRANCESA Nº 2,5"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465344",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:SAXOFONE ALTO MIB, CARACTERÍSTICAS ADICIONAIS:CANA DE ORIGEM FRANCESA Nº 2,5"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465347",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PELE, APLICAÇÃO:CAIXA COM 13\", CARACTERÍSTICAS ADICIONAIS:FILME DE ESPESSURA 0,25MM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465348",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ALÇA DE COURO (PAR), APLICAÇÃO:PRATO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465349",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:TALABARTE, APLICAÇÃO:SAXOFONE, CARACTERÍSTICAS ADICIONAIS:APOIO ABDOMINAL, PARTES PLÁSTICA E ALUMÍNIO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465351",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:CREME SINTÉTICO, APLICAÇÃO:INSTRUMENTOS DE SOPRO, CARACTERÍSTICAS ADICIONAIS:GREAZE PARA CORTIÇA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465352",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BAQUETA, APLICAÇÃO:MARIMBA, CARACTERÍSTICAS ADICIONAIS:CABO MADEIRA MARFIM, CABEÇA REVESTIDA EM ALGODÃO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465353",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:SURDINA, APLICAÇÃO:TROMPETE, CARACTERÍSTICAS ADICIONAIS:TIPO BUBLE, CONFECCIONADO EM COBRE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465354",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ABAFADOR, APLICAÇÃO:TAMBOR, CARACTERÍSTICAS ADICIONAIS:GEL TRANSPARENTE AUTOADESIVO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465356",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BOLSA PARA TRANSPORTE E PROTEÇÃO, APLICAÇÃO:BOMBO DE BATERIA 22\", CARACTERÍSTICAS ADICIONAIS:POLIÉSTER 900, REVESTIMENTO INTERNO: ALMOFADA DE E"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465357",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BOLSA PARA TRANSPORTE E PROTEÇÃO, APLICAÇÃO:BOMBO DE BATERIA 20\", CARACTERÍSTICAS ADICIONAIS:POLIÉSTER 900, REVESTIMENTO INTERNO: ALMOFADA DE E"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465358",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BOLSA PARA TRANSPORTE E PROTEÇÃO, APLICAÇÃO:CAIXA DE BATERIA 14\", CARACTERÍSTICAS ADICIONAIS:POLIÉSTER 900, REVESTIMENTO INTERNO: ALMOFADA DE E"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465359",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BOLSA PARA TRANSPORTE E PROTEÇÃO, APLICAÇÃO:CAIXA DE BATERIA 13\", CARACTERÍSTICAS ADICIONAIS:POLIÉSTER 900, REVESTIMENTO INTERNO: ALMOFADA DE E"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465360",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BOLSA PARA TRANSPORTE E PROTEÇÃO, APLICAÇÃO:SURDO DE BATERIA 16\", CARACTERÍSTICAS ADICIONAIS:POLIÉSTER 900, REVESTIMENTO INTERNO: ALMOFADA DE E"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465361",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BOLSA PARA TRANSPORTE E PROTEÇÃO, APLICAÇÃO:SURDO DE BATERIA 14\", CARACTERÍSTICAS ADICIONAIS:POLIÉSTER 900, REVESTIMENTO INTERNO: ALMOFADA DE E"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465362",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BOLSA PARA TRANSPORTE E PROTEÇÃO, APLICAÇÃO:TOM DE BATERIA 12\", CARACTERÍSTICAS ADICIONAIS:POLIÉSTER 900, REVESTIMENTO INTERNO: ALMOFADA DE E"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465364",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BOLSA PARA TRANSPORTE E PROTEÇÃO, APLICAÇÃO:TOM DE BATERIA 10\", CARACTERÍSTICAS ADICIONAIS:POLIÉSTER 900, REVESTIMENTO INTERNO: ALMOFADA DE E"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465365",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BOLSA PARA TRANSPORTE E PROTEÇÃO, APLICAÇÃO:TOM DE BATERIA 8\", CARACTERÍSTICAS ADICIONAIS:POLIÉSTER 900, REVESTIMENTO INTERNO: ALMOFADA DE E"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465366",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BOLSA PARA TRANSPORTE E PROTEÇÃO, APLICAÇÃO:VIOLÃO FOLK, CARACTERÍSTICAS ADICIONAIS:NYLON 600, ALCOCHOAMENTO EXPUMA, BOLSO COM ZÍPER"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465367",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BOLSA PARA TRANSPORTE E PROTEÇÃO, APLICAÇÃO:FERRAGENS DE BATERIA, CARACTERÍSTICAS ADICIONAIS:NYLON 600, REVESTIMENTO INTERNO: EVA, COM PUXADOR"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465370",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:FOLHA DE CORTIÇA, APLICAÇÃO:SAXOFONES E CLARINETES, CARACTERÍSTICAS ADICIONAIS:ESPESSURA DE 2MM, L X C :40MM X 62MM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465371",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:CREME, APLICAÇÃO:TROMBONE Á VARA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "465372",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ÓLEO LUBRIFICANTE, APLICAÇÃO:INSTRUMENTOS DE SOPRO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "466623",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PELE, APLICAÇÃO:BOMBO, CARACTERÍSTICAS ADICIONAIS:HIDRÁULICA 22\", FILME DUPLO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "466658",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BOLSA PARA TRANSPORTE E PROTEÇÃO, APLICAÇÃO:TECLADO, CARACTERÍSTICAS ADICIONAIS:BOLSOS PARA FONTES E CABOS, COR PRETA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "466659",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ABAFADOR, APLICAÇÃO:BATERIA, CARACTERÍSTICAS ADICIONAIS:ACRÍLICO, 4,20M X 1,80M"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "466660",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:MESA PARA PERCUSSÃO, APLICAÇÃO:INSTRUMENTOS MUSICAIS, CARACTERÍSTICAS ADICIONAIS:MADEIRA, REGULÁVEL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "466844",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ESTANTE GIRAFA, APLICAÇÃO:PRATO, CARACTERÍSTICAS ADICIONAIS:FERRAGEM DUPLA; PÉS DE BORRACHA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "466858",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PELE, APLICAÇÃO:CAIXA DE BATERIA 14\", CARACTERÍSTICAS ADICIONAIS:POROSA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "466866",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:KIT DE PELE HIDRÁULICA, APLICAÇÃO:BATERIA, 8\", 10\", '12\", 16\", 22\" E 14\", CARACTERÍSTICAS ADICIONAIS:FILME DUPLO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "466867",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BAG PARA BATERIA, APLICAÇÃO:INSTRUMENTOS MUSICAIS, CARACTERÍSTICAS ADICIONAIS:NYLON 600, REVESTIMENTO INTERNO: EVA, COM PUXADOR"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "467070",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:SAX TENOR BB"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "467071",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:SAX ALTO EB"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "467072",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ALMOFADA, APLICAÇÃO:BOQUILHA DE SAX E CLARINETE, CARACTERÍSTICAS ADICIONAIS:ESPESSURA 0,80MM. COR PRETA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "467132",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:CLAVE, APLICAÇÃO:INSTRUMENTOS MUSICAIS, CARACTERÍSTICAS ADICIONAIS:EM MADEIRA JATOBÁ"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "467136",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ALMOFADA, APLICAÇÃO:BOQUILHA, CARACTERÍSTICAS ADICIONAIS:ESPESSURA 0,35MM. TRANSPARENTE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "467328",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:CORREIA, APLICAÇÃO:SAXOFONE, CARACTERÍSTICAS ADICIONAIS:POSSUI 2 APOIOS QUE VÃO NOS OMBROS E UM TERCEIRO E"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "467329",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PRATO, APLICAÇÃO:BATERIA, CARACTERÍSTICAS ADICIONAIS:COMPOSTO POR:SPLASH 10\" HI-HAT 14\", CRAS H 16\" E 1"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "467330",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PRATO, APLICAÇÃO:BANDAS E FANFARRAS, CARACTERÍSTICAS ADICIONAIS:TAMANHO 16\"."
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "468456",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:SAXOFONE ALTO MIB, CARACTERÍSTICAS ADICIONAIS:CANA DE ORIGEM FRANCESA Nº 3"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "468462",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PELE, APLICAÇÃO:TÍMPANO, CARACTERÍSTICAS ADICIONAIS:SINTÉTICA, TAMANHO 29 POLEGADAS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "469134",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ESTILO SELIM/ENCOSTO, APLICAÇÃO:BATERIA, CARACTERÍSTICAS ADICIONAIS:ACOLCHOADO, COM 17\" DE LARGURA E 4\" DE ALTURA COM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "470911",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ENCODAMENTO, APLICAÇÃO:VIOLÃO/VIOLA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "471399",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PELE, APLICAÇÃO:CAIXA COM 13\", CARACTERÍSTICAS ADICIONAIS:FILME DUPLO, HIDRÁULICA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "472001",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:TALABARTE, APLICAÇÃO:BUMBO, CARACTERÍSTICAS ADICIONAIS:MATERIAL:NYLON; COR: PRETO; COMPRIMENTO 190CM(MAX)"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "472004",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:KIT PRATOS, APLICAÇÃO:BATERIA, CARACTERÍSTICAS ADICIONAIS:CUSTOM COM 1 HI-HAT 14\", 1 CRASH 16\" E 18\", 1 RIDE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "472005",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:SAXOFONE, CARACTERÍSTICAS ADICIONAIS:TENOR SIB, TENSãO: 3"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "472007",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:AMPLIFICADOR DE GUITARRA, APLICAÇÃO:GUITARRA, CARACTERÍSTICAS ADICIONAIS:COR PRETO COM POTêNCIA RMS DE 100 WATTS,CHORUS ANA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "472008",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:CAIXA DE CONTRABAIXO, APLICAÇÃO:CONTRABAIXO, CARACTERÍSTICAS ADICIONAIS:COR PRETA COM 300 WATTS E UM VOICE-COIL DE 2.5 DE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "472010",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:TECLADO, APLICAÇÃO:MUSICAL, CARACTERÍSTICAS ADICIONAIS:88 TECLAS 128 VOZES 16 PARTES, SONS 1200 KITS BATE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "472125",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PELE, APLICAÇÃO:TÍMPANO, CARACTERÍSTICAS ADICIONAIS:SINTÉTICA, TAMANHO 28 POLEGADAS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "472126",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PELE, APLICAÇÃO:TÍMPANO, CARACTERÍSTICAS ADICIONAIS:SINTÉTICA, TAMANHO 30 POLEGADAS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "472276",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PELE, APLICAÇÃO:BOMBO DE BATERIA 22\", CARACTERÍSTICAS ADICIONAIS:FILME SIMPLES COM 7 MIL (0,18MM) DE ESPESSURA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "473279",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:SAXOFONE ALTO, CARACTERÍSTICAS ADICIONAIS:Nº 2"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "473280",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:SAXOFONE ALTO, CARACTERÍSTICAS ADICIONAIS:Nº 2,5"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "473281",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:SAXOFONE ALTO, CARACTERÍSTICAS ADICIONAIS:Nº 3"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "473282",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:SAXOFONE TENOR, CARACTERÍSTICAS ADICIONAIS:Nº 3"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "473283",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:SAXOFONE BARÍTONO, CARACTERÍSTICAS ADICIONAIS:Nº 3"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "473364",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PELE, APLICAÇÃO:BOMBO, CARACTERÍSTICAS ADICIONAIS:HIDRÁULICA 20\""
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "473365",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ADESIVO PROTETOR DE BOQUILHA, APLICAÇÃO:CLARINETE SIB"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "473372",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:TECLADO, APLICAÇÃO:MUSICAL, CARACTERÍSTICAS ADICIONAIS:61 TECLAS 5/8 OITAVAS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "473384",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ADESIVO PROTETOR DE BOQUILHA, APLICAÇÃO:SAXOFONE, CARACTERÍSTICAS ADICIONAIS:ESPESSURA 0,35MM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "477923",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PRATO, APLICAÇÃO:BATERIA, CARACTERÍSTICAS ADICIONAIS:TAMANHO 14\" HIT-HAT, LIGA B8"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485237",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO: APOIO DE PÉ, APLICAÇÃO:MUSICAL, CARACTERÍSTICAS ADICIONAIS:COMPRIMENTO 246MM LARGURA 94 MM210 MM ALTURA DE FE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485242",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ENCORDOAMENTO, APLICAÇÃO:GUITARRA, CARACTERÍSTICAS ADICIONAIS:MEDIDA: .010 .013 .017 .026 .036 .046 LIGHT. MATE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485243",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BAQUETA, APLICAÇÃO:LIRA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485244",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BAQUETA, APLICAÇÃO:TAMBORIM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485284",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:SUPORTE DE SOLO, APLICAÇÃO:VIOLÃO, CARACTERÍSTICAS ADICIONAIS:CARGA MÍNIMO 5 KG, COM APOIO EMBORRACHADO["
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485285",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:SUPORTE DE SOLO, APLICAÇÃO:GUITARRA, BAIXO E VIOLÃO[, CARACTERÍSTICAS ADICIONAIS:CARGA MÍNIMO 5 KG, COM APOIO EMBORRACHADO["
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485286",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:SUPORTE/ESTANTE, APLICAÇÃO:CAIXA CLARA, CARACTERÍSTICAS ADICIONAIS:PÉS EMBORRACHADOS PARA CAIXA DE 10 A 14 POLEGADAS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485287",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PRATO, APLICAÇÃO:BATERIA, CARACTERÍSTICAS ADICIONAIS:PRATO DE CONDUÇÃO/ RIDE DE 20''"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485288",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PEDAL SUSTAIN[, APLICAÇÃO:TECLADO, CARACTERÍSTICAS ADICIONAIS:COMPRIMENTO DO CABO: 1,5 M. TIPO DE SAÍDA: P10.["
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485289",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PEDAL SUSTAIN[, APLICAÇÃO: PIANO ELETRÔNICO, CARACTERÍSTICAS ADICIONAIS:CONECTOR P10_CABO 1,8 M DE COMPRIMENTO; BASE 23CM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485290",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:MACETA, APLICAÇÃO:SURDO DE 1ª E 2ª, CARACTERÍSTICAS ADICIONAIS:COM VARA DE MADEIRA E CABEÇA DE PELÚCIA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485291",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:CAIXA, APLICAÇÃO:BATERIA, CARACTERÍSTICAS ADICIONAIS:8MM DE ESPESSURA AROS DE 1.6MM ESTEIRA COM 20 FIOS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485297",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BASE PLANA COM SUPERFÍCIE EMBORRACHADA, APLICAÇÃO:APOIO PARA PÉ, CARACTERÍSTICAS ADICIONAIS:ESTRUTURA EM FERRO, ALTURA MíNIMA: 12 CM; MáXIMA:"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485298",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:METRONOMO MECÂNICO, APLICAÇÃO:MARCADOR DE COMPASSO MUSICAL, CARACTERÍSTICAS ADICIONAIS:ESTRUTURA DE MADEIRA COM CAMPAINHA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485299",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:METRONOMO DIGITAL, APLICAÇÃO:MARCADOR DE COMPASSO MUSICAL, CARACTERÍSTICAS ADICIONAIS:VISOR LCD DIGITAL ALIMENTADO POR 2 PILHAS AAA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485352",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PELE POROSA, APLICAÇÃO:SURDO, CARACTERÍSTICAS ADICIONAIS:HIDRÁULICA 18\""
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485353",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PELE POROSA, APLICAÇÃO:SURDO, CARACTERÍSTICAS ADICIONAIS:HIDRÁULICA 16\""
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485354",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PELE POROSA, APLICAÇÃO:SURDO, CARACTERÍSTICAS ADICIONAIS:HIDRÁULICA 14\""
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485355",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ESTANTE, APLICAÇÃO:CAIXAS DE 10\" A 14\", CARACTERÍSTICAS ADICIONAIS:COM PÉS DE FERRAGEM DUPLA COM BORRACHA ANTI-DERRA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485468",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ARCO, APLICAÇÃO:CONTRABAIXO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485469",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ARCO, APLICAÇÃO:VIOLA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485470",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ARCO, APLICAÇÃO:VIOLINO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485471",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ARCO, APLICAÇÃO:VIOLONCELO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485498",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BREU, APLICAÇÃO:INSTRUMENTOS DE ARCO[, CARACTERÍSTICAS ADICIONAIS:TIPO PEDRA DE COLOFÔNIA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485499",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:AMPLIFICADOR DE GUITARRA, APLICAÇÃO:GUITARRA, CARACTERÍSTICAS ADICIONAIS:COR PRETO, COM POTÊNCIA RMS DE 15 WATTS, SAÍDA FO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485559",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:KIT DE FERRAGENS, APLICAÇÃO:BATERIA, CARACTERÍSTICAS ADICIONAIS:ESTANTE DE PRATO: RETA, GIRAFA E CAIXA; CHIMBAL E"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485570",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:TRIPÉ DE ALUMÍNIO, APLICAÇÃO:CAIXA DE SOM, CARACTERÍSTICAS ADICIONAIS:COM REGULAGEM DE ALTURA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485607",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:AMPLIFICADOR DE CONTRABAIXO[, APLICAÇÃO:CONTRABAIXO, CARACTERÍSTICAS ADICIONAIS:COR PRETO, POTÊNCIA DE 90 WATTS, SAÍDA FONE, AUTO-"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "485706",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ENCORDOAMENTO, APLICAÇÃO:HARPA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486029",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:CLIPS NO FORMATO DE LIRA, APLICAÇÃO:PARTITURA, CARACTERÍSTICAS ADICIONAIS:MATERIAL METÁLICO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486030",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BOCAL, APLICAÇÃO:TROMPETE, CARACTERÍSTICAS ADICIONAIS:MATERIAL METÁLICO, TAMANHO: 3C"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486090",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:MÁQUINA DE CHIMBAL, APLICAÇÃO:BATERIA, CARACTERÍSTICAS ADICIONAIS:PAR DE PRATOS, PERNAS DUPLAS, PEDAL REGULÁVEL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486092",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ENCODAMENTO, APLICAÇÃO:VIOLINO, CARACTERÍSTICAS ADICIONAIS:EM AÇO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486094",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ENCODAMENTO, APLICAÇÃO:BAIXOLÃO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486096",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ENCODAMENTO, APLICAÇÃO:CAVAQUINHO, CARACTERÍSTICAS ADICIONAIS:EM AÇO INOXIDÁVEL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486097",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ENCODAMENTO, APLICAÇÃO:UKULELE, CARACTERÍSTICAS ADICIONAIS:NYLON BRANCO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486126",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:KIT PRATOS, APLICAÇÃO:BATERIA, CARACTERÍSTICAS ADICIONAIS:2 HI-HAT 13\", 1 CRASH 16\""
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486158",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PEDESTAL, APLICAÇÃO:BONGÔ, CARACTERÍSTICAS ADICIONAIS:COM BARRA ESTABILIZADORA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486233",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:TECLADO, APLICAÇÃO:MUSICAL, CARACTERÍSTICAS ADICIONAIS:DIGITAL, 61 TECLAS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486234",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:SUPORTE/ESTANTE, APLICAÇÃO:TECLADO, CARACTERÍSTICAS ADICIONAIS:AÇO, AJUSTE DE ALTURA, CARGA 40 KG"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486235",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:SUPORTE/ESTANTE, APLICAÇÃO: PIANO ELETRÔNICO, CARACTERÍSTICAS ADICIONAIS:METAL, EM \"X\", AJUSTE DE ALTURA, CARGA 80 KG"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486272",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BOLSA PARA TRANSPORTE E PROTEÇÃO, APLICAÇÃO:BAIXO, CARACTERÍSTICAS ADICIONAIS:COR PRETA, COM ZÍPER E ALÇAS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486274",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:KIT PRATOS, APLICAÇÃO:BATERIA, CARACTERÍSTICAS ADICIONAIS:1 CHIMBAU 14\"; 1 ATAQUE 16\"; 1 CONDUÇÃO 20\""
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486275",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PELE, APLICAÇÃO:BATERIA, CARACTERÍSTICAS ADICIONAIS:EXTRA-FINO PARA RESPOSTA 14\""
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486276",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:KIT DE PELE, APLICAÇÃO:BATERIA, CARACTERÍSTICAS ADICIONAIS:FILME DUPLO 10'', 12'', 14''"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486279",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:SUPORTE PAREDE, APLICAÇÃO:VIOLÃO, CARACTERÍSTICAS ADICIONAIS:SISTEMA TRAVA AUTOMÁTICA, CARGA MÍNIMA 5 KG"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486280",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:TALABARTE, APLICAÇÃO:SURDO, CARACTERÍSTICAS ADICIONAIS:NYLON, C X L: 1,80M X 4,5CM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486281",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:TALABARTE, APLICAÇÃO:SURDO, CARACTERÍSTICAS ADICIONAIS:NYLON, C X L: 82CM X 5CM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486462",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:CAPTADOR, APLICAÇÃO:CONTRABAIXO, CARACTERÍSTICAS ADICIONAIS:BLINDADO CONTRA RUÍDO, SAÍDA P10"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486480",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BOLSA PARA TRANSPORTE E PROTEÇÃO, APLICAÇÃO:CAVAQUINHO, CARACTERÍSTICAS ADICIONAIS:COR PRETA, COM ZÍPER E ALÇAS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "486481",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BOLSA PARA TRANSPORTE E PROTEÇÃO, APLICAÇÃO:GUITARRA, CARACTERÍSTICAS ADICIONAIS:COR PRETA, COM ZÍPER E ALÇAS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600396",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PELE, APLICAÇÃO:BUMBO, CARACTERÍSTICAS ADICIONAIS:COURO ANIMAL EM ARO ALUMÍNIO DE 22\""
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600614",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PROTETOR DE MÁQUINA DE PISTO, APLICAÇÃO:TUBA E BOMBARDÃO, CARACTERÍSTICAS ADICIONAIS:COURO SINTÉTICO,[COR PRETA E FECHAMENTO EM VELCRO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600615",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PROTETOR DE MÁQUINA DE PISTO, APLICAÇÃO:TROMPETE, CARACTERÍSTICAS ADICIONAIS:COURO SINTÉTICO NA COR PRETA COM FORRO EM NÁILON,"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600616",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:CORTIÇA PORTUGUESA, APLICAÇÃO:TUDEL DE SAXOFONES, CARACTERÍSTICAS ADICIONAIS:62 MM DE COMPRIMENTO, 40 MM DE LARGURA, 2 MM DE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600617",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:JOGO DE SAPATILHA, APLICAÇÃO:FLAUTA CLARINETE, CARACTERÍSTICAS ADICIONAIS:JOGO DE SAPATILHA PARA CLARINETE BUFFET CRAMPON"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600618",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:JOGO DE SAPATILHA, APLICAÇÃO:FLAUTA TRANSVERSAL, CARACTERÍSTICAS ADICIONAIS:CONTENDO 17 SAPATILHAS E 01 CORTIÇA DO BOCAL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600620",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:KIT COMPLETO DE CORTIÇAS PORTUGUESAS, APLICAÇÃO:CLARINETE, CARACTERÍSTICAS ADICIONAIS:COM BOQUILHA, BARRILETE E EMENDA CENTRAL[, CAMPANA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600621",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:KIT COM 02 CORTIÇAS SALIVADOR, APLICAÇÃO:CORNET, TROMPA, TROMPETE E TROMBONE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600623",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:KIT COM 08 PEÇAS BATENTE PARA ROTORES, APLICAÇÃO:TROMPA, TROMBONE E TROMPETE, CARACTERÍSTICAS ADICIONAIS:NA CÔR PRETA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600642",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:JOGO DE SAPATILHA, APLICAÇÃO:FLAUTA TRANSVERSAL ARMSTRONG 104, CARACTERÍSTICAS ADICIONAIS:CALÇOS SILICONE, CONTENDO 17 SAPATILHAS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600643",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:KIT DE LIMPEZA, APLICAÇÃO:CLARINETE, CARACTERÍSTICAS ADICIONAIS:02 ESCOVAS PARA O CORPO DO CLARINETE, 01 FLANELA,"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600644",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PELE, APLICAÇÃO:FLAUTA TRANSVERSAL, CARACTERÍSTICAS ADICIONAIS:01 LIMPADOR DE FUROS DE TOM, PAPEL ALMOFADADO,"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600645",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BAQUETA, APLICAÇÃO:TÍMPANO, CARACTERÍSTICAS ADICIONAIS:COM CABEÇA DE FELTRO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600652",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ENCORDOAMENTO, APLICAÇÃO:BAIXO, CARACTERÍSTICAS ADICIONAIS:PARA CONTRABAIXO ELÉTRICO DE 4 CORDAS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600653",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ENCORDOAMENTO, APLICAÇÃO:BAIXO, CARACTERÍSTICAS ADICIONAIS:PARA CONTRABAIXO ELÉTRICO DE 5 CORDAS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600673",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:DISCO COURO DE CABRA, APLICAÇÃO:INSTRUMENTOS DE PERCUSSÃO, CARACTERÍSTICAS ADICIONAIS:COURO ANIMAL; DIÂMETRO 60 CENTÍMETROS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600675",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PEDAL DE EFEITO, APLICAÇÃO:GUITARRA, CARACTERÍSTICAS ADICIONAIS:INCLUI FONTE DE ALIMENTAÇÃO: COM INDICADOR DE LUZ"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600676",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:SURDINA, APLICAÇÃO:VIOLONCELO, CARACTERÍSTICAS ADICIONAIS:BORRACHA USINADA, REDONDA, NO CAVALETE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600677",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:SURDINA, APLICAÇÃO:VIOLA, CARACTERÍSTICAS ADICIONAIS:BORRACHA USINADA, REDONDA, NO CAVALETE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600678",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:SURDINA, APLICAÇÃO:VIOLINO, CARACTERÍSTICAS ADICIONAIS:BORRACHA USINADA, REDONDA, NO CAVALETE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600679",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:SURDINA, APLICAÇÃO:CONTRABAIXO, CARACTERÍSTICAS ADICIONAIS:BORRACHA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600680",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BAG VIOLÃO FORMATO FOLK, APLICAÇÃO:INSTRUMENTOS MUSICAIS, CARACTERÍSTICAS ADICIONAIS 1:REVESTIDO EXTERNO SINTÉTICO,ESPACO PARA[ACESSÓRIOS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600683",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:KIT DE LIMPEZA, APLICAÇÃO:CLARINETE, CARACTERÍSTICAS ADICIONAIS 1:ESCOVA DE LIMPEZA LUBRIFICANTE, CHAVE, FLANELA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600684",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:KIT DE LIMPEZA, APLICAÇÃO:TROMBONE, CARACTERÍSTICAS ADICIONAIS 1:ÓLEO LUBRIFICANTE,ESCOVAS, GRAXA E FLANELA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600685",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ENCORDOAMENTO, APLICAÇÃO:CONTRABAIXO 4/4, CARACTERÍSTICAS ADICIONAIS 1:COMPOSIÇÃO: G1, REVESTIMENTO EM CROMO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600686",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ENCORDOAMENTO, APLICAÇÃO:VIOLONCELO, CARACTERÍSTICAS ADICIONAIS 1:NÚCLEO FIBRA SINTÉTICA ESPIRAL FLEXÍVEL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600688",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ESCOVA SECADORA, APLICAÇÃO:OBOÉ"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600689",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ENCORDOAMENTO, APLICAÇÃO:VIOLA 4/4, CARACTERÍSTICAS ADICIONAIS 1:TENSÃO: A1 - 8,2 KG/ 18,0LB D2 - 5,7KG / 12,5LB."
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600740",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ENCORDOAMENTO, APLICAÇÃO:CONTRABAIXO, CARACTERÍSTICAS ADICIONAIS 1:4 CORDAS, SOL (G), RÉ (D) , LÁ (A) , MI (E)"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600742",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ENCORDOAMENTO, APLICAÇÃO:VIOLONCELO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600745",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:PALHETA, APLICAÇÃO:OBOÉ, CARACTERÍSTICAS ADICIONAIS 1:RASPAGEM AMERICANA - SOFT"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600779",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:CAPTADOR, APLICAÇÃO:VIOLINO, CARACTERÍSTICAS ADICIONAIS:BLINDADO CONTRA RUÍDO, SAÍDA P10"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600780",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:CAPTADOR, APLICAÇÃO:VIOLONCELO, CARACTERÍSTICAS ADICIONAIS:BLINDADO CONTRA RUÍDO, SAÍDA P10"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600781",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:CAPTADOR, APLICAÇÃO:VIOLINO E VIOLA DE ARCO, CARACTERÍSTICAS ADICIONAIS 1:EM MADEIRA, COM JACK P10 BLINDADO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600782",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:CAPTADOR, APLICAÇÃO:VIOLA DE ARCO, CARACTERÍSTICAS ADICIONAIS:BLINDADO CONTRA RUÍDO, SAÍDA P10"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600784",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:CANA, APLICAÇÃO:CONFECÇÃO DE PALHETA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600785",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BAG  VIOLONCELO 4/4., APLICAÇÃO:INSTRUMENTOS MUSICAIS, CARACTERÍSTICAS ADICIONAIS 1:ACOLCHOAMENTO EM ESPUMA 1/2\" COM BOLSO PARA ARCO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "600786",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BUMBO: 22; CONJUNTO DE PRATOS; BAG PARA FERRAGENS;, APLICAÇÃO:INSTRUMENTOS MUSICAIS, CARACTERÍSTICAS ADICIONAIS 1:FEITO EM NYLON 600; MANTA TÉRMICA , DENSIDADE  28"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "601326",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BOQUILHA, APLICAÇÃO:SAXOFONE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "601328",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:CAPA DE PROTEÇÃO, APLICAÇÃO:TÍMPANO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "601341",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BAQUETA, APLICAÇÃO:BOMBO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "601342",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ABAFADOR, APLICAÇÃO:BUMBO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "601343",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BAQUETA, APLICAÇÃO:ALFAIA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "601344",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BAQUETA, APLICAÇÃO:AGOGÔ"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "601345",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:BAQUETA, APLICAÇÃO:GONGO SINFÔNICO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "601634",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:CORDA, APLICAÇÃO:VIOLA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "601635",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:CORDA, APLICAÇÃO:VIOLINO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "601636",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:CORDA, APLICAÇÃO:CONTRA BAIXO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "601637",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:CORDA, APLICAÇÃO:VIOLONCELO ."
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "601638",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:ENCORDOAMENTO, APLICAÇÃO:VIOLÃO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "1218",
+    "codigo": "601640",
+    "descricao": " PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL, TIPO:CORDA, APLICAÇÃO:VIOLÃO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "6162",
+    "codigo": "486650",
+    "descricao": " DIAPASÃO, TIPO:AFINADOR DE CONTATO, NÍVEL AFINAÇÃO:+/- 1 CENTÉSIMO, CARACTERÍSTICAS ADICIONAIS:CLIP-ON, VISOR LCD, BATERIA DE LÍTIO, APLICAÇÃO:INSTRUMENTO MUSICAL DE CORDA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "10576",
+    "codigo": "251443",
+    "descricao": " PEDAL DE INSTRUMENTO MUSICAL, MATERIAL:METAL, PLÁSTICO RÍGIDO E EMBORRACHADO, CORRENTE:8 MICROA, RELAÇÃO SINAL / RUIDO:80 DB, COMPRIMENTO:122 MM, LARGURA:65 MM, ALTURA:61 MM, PESO:680 G, CARACTERÍSTICAS ADICIONAIS:LIGA E DESLIGA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "10576",
+    "codigo": "482661",
+    "descricao": " PEDAL DE INSTRUMENTO MUSICAL, COMPRIMENTO:181 MM, LARGURA:318 MM, ALTURA:64 MM, PESO:1,84 KG, CARACTERÍSTICAS ADICIONAIS:PEDALEIRA PARA GUITARRA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "10576",
+    "codigo": "482662",
+    "descricao": " PEDAL DE INSTRUMENTO MUSICAL, COMPRIMENTO:130 MM, LARGURA:156 MM, ALTURA:42 MM, PESO:340 G, CARACTERÍSTICAS ADICIONAIS:PEDALEIRA PARA GUITARRA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "15157",
+    "codigo": "237626",
+    "descricao": " ESTOJO PARA DVD, MATERIAL:PVC, COR:PRETA, COMPRIMENTO:19 CM, LARGURA:13,5 CM, ALTURA:1, TIPO:DUPLO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "15157",
+    "codigo": "321763",
+    "descricao": " ESTOJO PARA DVD, MATERIAL:ACRÍLICO, COR:INCOLOR, LARGURA:14 CM, TIPO:SIMPLES, CARACTERÍSTICAS ADICIONAIS:PLÁSTICO EXTERNO E PRESILHA INTERNA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "15157",
+    "codigo": "330285",
+    "descricao": " ESTOJO PARA DVD, MATERIAL:PVC, COMPRIMENTO:19 CM, LARGURA:13,5 CM, ALTURA:1,30 CM, TIPO:SIMPLES, CARACTERÍSTICAS ADICIONAIS:TRANSPARENTE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "15157",
+    "codigo": "369040",
+    "descricao": " ESTOJO PARA DVD, MATERIAL:POLIPROPILENO, COR:INCOLOR, COMPRIMENTO:19 CM, LARGURA:13,5 CM, ALTURA:1,30 CM, TIPO:BOX, CARACTERÍSTICAS ADICIONAIS:PLÁSTICO EXTERNO TRANSPARENTE, PRESILHA INTERNA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "15157",
+    "codigo": "383057",
+    "descricao": " ESTOJO PARA DVD, MATERIAL:PLÁSTICO RÍGIDO, COR:PRETA, COMPRIMENTO:19 CM, LARGURA:13,50 CM, ALTURA:1,40 CM, TIPO:BOX, CARACTERÍSTICAS ADICIONAIS:COM TRAVA DE SEGURANÇA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "15157",
+    "codigo": "403519",
+    "descricao": " ESTOJO PARA DVD, MATERIAL:PLÁSTICO, COR:PRETA, COMPRIMENTO:19 CM, LARGURA:13,50 CM, ALTURA:0,70 CM, TIPO:SLIM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "16195",
+    "codigo": "471013",
+    "descricao": " ESTEIRA CAIXA CLARA, MATERIAL:AÇO, DIMENSÕES:14 POL, APLICAÇÃO:CAIXA CLARA LARGA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "17623",
+    "codigo": "265112",
+    "descricao": " PELE INSTRUMENTO MUSICAL, MATERIAL:NÁILON, COMPRIMENTO:30 CM, LARGURA:22 CM, APLICAÇÃO:BOMBO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "17623",
+    "codigo": "265113",
+    "descricao": " PELE INSTRUMENTO MUSICAL, MATERIAL:NÁILON, DIÂMETRO:14 POL, APLICAÇÃO:CAIXA CLARA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "17623",
+    "codigo": "265114",
+    "descricao": " PELE INSTRUMENTO MUSICAL, MATERIAL:NÁILON, DIÂMETRO:14 POL, APLICAÇÃO:TAROL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "17624",
+    "codigo": "265153",
+    "descricao": " CAIXA CLARA, MATERIAL:ALUMÍNIO, TIPO:ESTREITA, DIÂMETRO:14 POL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7720",
+    "padrao": "17624",
+    "codigo": "265154",
+    "descricao": " CAIXA CLARA, MATERIAL:ALUMÍNIO, TIPO:LARGA, DIÂMETRO:14 POL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "226141",
+    "descricao": " APARELHO SOM, TIPO:MINI SYSTEM, COMPATIBILIDADE:CDR E CD-RW, POTÊNCIA:3.000 W, VOLTAGEM:110/220 V, LARGURA:264 MM, ALTURA:310 MM, PROFUNDIDADE:390 MM, PESO APROXIMADO:22 KG, TIPO SINTONIZADOR:DIGITAL AM/FM, QUANTIDADE CAIXAS ACÚSTICAS:5 UN, PROFUNDIDADE CAIXAS ACÚSTICAS:315 MM, TIPO SAÍDA:GRAVAÇÃO DIGITAL, LARGURA CAIXAS ACÚSTICAS:240 MM, ALTURA CAIXAS ACÚSTICAS:310 MM, QUANTIDADE CD:3 UN, COMPONENTES CORPO:DVD, CARACTERÍSTICAS ADICIONAIS:RELÓGIO DIGITAL COM DESPERTADOR/ZOOM MÚLTIPLO/"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "226142",
+    "descricao": " APARELHO SOM, TIPO:MINI SYSTEM, COMPATIBILIDADE:CDR E CD-RW, POTÊNCIA:450 W, VOLTAGEM:110/220 V, LARGURA:265 MM, ALTURA:310 MM, PROFUNDIDADE:320 MM, PESO APROXIMADO:12 KG, TIPO SINTONIZADOR:DIGITAL AM/FM, QUANTIDADE CAIXAS ACÚSTICAS:2 UN, PROFUNDIDADE CAIXAS ACÚSTICAS:175 MM, TIPO SAÍDA:NÃO APLICÁVEL, LARGURA CAIXAS ACÚSTICAS:185 MM, ALTURA CAIXAS ACÚSTICAS:310 MM, QUANTIDADE CD:3 UN, COMPONENTES CORPO:CD, CARACTERÍSTICAS ADICIONAIS:DUPLO DECK MECÂNICO/CONTROLE REMOTO/"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "226143",
+    "descricao": " APARELHO SOM, TIPO:MINI SYSTEM, COMPATIBILIDADE:CDR E CD-RW, POTÊNCIA:2.000 W, VOLTAGEM:110/220 V, LARGURA:265 MM, ALTURA:310 MM, PROFUNDIDADE:335 MM, PESO APROXIMADO:22 KG, TIPO SINTONIZADOR:DIGITAL AM/FM, QUANTIDADE CAIXAS ACÚSTICAS:2 UN, PROFUNDIDADE CAIXAS ACÚSTICAS:250 MM, TIPO SAÍDA:GRAVAÇÃO DIGITAL, LARGURA CAIXAS ACÚSTICAS:240 MM, ALTURA CAIXAS ACÚSTICAS:310 MM, QUANTIDADE CD:3 UN, COMPONENTES CORPO:GRAVADOR CD, CARACTERÍSTICAS ADICIONAIS:CONTROLE REMOTO/REPRODUÇÃO ALEATÓRIA FAIXA/"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "232495",
+    "descricao": " APARELHO SOM, TIPO:MICRO SYSTEM, COMPATIBILIDADE:CDR E CD-RW, POTÊNCIA:5000W PMPO E 230W RMS W, VOLTAGEM:110/220 V, LARGURA:300 MM, ALTURA:100 MM, PROFUNDIDADE:262 MM, QUANTIDADE CAIXAS ACÚSTICAS:2 UN, LARGURA CAIXAS ACÚSTICAS:230 MM, ALTURA CAIXAS ACÚSTICAS:360 MM, QUANTIDADE CD:3 UN, CARACTERÍSTICAS ADICIONAIS:01 ENTRADA AUXILIAR, COR:GRAFITE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "236374",
+    "descricao": " APARELHO SOM, TIPO:DIGITAL ÁUDIO SYSTEM, COMPATIBILIDADE:CDR, POTÊNCIA:165 W, VOLTAGEM:120/230/240 V, LARGURA:290 MM, ALTURA:320 MM, PROFUNDIDADE:210 MM, PESO APROXIMADO:10 KG, TIPO SINTONIZADOR:DIGITAL FM/MW/SW1/SW2, QUANTIDADE CAIXAS ACÚSTICAS:4 UN, PROFUNDIDADE CAIXAS ACÚSTICAS:2 X 33 / 2 X 16 MM, TIPO SAÍDA:GRAVAÇÃO DIGITAL, LARGURA CAIXAS ACÚSTICAS:2 X 21 MM, ALTURA CAIXAS ACÚSTICAS:2 X 19 MM, QUANTIDADE CD:3 UN, COMPONENTES CORPO:CD/RÁDIO/2 DECK, CARACTERÍSTICAS ADICIONAIS:COM DUPLO DECK MECÂNICO E KARAOKÊ, COR:GRAFITE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "237959",
+    "descricao": " APARELHO SOM, TIPO:DIGITAL ÁUDIO SYSTEM, POTÊNCIA:100 W, VOLTAGEM:110/220 V, LARGURA:370 MM, ALTURA:160 MM, PROFUNDIDADE:200 MM, TIPO SINTONIZADOR:DIGITAL AM/FM, COMPONENTES CORPO:CD PLAYER/MICROFONE EMBUTIDO/CONECTOR FONE OUVIDO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "246160",
+    "descricao": " APARELHO SOM, TIPO:MICRO SYSTEM, POTÊNCIA:RMS 30W / PMPO 700 W, VOLTAGEM:110/220 V, TIPO SINTONIZADOR:DIGITAL AM/FM COM 58 MEMÓRIAS PROGRAMÁVEIS, QUANTIDADE CAIXAS ACÚSTICAS:2 DESTACÁVEIS DE 2 VIAS UN, COMPONENTES CORPO:CD/RÁDIO/2 DECK E RELÓGIO TIMER ON SLEEP TIMER, CARACTERÍSTICAS ADICIONAIS:CONTROLE REMOTO, HIGH SPEED DUBBING, EQUALIZADOR C"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "248071",
+    "descricao": " APARELHO SOM, TIPO:MINI SYSTEM, COMPATIBILIDADE:CDR, POTÊNCIA:1.300 W, VOLTAGEM:110/220 V, LARGURA:280 MM, ALTURA:320 MM, PROFUNDIDADE:335 MM, PESO APROXIMADO:6,70 KG, TIPO SINTONIZADOR:DIGITAL AM/FM COM 45 MEMÓRIAS PROGRAMÁVEIS, QUANTIDADE CAIXAS ACÚSTICAS:2 UN, PROFUNDIDADE CAIXAS ACÚSTICAS:210 MM, TIPO SAÍDA:GRAVAÇÃO DIGITAL, LARGURA CAIXAS ACÚSTICAS:190 MM, ALTURA CAIXAS ACÚSTICAS:320 MM, QUANTIDADE CD:3 UN, COMPONENTES CORPO:CD/RÁDIO/2 DECK E RELÓGIO TIMER ON SLEEP TIMER, CARACTERÍSTICAS ADICIONAIS:DUPLO DECK MECÂNICO/CONTROLE REMOTO/1 ENT.AUXILIAR, COR:GRAFITE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "269195",
+    "descricao": " APARELHO SOM, TIPO:MINI SYSTEM, COMPATIBILIDADE:CDR E CD-RW, POTÊNCIA:1.200 W, VOLTAGEM:110/220 V, TIPO SINTONIZADOR:DIGITAL AM/FM COM 10 MEMÓRIAS PROGRAMÁVEIS, QUANTIDADE CAIXAS ACÚSTICAS:2 UN, QUANTIDADE CD:3 UN, COMPONENTES CORPO:CD, RÁDIO, DUPLO DECK MECÂNICO E CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "280268",
+    "descricao": " APARELHO SOM, TIPO:MICRO SYSTEM, COMPATIBILIDADE:CDR E CD-RW, POTÊNCIA:230 W, VOLTAGEM:110/220 V, QUANTIDADE CAIXAS ACÚSTICAS:5, CARACTERÍSTICAS ADICIONAIS:RMS, COR:GRAFITE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "293208",
+    "descricao": " APARELHO SOM, TIPO:MINI SYSTEM, POTÊNCIA:200 W, CARACTERÍSTICAS ADICIONAIS:PMPO PU 5W RMS, TOCADOR DE CD, CAIXAS ACÚSTICAS FI"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "297208",
+    "descricao": " APARELHO SOM, TIPO:CD PLAYER MP3, VOLTAGEM:12 V, CARACTERÍSTICAS ADICIONAIS:COM RÁDIO AM/FM, APLICAÇÃO:AUTOMÓVEL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "311181",
+    "descricao": " APARELHO SOM, TIPO:MICRO SYSTEM, COMPATIBILIDADE:CDR, CD-RW E MP3, POTÊNCIA:120 W, VOLTAGEM:220 V, QUANTIDADE CAIXAS ACÚSTICAS:5, CARACTERÍSTICAS ADICIONAIS:RMS, 5 CDS, COR:GRAFITE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "314335",
+    "descricao": " APARELHO SOM, TIPO:MINI SYSTEM, COMPATIBILIDADE:CDR E CD-RW, VOLTAGEM:110/220 V, TIPO SINTONIZADOR:DIGITAL AM/FM COM 10 MEMÓRIAS PROGRAMÁVEIS, QUANTIDADE CAIXAS ACÚSTICAS:2 COM 3 VIAS, TIPO SAÍDA:GRAVAÇÃO DIGITAL, QUANTIDADE CD:3, COMPONENTES CORPO:CD, RÁDIO, ANTENA AM/LOOP FM/COAXIAL, CONEXÕES SAÍ, CARACTERÍSTICAS ADICIONAIS:RELÓGIO C/DESPERTADOR,SLEEP TIMER, CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "339653",
+    "descricao": " APARELHO SOM, TIPO:MICRO SYSTEM, COMPATIBILIDADE:CDR E CD-RW, POTÊNCIA:PMPO 200 W / RMS 4 W, LARGURA:168 MM, ALTURA:224 MM, PROFUNDIDADE:214 MM, PESO APROXIMADO:4,63 KG, TIPO SINTONIZADOR:DIGITAL AM/FM, QUANTIDADE CD:1, COMPONENTES CORPO:GRAVADOR CD, CARACTERÍSTICAS ADICIONAIS:TOCA-FITA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "344205",
+    "descricao": " APARELHO SOM, TIPO:MINI SYSTEM, COMPATIBILIDADE:CDR E CD-RW, COMPONENTES CORPO:MICROFONE EMBUTIDO, CARACTERÍSTICAS ADICIONAIS:PORTÁTIL E PROGRAMAÇÃO 20 FAIXAS DE CD"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "356411",
+    "descricao": " APARELHO SOM, TIPO:CD PLAYER MP3, COMPATIBILIDADE:CD-RW E MP3, TIPO SINTONIZADOR:DIGITAL AM/FM, CARACTERÍSTICAS ADICIONAIS:PORTÁTIL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "389085",
+    "descricao": " APARELHO SOM, TIPO:MICRO SYSTEM, COMPATIBILIDADE:CD / CD-R / CD-RW E MP3, POTÊNCIA:7 W, VOLTAGEM:110/220 V, TIPO SINTONIZADOR:DIGITAL AM/FM, CARACTERÍSTICAS ADICIONAIS:ALÇA TRANSPORTE/FONE OUVIDO/ENTRADA USB"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "390995",
+    "descricao": " APARELHO SOM, TIPO:MINI SYSTEM, COMPATIBILIDADE:CD / CD-R / CD-RW E MP3, POTÊNCIA:250 W, VOLTAGEM:110/220 V, TIPO SINTONIZADOR:AM/FM, COMPONENTES CORPO:ENTRADA USB HOST/MICROFONE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "390997",
+    "descricao": " APARELHO SOM, TIPO:MINI SYSTEM, COMPATIBILIDADE:CD / CD-R / CD-RW E MP3, POTÊNCIA:20 W, VOLTAGEM:110/220 V, CARACTERÍSTICAS ADICIONAIS:ALÇA TRANSPORTE/FONE OUVIDO/ENTRADA USB"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "399189",
+    "descricao": " APARELHO SOM, TIPO:MICRO SYSTEM, COMPATIBILIDADE:CDR, CD-RW E MP3, POTÊNCIA:300 W, VOLTAGEM:110/220 V, TIPO SINTONIZADOR:AM/FM, QUANTIDADE CAIXAS ACÚSTICAS:3 COM 3 VIAS, QUANTIDADE CD:3, CARACTERÍSTICAS ADICIONAIS:REPRODUTOR/GRAVADOR FITA,MP3,MP3 PLAYER,PEN DRIVE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "453636",
+    "descricao": " APARELHO SOM, TIPO:MINI SYSTEM, COMPATIBILIDADE:MP3, WAV, CD DA, CD-R, CD-RW, POTÊNCIA:500 W, VOLTAGEM:110/220 V, TIPO SINTONIZADOR:AM/FM, QUANTIDADE CAIXAS ACÚSTICAS:2, COMPONENTES CORPO:ENTRADA USB, ENTRADA AUXILIAR"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "483352",
+    "descricao": " APARELHO SOM, TIPO:MINI SYSTEM, COMPATIBILIDADE:CD / CD-R / CD-RW E MP3, POTÊNCIA:220 W, VOLTAGEM:110/220 V, QUANTIDADE CAIXAS ACÚSTICAS:2, QUANTIDADE CD:1, COMPONENTES CORPO:ENTRADA USB, ENTRADA AUXILIAR, CARACTERÍSTICAS ADICIONAIS:CONTROLE REMOTO / TIMER / SLEEP TIMER"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "2874",
+    "codigo": "602543",
+    "descricao": " APARELHO SOM, TIPO:MICRO SYSTEM, COMPATIBILIDADE:DVD/CD ÁUDIO/CDR/RW/VCD/SVCD E MP3, POTÊNCIA:100 W, VOLTAGEM:110/240 V, TIPO SINTONIZADOR:DIGITAL,  CONTROLE REMOTO, 05 EQUALIZAÇÕES, COMPONENTES CORPO:ENTRADA USB, ENTRADA AUXILIAR, CARACTERÍSTICAS ADICIONAIS:RELÓGIO DIGITAL COM DESPERTADOR/ZOOM MÚLTIPLO/"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "6265",
+    "codigo": "254645",
+    "descricao": " MINI CD, TIPO:GRAVÁVEL E REGRAVÁVEL, CAPACIDADE:700 MB, DURAÇÃO:80 MIN"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "11396",
+    "codigo": "340437",
+    "descricao": " RÁDIO RECEPTOR, TIPO:PORTÁTIL AM/FM, CARACTERÍSTICAS ADICIONAIS:AUTO FALANTE E ANTENA TELESCÓPICA EMBUTIDOS, ALÇA, ALIMENTAÇÃO:PILHA AA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "11396",
+    "codigo": "460666",
+    "descricao": " RÁDIO RECEPTOR, TIPO:PORTÁTIL DIGITAL, CARACTERÍSTICAS ADICIONAIS:6 CANAIS EM WIDE, FM - WIDE BAND LOW VHF, ALIMENTAÇÃO:BATERIA RECARREGÁVEL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "225665",
+    "descricao": " TELEVISOR, TAMANHO TELA:32 POL, QUANTIDADE SELETOR:2, VOLTAGEM:110/220 V, CONSUMO CONDIÇÃO ESPERA:MENOR QUE 6 W, CONSUMO:94 W, CONSUMO MÁXIMO:153 W, POTÊNCIA TOTAL ÁUDIO:21 W, LARGURA:880 MM, ALTURA:565 MM, PROFUNDIDADE:565 MM, PESO:53,50 KG, DIAGONAL VISUAL:760 MM, ENTRADA ÁUDIO E VÍDEO:1 FRONTAL E 2 TRASEIRA, SAÍDA ÁUDIO:1 TRASEIRA, QUANTIDADE JANELA IMAGEM:ATÉ 13 JANELAS ( 8 TIPOS EXIBIÇÃO ), COR:NÃO APLICÁVEL, TIPO FORMATO:CINEMA, CARACTERÍSTICAS ADICIONAIS:PROCESSAMENTO DIGITAL IMAGEM, PAINEL CONEXÃO ATÉ"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "225666",
+    "descricao": " TELEVISOR, TAMANHO TELA:32 POL, QUANTIDADE SELETOR:2, VOLTAGEM:110/220 V, CONSUMO CONDIÇÃO ESPERA:MENOR QUE 6,50 W, CONSUMO:86 W, CONSUMO MÁXIMO:160 W, POTÊNCIA TOTAL ÁUDIO:25 W, LARGURA:873 MM, ALTURA:565 MM, PROFUNDIDADE:572 MM, PESO:47 KG, DIAGONAL VISUAL:759 MM, ENTRADA ÁUDIO E VÍDEO:1 FRONTAL E 2 TRASEIRA, SAÍDA ÁUDIO:1 TRASEIRA, QUANTIDADE JANELA IMAGEM:ATÉ 13 JANELAS ( 8 TIPOS EXIBIÇÃO ), COR:NÃO APLICÁVEL, TIPO FORMATO:CINEMA, CARACTERÍSTICAS ADICIONAIS:PROCESSAMENTO DIGITAL IMAGEM, PAINEL CONEXÃO ATÉ"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "238696",
+    "descricao": " TELEVISOR, TAMANHO TELA:42 POL, VOLTAGEM:AUTOMÁTICA V, CONSUMO:MENOR QUE 60 W, LARGURA:1.030 MM, ALTURA:634 MM, PROFUNDIDADE:89 MM, PESO:32 KG, ENTRADA ÁUDIO E VÍDEO:RCA, QUANTIDADE JANELA IMAGEM:2, TIPO FORMATO:CINEMA, CARACTERÍSTICAS ADICIONAIS:CONEXÃO PARA CAIXA ACÚSTICA, BASE PARA MONTAGEM EM, TIPO TELA:PLASMA, RESOLUÇÃO:1024 X 768, TIPO IMAGEM:WINDE SCREEM 16:9, TIPO ENTRADA:RGB/VGA/SVGA/DVD/S-VHS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "245147",
+    "descricao": " TELEVISOR, TAMANHO TELA:42 POL, VOLTAGEM:AUTOMÁTICA, 110/220 V, CONSUMO:MENOR QUE 60 W, LARGURA:1035 MM, ALTURA:640 MM, PROFUNDIDADE:150 MM, PESO:38,50 KG, QUANTIDADE JANELA IMAGEM:2, TIPO FORMATO:CINEMA, CARACTERÍSTICAS ADICIONAIS:CONEXÃO PARA CAIXA ACÚSTICA, BASE PARA MONTAGEM EM, TIPO TELA:PLASMA, RESOLUÇÃO:852 X 480, TIPO IMAGEM:WINDE SCREEM 16:9, TIPO ENTRADA:RGB/VGA/SVGA/DVD/S-VHS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "248379",
+    "descricao": " TELEVISOR, TAMANHO TELA:54 POL, VOLTAGEM:AUTOMÁTICA V, CONSUMO:180 W, LARGURA:1166 MM, ALTURA:1406 MM, PROFUNDIDADE:596 MM, PESO:85 KG, ENTRADA ÁUDIO E VÍDEO:3, SAÍDA ÁUDIO:1, CARACTERÍSTICAS ADICIONAIS:CONTROLE REMOTO, TIPO TELA:PLANA, TIPO ENTRADA:RGB/VGA/SVGA/DVD/S-VHS, FUNÇÕES:CLOSED CAPTION, TIPO:ESTÉREO, SISTEMA COR:PAL-M, PAL-N E NTSC, TIPO SAÍDA:ÁUDIO E VÍDEO, VCR, RECEIVER, DVD, PC E COMCORDER"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "276189",
+    "descricao": " TELEVISOR, TAMANHO TELA:21 POL, VOLTAGEM:110/220 V, TIPO TELA:PLANA, TIPO:ESTÉREO, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "295866",
+    "descricao": " TELEVISOR, TAMANHO TELA:21 POL, VOLTAGEM:110/220 V, CARACTERÍSTICAS ADICIONAIS:ESTÉREO, SAP, TIPO TELA:PLANA, TIPO ENTRADA:ÁUDIO E VÍDEO, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "298552",
+    "descricao": " TELEVISOR, TAMANHO TELA:32 POL, VOLTAGEM:110/220 V, COR:PRATA, CARACTERÍSTICAS ADICIONAIS:TECLA SAP, ENTRADA TV A CABO, TIPO TELA:PLANA, TIPO ENTRADA:ÁUDIO E VÍDEO, FUNÇÕES:CLOSED CAPTION, TIPO:ESTÉREO, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "341938",
+    "descricao": " TELEVISOR, TAMANHO TELA:37 POL, VOLTAGEM:110 V, CARACTERÍSTICAS ADICIONAIS:SISTEMA PAL-M, PAL-N, NTSC, AUDIO M/N, FORMATO  DE, TIPO TELA:LCD"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "342582",
+    "descricao": " TELEVISOR, TAMANHO TELA:32 POL, VOLTAGEM:100-240 V, TIPO TELA:LCD, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "350884",
+    "descricao": " TELEVISOR, TAMANHO TELA:42 POL, VOLTAGEM:110/220 V, CARACTERÍSTICAS ADICIONAIS:SISTEMA PAL-M, PAL-N, NTSC, ÁUDIO M, ENTRADA E VÍ-, TIPO TELA:LCD, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "358573",
+    "descricao": " TELEVISOR, TAMANHO TELA:42 POL, VOLTAGEM:100-240 V, CARACTERÍSTICAS ADICIONAIS:TV DIGITAL, HDMI, TELA 16:9, 20 W RMS, FULL HD, TIPO TELA:LCD"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "362989",
+    "descricao": " TELEVISOR, TAMANHO TELA:58 POL, VOLTAGEM:110 V, CARACTERÍSTICAS ADICIONAIS:PAL-M, NTSC, ENTRADA E SAÍDA DE VÍDEO, TIPO TELA:LCD"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "374682",
+    "descricao": " TELEVISOR, TAMANHO TELA:32 POL, VOLTAGEM:110/240 VCA, CARACTERÍSTICAS ADICIONAIS:HDTV 16:9, ENTRADA RGB, TIPO TELA:LCD"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "374683",
+    "descricao": " TELEVISOR, TAMANHO TELA:42 POL, VOLTAGEM:110/240 VCA, CARACTERÍSTICAS ADICIONAIS:FULL HD, 2 HDMI,ENTRADA RGB, ESTÉREO/SAP, TIPO TELA:LCD"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "374684",
+    "descricao": " TELEVISOR, TAMANHO TELA:52 POL, VOLTAGEM:110/240 VCA, CARACTERÍSTICAS ADICIONAIS:FULL HD, 3 HDMI, TELA 16:9, ENTRADA RGB, TIPO TELA:LCD"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "382282",
+    "descricao": " TELEVISOR, TAMANHO TELA:52 POL, VOLTAGEM:110/220 V, CARACTERÍSTICAS ADICIONAIS:SISTEMA PAL-M, PAL-N, NTSC, ÁUDIO M, ENTRADA E VÍ-, TIPO TELA:LCD, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "382882",
+    "descricao": " TELEVISOR, TAMANHO TELA:50 POL, VOLTAGEM:110/220 V, CARACTERÍSTICAS ADICIONAIS:WIDESCREEN 16:9, PAL-M, PAL-N, NTSC, ENTRADA RGB, TIPO TELA:LCD"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "383163",
+    "descricao": " TELEVISOR, TAMANHO TELA:32 POL, VOLTAGEM:110/220 V, CARACTERÍSTICAS ADICIONAIS:FULL HD, TIPO TELA:LCD"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "384604",
+    "descricao": " TELEVISOR, TAMANHO TELA:46 POL, VOLTAGEM:BIVOLT V, CARACTERÍSTICAS ADICIONAIS:FULL HD, TIPO TELA:LCD"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "387958",
+    "descricao": " TELEVISOR, TAMANHO TELA:32 POL, VOLTAGEM:110/220 V, CARACTERÍSTICAS ADICIONAIS:FULL HD, LED, CONVERSOR DIGITAL INTEGRADO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "395574",
+    "descricao": " TELEVISOR, TAMANHO TELA:55 POL, VOLTAGEM:220 V, COR:PRETA, CARACTERÍSTICAS ADICIONAIS:3 ENTRADAS HDMI, FULL HD, ENTRADA RGB E DUAS USB, TIPO TELA:LCD, ACESSÓRIOS:CONTROLE REMOTO E ADAPTADOR 75/300 OHMS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "399092",
+    "descricao": " TELEVISOR, TAMANHO TELA:32 POL, VOLTAGEM:BIVOLT V, CARACTERÍSTICAS ADICIONAIS:AV LATERAL,VÍDEO COMPONENTE,S-VÍDEO,HDMI MÍNIMO 2, TIPO TELA:LCD"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "403328",
+    "descricao": " TELEVISOR, TAMANHO TELA:42 POL, VOLTAGEM:110/220 V, CARACTERÍSTICAS ADICIONAIS:FULL HD, TIPO TELA:LED"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "404255",
+    "descricao": " TELEVISOR, TAMANHO TELA:40 POL, VOLTAGEM:100-240 V, CARACTERÍSTICAS ADICIONAIS:FULL HD, ENTRADA HDMI, TIPO TELA:LCD, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "404383",
+    "descricao": " TELEVISOR, TAMANHO TELA:55 POL, VOLTAGEM:110/240 V, CARACTERÍSTICAS ADICIONAIS:FULL HD, ENTRADA HDMI, TIPO TELA:LCD, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "404384",
+    "descricao": " TELEVISOR, TAMANHO TELA:23 POL, VOLTAGEM:110/240 V, CARACTERÍSTICAS ADICIONAIS:FULL HD, ENTRADA HDMI, TIPO TELA:LCD, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "412006",
+    "descricao": " TELEVISOR, TAMANHO TELA:55 POL, VOLTAGEM:110/220 V, CARACTERÍSTICAS ADICIONAIS:FULL HD, LED, CONVERSOR DIGITAL INTEGRADO, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "412074",
+    "descricao": " TELEVISOR, TAMANHO TELA:46 POL, VOLTAGEM:110/220 V, CARACTERÍSTICAS ADICIONAIS:FUL HD, SMART TV, DVT, WIDESCREEN, 2 ENTRADAS RF, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "412075",
+    "descricao": " TELEVISOR, TAMANHO TELA:40 POL, VOLTAGEM:110/220 V, CARACTERÍSTICAS ADICIONAIS:FUL HD, SMART TV, DVT, WIDESCREEN, 2 ENTRADAS RF, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "427352",
+    "descricao": " TELEVISOR, TAMANHO TELA:46 POL, VOLTAGEM:110/220 V, CARACTERÍSTICAS ADICIONAIS:FULL HD, ENTRADA USB, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "430109",
+    "descricao": " TELEVISOR, TAMANHO TELA:60 POL, VOLTAGEM:110/220 V, CARACTERÍSTICAS ADICIONAIS:FUL HD, SMART TV, DVT, WIDESCREEN, 2 ENTRADAS RF, TIPO TELA:LED"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "439362",
+    "descricao": " TELEVISOR, TAMANHO TELA:43 POL, VOLTAGEM:110/220 V, CARACTERÍSTICAS ADICIONAIS:FUL HD, SMART TV, DVT, WIDESCREEN, 2 ENTRADAS RF, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "439363",
+    "descricao": " TELEVISOR, TAMANHO TELA:49 POL, VOLTAGEM:110/220 V, CARACTERÍSTICAS ADICIONAIS:FUL HD, SMART TV, DVT, WIDESCREEN, 2 ENTRADAS RF, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "439607",
+    "descricao": " TELEVISOR, TAMANHO TELA:75 POL, VOLTAGEM:110/220 V, CARACTERÍSTICAS ADICIONAIS:4K, 3D E SMART TV, MÍNIMO: 2 USB, 3 HDMI, WI-FI IN, TIPO TELA:LED"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "443903",
+    "descricao": " TELEVISOR, TAMANHO TELA:49 POL, VOLTAGEM:110/220 V, CARACTERÍSTICAS ADICIONAIS:4K, DUAL PLAY, SMART MOBILE, WIDI, TIME MACHINE, TIPO TELA:LED"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "443965",
+    "descricao": " TELEVISOR, TAMANHO TELA:50 POL, VOLTAGEM:BIVOLT V, CARACTERÍSTICAS ADICIONAIS:SMART TV, FULL HD, ENTRADAS HDMI/USB, CONVERSOR DI, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "443966",
+    "descricao": " TELEVISOR, TAMANHO TELA:32 POL, VOLTAGEM:BIVOLT V, CARACTERÍSTICAS ADICIONAIS:SMART TV, FULL HD, ENTRADAS HDMI/USB, CONVERSOR DI, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "444252",
+    "descricao": " TELEVISOR, TAMANHO TELA:60 POL, VOLTAGEM:BIVOLT V, CARACTERÍSTICAS ADICIONAIS:SMART TV, FULL HD, ENTRADAS HDMI/USB, CONVERSOR DI, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO/SLEEP TIME/VHF/UHF E TV A CABO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "458905",
+    "descricao": " TELEVISOR, TAMANHO TELA:65 POL, VOLTAGEM:110/220 V, CARACTERÍSTICAS ADICIONAIS:SMART TV, 4 K, WIFI. ENTRADAS HDMI/USB, CONVERSOR, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "460902",
+    "descricao": " TELEVISOR, TAMANHO TELA:85 POL, VOLTAGEM:110/220 V, CARACTERÍSTICAS ADICIONAIS:SMART TV, 4 K, WIFI. ENTRADAS HDMI/USB, CONVERSOR, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "470801",
+    "descricao": " TELEVISOR, TAMANHO TELA:42 POL, VOLTAGEM:BIVOLT V, CARACTERÍSTICAS ADICIONAIS:SMART TV, FULL HD, ENTRADAS HDMI/USB, CONVERSOR DI, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO/SLEEP TIME/VHF/UHF E TV A CABO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "471011",
+    "descricao": " TELEVISOR, TAMANHO TELA:55 POL, VOLTAGEM:BIVOLT V, CARACTERÍSTICAS ADICIONAIS:SMART TV, 4 K, WIFI. ENTRADAS HDMI/USB, CONVERSOR, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO/SLEEP TIME/VHF/UHF E TV A CABO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "479242",
+    "descricao": " TELEVISOR, TAMANHO TELA:43 POL, VOLTAGEM:BIVOLT V, CARACTERÍSTICAS ADICIONAIS:SMART TV, 4 K, WIFI. ENTRADAS HDMI/USB, CONVERSOR, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "480210",
+    "descricao": " TELEVISOR, TAMANHO TELA:70 POL, VOLTAGEM:BIVOLT V, CARACTERÍSTICAS ADICIONAIS:4K, 3D E SMART TV, MÍNIMO: 2 USB, 3 HDMI, WI-FI IN, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "480489",
+    "descricao": " TELEVISOR, TAMANHO TELA:82 POL, VOLTAGEM:220 V, CARACTERÍSTICAS ADICIONAIS:4K, 2 HDMI, 2 USB, BLUETOOTH, TIPO TELA:CRISTAL LÍQUIDO, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "480490",
+    "descricao": " TELEVISOR, TAMANHO TELA:50 POL, VOLTAGEM:220 V, CARACTERÍSTICAS ADICIONAIS:4K, 2 HDMI, 2 USB, BLUETOOTH, TIPO TELA:CRISTAL LÍQUIDO, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "480903",
+    "descricao": " TELEVISOR, TAMANHO TELA:60 POL, VOLTAGEM:BIVOLT V, COR:PRETO/PRATA, CARACTERÍSTICAS ADICIONAIS:SMART TV, 4 K, WIFI. ENTRADAS HDMI/USB, CONVERSOR, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "484399",
+    "descricao": " TELEVISOR, TAMANHO TELA:70 POL, VOLTAGEM:BIVOLT V, CARACTERÍSTICAS ADICIONAIS:4K, 2 HDMI, 2 USB, BLUETOOTH, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "485404",
+    "descricao": " TELEVISOR, TAMANHO TELA:86 POL, VOLTAGEM:100-240 V, COR:PRETA, CARACTERÍSTICAS ADICIONAIS:4K, UHD, IA, 4 HDMI, 3 USB, BLUETOOTH, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "486188",
+    "descricao": " TELEVISOR, TAMANHO TELA:75 POL, VOLTAGEM:BIVOLT V, COR:PRETO/PRATA, CARACTERÍSTICAS ADICIONAIS:SMART TV, 4 K, WIFI. ENTRADAS HDMI/USB, CONVERSOR, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "601702",
+    "descricao": " TELEVISOR, TAMANHO TELA:55 POL, VOLTAGEM:BIVOLT V, CARACTERÍSTICAS ADICIONAIS:ENTRADAS HDMI, USB, BLUETOOTH, WIFI, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "601704",
+    "descricao": " TELEVISOR, TAMANHO TELA:65 POL, VOLTAGEM:BIVOLT V, CARACTERÍSTICAS ADICIONAIS:ENTRADAS HDMI, USB, BLUETOOTH, WIFI, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "601705",
+    "descricao": " TELEVISOR, TAMANHO TELA:43 POL, VOLTAGEM:BIVOLT V, CARACTERÍSTICAS ADICIONAIS:ENTRADAS HDMI, USB, BLUETOOTH, WIFI, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "601706",
+    "descricao": " TELEVISOR, TAMANHO TELA:32 POL, VOLTAGEM:BIVOLT V, CARACTERÍSTICAS ADICIONAIS:ENTRADAS HDMI, USB, BLUETOOTH, WIFI, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "12609",
+    "codigo": "603485",
+    "descricao": " TELEVISOR, TAMANHO TELA:70 POL, VOLTAGEM:BIVOLT V, COR:PRETA, CARACTERÍSTICAS ADICIONAIS:4K, SMART TV, 3 HDMI, 1 USB, TIPO TELA:LED, ACESSÓRIOS:CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "14139",
+    "codigo": "306163",
+    "descricao": " RÁDIO GRAVADOR AM/FM, MODELO:PORTÁTIL / TAPE DECK / CD PLAYER, VOLTAGEM:110/220 V, POTÊNCIA:150 W, CARACTERÍSTICAS ADICIONAIS:CD-R, CD-RW E MP3"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "14139",
+    "codigo": "430284",
+    "descricao": " RÁDIO GRAVADOR AM/FM, MODELO:PORTÁTIL ESTÉRIO, VOLTAGEM:110/220 V, POTÊNCIA:160 W, CARACTERÍSTICAS ADICIONAIS:ENTRADA USB/SLOT P/ CARTÃO DE MEMÓRIA/CONTRLE REMO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "15303",
+    "codigo": "239368",
+    "descricao": " APARELHO DVD, RESOLUÇÃO:540 LINHAS, TIPO ZOOM:DIGITAL, TIPO SAÍDA:PARA DECODIFICADOR, DE ÁUDIO E VÍDEO, TENSÃO:220 V, FUNÇÕES:MARKER, REPRODUÇÃO DE CD E DVD, CARACTERÍSTICAS ADICIONAIS:COM CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "15303",
+    "codigo": "248236",
+    "descricao": " APARELHO DVD, RESOLUÇÃO:720 LINHAS, TIPO ZOOM:DIGITAL, TIPO SAÍDA:PARA DECODIFICADOR, DE ÁUDIO E VÍDEO, TENSÃO:220 V, FUNÇÕES:MARKER, REPRODUÇÃO DE CD, DVD E VCD, CARACTERÍSTICAS ADICIONAIS:COM CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "15303",
+    "codigo": "251586",
+    "descricao": " APARELHO DVD, RESOLUÇÃO:720 LINHAS, TIPO ZOOM:DIGITAL, TIPO SAÍDA:PARA DECODIFICADOR, DE ÁUDIO E VÍDEO, TENSÃO:110/220, FUNÇÕES:MARKER, REPRODUÇÃO DE CD, DVD E VCD, CARACTERÍSTICAS ADICIONAIS:COM CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "15303",
+    "codigo": "258672",
+    "descricao": " APARELHO DVD, RESOLUÇÃO:500 LINHAS, TIPO SAÍDA:PARA DECODIFICADOR, DE ÁUDIO E VÍDEO, TENSÃO:110/220 V, FUNÇÕES:REPRODUÇÃO DVD,CD,CVD,CD-R,CD-RW,MP3,PHOTO CD,SVCD, CARACTERÍSTICAS ADICIONAIS:SAÍDAS ÁUDIO E VÍDEO,VÍDEO COMPONENTE E S-VÍDEO,, DIMENSÕES:430X50X240 MM, PESO:2,24 KG, COR:PRATA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "15303",
+    "codigo": "300299",
+    "descricao": " APARELHO DVD, TIPO SAÍDA:VÍDEO COMPONENTE, ÁUDIO DIGITAL ÓPTICO COAXIAL E A, TENSÃO:110 A 240 V, FUNÇÕES:PLAYER, DVD, VÍDEO CD, CD-R, CD-RW, DVD-R, DVD-RW,, CARACTERÍSTICAS ADICIONAIS:ZOOM VARIÁVEL, MANUAL PORTUGUÊS, ESPANHOL E INGLÊS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "15303",
+    "codigo": "311021",
+    "descricao": " APARELHO DVD, TIPO ZOOM:DIGITAL, TIPO SAÍDA:PARA DECODIFICADOR, DE ÁUDIO E VÍDEO, TENSÃO:110/220 V, FUNÇÕES:LEITURA DVD, DVD + RW/+R, DVD-RW/RCD, MP3 E JPG"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "15303",
+    "codigo": "311218",
+    "descricao": " APARELHO DVD, TIPO ZOOM:DIGITAL, TIPO SAÍDA:PARA DECODIFICADOR, DE ÁUDIO E VÍDEO, TENSÃO:110/220 V, FUNÇÕES:LEITURA DVD, DVD + RW/+R, DVD-RW/RCD, MP3 E JPG, CARACTERÍSTICAS ADICIONAIS:CONTROLE REMOTO, OPÇÕES LEGENDAS, PORTÁTIL, COM -, COR:PRETA"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "15303",
+    "codigo": "320688",
+    "descricao": " APARELHO DVD, TENSÃO:110/220 V, FUNÇÕES:PROGRESSIVE SCAN, REPRODUÇÃO DE CDA, CDR, CDRW E, CARACTERÍSTICAS ADICIONAIS:PLAYER SLIM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "15303",
+    "codigo": "360561",
+    "descricao": " APARELHO DVD, RESOLUÇÃO:525 LINHAS, TIPO ZOOM:DIGITAL, TIPO SAÍDA:VÍDEO COMPONENTE, ÁUDIO DIGITAL E COAXIAL, TENSÃO:110/220 V, FUNÇÕES:REPRODUÇÃO DVD,DVD-R/RW,DVD+R/RW,VCD,S-VCD,CD-MP3, CARACTERÍSTICAS ADICIONAIS:COM CONTROLE REMOTO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "15303",
+    "codigo": "375124",
+    "descricao": " APARELHO DVD, RESOLUÇÃO:1080 LINHAS, TIPO ZOOM:DIGITAL, TIPO SAÍDA:VÍDEO COMPONENTE, VÍDEO COMPOSTO (CV COAXIAL), TENSÃO:110/220 V, FUNÇÕES:REPRODUÇÃO DVD/CD/CD-R/CD-RW/DIVX/MP3/PHOTO, CARACTERÍSTICAS ADICIONAIS:CONTROLE REMOTO, MANUAL EM PORTUGUÊS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "15653",
+    "codigo": "244678",
+    "descricao": " ROTEADOR RÁDIO, OPERAÇÃO:NA BANDA DE 2,4 GHZ, VELOCIDADE:2 MBPS, PADRÃO:IEEE-802.11B, APLICAÇÃO:ENLACE DE MICROONDAS ENTRE DUAS REDES LOCAIS, CARACTERÍSTICAS ADICIONAIS:EM CONFORMIDADE COM NORMAS DA ANATEL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "15653",
+    "codigo": "289656",
+    "descricao": " ROTEADOR RÁDIO, OPERAÇÃO:NA BANDA DE 2,4 GHZ, VELOCIDADE:2 MBPS, PADRÃO:IEEE-802.11\"G\", APLICAÇÃO:ENLACE DE MICROONDAS ENTRE DUAS REDES LOCAIS, CARACTERÍSTICAS ADICIONAIS:EM CONFORMIDADE COM NORMAS DA ANATEL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "15653",
+    "codigo": "338008",
+    "descricao": " ROTEADOR RÁDIO, OPERAÇÃO:NA BANDA DE 2,4 GHZ, VELOCIDADE:ATÉ 108 MBPS, PADRÃO:IEE802.11B E IEE802.11G, APLICAÇÃO:INTERLIGAÇÃO DE REDES, CARACTERÍSTICAS ADICIONAIS:2 PORTAS USB, 4 PORTAS ETHERNET 10/100 BASE TX"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "15653",
+    "codigo": "357888",
+    "descricao": " ROTEADOR RÁDIO, OPERAÇÃO:NA BANDA DE 2,4 GHZ, VELOCIDADE:ATÉ 108 MBPS, PADRÃO:IEE802.11B E IEE802.11G, APLICAÇÃO:INTERLIGAÇÃO DE REDES, CARACTERÍSTICAS ADICIONAIS:FUNÇÕES: ACESSO POINT, ROUTER, CLIENTE E BRIDGE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "15653",
+    "codigo": "479269",
+    "descricao": " ROTEADOR RÁDIO, OPERAÇÃO:NA BANDA DE 5,8 GHZ, VELOCIDADE:ATÉ 108 MBPS, PADRÃO:IEE802.11B E IEE802.11G, APLICAÇÃO:INTERLIGAÇÃO DE REDES, CARACTERÍSTICAS ADICIONAIS:FUNÇÕES: ACESSO POINT, ROUTER, CLIENTE E BRIDGE"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "16191",
+    "codigo": "256425",
+    "descricao": " HOME THEATER, SISTEMA:STEREO, MULTIMIDIA:DVD/CD, VOLTAGEM:110/220 V, CAIXAS DE SOM:5, POTÊNCIA CAIXA SOM:350W P.M.P.O"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "16191",
+    "codigo": "274473",
+    "descricao": " HOME THEATER, SISTEMA:STEREO, MULTIMIDIA:DVD/CD, VOLTAGEM:110/220 V, CAIXAS DE SOM:7, POTÊNCIA CAIXA SOM:3600W P.M.P.O."
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "16191",
+    "codigo": "319270",
+    "descricao": " HOME THEATER, SISTEMA:STEREO, MULTIMIDIA:DVD/CD/CD-R/CD-RW/MP3/CD-MPEG, VOLTAGEM:110/220 V, CAIXAS DE SOM:5, POTÊNCIA CAIXA SOM:90W RMS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "16191",
+    "codigo": "365734",
+    "descricao": " HOME THEATER, SISTEMA:STEREO, MULTIMIDIA:DVD/DVD+RW/DEV-RW (VR)/CR/CD-RW E JPEG, VOLTAGEM:110/220 V, CAIXAS DE SOM:6 UN, CARACTERíSTICAS ADICIONAIS:COM RADIO AM/FM, CONTROLE REMOTO, COMPATIBILIDADE:PROGRESSIVE SCAN, SISTEMA NTSC/PAL-M"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "16191",
+    "codigo": "453648",
+    "descricao": " HOME THEATER, SISTEMA:BLU-RAY, MULTIMIDIA:BD (ROM / R / RE), DVD (NTSC / PAL / -R / -RW /+R/, VOLTAGEM:110/220 V, CAIXAS DE SOM:6 UN, CARACTERíSTICAS ADICIONAIS:ANTENA FM, CONTROLE REMOTO, CABO HDMI, POTÊNCIA CAIXA SOM:500 W, COMPATIBILIDADE:CONEXÃO HDMI, CONEXÃO USB, WIRELESS, SURROUND DOL-"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "16248",
+    "codigo": "252618",
+    "descricao": " CABO APARELHO ELETRÔNICO, MATERIAL:COBRE ELETROLÍTICO ESTANHADO, TIPO:SEMIFLEXÍVEL, TIPO BLINDAGEM:DUPLA, TIPO ESTRUTURA:COAXIAL, COMPRIMENTO:15 M, DIÂMETRO INTERNO:5,30 MM, DIÂMETRO EXTERNO:6,0 MM, SEÇÃO CONDUTOR:0,31 MM, RESISTÊNCIA ÔHMICA:75 OHM, CARACTERÍSTICAS ADICIONAIS:COM CONECTORES DE PORCELANA INJETADA NAS ESTREMIDA, TIPO ISOLAMENTO CONDUTOR:EMBORRACHAMENTO ANTIESTÁTICO, APLICAÇÃO:CONEXÃO DE EQUIPAMENTOS ELETRÔNICOS DE VÍDEO E ÁUD"
+  },
+  {
+    "grupo": "77",
+    "classe": "7730",
+    "padrao": "17561",
+    "codigo": "263623",
+    "descricao": " APARELHO VÍDEOCASSETE E DVD, NOME:APARELHO VÍDEOCASSETE E DVD"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "6266",
+    "codigo": "228076",
+    "descricao": " DISCO LASER CDR, TIPO:GRAVÁVEL, CAPACIDADE:740 MB, TIPO EMBALAGEM:CAPA DE PLÁSTICO DURO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "6266",
+    "codigo": "229804",
+    "descricao": " DISCO LASER CDR, TIPO:GRAVÁVEL, CAPACIDADE:700 MB, TIPO EMBALAGEM:CAPA DE PLÁSTICO DURO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "6266",
+    "codigo": "236890",
+    "descricao": " DISCO LASER CDR, TIPO:GRAVÁVEL, CAPACIDADE:650 MB, TIPO EMBALAGEM:CAPA DE PLÁSTICO DURO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "6266",
+    "codigo": "237078",
+    "descricao": " DISCO LASER CDR, TIPO:GRAVÁVEL, CAPACIDADE:700 MB, TIPO EMBALAGEM:CAPA DE PLÁSTICO DURO, CARACTERÍSTICAS ADICIONAIS:GRAV. 24X OU SUPERIOR/MÍDIA PRATA OU SUP./80 MIN."
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "6266",
+    "codigo": "255570",
+    "descricao": " DISCO LASER CDR, TIPO:GRAVÁVEL, CAPACIDADE:700 MB, TIPO EMBALAGEM:CAPA DE PLÁSTICO DURO, CARACTERÍSTICAS ADICIONAIS:DIGITAL ÁUDIO, DURAÇÃO:80 MIN, APLICAÇÃO:GRAVAÇÃO DE ÁUDIO DIGITAL"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "6266",
+    "codigo": "260390",
+    "descricao": " DISCO LASER CDR, TIPO:GRAVÁVEL, CAPACIDADE:700 MB, TIPO EMBALAGEM:CAPA EM ACRÍLICO, CARACTERÍSTICAS ADICIONAIS:VIRGEM, DURAÇÃO:80 MIN"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "6266",
+    "codigo": "266367",
+    "descricao": " DISCO LASER CDR, TIPO:GRAVÁVEL, CAPACIDADE:700 MB, DURAÇÃO:80 MIN"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "6266",
+    "codigo": "289027",
+    "descricao": " DISCO LASER CDR, TIPO:GRAVÁVEL, CAPACIDADE:720 MB, DURAÇÃO:80 MIN, APLICAÇÃO:ARMAZENAMENTO DADOS"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "6266",
+    "codigo": "290386",
+    "descricao": " DISCO LASER CDR, TIPO:GRAVÁVEL, CAPACIDADE:800 MB, TIPO EMBALAGEM:CAPA DE PLÁSTICO DURO, DURAÇÃO:80 MIN"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "6266",
+    "codigo": "291404",
+    "descricao": " DISCO LASER CDR, TIPO:GRAVÁVEL, CAPACIDADE:800 MB, TIPO EMBALAGEM:SEM CAPA, DURAÇÃO:80 MIN"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "6266",
+    "codigo": "301353",
+    "descricao": " DISCO LASER CDR, TIPO:GRAVÁVEL, CAPACIDADE:700 MB, CARACTERÍSTICAS ADICIONAIS:VIRGEM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "6266",
+    "codigo": "319858",
+    "descricao": " DISCO LASER CDR, TIPO:GRAVÁVEL, CAPACIDADE:700 MB, TIPO EMBALAGEM:CAPA DE PLÁSTICO DURO, CARACTERÍSTICAS ADICIONAIS:GRAV. 52X OU SUPERIOR/MÍDIA PRATA OU SUP./80 MIN"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "6266",
+    "codigo": "357356",
+    "descricao": " DISCO LASER CDR, TIPO:GRAVÁVEL, CAPACIDADE:700 MB, CARACTERÍSTICAS ADICIONAIS:EMBALAGEM INDIVIDUAL RETANGULAR PLÁSTICO-ACRÍLICO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "6266",
+    "codigo": "378338",
+    "descricao": " DISCO LASER CDR, TIPO:GRAVÁVEL, CAPACIDADE:700 MB, CARACTERÍSTICAS ADICIONAIS:VELOCIDADE GRAVAÇÃO 52X, SEM CAPA, CAPACIDADE E LO, DURAÇÃO:80 MIN"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "6266",
+    "codigo": "410447",
+    "descricao": " DISCO LASER CDR, TIPO:REGRAVÁVEL, CAPACIDADE:700 MB, CARACTERÍSTICAS ADICIONAIS:CDWR, DURAÇÃO:80 MIN"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "7575",
+    "codigo": "248952",
+    "descricao": " FITA VIDEOCASSETE, TIPO:MINI DV, DURAÇÃO:60 MIN"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "7575",
+    "codigo": "252464",
+    "descricao": " FITA VIDEOCASSETE, TIPO SISTEMA:VHS, TIPO:CROMO, DURAÇÃO:120 MIN, APLICAÇÃO:FILMADORA, TAMANHO:8 MM"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "13830",
+    "codigo": "228074",
+    "descricao": " DISCO LASER CDRW, TIPO:REGRAVÁVEL, CAPACIDADE:740 MB, TIPO EMBALAGEM:CAPA DE PLÁSTICO DURO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "13830",
+    "codigo": "228486",
+    "descricao": " DISCO LASER CDRW, TIPO:REGRAVÁVEL, CAPACIDADE:700 MB, TIPO EMBALAGEM:CAPA DE PLÁSTICO DURO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "13830",
+    "codigo": "229803",
+    "descricao": " DISCO LASER CDRW, TIPO:REGRAVÁVEL, CAPACIDADE:650 MB, TIPO EMBALAGEM:CAPA DE PLÁSTICO DURO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "13830",
+    "codigo": "239267",
+    "descricao": " DISCO LASER CDRW, TIPO:REGRAVÁVEL, CAPACIDADE:700 MB, TEMPO GRAVAÇÃO:80 MIN, VELOCIDADE GRAVAÇÃO:4X"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "13830",
+    "codigo": "246348",
+    "descricao": " DISCO LASER CDRW, TIPO:REGRAVÁVEL, CAPACIDADE:740 MB, TEMPO GRAVAÇÃO:80 MIN, VELOCIDADE GRAVAÇÃO:32X"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "13830",
+    "codigo": "264138",
+    "descricao": " DISCO LASER CDRW, CAPACIDADE:700 MB, TIPO EMBALAGEM:PLÁSTICA INDIVIDUAL, TEMPO GRAVAÇÃO:80 MIN, VELOCIDADE GRAVAÇÃO:4X"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "13830",
+    "codigo": "266368",
+    "descricao": " DISCO LASER CDRW, TIPO:REGRAVÁVEL, CAPACIDADE:650 MB, TEMPO GRAVAÇÃO:74 MIN"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "13830",
+    "codigo": "301879",
+    "descricao": " DISCO LASER CDRW, TIPO:REGRAVÁVEL, CAPACIDADE:700 MB, TIPO EMBALAGEM:PLÁSTICA INDIVIDUAL, TEMPO GRAVAÇÃO:80 MIN, VELOCIDADE GRAVAÇÃO:12X"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "13830",
+    "codigo": "324297",
+    "descricao": " DISCO LASER CDRW, TIPO:REGRAVÁVEL, CAPACIDADE:700 MB, TEMPO GRAVAÇÃO:80 MIN"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "13830",
+    "codigo": "328705",
+    "descricao": " DISCO LASER CDRW, TIPO:GRAVÁVEL E REGRAVÁVEL / CDR-W, CAPACIDADE:700 MB, TIPO EMBALAGEM:PLÁSTICA INDIVIDUAL, TEMPO GRAVAÇÃO:80 MIN"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "13830",
+    "codigo": "429221",
+    "descricao": " DISCO LASER CDRW, TIPO:REGRAVÁVEL, CAPACIDADE:700 MB, TEMPO GRAVAÇÃO:80 MIN, CARACTERÍSTICAS ADICIONAIS:CAPA DE ACRÍLICO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "17242",
+    "codigo": "286614",
+    "descricao": " DISCO LASER, TIPO:DVD-R, CAPACIDADE:4,7 GB, DURAÇÃO:120 MIN, APLICAÇÃO:GRAVAÇÃO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "17242",
+    "codigo": "294777",
+    "descricao": " DISCO LASER, TIPO:DVD-R, CAPACIDADE:4,7 GB, DURAÇÃO:120 MIN, APLICAÇÃO:GRAVAÇÃO, CARACTERÍSTICA ADICIONAIS:C/ ESTOJO PLÁSTICO INDIVIDUAL, VEL. GRAVAÇÃO 8X"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "17242",
+    "codigo": "295398",
+    "descricao": " DISCO LASER, TIPO:DVD-R, CAPACIDADE:4,7 GB, DURAÇÃO:120 MIN, APLICAÇÃO:GRAVAÇÃO, CARACTERÍSTICA ADICIONAIS:VELOCIDADE GRAVAÇÃO 8X"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "17242",
+    "codigo": "295428",
+    "descricao": " DISCO LASER, TIPO:DVD +R, CAPACIDADE:4,7 GB, DURAÇÃO:120 MIN, APLICAÇÃO:GRAVAÇÃO, CARACTERÍSTICA ADICIONAIS:C/ ESTOJO PLÁSTICO INDIVIDUAL, VEL. GRAVAÇÃO 8X"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "17242",
+    "codigo": "295429",
+    "descricao": " DISCO LASER, TIPO:DVD +R, CAPACIDADE:4,7 GB, DURAÇÃO:120 MIN, APLICAÇÃO:GRAVAÇÃO, CARACTERÍSTICA ADICIONAIS:VELOCIDADE GRAVAÇÃO 8X"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "17242",
+    "codigo": "301880",
+    "descricao": " DISCO LASER, TIPO:DVD-RW, CAPACIDADE:4,7 GB, DURAÇÃO:120 MIN, APLICAÇÃO:GRAVAÇÃO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "17242",
+    "codigo": "322418",
+    "descricao": " DISCO LASER, TIPO:DVD-RW, CAPACIDADE:4,7 GB, DURAÇÃO:120 MIN, APLICAÇÃO:GRAVAÇÃO, CARACTERÍSTICA ADICIONAIS:VELOCIDADE GRAVAÇÃO 4X"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "17242",
+    "codigo": "352386",
+    "descricao": " DISCO LASER, TIPO:DVD+R PRINTABLE, CAPACIDADE:4,7 GB, DURAÇÃO:120 MIN, APLICAÇÃO:GRAVAÇÃO, CARACTERÍSTICA ADICIONAIS:VELOCIDADE GRAVAÇÃO 8X"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "17242",
+    "codigo": "352387",
+    "descricao": " DISCO LASER, TIPO:DVD-RW PRINTABLE, CAPACIDADE:4,7 GB, DURAÇÃO:120 MIN, APLICAÇÃO:GRAVAÇÃO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "17242",
+    "codigo": "352388",
+    "descricao": " DISCO LASER, TIPO:CDR PRINTABLE, CAPACIDADE:800 MB, DURAÇÃO:80 MIN, CARACTERÍSTICA ADICIONAIS:GRAVÁVEL, CAPA DE PLÁSTICO DURO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "17242",
+    "codigo": "377947",
+    "descricao": " DISCO LASER, TIPO:DVD-R PRINTABLE, CAPACIDADE:4,7 GB, DURAÇÃO:120 MIN, APLICAÇÃO:GRAVAÇÃO, CARACTERÍSTICA ADICIONAIS:VELOCIDADE GRAVAÇÃO 8X"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "17242",
+    "codigo": "382331",
+    "descricao": " DISCO LASER, TIPO:DVD-R PRINTABLE, CAPACIDADE:4,7 GB, DURAÇÃO:120 MIN, APLICAÇÃO:GRAVAÇÃO, CARACTERÍSTICA ADICIONAIS:VELOCIDADE GRAVAÇÃO 16X"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "17242",
+    "codigo": "390338",
+    "descricao": " DISCO LASER, TIPO:BD-R, CAPACIDADE:25 GB"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "17242",
+    "codigo": "390339",
+    "descricao": " DISCO LASER, TIPO:BD-R, CAPACIDADE:50 GB"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "17242",
+    "codigo": "403847",
+    "descricao": " DISCO LASER, TIPO:DVD+R PRINTABLE, CAPACIDADE:8,5 GB, DURAÇÃO:240 MIN, APLICAÇÃO:GRAVAÇÃO, CARACTERÍSTICA ADICIONAIS:VELOCIDADE GRAVAÇÃO 8X"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "17242",
+    "codigo": "405859",
+    "descricao": " DISCO LASER, TIPO:DVD-RW, CAPACIDADE:4,7 GB, CARACTERÍSTICA ADICIONAIS:CAPA PLÁSTICO ACRÍLICO DURO"
+  },
+  {
+    "grupo": "77",
+    "classe": "7740",
+    "padrao": "17242",
+    "codigo": "412019",
+    "descricao": " DISCO LASER, TIPO:DVD-R, CAPACIDADE:4,7 GB, DURAÇÃO:120 MIN, APLICAÇÃO:GRAVAÇÃO, CARACTERÍSTICA ADICIONAIS:VELOCIDADE GRAVAÇÃO 16X"
+  }
+]

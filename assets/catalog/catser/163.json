@@ -1,0 +1,38 @@
+[
+  {
+    "grupo": "163",
+    "classe": "1631",
+    "codigo": "27030",
+    "descricao": "SERVICOS HOSPEDAGEM DE SITIOS NA REDE MUNDIAL COMPUTADORES"
+  },
+  {
+    "grupo": "163",
+    "classe": "1631",
+    "codigo": "27049",
+    "descricao": "SERVICOS DE HOSPEDAGEM DE APLICATIVOS E PROGRAMAS"
+  },
+  {
+    "grupo": "163",
+    "classe": "1631",
+    "codigo": "27057",
+    "descricao": "SERVICOS DE HOSPEDAGEM DE DADOS"
+  },
+  {
+    "grupo": "163",
+    "classe": "1631",
+    "codigo": "27065",
+    "descricao": "SERVICOS DE HOSPEDAGEM DE SISTEMAS"
+  },
+  {
+    "grupo": "163",
+    "classe": "1631",
+    "codigo": "27073",
+    "descricao": "OUTROS SERVICOS DE HOSPEDAGEM EM  TECNOLOGIA DA INFORMACAO ECOMUNICACAO (TIC)"
+  },
+  {
+    "grupo": "163",
+    "classe": "1631",
+    "codigo": "27588",
+    "descricao": "SERVICO DE HOSPEDAGEM DE SISTEMA DE CORREIO ELETRONICO"
+  }
+]

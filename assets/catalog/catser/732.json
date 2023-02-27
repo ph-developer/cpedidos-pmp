@@ -1,0 +1,278 @@
+[
+  {
+    "grupo": "732",
+    "classe": "'-7",
+    "codigo": "4014",
+    "descricao": "LOCACAO DE VEICULOS - LEVES / PESADOS"
+  },
+  {
+    "grupo": "732",
+    "classe": "'-7",
+    "codigo": "4030",
+    "descricao": "LOCACAO DE MAQUINAS DE ESCAVACAO / TERRAPLENAGEM / AGRICOLA"
+  },
+  {
+    "grupo": "732",
+    "classe": "'-7",
+    "codigo": "4049",
+    "descricao": "LOCACAO EQUIPAMENTO ELEVACAO / MOVIMENTACAO DE CARGA"
+  },
+  {
+    "grupo": "732",
+    "classe": "'-7",
+    "codigo": "4057",
+    "descricao": "LOCACAO DE ANDAIMES"
+  },
+  {
+    "grupo": "732",
+    "classe": "'-7",
+    "codigo": "4065",
+    "descricao": "LOCACAO DE EQUIPAMENTOS DE TELECOMUNICACOES"
+  },
+  {
+    "grupo": "732",
+    "classe": "'-7",
+    "codigo": "4189",
+    "descricao": "FRETAMENTO"
+  },
+  {
+    "grupo": "732",
+    "classe": "'-7",
+    "codigo": "14206",
+    "descricao": "LOCACAO DE EQUIPAMENTO DE LABORATORIO"
+  },
+  {
+    "grupo": "732",
+    "classe": "'-7",
+    "codigo": "19720",
+    "descricao": "ARRENDAMENTO"
+  },
+  {
+    "grupo": "732",
+    "classe": "'-7",
+    "codigo": "22110",
+    "descricao": "LOCACAO EQUIPAMENTO / PRODUCAO GRAVACAO - ESPERA TELEFONICA"
+  },
+  {
+    "grupo": "732",
+    "classe": "'-7",
+    "codigo": "24414",
+    "descricao": "SERVICO DE LOCACAO DE MATERIAIS BLINDADOS EM GERAL"
+  },
+  {
+    "grupo": "732",
+    "classe": "7321",
+    "codigo": "21750",
+    "descricao": "LOCACAO EQUIPAMENTO RADIOCOMUNICACAO"
+  },
+  {
+    "grupo": "732",
+    "classe": "7323",
+    "codigo": "17051",
+    "descricao": "LOCACAO DE LOUCAS / TALHERES / CRISTAIS"
+  },
+  {
+    "grupo": "732",
+    "classe": "7323",
+    "codigo": "20877",
+    "descricao": "LOCACAO DE MOBILIARIO HOSPITALAR"
+  },
+  {
+    "grupo": "732",
+    "classe": "7327",
+    "codigo": "4006",
+    "descricao": "LOCACAO DE COMPUTADORES / PERIFERICOS"
+  },
+  {
+    "grupo": "732",
+    "classe": "7327",
+    "codigo": "27677",
+    "descricao": "LOCACAO DE EQUIPAMENTO GRAFICO"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "5401",
+    "descricao": "LOCACAO DE EQUIPAMENTO PARA TRATAMENTO DE OLEO ISOLANTE"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "13099",
+    "descricao": "LOCACAO / MONTAGEM / DESMONTAGEM DE STANDS E PROJETOS EM FEIRAS E EXPOSICOES"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "13765",
+    "descricao": "LOCACAO DE EQUIPAMENTO DE TOPOGRAFIA"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "14303",
+    "descricao": "LOCACAO DE EQUIPAMENTO DE MICROFILMAGEM"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "14680",
+    "descricao": "LOCACAO DE AERONAVE"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "14699",
+    "descricao": "LOCACAO DE EMBARCACAO MARITIMA / FLUVIAL"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "14788",
+    "descricao": "LOCACAO DE EQUIPAMENTOS PARA CONSUMO DE GASES"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "14818",
+    "descricao": "LOCACAO DE EQUIPAMENTO - ALARME"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "15350",
+    "descricao": "LOCACAO VHS / CD / DVD / LIVROS"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "16110",
+    "descricao": "LOCACAO DE TANQUE CRIOGENICO"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "16128",
+    "descricao": "LOCACAO DE CILINDRO"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "17612",
+    "descricao": "LOCACAO GUARITA / CABINE SANITARIA"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "17876",
+    "descricao": "LOCACAO DE ROUPA / UNIFORME"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "18236",
+    "descricao": "LOCACAO DE EQUIPAMENTO - ESPORTE / LAZER"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "18554",
+    "descricao": "LOCACAO EQUIPAMENTO / COMPONENTE - ENDOSCOPIA INDUSTRIAL"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "19151",
+    "descricao": "LOCACAO DE EQUIPAMENTO - CIRCUITO INTERNO / FECHADO TV"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "19828",
+    "descricao": "LOCACAO / MANUTENCAO - FERRAMENTA ELETRICA"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "19836",
+    "descricao": "LOCACAO / MANUTENCAO - FERRAMENTA PNEUMATICA"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "20460",
+    "descricao": "LOCACAO DE MESA / CADEIRA /MOBILIARIO DECORACAO INTERIOR"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "20648",
+    "descricao": "INSTALACAO / MANUTENCAO / LOCACAO MÁQUINAS AUTOMÁTICAS E SEMI-AUTOMÁTICAS (CAFÉ, CHÁ, ALGODÃO-DOCE E OUTRAS)"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "21164",
+    "descricao": "LOCACAO COBERTURA DESMONTAVEL"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "21520",
+    "descricao": "LOCACAO LABORATORIO INFORMATICA"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "22047",
+    "descricao": "LOCACAO PLANTA ORNAMENTAL"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "22721",
+    "descricao": "LOCACAO SALA / AUDITORIO"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "22888",
+    "descricao": "LOCACAO BENS MOVEIS"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "23116",
+    "descricao": "LOCACAO PRE-MOLDADOS DE CONCRETO"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "25089",
+    "descricao": "LOCACAO DE VEICULOS - LEVES / PESADOS / COM MOTORISTA"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "25461",
+    "descricao": "LOCACAO DE COMPRESSOR DE AR"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "25488",
+    "descricao": "ALUGUEL DE EQUIPAMENTOS OPTICOS"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "25640",
+    "descricao": "LOCACAO CONTEINER (CONTAINER)"
+  },
+  {
+    "grupo": "732",
+    "classe": "7329",
+    "codigo": "25658",
+    "descricao": "LOCACAO DE ANIMAIS"
+  }
+]

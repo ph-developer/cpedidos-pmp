@@ -1,0 +1,26 @@
+[
+  {
+    "grupo": "642",
+    "classe": "'-7",
+    "codigo": "24953",
+    "descricao": "FORNECIMENTO PASSAGEM FERROVIARIA"
+  },
+  {
+    "grupo": "642",
+    "classe": "6421",
+    "codigo": "3344",
+    "descricao": "TRANSPORTE FERROVIARIO DE PESSOAL"
+  },
+  {
+    "grupo": "642",
+    "classe": "6422",
+    "codigo": "3352",
+    "descricao": "TRANSPORTE FERROVIARIO DE CARGA"
+  },
+  {
+    "grupo": "642",
+    "classe": "6422",
+    "codigo": "24856",
+    "descricao": "TRANSPORTE FERROVIARIO DE CARGA POR VAGAO TANQUE"
+  }
+]

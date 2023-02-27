@@ -1,0 +1,1920 @@
+[
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "412801",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:COMANDO COM DISPLAY, REFERÊNCIA:893118, APLICAÇÃO:APARELHO OSMOSE REVERSA BAUMER H-20-SW/H-60-SW"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "414876",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:ESTERILIZADOR DE AR BIDIRECIONAL, REFERÊNCIA:MTGR05000, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "414885",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:KIT MILL-Q PLUS, REFERÊNCIA:CPMQK05R1, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "414886",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:UNIDADE FILTRANTE, REFERÊNCIA:MXGSWG124, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "414888",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CARTUCHO QUANTUN-EX COM FILTRO FINAL, REFERÊNCIA:QTUMMPKEX, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "414890",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:DISPOSITIVO STERIDOLUTEST, REFERÊNCIA:TZHADV210, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "414891",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:DISPOSITIVO STERITEST, REFERÊNCIA:TZHALA210, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "414895",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:UNIDADE FILTRANTE, REFERÊNCIA:JBR610303, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "414991",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:SUBCONJUNTO BOMBA, REFERÊNCIA:PN ZF3000001, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "414993",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:MOTOR BOMBA (INTERNA), REFERÊNCIA:PN ZF3000052, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "414995",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:MANIFOLD COM INSERTOS, REFERÊNCIA:PN FTPF05058, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "414996",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:SESOR PRESSÃO, REFERÊNCIA:PN ZF3000015, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "415001",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:PISTOLA PONTO DE USO COMPLETA, REFERÊNCIA:PN ZF3000005, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "415002",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:SUBCONJUNTO PAINEL DE CONTROLE  FRONTAL, REFERÊNCIA:PN ZF3000110, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "415003",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CONJUNTO MANUTENÇÃO, REFERÊNCIA:PN ZF3000041, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "415028",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:BOMBA DIAFRAGMA, REFERÊNCIA:PN ZF3000300, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "415029",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:BOMBA DISTRIBUIÇÃO, REFERÊNCIA:PNZF3000302, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "415030",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:BOMBA PRESSURIZAÇÃO, REFERÊNCIA:PN ZF3000000, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "415031",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:COBERTURA PRINCIPAL, REFERÊNCIA:PN FTPF05020, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "415032",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CONJUNTO SENSOR, REFERÊNCIA:PN ZF3000017, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "415033",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:SENSOR NÍVEL, REFERÊNCIA:PN FTPF06777, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "415041",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:VÁLVULA ESFERA FRONTAL, REFERÊNCIA:PN FTPF05393, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "415044",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:TANQUE RESERVATÓRIO, REFERÊNCIA:PN TANKPE010, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "415046",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:TANQUE, REFERÊNCIA:PN FTPF05021, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "415084",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO CARTUCHO, REFERÊNCIA:MCSL40S01, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "415085",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO DESCARTÁVEL, REFERÊNCIA:SCGPU01RE, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "415087",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CARTUCHO QUANTUN-EX COM FILTRO FINAL, REFERÊNCIA:QTUM000EX, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "415088",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO DISPOSITIVO DE FILTRAÇÃO E ARMAZENAGEM, REFERÊNCIA:SCGVU11RE, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "415094",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO 0,22 NICRÔMETROS, REFERÊNCIA:SLGS025NB, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "415099",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO DESCARTÁVEL, REFERÊNCIA:GSWP04700, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "415317",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:MÓDULO PROGARD, REFERÊNCIA:PROG0T0S2, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "415323",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CÁPSULA FILTRANTE, REFERÊNCIA:MPGL02GH2, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "415349",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:MÓDULO PROGARD2, REFERÊNCIA:PROGOOOO2, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "416024",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO MILLIPARK 40, 022 UM, REFERÊNCIA:MPGL04SK2, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "420710",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:UNIDADE FILTRANTE, REFERÊNCIA:MPGP02001, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "420766",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO CARTUCHO, REFERÊNCIA:CDUFBI001, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "421053",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CARTUCHO QUANTUM TEX COM RESINA IONEX, REFERÊNCIA:QTUMOTEX1, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "421633",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CARTUCHO ULTRAPURIFICAÇÃO, REFERÊNCIA:BIOPAK NMWL 13KDAL, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "425617",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:UNIDADE FILTRANTE, REFERÊNCIA:UFC903024, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "426968",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:BOMBA DE PRESSURIZAÇÃO AUXILIAR (EXTERNA), REFERÊNCIA:JBRPUMP01, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "426969",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:KIT METAL PLATE, REFERÊNCIA:ZF3000146, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "426970",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:PISTOLA PONTO DE USO, REFERÊNCIA:ZF3000005, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "426971",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:PLACA ELETRÔNICA, REFERÊNCIA:ZF3000332, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "432511",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO CARTUCHO, REFERÊNCIA:JBRPPCVF1, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "434249",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:DISPOSITIVO STERITEST EZ, REFERÊNCIA:TZHVAB210, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "436273",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO MILLIPARK 40, 022 UM, REFERÊNCIA:MGPP04001, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "438088",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CONJUNTO MANUTENÇÃO, REFERÊNCIA:PN ZF3000320, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "441176",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CARTUCHO QUANTUN-EX COM FILTRO FINAL, REFERÊNCIA:QTUM00ICP, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "441185",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO FINAL OPTIMIZER, REFERÊNCIA:MPPVICPK1, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "441186",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO FINAL LC-PAK, REFERÊNCIA:LCPAK0001, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "441187",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO PARA RESPIRO DE TANQUES DE ÁGUA, REFERÊNCIA:TANKMPK01, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "441189",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:LAMPADA UV, REFERÊNCIA:ZLXUVLPL1, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "441190",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:LAMPADA ULTRAVIOLETA, REFERÊNCIA:ZMQUVLP01, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "441303",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:LAMPADA UV, REFERÊNCIA:ZFA10UVM1, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "442198",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO MILLIPARK 40, 022 UM, REFERÊNCIA:MPGP04001, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "442199",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CONJUNTO MANUTENÇÃO, REFERÊNCIA:ZF3000423, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "442200",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:TABLETE PARA SIGNIFICAÇÃO, REFERÊNCIA:ZF3000423, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "442715",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:LAMPADA UV, REFERÊNCIA:QUVLQSL01, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "442946",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:MÓDULO PROGARD2, REFERÊNCIA:PR0G000S2, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "445380",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:SENSOR DE RESISTIVIDADE, REFERÊNCIA:ZF3000306, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "445392",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:SUPORTE PARA BOMBA DE FLUXO DE ÁGUA, REFERÊNCIA:ZF3000146, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "445877",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:COLUNA, REFERÊNCIA:Q380C-3, APLICAÇÃO:DEIONIZADOR"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "446529",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:MÓDULO EDI, REFERÊNCIA:ZLX0EDI10, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "446530",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:ESTOJO PARA MEMBRANA, REFERÊNCIA:ZF3000003, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "446531",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CÁPSULA FILTRANTE, REFERÊNCIA:CDRC60202, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "446849",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CARTUCHO ULTRAPURIFICAÇÃO, REFERÊNCIA:CFYTYT3210, APLICAÇÃO:ULTRAPURIFICADOR DE ÁGUA PURELAB-OPTION Q"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "446850",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO 5 MIC 10''SPUN, REFERÊNCIA:CFYOYT200930, APLICAÇÃO:ULTRAPURIFICADOR DE ÁGUA PURELAB-OPTION Q"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "446851",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO 10''CARVÃO, REFERÊNCIA:CFCFYT300470, APLICAÇÃO:ULTRAPURIFICADOR DE ÁGUA PURELAB-OPTION Q"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "446852",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CARTUCHO OPTION, REFERÊNCIA:LC140, APLICAÇÃO:ULTRAPURIFICADOR DE ÁGUA PURELAB-OPTION Q"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "446853",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO DE AR, 0,01UM, REFERÊNCIA:LC136M2, APLICAÇÃO:ULTRAPURIFICADOR DE ÁGUA PURELAB-OPTION Q"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "446854",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO CARTUCHO, REFERÊNCIA:LC163, APLICAÇÃO:ULTRAPURIFICADOR DE ÁGUA PURELAB-OPTION Q"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "446855",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CARTUCHO OPTION, REFERÊNCIA:LC145, APLICAÇÃO:ULTRAPURIFICADOR DE ÁGUA PURELAB-OPTION Q"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "446883",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:VÁLVULA FRONTAL, REFERÊNCIA:FTPF17968, APLICAÇÃO:PURIFICADOR DE ÁGUA ELIX-10"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "446884",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:TORNEIRA, REFERÊNCIA:ZF3000091, APLICAÇÃO:PURIFICADOR DE ÁGUA ELIX-10"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "449088",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO REFIL, REFERÊNCIA:55116, APLICAÇÃO:PURIFICADOR DE ÀGUA MASTERFRIO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "449327",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO PARA RESPIRO DE TANQUES DE ÁGUA, REFERÊNCIA:TANKMPK03, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "450769",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO REFIL, REFERÊNCIA:NOBLESSE PLUS / DA VINCI, APLICAÇÃO:PURIFICADOR DE ÁGUA EUROPA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "452154",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:LAMPADA UV, REFERÊNCIA:LC105, APLICAÇÃO:PURIFICADOR DE ÁGUA ELGA PURELAB OPTION R15"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "452161",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:LAMPADA UV, REFERÊNCIA:LC118, APLICAÇÃO:PURIFICADOR DE ÁGUA ELGA PURELAB ULTRA GENETIC"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "452163",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CARTUCHO DE ULTRAFILTRAÇÃO, REFERÊNCIA:LC151, APLICAÇÃO:PURIFICADOR DE ÁGUA ELGA PURELAB ULTRA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "452689",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CARTUCHO RESINA MISTA DE CATIÔNICA/ANIÔNICA FORTE, REFERÊNCIA:DEION RM1, APLICAÇÃO:DEIONIZADOR"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "452691",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CARTUCHO RESINA CATIÔNICA FORTEMENTE ÁCIDA, REFERÊNCIA:AMBERLITE IR120, APLICAÇÃO:DEIONIZADOR"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "452692",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CARTUCHO RESINA ANIÔNICA FORTEMENTE BÁSICA, REFERÊNCIA:AMBERLITE IRA402, APLICAÇÃO:DEIONIZADOR"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "452804",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO CARTUCHO, REFERÊNCIA:SYPKOSIX2, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "453446",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CARTUCHO QUANTUM IX, REFERÊNCIA:QTUM0TIX1, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "453451",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:MÓDULO Q-GARD T1, REFERÊNCIA:QGARDT1X1, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "454458",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO CARTUCHO, REFERÊNCIA:D50280, APLICAÇÃO:PURIFICADOR NANOPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "455087",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CÁPSULA FILTRANTE, REFERÊNCIA:KVGLA3TTT1, APLICAÇÃO:PURIFICADOR MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "458284",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO CARTUCHO, REFERÊNCIA:24010005, APLICAÇÃO:PURIFICADOR DE ÁGUA IBBL"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "460808",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:MÓDULO PROGARD T3, REFERÊNCIA:PR0G000T3, APLICAÇÃO:PURIFICADOR DE ÁGUA MILLI-Q DIRECT 8"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "460810",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CARTUCHO, REFERÊNCIA:QPAK00TEX, APLICAÇÃO:PURIFICADOR DE ÁGUA MILLI-Q DIRECT 8"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "462001",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:COBERTURA/BASE, REFERÊNCIA:XX1514702, APLICAÇÃO:SISTEMA DE FILTRAÇÃO A VACUO MILLIPORE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "463948",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:SENSOR DE RESISTIVIDADE, REFERÊNCIA:SP714 LINE CELL, APLICAÇÃO:ULTRAPURIFICADOR PURELAB-VEOLIA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "469586",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO, APLICAÇÃO:PURIFICADOR DE ÁGUA ELGA LC136, REFERÊNCIA 1:B004QGYVYK"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "471009",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO PARA RESPIRO DE TANQUES DE ÁGUA, APLICAÇÃO:PURIFICADOR MILLIPORE, REFERÊNCIA 1:TANKMPK02"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "471980",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:TABLETE HIPOCLORITO DE SÓDIO PARA SAPONIFICACÃO, APLICAÇÃO:PURIFICADOR MILLIPORE, REFERÊNCIA 1:5874316024"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "471981",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:TANQUE RESERVATÓRIO, APLICAÇÃO:PURIFICADOR MILLIPORE, REFERÊNCIA 1:TANKPE030"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "473219",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:SUPORTE PARA FIXAÇÃO EM PAREDE, APLICAÇÃO:PURIFICADOR DE ÁGUA, MARCA LATINA PA355"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "473686",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:SUPORTE PARA FIXAÇÃO EM PAREDE, APLICAÇÃO:PURIFICADOR DE ÁGUA, MARCA LATINA PA35"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "474760",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CARTUCHO QUANTUM-EX COM FILTRO FINAL MILLIPAK 40, REFERÊNCIA:QTUMMPKEX, APLICAÇÃO:PURIFICADOR MILLI-Q"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "474902",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:SUPORTE PARA FIXAÇÃO EM PAREDE, APLICAÇÃO:SISTEMA MILLIQ, MERCK, REFERÊNCIA 1:SYSTFIXA1,MERCK"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "474903",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:KIT MANUTENCAO,MILLI-Q IQ 7000, APLICAÇÃO:SISTEMA MILLIQ, MERCK, REFERÊNCIA 1:ZFMKIQ7000,MERCK"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "475962",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:KIT DE ELEMENTOS FILTRANTES, APLICAÇÃO:PROCESSADOR DE áGUA EUROPA FE 3000"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "475964",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:KIT DE ELEMENTOS FILTRANTES, APLICAÇÃO:PROCESSADOR DE áGUA EUROPA FE 1000"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "475966",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:KIT DE ELEMENTOS FILTRANTES, APLICAÇÃO:PROCESSADOR DE áGUA EUROPA FE 600"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "476646",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CASSETE PELLICON 2 MAXI, APLICAÇÃO:SISTEMA DE FILTRAÇÃO ULTRA TANGENCIAL PALL, REFERÊNCIA 1:P2B300C25 MERCK"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "478335",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:MODULO DE POTÊNCIA, APLICAÇÃO:GERADOR DE ÁGUA PURIFICADA (GAP001 E GAP002), REFERÊNCIA 1:DC21-60F0-0000"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "478543",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FONTE PARA MÓDULO EDI, APLICAÇÃO:PURIFICADOR DE ÁGUA ELIX-10, REFERÊNCIA 1:ZF3000024"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "478823",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:LAMPADA UV, APLICAÇÃO:PURIFICADOR DE ÁGUA ELGA VEOLIA, REFERÊNCIA 1:LC 170"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "478824",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CARTUCHO DEIONIZAÇÃO, APLICAÇÃO:PURIFICADOR DE ÁGUA ELGA VEOLIA, REFERÊNCIA 1:LC 186"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "478825",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:PASTILHA DE SANITIZAÇÃO, APLICAÇÃO:PURIFICADOR DE ÁGUA ELGA VEOLIA, REFERÊNCIA 1:CT1"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "478826",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:BLOCO DE SANITIZAÇÃO, APLICAÇÃO:PURIFICADOR DE ÁGUA ELGA VEOLIA, REFERÊNCIA 1:LA 698"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "478935",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:THERMISTOR ASSEMBLY, APLICAÇÃO:PURIFICADOR DE ÁGUA ELGA VEOLIA, REFERÊNCIA 1:SP 713"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "478936",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:LINE CELL 380MM, APLICAÇÃO:PURIFICADOR DE ÁGUA ELGA VEOLIA, REFERÊNCIA 1:SP 714"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "483174",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:NIPLE, APLICAÇÃO:PURIFICADOR DE ÁGUA IBBL, REFERÊNCIA 1:30210020"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "483261",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:PINGADEIRA, APLICAÇÃO:PURIFICADOR DE ÁGUA IBBL, REFERÊNCIA 1:10210425"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "483262",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:PINGADEIRA, APLICAÇÃO:PURIFICADOR DE ÁGUA SOFT"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "483302",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CONJUNTO CABEÇOTE, APLICAÇÃO:PURIFICADOR DE ÁGUA IBBL, REFERÊNCIA 1:20210014"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "483303",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CABEÇOTE FILTRO, APLICAÇÃO:PURIFICADOR DE ÁGUA IBBL, REFERÊNCIA 1:20210026"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "483647",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:MÓDULO PROGARD TS2, APLICAÇÃO:PURIFICADOR MILLIPORE, REFERÊNCIA 1:PR0G0T0S2"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "484054",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:KIT REPOSIÇÃO, APLICAÇÃO:EQUIPAMENTO LIBELL, REFERÊNCIA 1:CGA NOVO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "484087",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CONJUNTO BÓIA, APLICAÇÃO:PURIFICADOR DE ÁGUA STILO LIBELL."
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "484088",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CONJUNTO VISOR, APLICAÇÃO:PURIFICADOR DE ÁGUA STILO LIBELL."
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "484089",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CONJUNTO TORNEIRA, APLICAÇÃO:PURIFICADOR DE ÁGUA STILO LIBELL."
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "484090",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CONJUNTO TORNEIRA, APLICAÇÃO:PURIFICADOR DE ÁGUA LATINA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "484091",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:CONJUNTO REGISTRO TORNEIRA, APLICAÇÃO:PURIFICADOR DE ÁGUA SOFT"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "484424",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:PORCA, APLICAÇÃO:PURIFICADOR DE ÁGUA IBBL"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "484517",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:ENGATE CABEÇOTE FILTRO, APLICAÇÃO:PURIFICADOR DE ÁGUA SOFT, REFERÊNCIA 1: SOFT"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "485317",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:MÓDULO PROGARD TL1, APLICAÇÃO:PURIFICADOR MILLIPORE, REFERÊNCIA 1:PR0GTL0S1"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "3488",
+    "codigo": "603224",
+    "descricao": " PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA, TIPO:FILTRO REFIL, APLICAÇÃO:BEBEDOURO INDUSTRIAL ACQUA GELATA PRE30, REFERÊNCIA 1:1087A"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "5091",
+    "codigo": "38482",
+    "descricao": " EQUIPAMENTO CLORADOR PARA TRATAMENTO DE AGUA, CLORADOR DE TRATAMENTO DE AGUA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "6121",
+    "codigo": "234308",
+    "descricao": " DESTILADOR ÁGUA, CAPACIDADE:5 L/H, VOLTAGEM:220 V, CARACTERÍSTICAS ADICIONAIS:COM DISPOSITIVO ELETROMECÂNICO PARA DESLIGAMENTO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "6121",
+    "codigo": "234309",
+    "descricao": " DESTILADOR ÁGUA, CAPACIDADE:5 L/H, VOLTAGEM:220 V, CARACTERÍSTICAS ADICIONAIS:COM RESISTÊNCIA BLINDADA E DISPOSITIVO ELETROMECÂN"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "6121",
+    "codigo": "244348",
+    "descricao": " DESTILADOR ÁGUA, CAPACIDADE:3 L/H, VOLTAGEM:110 V, CARACTERÍSTICAS ADICIONAIS:COM DISPOSITIVO ELETROMECÂNICO PARA DESLIGAMENTO, APLICAÇÃO:USO ODONTOLÓGICO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "6121",
+    "codigo": "253329",
+    "descricao": " DESTILADOR ÁGUA, CAPACIDADE:10 L/H, VOLTAGEM:220 V, CARACTERÍSTICAS ADICIONAIS:COM DISPOSITIVO ELETROMECÂNICO PARA DESLIGAMENTO, APLICAÇÃO:LABORATÓRIO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "6121",
+    "codigo": "257001",
+    "descricao": " DESTILADOR ÁGUA, CAPACIDADE:5,5 L/H, VOLTAGEM:220 V, CARACTERÍSTICAS ADICIONAIS:DESLIGAMENTO AUTOMÁTICO, FIXAÇÃO EM CHAPA AÇO COM, MATERIAL:AÇO INOX AISI 304, TIPO:DE PISO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "6121",
+    "codigo": "257137",
+    "descricao": " DESTILADOR ÁGUA, CAPACIDADE:4 L/H, VOLTAGEM:220 V, CARACTERÍSTICAS ADICIONAIS:COM RESISTÊNCIA BLINDADA E DISPOSITIVO ELETROMECÂ-, APLICAÇÃO:LABORATÓRIO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "6121",
+    "codigo": "257323",
+    "descricao": " DESTILADOR ÁGUA, CAPACIDADE:30 L/H, VOLTAGEM:220 V, CARACTERÍSTICAS ADICIONAIS:COM DISPOSITIVO ELETROMECÂNICO PARA DESLIGAMENTO, APLICAÇÃO:LABORATÓRIO, MATERIAL:AÇO INOXIDÁVEL, TIPO:DE PISO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "6121",
+    "codigo": "265597",
+    "descricao": " DESTILADOR ÁGUA, CAPACIDADE:5 L/H, VOLTAGEM:110 V, CARACTERÍSTICAS ADICIONAIS:COM SISTEMA DE PROTEÇÃO CONTRA FALTA D'ÁGUA ATRAVÉ, APLICAÇÃO:LABORATÓRIO DE FITOSSANIDADE, MATERIAL:AÇO INOXIDÁVEL"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "6121",
+    "codigo": "294510",
+    "descricao": " DESTILADOR ÁGUA, CAPACIDADE:5 L/H, VOLTAGEM:127/220 V, CARACTERÍSTICAS ADICIONAIS:DESLIGAMENTO AUTOMÁTICO NA FALTA DÁGUA;    LÂMPADA, MATERIAL:AÇO INOXIDÁVEL, TIPO:PILSEN"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "6121",
+    "codigo": "300850",
+    "descricao": " DESTILADOR ÁGUA, CAPACIDADE:4 L/H, VOLTAGEM:220 V, CARACTERÍSTICAS ADICIONAIS:DIMENSÕES APROXIMADAS 48 X 60 X 40 CM, PAREDE/BAN-, APLICAÇÃO:LABORATÓRIO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "6121",
+    "codigo": "302695",
+    "descricao": " DESTILADOR ÁGUA, CAPACIDADE:3 L/H, VOLTAGEM:220 V, CARACTERÍSTICAS ADICIONAIS:DESCARGA RÁPIDA NA FALTA D¿ÁGUA, LÂMPADA INDICAÇÃO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "6121",
+    "codigo": "441546",
+    "descricao": " DESTILADOR ÁGUA, CAPACIDADE:10 L/H, VOLTAGEM:220 V, CARACTERÍSTICAS ADICIONAIS:DESLIGAMENTO AUTOMÁTICO NA FALTA DÁGUA;    LÂMPADA, APLICAÇÃO:LABORATÓRIO, MATERIAL:AÇO INOX AISI 304"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "6121",
+    "codigo": "452823",
+    "descricao": " DESTILADOR ÁGUA, CAPACIDADE:4 L/H, VOLTAGEM:127/220 V, CARACTERÍSTICAS ADICIONAIS:POTÊNCIA 550 W / DIMENSÕES APROXIMADAS 27X33X2,60, APLICAÇÃO:USO ODONTOLÓGICO, MATERIAL:AÇO INOXIDÁVEL"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "6121",
+    "codigo": "466609",
+    "descricao": " DESTILADOR ÁGUA, CAPACIDADE:50 L/H, VOLTAGEM:220 V, CARACTERÍSTICAS ADICIONAIS:DISPOSITIVO PARA DESLIGAMENTO AUTOMÁTICO, APLICAÇÃO:LABORATÓRIO, MATERIAL:AÇO INOX AISI 304"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "6395",
+    "codigo": "275301",
+    "descricao": " DOSADOR QUIMICO, COMPONENTES:TANQUE CILÍNDRICO VERTICAL EM FIBRA DE VIDRO, FUN-, POTÊNCIA MOTOR:1/2 CV, ROTAÇÃO:1.750 RPM, TENSÃO ALIMENTAÇÃO:220/380 V, FREQÜÊNCIA:60 HZ, CAPACIDADE TANQUE:500 L, APLICAÇÃO:DOSAGEM DE FLÚOR PARA ÁGUA, CARACTERÍSTICAS ADICIONAIS:AGITADOR RÁPIDO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "6695",
+    "codigo": "270501",
+    "descricao": " CONJUNTO FILTRAGEM, COMPONENTES:2 FILTROS, MOTO-BOMBA DE 1CV, CAPACIDADE VAZÃO:45 M3/H, TENSÃO:TRIFÁSICO/220 V, APLICAÇÃO:FILTRAGEM DE ÁGUA PARA PISCICULTURA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "6695",
+    "codigo": "277078",
+    "descricao": " CONJUNTO FILTRAGEM, COMPONENTES:2 FILTROS, MOTO-BOMBA DE 1,44 CV, CAPACIDADE VAZÃO:4,50 M3/H, TENSÃO:TRIFÁSICO/220 V, APLICAÇÃO:FILTRAGEM DE ÁGUA PARA OSMOSE REVERSA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "237670",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:PVC RÍGIDO, COR:BRANCA, ALTURA:32 CM, DIÂMETRO:16 CM, VAZÃO:80 L/H, CARACTERÍSTICAS ADICIONAIS:SISTEMA DE FILTRAÇÃO COLUNA DE 4 LITROS"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "266993",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:PVC RÍGIDO, COR:BRANCA, ALTURA:12 CM, DIÂMETRO:8 CM, VAZÃO:80 L/H, CARACTERÍSTICAS ADICIONAIS:TIPO FLOWEX"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "274477",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:CELULOSE, COR:BRANCA, ALTURA:8 CM, DIÂMETRO:6,5 CM, VAZÃO:80 L/H, CARACTERÍSTICAS ADICIONAIS:TIPO FLOWEX, REFERÊNCIA:CUNO B2.5, TIPO USO:DESCARTÁVEL"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "290047",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:PLÁSTICO, CARACTERÍSTICAS ADICIONAIS:CARVÃO ATIVADO E ADAPTAÇÃO COM ROSCA, REFERÊNCIA:97000-8, APLICAÇÃO:FILTRO DECLORAGUA DUPLO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "298213",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:POLICARBONATO, VAZÃO:2.400 L/H, CARACTERÍSTICAS ADICIONAIS:VÁLVULA DE BLOQUEIO, VÁLVULA ALÍVIO, PRESSÃO 8,90, TIPO USO:PAREDE, APLICAÇÃO:PROCESSADORA AUTOMÁTICA RAIO-X"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "299537",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:PVC RÍGIDO, COR:BRANCA, VAZÃO:2,50 L/H, CARACTERÍSTICAS ADICIONAIS:TEMPERATURA 8¿C E PRESSÃO MÁXIMA 4KG/CM², CAPACIDADE ARMAZENAMENTO:2,50 L, CONSUMO:110 W, TENSÃO ALIMENTAÇÃO:220 V"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "360415",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:PVC, VAZÃO:20 L/H, CARACTERÍSTICAS ADICIONAIS:ELEMENTO POLIPROPILENO, TIPO USO:DESCARTÁVEL, APLICAÇÃO:BEBEDOURO LÍDER MGF 50, CAPACIDADE ARMAZENAMENTO:20 L, CONSUMO:1/8 CV, TENSÃO ALIMENTAÇÃO:110 V"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "390411",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:POLIPROPILENO, VAZÃO:50 L/H, CARACTERÍSTICAS ADICIONAIS:CAMARA DE CARVÃO ATIVADO/ 3 ESTÁGIO DE PURIFICAÇÃO, CAPACIDADE ARMAZENAMENTO:4,20 L, TENSÃO ALIMENTAÇÃO:110/220 V, PRESSÃO MÁXIMA:392,3 KPA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "392034",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:PVC RÍGIDO, COR:BRANCA, VAZÃO:2,50 L/H, CARACTERÍSTICAS ADICIONAIS:TEMPERATURA 8¿C E PRESSÃO MÁXIMA 4KG/CM², CAPACIDADE ARMAZENAMENTO:2,50 L, CONSUMO:110 W, TENSÃO ALIMENTAÇÃO:110 V"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "394702",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:POLIPROPILENO, VAZÃO:0,74 L/MIN, CAPACIDADE ARMAZENAMENTO:2,00 L, TENSÃO ALIMENTAÇÃO:110/220 V"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "404487",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:ELEMENTO TRIPLA FILTRAÇÃO, VAZÃO:50 L/H, CARACTERÍSTICAS ADICIONAIS:MANTA POLIPROPILENO,DOLOMITA,CARVÃO ATIVADO PRATA, APLICAÇÃO:PURIFICADOR ÁGUA LIBELL ACQUA FLEX, PRESSÃO MÁXIMA:4 KGF/CM2"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "405246",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:GABINETE  METÁLICO, COR:BRANCA, CARACTERÍSTICAS ADICIONAIS:TEMPERATURA: 5¿C A 42¿C, GÁS REFRIGERANTE: R 134A, TIPO USO:PAREDE, CAPACIDADE ARMAZENAMENTO:2,00 L, CONSUMO:140 W, TENSÃO ALIMENTAÇÃO:220 V, PRESSÃO MÁXIMA:40 KPA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "405311",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:POLIPROPILENO, VAZÃO:30 L/H, CARACTERÍSTICAS ADICIONAIS:ÁGUA NATURAL E GELADA, CARVÃO ATIVADO COM PRATA, CAPACIDADE ARMAZENAMENTO:2,00 L, TENSÃO ALIMENTAÇÃO:220 V"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "439377",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:POLIPROPILENO, CARACTERÍSTICAS ADICIONAIS:ÁGUA NATURAL E GELADA, CARVÃO ATIVADO COM PRATA, CAPACIDADE ARMAZENAMENTO:1,4 L, TENSÃO ALIMENTAÇÃO:110/220 V"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "449404",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:GABINETE  METÁLICO, COR:BRANCA, CARACTERÍSTICAS ADICIONAIS:TEMPERATURA: 5¿C A 42¿C, GÁS REFRIGERANTE: R 134A, TIPO USO:PAREDE, CAPACIDADE ARMAZENAMENTO:2,00 L, CONSUMO:140 W, TENSÃO ALIMENTAÇÃO:110 V, PRESSÃO MÁXIMA:40 KPA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "457792",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:POLIPROPILENO, VAZÃO:200 L/H, CARACTERÍSTICAS ADICIONAIS:CARVÃO ATIVADO IMPREGNADO DE PRATA COLOIDAL"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "466355",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:PVC RÍGIDO, VAZÃO:6.500 L/H, APLICAÇÃO:IRRIGAÇÃO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "467220",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:POLIPROPILENO, VAZÃO:6.000 L/H, CARACTERÍSTICAS ADICIONAIS:ELEMENTO POLIPROPILENO, TAMANHO:20 POL"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "467221",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:POLIPROPILENO, VAZÃO:1.200 L/H, CARACTERÍSTICAS ADICIONAIS:CARVÃO ATIVADO IMPREGNADO DE PRATA COLOIDAL, TAMANHO:9 POL"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "467222",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:POLIPROPILENO, VAZÃO:900 L/H, CARACTERÍSTICAS ADICIONAIS:ELEMENTO POLIPROPILENO, TAMANHO:7 POL"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "467223",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:POLIPROPILENO, VAZÃO:100 L/H, CARACTERÍSTICAS ADICIONAIS:ELEMENTO POLIPROPILENO, TAMANHO:5 POL"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7451",
+    "codigo": "478573",
+    "descricao": " FILTRO PURIFICAÇÃO ÁGUA, MATERIAL:POLIETILENO, VAZÃO:11 L/MIN, CARACTERÍSTICAS ADICIONAIS:REMOVER OS ÍONS DE CÁLCIO E MAGNÉSIO DA ÁGUA, TIPO USO:ABRANDADOR DE ÁGUA, TENSÃO ALIMENTAÇÃO:220 V, PRESSÃO MÁXIMA:1.5 A 0.6 KGF/CM2"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "265866",
+    "descricao": " FILTRO DE ÁGUA, MATERIAL:TERMOPLÁSTICO, PRESSÃO:4,6 KG, DIÂMETRO CONEXÃO SAÍDA:1/2 POL, DIÂMETRO:120 MM, ALTURA:230 MM, VAZÃO:130"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "273504",
+    "descricao": " FILTRO DE ÁGUA, MATERIAL:POLIPROPILENO, PRESSÃO:10 A 50 MCA, DIÂMETRO CONEXÃO SAÍDA:3/4 POL, DIÂMETRO:4 1/2 POL, VAZÃO:1.000 L/H, DIÂMETRO CONEXÃO ENTRADA:3/4 POL, CARACTERÍSTICAS ADICIONAIS:ELEMENTO FILTRANTE EM CARTUCHO PLISSADO DE POLIÉST"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "274021",
+    "descricao": " FILTRO DE ÁGUA, MATERIAL:TERMOPLÁSTICO, PRESSÃO:4,6 KG/CM2, DIÂMETRO CONEXÃO SAÍDA:1/2 POL, DIÂMETRO:120 MM, ALTURA:323 MM, VAZÃO:360 L/H"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "302784",
+    "descricao": " FILTRO DE ÁGUA, MATERIAL:POLIPROPILENO, PRESSÃO:10 A 50 MCA, DIÂMETRO CONEXÃO SAÍDA:3/4 POL, DIÂMETRO:4 1/2 POL, VAZÃO:3.000 L/H, DIÂMETRO CONEXÃO ENTRADA:3/4 POL, CARACTERÍSTICAS ADICIONAIS:ELEMENTO FILTRANTE EM CARTUCHO PLISSADO POLIÉSTER"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "302786",
+    "descricao": " FILTRO DE ÁGUA, MATERIAL:POLIPROPILENO, PRESSÃO:10 A 50 MCA, DIÂMETRO CONEXÃO SAÍDA:4/4 POL, DIÂMETRO:4 1/2 POL, VAZÃO:300 L/H, CARACTERÍSTICAS ADICIONAIS:ELEMENTO FILTRANTE EM CARTUCHO PLISSADO POLIÉSTER"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "304740",
+    "descricao": " FILTRO DE ÁGUA, MATERIAL:AÇO INOXIDÁVEL, PRESSÃO:1,50 A 5 KG/CM2, DIÂMETRO:216 MM, ALTURA:1.195 MM, VAZÃO:1.380 L/H, CARACTERÍSTICAS ADICIONAIS:RETENÇÃO IODO, LIMO, GRÃOS DE AREIA E RESÍDUOS, RE, TEMPERATURA:5 A 50 ¿C"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "334478",
+    "descricao": " FILTRO DE ÁGUA, MATERIAL:FERRO FUNDIDO E AÇO CARBONO, PRESSÃO:10 KG/CM2, DIÂMETRO CONEXÃO SAÍDA:2 POL, DIÂMETRO:250 MM, ALTURA:550 MM, VAZÃO:5.000 L/H, DIÂMETRO CONEXÃO ENTRADA:2 POL, CARACTERÍSTICAS ADICIONAIS:6 ELEMENTOS FILTRANTES C/ DIÂMETRO 60 MM E COMPRI-, TEMPERATURA:120 ¿C"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "345077",
+    "descricao": " FILTRO DE ÁGUA, MATERIAL:POLIETILENO ALTA DENSIDADE, DIÂMETRO:2 POL, CARACTERÍSTICAS ADICIONAIS:TIPO FILTRO DE DISCO PARA IRRIGAÇÃO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "345169",
+    "descricao": " FILTRO DE ÁGUA, MATERIAL:BARRO COZIDO, CARACTERÍSTICAS ADICIONAIS:CAPACIDADE 10 LITROS E 2 ELEMENTOS FILTRANTES"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "356243",
+    "descricao": " FILTRO DE ÁGUA, MATERIAL:BARRO COZIDO, CARACTERÍSTICAS ADICIONAIS:2 COMPARTIMENTOS, VELA,TORNEIRA E LOGOMARCA., CAPACIDADE:5 L"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "363938",
+    "descricao": " FILTRO DE ÁGUA, DIÂMETRO:1 POL, VAZÃO:5 M3, CARACTERÍSTICAS ADICIONAIS:FILTRO DE DISCO PARA IRRIGAçãO: TIPO \"Y\""
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "384570",
+    "descricao": " FILTRO DE ÁGUA, MATERIAL:POLIPROPILENO, DIÂMETRO CONEXÃO SAÍDA:1/2 POL, VAZÃO:360 L/H, DIÂMETRO CONEXÃO ENTRADA:1/2 POL, CARACTERÍSTICAS ADICIONAIS:ELEMENTO FILTRANTE COM PRATA, CARVÃO ATIVADO, CELU"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "396373",
+    "descricao": " FILTRO DE ÁGUA, MATERIAL:POLIÉSTER, ALTURA:25 CM, CARACTERÍSTICAS ADICIONAIS:CARTUCHO DE POLIÉSTER, 5 MICRA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "396376",
+    "descricao": " FILTRO DE ÁGUA, MATERIAL:ABS, VAZÃO:40 L/H, CAPACIDADE:40 L"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "447843",
+    "descricao": " FILTRO DE ÁGUA, MATERIAL:POLIPROPILENO, DIÂMETRO:120 MM, ALTURA:370 MM, VAZÃO:100 A 200 L/H, CARACTERÍSTICAS ADICIONAIS:ELEMENTO FILTRANT E PP 25 MICRÔMETROS"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "451681",
+    "descricao": " FILTRO DE ÁGUA, MATERIAL:FERRO, DIÂMETRO CONEXÃO SAÍDA:4 POL, DIÂMETRO CONEXÃO ENTRADA:4 POL, CARACTERÍSTICAS ADICIONAIS:PRE FILTRO PARA BOMBA DE PISCINA, BOCAIS DE SUCÇAO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "453332",
+    "descricao": " FILTRO DE ÁGUA, DIÂMETRO:3/4 POL, VAZÃO:4 M3, CARACTERÍSTICAS ADICIONAIS:FILTRO DE DISCO PARA IRRIGAçãO: TIPO \"Y\""
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "453333",
+    "descricao": " FILTRO DE ÁGUA, DIÂMETRO:1 POL, VAZÃO:4 M3, CARACTERÍSTICAS ADICIONAIS:FILTRO DE DISCO PARA IRRIGAçãO: TIPO \"Y\""
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "465405",
+    "descricao": " FILTRO DE ÁGUA, MATERIAL:AÇO INOXIDÁVEL, VAZÃO:1.000 L/H, CARACTERÍSTICAS ADICIONAIS:RETENÇÃO IODO, LIMO, GRÃOS DE AREIA E RESIDUOS DE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "485405",
+    "descricao": " FILTRO DE ÁGUA, MATERIAL:POLIPROPILENO, PRESSÃO:80 MCA, DIÂMETRO:3 POL, VAZÃO:50.000 L/H, CARACTERÍSTICAS ADICIONAIS:SISTEMA COM TAMPA DE ROSCA, MALHA: 120 MESH, APLICAÇÃO:FILTRAGEM DA ÁGUA PARA IRRIGAÇÃO, GOTEJAMENTO, MIC"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "600379",
+    "descricao": " FILTRO DE ÁGUA, MATERIAL:BARRO COZIDO, CARACTERÍSTICAS ADICIONAIS:03 VELAS DE TRIPLA AÇÂO, CAPACIDADE:8 L"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7464",
+    "codigo": "603341",
+    "descricao": " FILTRO DE ÁGUA, MATERIAL:POLIPROPILENO, ALTURA:9,3/4\" CM, CARACTERÍSTICAS ADICIONAIS:FILTRO CARBON BLOCK SEM TNT VIDA ÚTIL  8.000 LITRO, APLICAÇÃO:FILTRO DE ÁGUA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "7639",
+    "codigo": "256715",
+    "descricao": " APARELHO TESTE FLOCULAÇÃO, TIPO:JARRAS TESTES, QUANTIDADE PROVAS:6, TENSÃO ALIMENTAÇÃO:110/220 V, FREQÜÊNCIA:60 HZ, CONTROLE VELOCIDADE:ATÉ 150 RPM, CARACTERÍSTICAS ADICIONAIS:CUBAS GRADUADAS 2000ML, LUZ FLUORESCENTE BASE, HAS"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "13361",
+    "codigo": "241686",
+    "descricao": " VELA DE FILTRO, MATERIAL:CERÂMICA MICROPOROSA, COMPRIMENTO:18 CM, DIÂMETRO:3,5 CM, CARACTERÍSTICAS ADICIONAIS:FIXADOR DE PLÁSTICO E BORRACHA DE VEDAÇÃO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "13361",
+    "codigo": "281864",
+    "descricao": " VELA DE FILTRO, MATERIAL:CERÂMICA MICROPOROSA, COMPRIMENTO:9 CM, DIÂMETRO:5 CM, CARACTERÍSTICAS ADICIONAIS:FIXADOR DE PLÁSTICO E BORRACHA DE VEDAÇÃO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "13361",
+    "codigo": "295441",
+    "descricao": " VELA DE FILTRO, MATERIAL:CERÂMICA MICROPOROSA, COMPRIMENTO:224 MM, DIÂMETRO:69 MM, CARACTERÍSTICAS ADICIONAIS:COMPOSTO POR CELULOSE CARVÃO ATIVADO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "13361",
+    "codigo": "433893",
+    "descricao": " VELA DE FILTRO, MATERIAL:CARVÃO ATIVADO, COMPRIMENTO:134 MM, DIÂMETRO:69 MM"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "13361",
+    "codigo": "433894",
+    "descricao": " VELA DE FILTRO, MATERIAL:CARVÃO ATIVADO, COMPRIMENTO:134 MM, DIÂMETRO:69 MM, CARACTERÍSTICAS ADICIONAIS:VAZÃO NOMINAL 200 LITROS/HORA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "13709",
+    "codigo": "438353",
+    "descricao": " ELEMENTO FILTRO, COMPONENTES:MEMBRANA DE OSMOSE REVERSA, FINALIDADE:P/FILTRAGEM DE ÁGUA, CARACTERÍSTICAS ADICIONAIS:COMPATÍVEL COM EQUIPAMENTO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "13709",
+    "codigo": "461429",
+    "descricao": " ELEMENTO FILTRO, COMPONENTES:MEMBRANA DE OSMOSE REVERSA, FINALIDADE:P/FILTRAGEM DE ÁGUA, APLICAÇÃO:VEXER, MODELO VOL 00103, VAZÃO 10L/H"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "13709",
+    "codigo": "461617",
+    "descricao": " ELEMENTO FILTRO, COMPONENTES:MEMBRANA DE OSMOSE REVERSA, FINALIDADE:P/FILTRAGEM DE ÁGUA, CARACTERÍSTICAS ADICIONAIS:MODELO CAVAO: 100GPD"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "13709",
+    "codigo": "466203",
+    "descricao": " ELEMENTO FILTRO, FINALIDADE:RESFRIADOR DE ÓLEO, APLICAÇÃO:VEÍCULO BLINDADO URUTU / CASCAVEL, REFERÊNCIA FABRICANTE:2680-503-314["
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "13709",
+    "codigo": "466204",
+    "descricao": " ELEMENTO FILTRO, FINALIDADE:DECANTADOR, APLICAÇÃO:VEÍCULO BLINDADO URUTU / CASCAVEL, REFERÊNCIA FABRICANTE:2680-504-876["
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "13709",
+    "codigo": "466998",
+    "descricao": " ELEMENTO FILTRO, FINALIDADE:ARREFECIMENTO DA CAIXA AUTOMÁTICA, APLICAÇÃO:VEÍCULO BLINDADO URUTU / CASCAVEL, REFERÊNCIA FABRICANTE:2680-600-565"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "13709",
+    "codigo": "478093",
+    "descricao": " ELEMENTO FILTRO, FINALIDADE:DECANTADOR, APLICAÇÃO:VEÍCULO MERCEDES BENS1418, REFERÊNCIA FABRICANTE:3820927005"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "14091",
+    "codigo": "230176",
+    "descricao": " TANQUE DECANTADOR, MATERIAL:AÇO INOXIDÁVEL, CAPACIDADE:100 KG, CARACTERÍSTICAS ADICIONAIS:TORNEIRA CORTE RÁPIDO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "14091",
+    "codigo": "230177",
+    "descricao": " TANQUE DECANTADOR, MATERIAL:AÇO INOXIDÁVEL, CAPACIDADE:200 KG, CARACTERÍSTICAS ADICIONAIS:TORNEIRA CORTE RÁPIDO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "14091",
+    "codigo": "320647",
+    "descricao": " TANQUE DECANTADOR, MATERIAL:AÇO INOX AISI 304, CAPACIDADE:400 L, CARACTERÍSTICAS ADICIONAIS:TORNEIRA EM AÇO CORTE RÁPIDO, PENEIRA EM AÇO INOX"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "14091",
+    "codigo": "392654",
+    "descricao": " TANQUE DECANTADOR, MATERIAL:AÇO INOXIDÁVEL, CAPACIDADE:1.000 KG, CARACTERÍSTICAS ADICIONAIS:FUNDO CÔNICO, TAMPA E VISOR"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "14091",
+    "codigo": "466185",
+    "descricao": " TANQUE DECANTADOR, MATERIAL:AÇO INOX AISI 304, CAPACIDADE:700 KG, CARACTERÍSTICAS ADICIONAIS:TORNEIRA CORTE RÁPIDO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "14571",
+    "codigo": "233471",
+    "descricao": " FILTRO GEOMECÂNICO, TIPO:NERVURADO, DIÂMETRO:6 POL, COR:AZUL, COMPRIMENTO:4 M, APLICAÇÃO:INTERIOR TUBO GEOMECÂNICO POÇO ARTEZIANO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "14571",
+    "codigo": "283860",
+    "descricao": " FILTRO GEOMECÂNICO, TIPO:NERVURADO, DIÂMETRO:154 MM, COMPRIMENTO:4 M, CARACTERÍSTICAS ADICIONAIS:STANDARD, RANHURAS COM ABERTURA DE 0,75 MM"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "14571",
+    "codigo": "288158",
+    "descricao": " FILTRO GEOMECÂNICO, TIPO:PVC NERVURADO, DIÂMETRO:6 POL, APLICAÇÃO:REVESTIMENTO POÇOS TUBULARES, CARACTERÍSTICAS ADICIONAIS:STANDARD, DIÂMETRO EXTERNO DE 174 MM, DIÂMETRO NO-"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "14571",
+    "codigo": "311208",
+    "descricao": " FILTRO GEOMECÂNICO, TIPO:PVC ADITIVADO NERVURADO, DIÂMETRO:4 POL, COR:AZUL, COMPRIMENTO:2 M, APLICAÇÃO:REVESTIMENTO POÇOS TUBULARES, CARACTERÍSTICAS ADICIONAIS:STANDARD, RANHURAS COM ABERTURA DE 0,75 MM,  ROSCA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "14571",
+    "codigo": "321099",
+    "descricao": " FILTRO GEOMECÂNICO, TIPO:PVC ADITIVADO NERVURADO, DIÂMETRO:6 POL, APLICAÇÃO:REVESTIMENTO POÇOS TUBULARES, CARACTERÍSTICAS ADICIONAIS:STAND, ABERTURA 0,75MM, ROSCA TRAPEZOIDAL BARRA 2M"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "14571",
+    "codigo": "350928",
+    "descricao": " FILTRO GEOMECÂNICO, TIPO:PVC ADITIVADO, DIÂMETRO:150 MM, COMPRIMENTO:2 M, APLICAÇÃO:REVESTIMENTOS POÇOS PROFUNDOS, CARACTERÍSTICAS ADICIONAIS:REFORÇADO, ESPESSURA:0,75 MM"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "14571",
+    "codigo": "350929",
+    "descricao": " FILTRO GEOMECÂNICO, TIPO:PVC ADITIVADO, DIÂMETRO:150 MM, COMPRIMENTO:4 M, APLICAÇÃO:REVESTIMENTOS POÇOS PROFUNDOS, CARACTERÍSTICAS ADICIONAIS:REFORÇADO, ESPESSURA:0,75 MM"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15207",
+    "codigo": "478173",
+    "descricao": " SISTEMA ULTRAPURIFICAÇÃO ÁGUA, APLICAÇÃO:PRODUÇÃO DE ÁGUA DESMINERALIZADA, MÉTODO DE PRODUÇÃO:TROCA IÔNICA, COMPONENTES:BOMBA, PRÉ FILTRO, COLUNAS ANIÔNICA E CATIÔNICA, CAPACIDADE DE PRODUÇÃO:5 M3/H"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "245186",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:TRIPLA FILTRAGEM, PESO:2,2 KG, VOLTAGEM:110 V, LARGURA:26 CM, ALTURA:25 CM, PROFUNDIDADE:20 CM, CARACTERISITCAS ADICIONAIS:ÁGUA GELADA E NATURAL, APARELHO LIGADO A REDE DE Á"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "246788",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:SEIS FILTRAGENS, PESO:21,1 KG, VOLTAGEM:127/220 V, LARGURA:48 CM, ALTURA:28,5 CM, PROFUNDIDADE:30,5 CM, CARACTERISITCAS ADICIONAIS:ÁGUA GELADA E ÁGUA NATURAL, CAPACIDADE:1,8 L, VAZÃO:40 L/H"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "252168",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:DUPLA FILTRAGEM, PESO:12 KG, VOLTAGEM:110 V, LARGURA:30 CM, ALTURA:40 CM, PROFUNDIDADE:36 CM, CARACTERISITCAS ADICIONAIS:ÁGUA GELADA E ÁGUA NATURAL"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "255693",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:ULTRAPURIFICAÇÃO POR TROCA IÔNICA, PESO:10 KG, VOLTAGEM:120 V, LARGURA:25 CM, ALTURA:46 CM, PROFUNDIDADE:24 CM, CARACTERISITCAS ADICIONAIS:RESERVATÓRIO REMOVÍVEL, LÂMPADA ULTRA VIOLETA PARA, VAZÃO:0,6 L/MIN"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "274602",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:OSMOSE REVERSA/ELETRODEIONIZAÇÃO OU DESTILAÇÃO, PESO:17,4 KG, VOLTAGEM:110/220 V, LARGURA:25,50 CM, ALTURA:45,50 CM, PROFUNDIDADE:35,50 CM, CARACTERISITCAS ADICIONAIS:LÂMPADA ULTRA VIOLETA (254 A 185 NM), FILTRO MICRO, VAZÃO:1,5 L/MIN"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "283609",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:DUPLA FILTRAGEM, VOLTAGEM:120 V, LARGURA:30,5 CM, ALTURA:45,7 CM, PROFUNDIDADE:39 CM, CARACTERISITCAS ADICIONAIS:ÁGUA GELADA(-10¿C) E ÁGUA QUENTE(+85¿C)"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "286040",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:DUPLA FILTRAGEM, VOLTAGEM:220 V, CARACTERISITCAS ADICIONAIS:ÁGUA GELADA E NATURAL, APARELHO LIGADO A REDE DE Á, CAPACIDADE:1,8 L, VAZÃO:1,5 L/H"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "301444",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, VOLTAGEM:220 V, CARACTERISITCAS ADICIONAIS:ÁGUA GELADA E ÁGUA NATURAL, CAPACIDADE:3 L, VAZÃO:2,50 L/H"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "303898",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:BIDESTILADOR, VOLTAGEM:220 V, LARGURA:APROXIMADAMENTE 40 CM, ALTURA:APROXIMADAMENTE 60 CM, PROFUNDIDADE:APROXIMADAMENTE 48 CM, CAPACIDADE:4 L/H"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "306105",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:DUPLA FILTRAGEM, VOLTAGEM:110 V, CARACTERISITCAS ADICIONAIS:ÁGUA GELADA E ÁGUA NATURAL, CAPACIDADE:2/2 L/H"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "317309",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, PESO:11 KG, VOLTAGEM:127 V, LARGURA:25 CM, PROFUNDIDADE:41 CM, CAPACIDADE:1,5 L, CARACTERÍSTICAS ADICIONAIS:TEMPERATURA MÉDIA SAÍDA DE ÁGUA 4¿C"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "319701",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:DUPLA FILTRAGEM, CAPACIDADE:4.000 L, VAZÃO:0,80 L/H, CARACTERÍSTICAS ADICIONAIS:TEMPERATURA MÍNIMA E MÁXINA DE TRABALHO 5 A 40¿C,"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "322670",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:TRIPLA FILTRAGEM, VOLTAGEM:220 V, CAPACIDADE:3 L/MIN"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "357891",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:DUPLA FILTRAGEM, VOLTAGEM:220 V, CAPACIDADE:2 L, VAZÃO:0,75 L/H, MATERIAL GABINETE:METÁLICO/POLIPROPILENO, CAPACIDADE REFRIGERAÇÃO:2,20 L/H, CARACTERÍSTICAS ADICIONAIS:ÁGUA GELADA E ÁGUA NATURAL/TUBO AÇO INOXIDÁVEL/PO-, COR:BRANCA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "383333",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:DUPLA FILTRAGEM, VOLTAGEM:110 V, CAPACIDADE:4,4 L, VAZÃO:0,75 L/MIN, MATERIAL GABINETE:METÁLICO/POLIPROPILENO, CARACTERÍSTICAS ADICIONAIS:TUBO AÇO INOXIDÁVEL/TEMPERATURA 8ºC, COR:BRANCA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "385744",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:OSMOSE REVERSA, VOLTAGEM:110/220 V, CAPACIDADE:15 L, VAZÃO:0,75 L/MIN, MATERIAL GABINETE:METÁLICO/POLIPROPILENO, CARACTERÍSTICAS ADICIONAIS:PRESSÃO MÁXIMA 90 PSI, MÍNIMA 30 PSI, PARA BANCADA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "400164",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:SEIS FILTRAGENS, VOLTAGEM:220 V, CAPACIDADE:1,5 L, VAZÃO:40 L/H, CARACTERÍSTICAS ADICIONAIS:ÁGUA GELADA E ÁGUA NATURAL"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "414334",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:OSMOSE REVERSA/ELETRODEIONIZAÇÃO OU DESTILAÇÃO, VOLTAGEM:110/220 V, VAZÃO:20 L/H, CARACTERÍSTICAS ADICIONAIS:LÂMPADA ULTRAVIOLETA/MICRO FILTRO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "440478",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:OSMOSE REVERSA/ELETRODEIONIZAÇÃO OU DESTILAÇÃO, CAPACIDADE:10 L/H, CARACTERÍSTICAS ADICIONAIS:PREFILTRO CARVÃO ATIVADO, CONDUTIVIDADE 1,3 ?S/CM1"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "442106",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:TRIPLA FILTRAGEM, VOLTAGEM:110 V, CAPACIDADE:4 L, CARACTERÍSTICAS ADICIONAIS:2 TORNEIRAS (NATURAL E GELADA) PREFILTRO CARVÃO AT"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "449878",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:TRIPLA FILTRAGEM, VOLTAGEM:220 V, MATERIAL GABINETE:METÁLICO/POLIPROPILENO, CARACTERÍSTICAS ADICIONAIS:ÁGUA GELADA E ÁGUA NATURAL, ACESSÓRIOS:SUPORTE"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "450978",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:TRIPLA FILTRAGEM, VOLTAGEM:110/220 V, MATERIAL GABINETE:METÁLICO, CAPACIDADE REFRIGERAÇÃO:5,20 L/H, CARACTERÍSTICAS ADICIONAIS:ÁGUA GELADA E ÁGUA NATURAL, TIPO FIXAÇÃO:PAREDE, COR:BRANCA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "452468",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:DEIONIZADOR DE COLUNA, VOLTAGEM:110/220 V, VAZÃO:50 L/H, MATERIAL GABINETE:CARCAÇA E COLUNA EM PVC, CARACTERÍSTICAS ADICIONAIS:SENSOR CONDUTIVÍMETRO DE ALARME ÓTICO, ALERTA PARA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "463093",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:TRIPLA FILTRAGEM, VOLTAGEM:110/220 V, CAPACIDADE:2 L, CAPACIDADE REFRIGERAÇÃO:1,5 L/H, CARACTERÍSTICAS ADICIONAIS:ÁGUA GELADA E ÁGUA NATURAL, TIPO FIXAÇÃO:PAREDE, ACESSÓRIOS:KIT INSTALAÇÃO, SUPORTE, PINGADEIRA REMOVÍVEL"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "469396",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:OSMOSE REVERSA/ELETRODEIONIZAÇÃO OU DESTILAÇÃO, VOLTAGEM:110/220 V, VAZÃO:10 L/H, MATERIAL GABINETE:POLIPROPILENO, ACESSÓRIOS:TANQUE EXTERNO PARA ARMAZENAMENTO DE ÁGUA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "472268",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:OSMOSE REVERSA/ELETRODEIONIZAÇÃO OU DESTILAÇÃO, VOLTAGEM:110/220 V, VAZÃO:3 L/H, ACESSÓRIOS:TANQUE EXTERNO PARA ARMAZENAMENTO DE ÁGUA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "486359",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:TRIPLA FILTRAGEM, VOLTAGEM:127 V, VAZÃO:40 L/H, CARACTERÍSTICAS ADICIONAIS:ÁGUA GELADA E ÁGUA NATURAL, COR:BRANCA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "600201",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:7 ETAPAS FILTRAGEM, VOLTAGEM:110/220 V, CAPACIDADE:3.000 L, VAZÃO:60 L/H, MATERIAL GABINETE:CHAPA AÇO CARBONO, CAPACIDADE REFRIGERAÇÃO:0,250 L/H, CARACTERÍSTICAS ADICIONAIS:REDUZ A ACIDEZ DA ÁGUA E EQUILIBRA O PH, TIPO FIXAÇÃO:PAREDE/BANCADA, ACESSÓRIOS:BICA ARTICULÁVEL, FILTRO, COR:BRANCA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "15695",
+    "codigo": "602309",
+    "descricao": " APARELHO PURIFICADOR DE ÁGUA, TIPO:DUPLA FILTRAGEM, VOLTAGEM:110 V, CAPACIDADE:2 L, VAZÃO:0,75 L/H, MATERIAL GABINETE:METÁLICO, CAPACIDADE REFRIGERAÇÃO:1,8 L/H, CARACTERÍSTICAS ADICIONAIS:ÁGUA GELADA E ÁGUA NATURAL, TIPO FIXAÇÃO:PAREDE/BANCADA, ACESSÓRIOS:KIT INSTALAÇÃO, COR:BRANCA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "16959",
+    "codigo": "314181",
+    "descricao": " SISTEMA ESTERILIZAÇÃO ÁGUA, TIPO:LÂMPADA UV, MATERIAL CÂMARA:AÇO INOXIDÁVEL, VAZÃO:800 A 2.200 L/H, TENSÃO:220 V, FREQUÊNCIA:60 HZ, APLICAÇÃO:ÁGUA TRATADA, CARACTERÍSTICAS ADICIONAIS:CONEXÕES 3/4"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "16959",
+    "codigo": "469354",
+    "descricao": " SISTEMA ESTERILIZAÇÃO ÁGUA, TIPO:BOLSA, MATERIAL CÂMARA:PLÁSTICO, VAZÃO:CAPACIDADE 20 L, APLICAÇÃO:P/ ARMAZENAR ÁGUA, CARACTERÍSTICAS ADICIONAIS:COMPATIBILIDADE ESPECÍFICA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "16959",
+    "codigo": "469355",
+    "descricao": " SISTEMA ESTERILIZAÇÃO ÁGUA, TIPO:CARTUCHO, APLICAÇÃO:ABRANDADOR, CARACTERÍSTICAS ADICIONAIS:COMPATIBILIDADE ESPECÍFICA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "16959",
+    "codigo": "469369",
+    "descricao": " SISTEMA ESTERILIZAÇÃO ÁGUA, TIPO:CARTUCHO, APLICAÇÃO:PRÉ TRATAMENTO, CARACTERÍSTICAS ADICIONAIS:COMPATIBILIDADE ESPECÍFICA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "16959",
+    "codigo": "480165",
+    "descricao": " SISTEMA ESTERILIZAÇÃO ÁGUA, TIPO:CARTUCHO, APLICAÇÃO:TROCA IÔNICA, CARACTERÍSTICAS ADICIONAIS:COMPATIBILIDADE ESPECÍFICA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "18337",
+    "codigo": "287450",
+    "descricao": " MULTIPROCESSADOR HIDROCINÉTICO, TIPO:CONJUGADO, TIPO FILTRAÇÃO:MECÂNICA E QUÍMICA, COMPONENTES:DIFUSOR, CARTUCHO DE POLIPROPILENO COM MICROPOROS, PESO BRUTO:2.931 G, APLICAÇÃO:PURIFICAÇÃO ÁGUA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "18527",
+    "codigo": "296218",
+    "descricao": " MÓDULO PRÉ-TRATAMENTO ÁGUA, REFERÊNCIA:QGARD00R1, APLICAÇÃO:PRÉ-TRATAMENTO ÁGUA SISTEMA MILLI-Q, CARACTERÍSTICAS ADICIONAIS:ALIMENTADO COM ÁGUA DE OSMOSE REVERSA,ELIX OU DES-"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "18527",
+    "codigo": "408238",
+    "descricao": " MÓDULO PRÉ-TRATAMENTO ÁGUA, REFERÊNCIA:PROGARD2, APLICAÇÃO:PRÉ-TRATAMENTO ÁGUA SISTEMA MILLI-Q, CARACTERÍSTICAS ADICIONAIS:COMPATÍVEL COM O MODELO DIRECT-Q 5"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "18527",
+    "codigo": "411058",
+    "descricao": " MÓDULO PRÉ-TRATAMENTO ÁGUA, REFERÊNCIA:QGARD 1, APLICAÇÃO:PRÉ-TRATAMENTO ÁGUA SISTEMA MILLI-Q, CARACTERÍSTICAS ADICIONAIS:ALIMENTADO COM ÁGUA DE OSMOSE REVERSA,ELIX OU DES-"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "18527",
+    "codigo": "421631",
+    "descricao": " MÓDULO PRÉ-TRATAMENTO ÁGUA, REFERÊNCIA:SMARTPAK DQ3, APLICAÇÃO:PRÉ-TRATAMENTO ÁGUA SISTEMA MILLI-Q, CARACTERÍSTICAS ADICIONAIS:COMPATÍVEL COM SISTEMA DIRECT-Q"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "18527",
+    "codigo": "432642",
+    "descricao": " MÓDULO PRÉ-TRATAMENTO ÁGUA, REFERÊNCIA:LC143, APLICAÇÃO:EQUIPAMENTO PURELAB OPTION R 15, CARACTERÍSTICAS ADICIONAIS:MÓDULO DE OSMOSE REVERSA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "18527",
+    "codigo": "459033",
+    "descricao": " MÓDULO PRÉ-TRATAMENTO ÁGUA, REFERÊNCIA:ZIQ 7000T0, APLICAÇÃO:PRÉ-TRATAMENTO ÁGUA SISTEMA MILLI-Q, CARACTERÍSTICAS ADICIONAIS:ALIMENTADO COM ÁGUA DE OSMOSE REVERSA,ELIX OU DES-"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "18527",
+    "codigo": "466027",
+    "descricao": " MÓDULO PRÉ-TRATAMENTO ÁGUA, REFERÊNCIA:W3T197620, APLICAÇÃO:PURIFICADOR DE ÁGUA DA MARCA EVOQUA, CARACTERÍSTICAS ADICIONAIS:MÓDULO DE OSMOSE REVERSA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "18527",
+    "codigo": "469356",
+    "descricao": " MÓDULO PRÉ-TRATAMENTO ÁGUA, APLICAÇÃO:SISTEMA ESTERILIZAÇÃO ÁGUA, CARACTERÍSTICAS ADICIONAIS:MÓDULO DE OSMOSE REVERSA, COMPATIBILIDADE:COMPATIBILIDADE ESPECÍFICA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "18527",
+    "codigo": "475248",
+    "descricao": " MÓDULO PRÉ-TRATAMENTO ÁGUA, REFERÊNCIA:QGARD00D2, APLICAÇÃO:PRÉ-TRATAMENTO ÁGUA SISTEMA MILLI-Q, CARACTERÍSTICAS ADICIONAIS:ALIMENTADO COM ÁGUA DE OSMOSE REVERSA,ELIX OU DES-"
+  },
+  {
+    "grupo": "46",
+    "classe": "4610",
+    "padrao": "18527",
+    "codigo": "478628",
+    "descricao": " MÓDULO PRÉ-TRATAMENTO ÁGUA, APLICAÇÃO:SISTEMA DE OSMOSE REVERSA, CARACTERÍSTICAS ADICIONAIS:VOLTAGEM 220V, CAPACIDADE 40 L/HORA, 03 FILTROS DE, COMPATIBILIDADE:AUTOCLAVE A VAPOR"
+  },
+  {
+    "grupo": "46",
+    "classe": "4630",
+    "padrao": "2124",
+    "codigo": "298833",
+    "descricao": " AERADOR, TIPO:IPH, COMPONENTES:BÓIAS DE POLIETILENO, EIXO EM AÇO INOX, HÉLICE  DE, TAXA OXIGÊNIO:2,5 KG/O2/CV/H, TENSÃO ALIMENTAÇÃO:110/220 V, APLICAÇÃO:PISCICULTURA, CARACTERÍSTICAS ADICIONAIS:SISTEMA PROPULSOR TRIFÁSICO"
+  },
+  {
+    "grupo": "46",
+    "classe": "4630",
+    "padrao": "6043",
+    "codigo": "272546",
+    "descricao": " FILTRO ANAERÓBICO, TIPO:TRATAMENTO PRIMÁRIO, MATERIAL:ANÉIS DE CONCRETO ARMADO C/ TAMPA, ALTURA:2,00 M, DIÂMETRO:1,50 M"
+  },
+  {
+    "grupo": "46",
+    "classe": "4630",
+    "padrao": "6043",
+    "codigo": "428559",
+    "descricao": " FILTRO ANAERÓBICO, TIPO:SECUNDÁRIO, MATERIAL:POLIETILENO, ALTURA:2,00 M, DIÂMETRO:1,60 M"
+  },
+  {
+    "grupo": "46",
+    "classe": "4630",
+    "padrao": "6091",
+    "codigo": "600256",
+    "descricao": " DESENTUPIDOR TUBO / ACESSÓRIOS - COMPONENTES, TIPO:DESENTUPIDOR ELETRICO, VOLTAGEM:BIVOLT VCAVCC, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:1 CV, ACESSÓRIOS:15 MTS CABO 1¿\", 15 MTS CABO 5/8,  PONTA RETA DE, PADRÃO:PARA TUBOS DE 1 ¿? ATÉ 10?"
+  },
+  {
+    "grupo": "46",
+    "classe": "4630",
+    "padrao": "6766",
+    "codigo": "603093",
+    "descricao": " EQUIPAMENTO DE TRATAMENTO DE ESGOTO INDUSTRIAL, TIPO:COMPACTA MODULAR, CAPACIDADE VAZÃO:1,1 M3/H"
+  },
+  {
+    "grupo": "46",
+    "classe": "4630",
+    "padrao": "16961",
+    "codigo": "297778",
+    "descricao": " JATEADOR LIMPADOR, COMPONENTES:BOMBA ALTERNATIVA 3 CILINDROS, CARCAÇA FERRO FUNDI, PRESSÃO SAÍDA:80 BAR., VAZÃO:135 L/MIN, APLICAÇÃO:DRENO SUBTERRÂNEO ENTUBADO, CARACTERÍSTICAS ADICIONAIS:MANGUEIRA RESISTÊNCIA 160 BAR. E 6 M COMPRIMENTO,"
+  },
+  {
+    "grupo": "46",
+    "classe": "4630",
+    "padrao": "17843",
+    "codigo": "273043",
+    "descricao": " SUMIDOURO, COMPONENTES:ANÉIS DE CONCRETO ARMADO, DIÂMETRO:1,5 M, PROFUNDIDADE:2 M, APLICAÇÃO:FOSSA ASSÉPTICA"
+  },
+  {
+    "grupo": "46",
+    "classe": "4630",
+    "padrao": "18296",
+    "codigo": "285550",
+    "descricao": " CAIXA SEPARADORA ÁGUA / ÓLEO, MATERIAL:POLIETILENO, VAZÃO:2.000 L/H, CARACTERÍSTICAS ADICIONAIS:RESISTENTE A DERIVADOS DE  PETRÓLEO, CÂMARA DE CAL"
+  },
+  {
+    "grupo": "46",
+    "classe": "4630",
+    "padrao": "18296",
+    "codigo": "345106",
+    "descricao": " CAIXA SEPARADORA ÁGUA / ÓLEO, MATERIAL:FIBRA DE VIDRO, CARACTERÍSTICAS ADICIONAIS:PLACAS COALESCENTES INCLINADAS, DIÂMETRO TUBULAÇÃO, ALTURA:0,58 M, LARGURA:0,35 M, COMPRIMENTO:0,98 M"
+  },
+  {
+    "grupo": "46",
+    "classe": "4630",
+    "padrao": "18296",
+    "codigo": "345326",
+    "descricao": " CAIXA SEPARADORA ÁGUA / ÓLEO, MATERIAL:POLIÉSTER REFORÇADO COM FIBRA DE VIDRO, VAZÃO:1.000 L/H, CARACTERÍSTICAS ADICIONAIS:PLACAS COALESCENTES INCLINADAS E TUBULAÇÃO EM PVC"
+  },
+  {
+    "grupo": "46",
+    "classe": "4630",
+    "padrao": "18296",
+    "codigo": "358492",
+    "descricao": " CAIXA SEPARADORA ÁGUA / ÓLEO, MATERIAL:POLIETILENO, VAZÃO:800 L/H, CARACTERÍSTICAS ADICIONAIS:CONJUNTO DE PLACAS COALESCENTES E TUBOS IMUNES  A"
+  }
+]

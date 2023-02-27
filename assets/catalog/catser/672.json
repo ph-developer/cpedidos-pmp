@@ -1,0 +1,32 @@
+[
+  {
+    "grupo": "672",
+    "classe": "'-7",
+    "codigo": "13803",
+    "descricao": "ARMAZENAMENTO / CONSERVACAO / GUARDA DE GRAO"
+  },
+  {
+    "grupo": "672",
+    "classe": "'-7",
+    "codigo": "14087",
+    "descricao": "ARMAZENAGEM EM GERAL"
+  },
+  {
+    "grupo": "672",
+    "classe": "'-7",
+    "codigo": "14117",
+    "descricao": "ARMAZENAGEM FRIGORIFICA"
+  },
+  {
+    "grupo": "672",
+    "classe": "'-7",
+    "codigo": "14605",
+    "descricao": "ARMAZENAMENTO DE GRAO - EM SILO"
+  },
+  {
+    "grupo": "672",
+    "classe": "6729",
+    "codigo": "19364",
+    "descricao": "ARMAZENAMENTO / BENEFICIAMENTO - GRAO"
+  }
+]

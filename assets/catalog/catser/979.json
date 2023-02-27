@@ -1,0 +1,236 @@
+[
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "868",
+    "descricao": "COMISSIONAMENTO"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "1244",
+    "descricao": "DESENVOLVIMENTO E NACIONALIZACAO DE PRODUTOS"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "1252",
+    "descricao": "SUBAQUATICO ( MERGULHO )"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "1309",
+    "descricao": "REGENERACAO DE LUBRIFICANTES"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "1317",
+    "descricao": "REGENERACAO DE OLEO ISOLANTE"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "1325",
+    "descricao": "RECUPERACAO DE OLEO ISOLANTE"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "3905",
+    "descricao": "IMPORTACAO"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "4162",
+    "descricao": "ATOS E SOLENIDADES ECUMENICAS"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "4863",
+    "descricao": "MANUTENCAO DE ISOLAMENTO TERMO-CONTRATIL"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "13463",
+    "descricao": "RETIFICA DE MOTOR DE COMBUSTAO INTERNA"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "13900",
+    "descricao": "HOSPEDAGEM ANIMAL"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "14214",
+    "descricao": "SOLDA POR FRICCAO"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "14400",
+    "descricao": "DESENTUPIMENTO"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "14753",
+    "descricao": "COLETA DE DADOS - SATELITE"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "14893",
+    "descricao": "LABORATORIO - PREPARACAO MEIOS DE CULTURA / SOLUCOES"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "15075",
+    "descricao": "SISTEMA DE CUSTOS - ESTRUTURACAO"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "15482",
+    "descricao": "REGULARIZACAO FUNDIARIA / ASSENTAMENTO"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "15504",
+    "descricao": "EXPORTACAO"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "15768",
+    "descricao": "EXPLORACAO / APROVEITAMENTO DE JAZIDAS / POCOS"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "15784",
+    "descricao": "TERMINAL DE CONTEINER ( CONTAINER )"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "15946",
+    "descricao": "SERVICO PENITENCIARIO - REEDUCACAO E REABILITACAO DE APENADO"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "17396",
+    "descricao": "CONCESSAO DE SERVICO PUBLICO"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "17590",
+    "descricao": "DIREITOS AUTORAIS"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "18520",
+    "descricao": "REDE HIDROMETEREOLOGICA - OPERACAO"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "20214",
+    "descricao": "SERVICO RELIGIOSO"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "20494",
+    "descricao": "DESMAGNETIZACAO"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "22195",
+    "descricao": "BENEFICIAMENTO PRODUTO FARMACEUTICO"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "22284",
+    "descricao": "FORNECIMENTO BONUS ELETRONICO / ACESSO SISTEMAS ON-LINE"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "22292",
+    "descricao": "USINAGEM / RETÍFICA / ELETROEROSÃO"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "22306",
+    "descricao": "COLOCACAO CREDITO MAQUINA FRANQUEADORA POSTAL"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "22756",
+    "descricao": "RECUPERACAO / MANUTENCAO BARRAGEM PARA IRRIGACAO"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "22900",
+    "descricao": "CRIACAO E MANUTENCAO DE ORGANIZACOES PARA PESQUISAS CIENTIFICAS"
+  },
+  {
+    "grupo": "979",
+    "classe": "'-7",
+    "codigo": "27774",
+    "descricao": "PERMISSAO DE SERVICO PUBLICO"
+  },
+  {
+    "grupo": "979",
+    "classe": "9799",
+    "codigo": "9741",
+    "descricao": "ARQUEAMENTO DE MOLA DE SUSPENSAO"
+  },
+  {
+    "grupo": "979",
+    "classe": "9799",
+    "codigo": "10022",
+    "descricao": "TRANSCRICAO DE TEXTO"
+  },
+  {
+    "grupo": "979",
+    "classe": "9799",
+    "codigo": "13250",
+    "descricao": "COLETA / CAPTURA DE ANIMAL EM CAVERNA \"INATIVO\""
+  },
+  {
+    "grupo": "979",
+    "classe": "9799",
+    "codigo": "21393",
+    "descricao": "PROJETO SISTEMA COLETA A VACUO"
+  },
+  {
+    "grupo": "979",
+    "classe": "9799",
+    "codigo": "24732",
+    "descricao": "PATROCINIO"
+  },
+  {
+    "grupo": "979",
+    "classe": "9799",
+    "codigo": "24740",
+    "descricao": "DOACAO"
+  }
+]

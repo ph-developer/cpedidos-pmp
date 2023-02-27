@@ -1,0 +1,362 @@
+[
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "3808",
+    "descricao": "TREINAMENTO NA AREA DE ADMINISTRACAO"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "3816",
+    "descricao": "TREINAMENTO NA AREA ECONOMICO - FINANCEIRA"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "3824",
+    "descricao": "TREINAMENTO NA AREA JURIDICA"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "3832",
+    "descricao": "TREINAMENTO NA AREA DE ENGENHARIA"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "3840",
+    "descricao": "TREINAMENTO INFORMATICA - SISTEMA / SOFTWARE"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "3859",
+    "descricao": "TREINAMENTO NA AREA DE RECURSOS HUMANOS"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "3867",
+    "descricao": "TREINAMENTO NA AREA COMERCIAL"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "3875",
+    "descricao": "TREINAMENTO NA AREA DE SUPRIMENTO"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "3883",
+    "descricao": "CURSO / TREINAMENTO - IDIOMA ESTRANGEIRO"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "5339",
+    "descricao": "TREINAMENTO NA AREA DE MEIO AMBIENTE"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "5347",
+    "descricao": "TREINAMENTO NA AREA DE QUALIDADE"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "5932",
+    "descricao": "ENSINO ESPECIAL - DEFICIENTE AUDITIVO"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "12653",
+    "descricao": "TREINAMENTO - LINGUA PORTUGUESA"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "12777",
+    "descricao": "SERVICO EDUCACIONAL -BASICO / FUNDAMENTAL / MEDIO / SUPERIOR"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "12823",
+    "descricao": "TREINAMENTO / ELABORACAO DE TESAUROS / VOCABULARIO CONTROLA-DO"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "13790",
+    "descricao": "TREINAMENTO DE PESSOAL PARA DOCUMENTACAO"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "14702",
+    "descricao": "CURSO EQUITACAO"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "14710",
+    "descricao": "CURSO ESTABULACAO"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "14729",
+    "descricao": "TREINAMENTO NA AREA DE ADMINISTRACAO PUBLICA"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "15024",
+    "descricao": "CURSO ORATORIA / EXPRESSAO"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "15113",
+    "descricao": "TREINAMENTO - AREA ARTISTICA"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "15156",
+    "descricao": "ADMINISTRACAO / EXECUCAO PROJETO EDUCACIONAL / CONVENIO / ESTAGIO / UNIVERSITARIO / MONITOR"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "15261",
+    "descricao": "TREINAMENTO EM MANUTENCAO DE EQUIPAMENTO DE PESQUISA / ENSI-NO"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "15334",
+    "descricao": "AGROPECUARIA - TREINAMENTO E CAPTACAO DE TECNOLOGIA"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "15431",
+    "descricao": "CURSO PROFISSIONALIZANTE"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "15806",
+    "descricao": "CURSO DE ARTES PLASTICAS"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "16250",
+    "descricao": "TREINAMENTO NA AREA DE ERGONOMIA"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "16837",
+    "descricao": "TREINAMENTO INFORMATICA - EQUIPAMENTO / HARDWARE"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "16845",
+    "descricao": "TREINAMENTO NA AREA DE ELETRONICA"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "16853",
+    "descricao": "AUTO - ESCOLA"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "17000",
+    "descricao": "DEFESA PESSOAL / ARTES MARCIAIS"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "17043",
+    "descricao": "ENSINO ESPECIAL - SUPERDOTADO / DEFICIENTE FÍSICO"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "17256",
+    "descricao": "TREINAMENTO INFORMATICA - OPERACAO / DIGITACAO"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "17361",
+    "descricao": "CURSO TEATRO / TELEDRAMATURGIA / CINEMA"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "17507",
+    "descricao": "ATIVIDADE CULTURAL DESPORTIVA"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "17663",
+    "descricao": "CURSO APERFEICOAMENTO / ESPECIALIZACAO PROFISSIONAL"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "17710",
+    "descricao": "CURSO / APERFEICOAMENTO - PILOTAGEM DE AERONAVE"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "17817",
+    "descricao": "CURSO / APERFEICOAMENTO - CONTROLADOR DE VOO"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "18023",
+    "descricao": "CONSULTORIA E ASSESSORIA - ESPORTIVA"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "18031",
+    "descricao": "TREINAMENTO - AREA ESPORTIVA"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "18198",
+    "descricao": "TREINAMENTO / CURSO - ARMAMENTO E TIRO"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "18503",
+    "descricao": "TREINAMENTO - AREA INSTRUMENTACAO ELETRONICA"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "18635",
+    "descricao": "SERVICO EDUCACIONAL - CURSO EXTENSAO"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "18651",
+    "descricao": "TREINAMENTO - AREA CONTABIL"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "18821",
+    "descricao": "TREINAMENTO / CAPACITACAO - SEGURANCA INDUSTRIAL"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "19054",
+    "descricao": "TREINAMENTO - PROTECAO RADIOLOGICA / DOSIMETRIA"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "19321",
+    "descricao": "CURSO / TREINAMENTO EDUCACAO - DISTANCIA"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "19470",
+    "descricao": "ENSAIOS NAO DESTRUTIVOS - QUALIFICACAO PESSOAL / TREINAMENTO"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "19577",
+    "descricao": "TREINAMENTO - AREA TRIBUTARIA"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "19682",
+    "descricao": "TREINAMENTO - ENERGIA"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "20052",
+    "descricao": "TREINAMENTO - INSTALACAO / UTILIZACAO EQUIPAMENTO"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "20230",
+    "descricao": "TREINAMENTO APOIO ADMINISTRATIVO"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "21172",
+    "descricao": "TREINAMENTO QUALIFICACAO PROFISSIONAL"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "21180",
+    "descricao": "TREINAMENTO NA AREA DE LIDERANCA"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "22802",
+    "descricao": "TREINAMENTO NA AREA DE SAUDE"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "23043",
+    "descricao": "CURSO AUTOCAD"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "23078",
+    "descricao": "CURSO TRATAMENTO - MANUTENCAO PISCINA"
+  },
+  {
+    "grupo": "929",
+    "classe": "'-7",
+    "codigo": "25186",
+    "descricao": "TREINAMENTO EM FISCALIZACAO ADUANEIRA"
+  },
+  {
+    "grupo": "929",
+    "classe": "9290",
+    "codigo": "13404",
+    "descricao": "TREINAMENTO DE BOMBEIRO PARTICULAR / BRIGADA CONTRA INCENDIO"
+  },
+  {
+    "grupo": "929",
+    "classe": "9290",
+    "codigo": "25232",
+    "descricao": "PAGAMENTO INSCRICAO EVENTOS"
+  }
+]

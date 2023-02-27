@@ -1,0 +1,50 @@
+[
+  {
+    "grupo": "844",
+    "classe": "'-7",
+    "codigo": "4197",
+    "descricao": "DIVULGACAO ESCRITA / TELEVISADA"
+  },
+  {
+    "grupo": "844",
+    "classe": "'-7",
+    "codigo": "4200",
+    "descricao": "SERVICO TECNICO DE DIVULGACAO FALADA"
+  },
+  {
+    "grupo": "844",
+    "classe": "'-7",
+    "codigo": "4219",
+    "descricao": "DIVULGACAO TELEVISADA"
+  },
+  {
+    "grupo": "844",
+    "classe": "'-7",
+    "codigo": "10219",
+    "descricao": "RESENHA DE NOTICIA / AGENCIAMENTO DE INFORMACAO / SINOPSE / RECORTE NOTICIA"
+  },
+  {
+    "grupo": "844",
+    "classe": "'-7",
+    "codigo": "15164",
+    "descricao": "ELABORACAO - FORNECIMENTO DE PERIODICO / PROGRAMA PARA  CON-SULTA"
+  },
+  {
+    "grupo": "844",
+    "classe": "'-7",
+    "codigo": "16209",
+    "descricao": "TELEVISAO - ASSINATURA"
+  },
+  {
+    "grupo": "844",
+    "classe": "'-7",
+    "codigo": "22870",
+    "descricao": "MONITORAMENTO INFORMACAO MIDIA ELETRONICA"
+  },
+  {
+    "grupo": "844",
+    "classe": "8442",
+    "codigo": "22381",
+    "descricao": "RECEPCAO CANAIS ANALOGICOS TV"
+  }
+]

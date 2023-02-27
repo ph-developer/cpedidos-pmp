@@ -1,0 +1,26 @@
+[
+  {
+    "grupo": "678",
+    "classe": "'-7",
+    "codigo": "3719",
+    "descricao": "PRESTACAO DE SERVICOS DE AGENCIAMENTO DE VIAGENS"
+  },
+  {
+    "grupo": "678",
+    "classe": "6781",
+    "codigo": "24791",
+    "descricao": "FORNECIMENTO PASSAGEM FLUVIAL"
+  },
+  {
+    "grupo": "678",
+    "classe": "6782",
+    "codigo": "9920",
+    "descricao": "INFORMACAO SOBRE ROTEIRO TURISTICO NACIONAL E INTERNACIONAL"
+  },
+  {
+    "grupo": "678",
+    "classe": "6782",
+    "codigo": "9938",
+    "descricao": "INFORMACAO SOBRE EVENTOS SOCIAIS, ESPORTIVOS, CULTURAIS  NA-CIONAIS E INTERNACIONAIS"
+  }
+]

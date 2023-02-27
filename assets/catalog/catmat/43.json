@@ -1,0 +1,3824 @@
+[
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "528",
+    "codigo": "212610",
+    "descricao": " BOMBA VÁCUO, MATERIAL:AÇO INOXIDÁVEL, VÁCUO MÁXIMO:716,80 MMHG, VAZÃO LIVRE:20 L/MIN, LARGURA:230 MM, PROFUNDIDADE:110 MM, ALTURA:120 MM, TENSÃO:220 V, CARACTERÍSTICAS ADICIONAIS:COM CÂMARA DE TEFLON"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "528",
+    "codigo": "212612",
+    "descricao": " BOMBA VÁCUO, MATERIAL:CHAPA AÇO, TRATAMENTO SUPERFICIAL:ANTI-CORROSIVO, ACABAMENTO SUPERFICIAL:PINTURA ELETROSTÁTICA EM EPOXI, VÁCUO MÁXIMO:716 MMHG, VAZÃO LIVRE:37 L/MIN, LARGURA:280 MM, PROFUNDIDADE:340 MM, ALTURA:233 MM, TENSÃO:220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "528",
+    "codigo": "231174",
+    "descricao": " BOMBA VÁCUO, MATERIAL:AÇO INOXIDÁVEL, TRATAMENTO SUPERFICIAL:ANTI-CORROSIVO, ACABAMENTO SUPERFICIAL:PINTURA ELETROSTÁTICA EM EPOXI, VÁCUO MÁXIMO:710 MMHG, TENSÃO:110/220 V, POTÊNCIA:1/5 CV"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "528",
+    "codigo": "231175",
+    "descricao": " BOMBA VÁCUO, MATERIAL:AÇO INOXIDÁVEL, TRATAMENTO SUPERFICIAL:ANTI-CORROSIVO, ACABAMENTO SUPERFICIAL:PINTURA ELETROSTÁTICA EM EPOXI, VÁCUO MÁXIMO:710 MMHG, TENSÃO:110/220 V, CARACTERÍSTICAS ADICIONAIS:CONTROLE VÁCUO E PRESSÃO ATRAVÉS AJUSTE FRONTAL, POTÊNCIA:1/5 CV"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "528",
+    "codigo": "233292",
+    "descricao": " BOMBA VÁCUO, MATERIAL:AÇO INOXIDÁVEL, TRATAMENTO SUPERFICIAL:ANTI-CORROSIVO, ACABAMENTO SUPERFICIAL:PINTURA ELETROSTÁTICA EM EPOXI, VÁCUO MÁXIMO:0 A 760 MMHG, VAZÃO LIVRE:0,50 L/MIN, TENSÃO:220 V, CARACTERÍSTICAS ADICIONAIS:DESLIGAMENTO AUTOMÁTICO A 63¿C/TUBOS/CONEXÕES PVC, POTÊNCIA:0,507 CV"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "528",
+    "codigo": "253752",
+    "descricao": " BOMBA VÁCUO, MATERIAL:AÇO INOXIDÁVEL, VÁCUO MÁXIMO:680 MMHG, VAZÃO LIVRE:20 L/MIN, LARGURA:230 MM, PROFUNDIDADE:110 MM, ALTURA:120 MM, TENSÃO:220 V, CARACTERÍSTICAS ADICIONAIS:COM CÂMARA DE TEFLON"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "528",
+    "codigo": "269745",
+    "descricao": " BOMBA VÁCUO, MATERIAL:AÇO INOXIDÁVEL, TRATAMENTO SUPERFICIAL:ANTICORROSIVO, VÁCUO MÁXIMO:500 MMHG, LARGURA:300 MM, PROFUNDIDADE:334 MM, ALTURA:480 MM, TENSÃO:110/220 V, POTÊNCIA:1/3 CV, FREQUÊNCIA:50/60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "528",
+    "codigo": "271335",
+    "descricao": " BOMBA VÁCUO, MATERIAL:ALUMÍNIO FUNDIDO, VÁCUO MÁXIMO:730 MMHG, VAZÃO LIVRE:38 L/MIN, LARGURA:155 MM, PROFUNDIDADE:259 MM, ALTURA:162 MM, TENSÃO:220 V, CARACTERÍSTICAS ADICIONAIS:DUPLO ESTÁGIO / ISENTA DE ÓLEO, POTÊNCIA:186 W, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "528",
+    "codigo": "291257",
+    "descricao": " BOMBA VÁCUO, MATERIAL:AÇO CARBONO, TRATAMENTO SUPERFICIAL:ANTICORROSIVO, ACABAMENTO SUPERFICIAL:PINTURA ELETROSTÁTICA EM EPOXI, VÁCUO MÁXIMO:600 MMHG, VAZÃO LIVRE:35 L/MIN, TENSÃO:220 V, POTÊNCIA:190 W"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "528",
+    "codigo": "324136",
+    "descricao": " BOMBA VÁCUO, MATERIAL:AÇO CARBONO, VÁCUO MÁXIMO:700 MMHG, VAZÃO LIVRE:20 L/MIN, TENSÃO:220 V, CARACTERÍSTICAS ADICIONAIS:COMPRESSOR HERMÉTICO 1/6HP A BASE DE ÓLEO, POTÊNCIA:150 W"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "528",
+    "codigo": "324137",
+    "descricao": " BOMBA VÁCUO, MATERIAL:AÇO CARBONO, VÁCUO MÁXIMO:620 MMHG, VAZÃO LIVRE:35 L/MIN, TENSÃO:220 V, CARACTERÍSTICAS ADICIONAIS:TIPO PISTÃO ISENTO DE ÓLEO, POTÊNCIA:190 W"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "528",
+    "codigo": "329025",
+    "descricao": " BOMBA VÁCUO, MATERIAL:CHAPA AÇO, TRATAMENTO SUPERFICIAL:ANTICORROSIVO, ACABAMENTO SUPERFICIAL:PINTURA ELETROSTÁTICA EM EPOXI, VÁCUO MÁXIMO:716 MMHG, VAZÃO LIVRE:37 L/MIN"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "528",
+    "codigo": "411616",
+    "descricao": " BOMBA VÁCUO, MATERIAL:BRONZE, VÁCUO MÁXIMO:550 MMHG, TENSÃO:110/127 - 220/254 V, CARACTERÍSTICAS ADICIONAIS:FILTRO COLETOR E SEPARADOR DE RESÍDUOS, POTÊNCIA:1 HP"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "528",
+    "codigo": "445956",
+    "descricao": " BOMBA VÁCUO, MATERIAL:ALUMÍNIO FUNDIDO, VAZÃO LIVRE:340 L/MIN, TENSÃO:110/220 V, CARACTERÍSTICAS ADICIONAIS:DUPLO ESTÁGIO / CAPACIDADE DE ÓLEO 700ML, POTÊNCIA:750 W, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "528",
+    "codigo": "460689",
+    "descricao": " BOMBA VÁCUO, MATERIAL:AÇO 1020, TRATAMENTO SUPERFICIAL:ANTICORROSIVO, ACABAMENTO SUPERFICIAL:PINTURA ELETROSTÁTICA EM EPOXI, VÁCUO MÁXIMO:0 A 760 MMHG, TENSÃO:220 V, CARACTERÍSTICAS ADICIONAIS:VÁLVULA TIPO AGULHA PARA REGULAGEM DO VÁCUO E DA -, POTÊNCIA:400 W"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "528",
+    "codigo": "469577",
+    "descricao": " BOMBA VÁCUO, MATERIAL:ALUMÍNIO, VÁCUO MÁXIMO:710 MMHG, VAZÃO LIVRE:176 L/MIN, TENSÃO:220/240 V, CARACTERÍSTICAS ADICIONAIS:DUPLO ESTÁGIO / ISENTA DE ÓLEO, POTÊNCIA:5/8 HP, FREQUÊNCIA:50 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "528",
+    "codigo": "480670",
+    "descricao": " BOMBA VÁCUO, MATERIAL:AÇO CARBONO, TRATAMENTO SUPERFICIAL:ANTICORROSIVO, VÁCUO MÁXIMO:650 MMHG, VAZÃO LIVRE:47 L/MIN, TENSÃO:220 V, POTÊNCIA:300 W"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "528",
+    "codigo": "483619",
+    "descricao": " BOMBA VÁCUO, MATERIAL:AÇO CARBONO, VÁCUO MÁXIMO:5 MMHG, VAZÃO LIVRE:142 L/MIN, TENSÃO:110/220 V, CARACTERÍSTICAS ADICIONAIS:DUPLO ESTÁGIO / CAPACIDADE DE ÓLEO 700ML, POTÊNCIA:1/2 HP"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "528",
+    "codigo": "603850",
+    "descricao": " BOMBA VÁCUO, VÁCUO MÁXIMO:50 KPA, VAZÃO LIVRE:7 L/MIN, TENSÃO:12 V, CARACTERÍSTICAS ADICIONAIS:PRESSÃO MÁXIMA DE 1.5 BAR, DIÂMETRO DO MOTOR 30 MM, POTÊNCIA:3,6 W"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "294008",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:BVM - 156/30, VAZÃO:130 M3/H, POTÊNCIA MOTOR:7,5 CV"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "347636",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:PARTIDA POR CAPACITOR TÉRMICO, VAZÃO:140 L/MIN, POTÊNCIA MOTOR:1/2 HP, VOLTAGEM:110/220 V, CARACTERÍSTICAS ADICIONAIS:2 ESTÁGIOS E REATIVAÇÃO AUTOMÁTICA, CAPACIDADE REFRIGERAÇÃO:6 CFM"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "438989",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:MODELO EMF20, TIPO:FILTRO DE ÓLEO, APLICAÇÃO:BOMBA MECÂNICA DE VÁCUO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "438990",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:MODELO E2M28, TIPO:KIT PARA LIMPEZA E MANUTENÇÃO, APLICAÇÃO:BOMBA MECÂNICA DE VÁCUO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "438991",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:MODELO RV3, TIPO:KIT PARA LIMPEZA E MANUTENÇÃO, APLICAÇÃO:BOMBA MECÂNICA DE VÁCUO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "438994",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, TIPO:KIT MANUTENÇÃO DE VÁLVULA, APLICAÇÃO:BOMBA MECÂNICA DE VÁCUO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "445379",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:CBX62-CE-AO-G1/KRXTA, TIPO:PALHETA DE GRAFITE, APLICAÇÃO:BOMBA DE VÁCUO ORION"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "454446",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:MODELO G1099-80039, TIPO:FILTRO DE EXAUSTÃO, APLICAÇÃO:BOMBA MECÂNICA DE VÁCUO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "454895",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:WP61RBD00, MERCK, TIPO:KIT PARA LIMPEZA E MANUTENÇÃO, APLICAÇÃO:BOMBA MECÂNICA DE VÁCUO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "454896",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:WP61MNT00, MERCK, TIPO:KIT PARA LIMPEZA E MANUTENÇÃO, APLICAÇÃO:BOMBA MECÂNICA DE VÁCUO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "468347",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, TIPO:RELÉ DE POTÊNCIA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "468349",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, TIPO:VÁLVULA SOLENOIDE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475490",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:XMPPVALVE MERCK, TIPO:VALVULA SECAGEM, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475491",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:MXPTUBKT1 MERCK, CARACTERÍSTICAS ADICIONAIS:COMPOSIÇÃO:  6 ABRAÇADEIRAS, 2 TUBULAÇÕES Y, TIPO:KIT TUBO INTERNO, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475492",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:TQSEALKIT,MERCK, CARACTERÍSTICAS ADICIONAIS:COMPOSIÇÃO: 1 ANEL REDUTOR;  5  O-RING;  2 VEDAÇÃO, TIPO:KIT VEDACAO EQUINOX, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475493",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:MXPPTUBE1,MERCK, TIPO:TUBO,EXTERNO, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475494",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:TQ00FEET3,MERCK, TIPO:PÉS BORRACHA, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475927",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:WP61RBD00, MERCK, TIPO:KIT REMONTAGEM, APLICAÇÃO:BOMBA DE VACUO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475928",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:MILLIFLEX PLUS, TIPO:TECLADO PARA BOMBA, APLICAÇÃO:BOMBA DE VÁCUO MILLIFLEX PLUS DE DOIS CABEÇOTES"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475932",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:MILLIFLEX PLUS, TIPO:CABECOTE, APLICAÇÃO:BOMBA PERISTÁLTICA MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475933",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:WP61RBD00, MERCK, TIPO:KIT PARA LIMPEZA E MANUTENÇÃO, APLICAÇÃO:BOMBA DE VACUO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475938",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:MXPB0AR01 MERCK, CARACTERÍSTICAS ADICIONAIS:COM 4 PARAFUSOS E 8 ARRUELAS, TIPO:PLACA ELETRÔNICA, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475939",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:TQ00PWPCB MERCK, CARACTERÍSTICAS ADICIONAIS:USO FONTE, TIPO:PLACA ELETRÔNICA, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475940",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:TQ00ELKNB MERCK, CARACTERÍSTICAS ADICIONAIS:COM BOTÃO, TIPO:PLACA ELETRÔNICA, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475941",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:TQMAINPCB MERCK, TIPO:PLACA ELETRÔNICA, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475942",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:MXPC0NN01 MERCK, CARACTERÍSTICAS ADICIONAIS:COM CONECTORES, TIPO:PLACA ELETRÔNICA, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475954",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:MXPL0AD01,MERCK, TIPO:CÉLULA DE CARGA COM SUPORTE, APLICAÇÃO:BOMBA DE VÁCUO MILLIFLEX PLUS DE DOIS CABEÇOTES"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475968",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:MXPPMKIT1 MERCK, CARACTERÍSTICAS ADICIONAIS:COMPOSIÇÃO: SUPORTE DA CABEÇA DA BOMBA, O-RING,, TIPO:KIT REPARO, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475969",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:MXPLIQU01 MERCK, CARACTERÍSTICAS ADICIONAIS:COMPOSIÇÃO:02 MEMBRANA E 04  VÁLVULA, TIPO:KIT REPARO, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475970",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:MXP0RIN01 MERCK, CARACTERÍSTICAS ADICIONAIS:COMPOSIÇÃO:01 DIA CICLIPS EM 12, 07 0-RING, 02 MOL, TIPO:KIT REPARO, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475971",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:TQBELTKIT MERCK, CARACTERÍSTICAS ADICIONAIS:COMPOSIÇÃO:01 CORREIA PARA ROTOR, 01 CORREIA PARA, TIPO:KIT REPARO, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475972",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:TQPULLKIT MERCK, CARACTERÍSTICAS ADICIONAIS:COMPOSIÇÃO: POLIAS, TIPO:KIT REPARO, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475974",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:MXPMAGN01 MERCK, TIPO:ELETROMAGNÉTICO, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475975",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:MXPPLATI1 MERCK, TIPO:BASE INFERIOR, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475976",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:MXPPFEET4 MERCK, TIPO:CONJUNTO DE PÉS E CÁPSULAS, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475977",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:MXPC0NNI1 MERCK, TIPO:CONECTOR, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475978",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:TQ0CLSRED MERCK, TIPO:REDUTOR, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475979",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:TQHEADRED MERCK, TIPO:REDUTOR, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475980",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:TQ00RBU01 MERCK, TIPO:BOTÃO CILINDRICO, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475982",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:TQ0CLSING MERCK, TIPO:MOTOR DE FECHAMENTO COM PLACA CONTROLADORA, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475983",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:TQ0P0WFAN MERCK, TIPO:VENTILADOR DA FONTE, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475984",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:TQ00PHC01 MERCK, TIPO:CABECOTE, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475985",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:TQ0KEYPAD MERCK, TIPO:TECLADO, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475987",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:TQ0HEADMT MERCK, TIPO:MOTOR CABEÇOTE E PCB, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475988",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:TQB0TCABL MERCK, TIPO:CABO INTERNO DA PLACA, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475990",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:TQITPMKIT MERCK, TIPO:SELO FLAT, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475991",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:TQ0000STP MERCK, TIPO:PINO CURSO TAMPA, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "475993",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:TQ000RTST MERCK, CARACTERÍSTICAS ADICIONAIS:COMPOSIÇÃO: 03 ROLAMENTOS E 02 GUIAS DE AÇO, TIPO:KIT MANUTENÇÃO PARA ROTOR E ESTATOR, APLICAÇÃO:BOMBA STERITEST E BOMBA VÁCUO MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "476345",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:TQ0000RTR MERCK, TIPO:ROTOR, APLICAÇÃO:BOMBA PERISTÁLTICA MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "476346",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:TQ0000LCD MERCK, TIPO:DISPLAY LCD PARA EQUINOX, APLICAÇÃO:BOMBA PERISTÁLTICA MILLIFLEX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "486081",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:A44110000 (ITO20K), EDWARDS, CARACTERÍSTICAS ADICIONAIS:CAPACIDADE 1,84L, COM PINÇA NW25, ANEL DE CENTRAGE, TIPO:FILTRO E COLETOR DE POEIRA E VAPOR, APLICAÇÃO:BOMBA DE VACUO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "600198",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:ITO20K (A44110000), CARACTERÍSTICAS ADICIONAIS:INCLUSO BRAÇADEIRA, ANEL CENTRAGEM E O'RING, TIPO:FILTRO E COLETOR DE POEIRA E VAPOR, APLICAÇÃO:BOMBAS VÁCUO EDWARDS"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "600964",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:MODELO GHS 350 VSD+, CARACTERÍSTICAS ADICIONAIS:VOLUME 21.3 LITROS  PRESSÃO 0,35 MBAR, TIPO:ELEMENTO FILTRANTE, APLICAÇÃO:BOMBA VÁCUO ATLAS COPCO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "3763",
+    "codigo": "600965",
+    "descricao": " BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS, MODELO:MODELO GHS 350 VSD+, CARACTERÍSTICAS ADICIONAIS:VOLUME_8.4 LITROS, PRESSÃO 0,35 MBAR, TIPO:ELEMENTO FILTRANTE, APLICAÇÃO:BOMBA VÁCUO ATLAS COPCO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "4420",
+    "codigo": "116726",
+    "descricao": " CANHÃO DE ÁGUA, CANHAO DE AGUA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "237497",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:40 LBF/POL2, POTÊNCIA MOTOR:1/3 HP, VAZÃO:65 L/MIN, TENSÃO:110/220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "253057",
+    "descricao": " COMPRESSOR DE AR, VAZÃO:2.000 CM³/MIN, TENSÃO:110/220 V, POTÊNCIA:6 W"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "254214",
+    "descricao": " COMPRESSOR DE AR, POTÊNCIA MOTOR:3 HP, VAZÃO:175 L/MIN, TENSÃO:110/220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "255713",
+    "descricao": " COMPRESSOR DE AR, TENSÃO:220/380 V, POTÊNCIA:60 W, APLICAÇÃO:SISTEMA AR COMPRIMIDO, CARACTERÍSTICAS ADICIONAIS:PARTIDA SEM CARGA, QUADRO DE COMANDO/CONTROLE E DE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "256382",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:175 PSI, POTÊNCIA MOTOR:5 HP, VAZÃO:390 L/MIN, TENSÃO:220 V, POTÊNCIA:3,70 KW, APLICAÇÃO:SISTEMA AR COMPRIMIDO, CARACTERÍSTICAS ADICIONAIS:PARTIDA POR COMANDO ELÉTRICO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "258323",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:120 PSI, POTÊNCIA MOTOR:1 HP, TENSÃO:110/220 V, APLICAÇÃO:SISTEMA AR COMPRIMIDO, CARACTERÍSTICAS ADICIONAIS:LUBRIFICADO, COM RODAS, VOLUME 25L,COMPRIMENTO 580"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "268844",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:40 LBF/POL2, POTÊNCIA MOTOR:1/4 HP, VAZÃO:16 L/MIN, TENSÃO:110/220 V, APLICAÇÃO:LIMPEZA EQUIPAMENTOS ELETRÔNICOS, CARACTERÍSTICAS ADICIONAIS:PORTÁTIL, COM MANGUEIRA ESPIRAL 3M E DESLOCAMENTO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "274702",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:2.200 MMCA, POTÊNCIA MOTOR:2 CV, VAZÃO:3,2 M3/MIN, TENSÃO:280/380 V, APLICAÇÃO:SISTEMA DE AR COMPRIMIDO, CARACTERÍSTICAS ADICIONAIS:RADIAL, CARCAÇA ALUMÍNIO, 2 PÓLOS"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "291507",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:175 PSI, POTÊNCIA MOTOR:5 HP, VAZÃO:566 L/MIN, TENSÃO:220/380 V, POTÊNCIA:3,70 KW, APLICAÇÃO:SISTEMA DE AR COMPRIMIDO, CARACTERÍSTICAS ADICIONAIS:PARTIDA POR COMANDO ELÉTRICO, CAPACIDADE TANQUE:250 L"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "297719",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:120 PSI, POTÊNCIA MOTOR:1,50 HP, TENSÃO:110/220 V, APLICAÇÃO:PINTURA AUTOMOTIVA, CARACTERÍSTICAS ADICIONAIS:PRESSÃO MÍNIMA 80 PSI, DIMENSÕES:60 X 27 X 37 CM, CAPACIDADE TANQUE:24 L, ACESSÓRIOS:PISTOLA PARA PINTURA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "297830",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:175 PSI, TENSÃO:110/220 V, APLICAÇÃO:SISTEMA DE AR COMPRIMIDO, CARACTERÍSTICAS ADICIONAIS:PRESSÃO MÍNIMA 135 PSI, ROTAÇÃO MOTOR:1.200 RPM"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "300404",
+    "descricao": " COMPRESSOR DE AR, POTÊNCIA MOTOR:1/2 CV, TENSÃO:220 V, APLICAÇÃO:ESTAÇÃO DE PISCICULTURA, CARACTERÍSTICAS ADICIONAIS:RADIAL DE PISO IP 44, FILTRO DE AR, CARCAÇA EM ALU, TIPO MOTOR:MONOFÁSICO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "302000",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:140 PSI, POTÊNCIA MOTOR:1,50 HP, TENSÃO:110/220 V, CARACTERÍSTICAS ADICIONAIS:PISTÃO CDI 5, 2/100, MONOFÁSICO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "322044",
+    "descricao": " COMPRESSOR DE AR, VAZÃO:3,5 L/MIN, TENSÃO:110/220 V, POTÊNCIA:5 W, APLICAÇÃO:AQUÁRIO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "327237",
+    "descricao": " COMPRESSOR DE AR, VAZÃO:4,5 L/MIN, TENSÃO:110 V, POTÊNCIA:6 W, CARACTERÍSTICAS ADICIONAIS:2 SAÍDAS DE AR E 3 VELOCIDADES"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "398726",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:115 PSI, POTÊNCIA MOTOR:1,50 CV, VAZÃO:206 L/MIN, TENSÃO:110/220 V, CARACTERÍSTICAS ADICIONAIS:ACIONAMENTO MOTOR DIRETO, 1 PISTÃO, 2 MANÔMETROS, ROTAÇÃO MOTOR:2.850 RPM, CAPACIDADE TANQUE:0,90 L"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "432423",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:120 LB/POL2, POTÊNCIA MOTOR:5 HP, VAZÃO:566 L/MIN, TENSÃO:220 V, APLICAÇÃO:SISTEMA AR COMPRIMIDO, CAPACIDADE TANQUE:224 L"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "443003",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:175 PSI, POTÊNCIA MOTOR:0,5 HP, TENSÃO:230 V, CARACTERÍSTICAS ADICIONAIS:2 TANQUES INTERNOS DE 1,8 LITROS, CAPACIDADE TANQUE:2,6 L"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "448800",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:140 PSI, POTÊNCIA MOTOR:2 HP, VAZÃO:283 L/MIN, TENSÃO:110/220 V, CARACTERÍSTICAS ADICIONAIS:MONOFASICO, 2 CILINDROS, ROTAÇÃO MOTOR:910 RPM, CAPACIDADE TANQUE:110 L"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "449468",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:12 BAR., POTÊNCIA MOTOR:15 HP, TENSÃO:220/380 V, APLICAÇÃO:SISTEMA AR COMPRIMIDO, CARACTERÍSTICAS ADICIONAIS:04 PISTÕES, 2 POLOS, CAPACIDADE TANQUE:350 L"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "453217",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:140 LB/POL2, POTÊNCIA MOTOR:7 HP, VAZÃO:850 L/MIN, TENSÃO:220/380 V, APLICAÇÃO:SISTEMA AR COMPRIMIDO, CAPACIDADE TANQUE:250 L"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "480821",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:140 PSI, POTÊNCIA MOTOR:2 HP, VAZÃO:283 L/MIN, TENSÃO:220 V, CARACTERÍSTICAS ADICIONAIS:MONOFÁSICO, 2 CILINDROS, 2 POLOS, CAPACIDADE TANQUE:100 L"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "481616",
+    "descricao": " COMPRESSOR DE AR, POTÊNCIA MOTOR:2,5 W, VAZÃO:4 L/MIN, TENSÃO:110 V, APLICAÇÃO:AERAÇÃO DA ÁGUA EM AQUARIO, CARACTERÍSTICAS ADICIONAIS:ACIONAMENTO PELO SISTEMA DE DIAFRAGMA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "481632",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:120 PSI, POTÊNCIA MOTOR:2 HP, VAZÃO:200 L/MIN, TENSÃO:110/220 V, CARACTERÍSTICAS ADICIONAIS:PRESSÃO MÍNIMA 80 PSI, CAPACIDADE TANQUE:46 L"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "483604",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:7 BAR., POTÊNCIA MOTOR:290 CV, VAZÃO:25,8 M3/MIN, TENSÃO:12 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "483731",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:9.1 BAR., POTÊNCIA MOTOR:200 HP, VAZÃO:1.581 M3/MIN, TENSÃO:12 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "484500",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:330 BAR., VAZÃO:100 L/MIN, TENSÃO:220/380/440 V, APLICAÇÃO:SISTEMA DE PURIFICAÇÃO DO AR, CARACTERÍSTICAS ADICIONAIS:MOTOR TRIFÁSICO, QUATRO ESTÁGIOS DE COMPRESSÃO, S, TIPO:RADIAL PORTÁTIL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "601801",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:10 BAR., POTÊNCIA MOTOR:4 HP, TENSÃO:220/380 V, APLICAÇÃO:AULAS PRÁTICAS EM LABORATÓRIO, CARACTERÍSTICAS ADICIONAIS:VAZÃO EFETIVA: 20 (34) BAR(E)/PCM (M3H): 10 (25,5, ROTAÇÃO MOTOR:3.500 RPM, TIPO:DE PARAFUSO TRIFÁSICO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5502",
+    "codigo": "602784",
+    "descricao": " COMPRESSOR DE AR, PRESSÃO MÁXIMA:115 LB/POL2, POTÊNCIA MOTOR:2 HP, VAZÃO:243,38 L/MIN, TENSÃO:110 V, APLICAÇÃO:LIMPEZA EQUIPAMENTOS ELETRÔNICOS, ROTAÇÃO MOTOR:3.400 RPM, CAPACIDADE TANQUE:24 L, TIPO:PORTÁTIL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5503",
+    "codigo": "262445",
+    "descricao": " COMPRESSOR HERMÉTICO ALTERNATIVO, POTÊNCIA MOTOR:3,0 HP, TENSÃO:220 V, APLICAÇÃO:APARELHO AR CONDICIONADO 30.000 BTU'S"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5503",
+    "codigo": "283159",
+    "descricao": " COMPRESSOR HERMÉTICO ALTERNATIVO, POTÊNCIA MOTOR:3,0 HP, TENSÃO:380 V, APLICAÇÃO:SISTEMA REFRIGERAÇÃO DE CÂMARA FRIA, CARACTERÍSTICAS ADICIONAIS:TRIFÁSICA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "5503",
+    "codigo": "393853",
+    "descricao": " COMPRESSOR HERMÉTICO ALTERNATIVO, POTÊNCIA MOTOR:10 TR, TENSÃO:220 V, APLICAÇÃO:CENTRAL AR CONDICIONADO, CARACTERÍSTICAS ADICIONAIS:TRIFÁSICO, GÁS R22, MOTOR 7,5 KW, CAPACIDADE:120.000 BTU"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "335387",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:JUNTA DE CABEÇOTE, MODELO:DABI, APLICAÇÃO:COMPRESSOR"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "361524",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:ELEMENTO FILTRO ÓLEO, MODELO:LS16/60HH, APLICAÇÃO:COMPRESSOR DE AR"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "440768",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:FILTRO AR, APLICAÇÃO:COMPRESSOR SCHULZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "440769",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:SEPARADOR AR, APLICAÇÃO:COMPRESSOR SCHULZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "440770",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:ELEMENTO COALESCENTE, APLICAÇÃO:COMPRESSOR SCHULZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "440772",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:SEPARADOR CONDENSADOR, APLICAÇÃO:COMPRESSOR SCHULZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "440807",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:ELEMENTO FILTRO ÓLEO, APLICAÇÃO:COMPRESSOR SABROE SMC 106-S"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "442080",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:ELEMENTO FILTRO ÓLEO, MODELO:P502-8415, APLICAÇÃO:RESFRIADOR CENTRÍFUGO CARRIER"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "443536",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:SEPARADOR CONDENSADO, APLICAÇÃO:COMPRESSOR"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "447207",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:ELEMENTO FILTRO ÓLEO, MODELO:DALTECH DK 300, APLICAÇÃO:COMPRESSOR DE AR"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "447208",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:SEPARADOR DE AR E ÓLEO, MODELO:DALTECH DK 300, APLICAÇÃO:COMPRESSOR DE AR"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "447210",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:FILTRO AR, MODELO:DALTECH DK 300, APLICAÇÃO:COMPRESSOR DE AR"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "447211",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:PÓS-REFRIGERADOR, MODELO:DALTECH DK 300, APLICAÇÃO:COMPRESSOR DE AR"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "447212",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:ACOPLADOR FLEXÍVEL, MODELO:DALTECH DK 300, APLICAÇÃO:COMPRESSOR DE AR"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "452275",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:FILTRO REGULADOR E LUBRIFICADOR DE AR, APLICAÇÃO:COMPRESSOR DE AR, CARACTERÍSTICAS ADICIONAIS:CONEXÃO BSPP 1/2\", PRESSÃO DE TRABALHO: 22.5 A AB"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "457744",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:FILTRO AR, APLICAÇÃO:COMPRESSOR MOTOMOL MAV40/250P"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "467706",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:PÉ DE BORRACHA, APLICAÇÃO:COMPRESSOR DE AR"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "468292",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:CONECTOR, APLICAÇÃO:COMPRESSOR DE AR"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "468293",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:VÁLVULA ESFERA, APLICAÇÃO:COMPRESSOR DE AR"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "468294",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:VÁLVULA REGISTRO, APLICAÇÃO:COMPRESSOR DE AR"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "468327",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:MANGUEIRA, APLICAÇÃO:COMPRESSOR DE AR"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "468337",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:REGISTRO DE AR, APLICAÇÃO:COMPRESSOR DE AR"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "468338",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:ELEMENTO FILTRO DE AR, APLICAÇÃO:COMPRESSOR DE AR"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "468717",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:FILTRO AR, APLICAÇÃO:COMPRESSOR 175 LBF"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "468718",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:FILTRO AR, APLICAÇÃO:COMPRESSOR 75 LBF"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "468719",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:CORREIA, APLICAÇÃO:COMPRESSOR DE AR"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "473201",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:FILTRO DE ÓLEO, APLICAÇÃO:COMPRESSOR SRP1040"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "473202",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:FILTRO AR, APLICAÇÃO:COMPRESSOR SRP1040"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "473203",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:FILTRO AR, APLICAÇÃO:COMPRESSOR DE AR 9001 CRISTOFOLI"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "473204",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:CABO DE FORÇA, APLICAÇÃO:COMPRESSOR DE AR 9001 CRISTOFOLI"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "473205",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:PRESSOSTATO, APLICAÇÃO:COMPRESSOR DE AR 9001 CRISTOFOLI"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "473206",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:VÁLVULA DE RETENÇÃO, APLICAÇÃO:COMPRESSOR DE AR 9001 CRISTOFOLI"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "473207",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:VÁLVULA DE SEGURANÇA, APLICAÇÃO:COMPRESSOR DE AR 9001 CRISTOFOLI"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "473208",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:MOTOR ELÉTRICO, APLICAÇÃO:COMPRESSOR DE AR 9001 CRISTOFOLI"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "473435",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:ELEMENTO SEPARADOR, APLICAÇÃO:COMPRESSOR SRP1040"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "473436",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:ÓLEO, APLICAÇÃO:COMPRESSOR SRP1040"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "483613",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:REGULADORA PRESSÃO, MODELO:CARRIER 30 HX 30 GX, APLICAÇÃO:COMPRESSOR"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "484526",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:FILTRO DE ÓLEO, MODELO:H50410, APLICAÇÃO:COMPRESSOR PARAFUSO DE REFRIGERAÇÃO, CARACTERÍSTICAS ADICIONAIS:EM AÇO INOX"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "486513",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:FILTRO DE ÓLEO, APLICAÇÃO:COMPRESSOR DE AR CHILLER CARRIER"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "601583",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:CONJUNTO RELÊ ISOLADOR TÉRMICO, MODELO:UNIVERSAL, APLICAÇÃO:COMPRESSOR, CARACTERÍSTICAS ADICIONAIS:BIVOLT"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "603202",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:BIELA/PISTãO, APLICAÇÃO:COMPRESSOR S136 DABI ATLANTE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "10556",
+    "codigo": "603661",
+    "descricao": " PEÇA/COMPONENTE COMPRESSOR, TIPO:ELEMENTO FILTRANTE, APLICAÇÃO:COMPRESSOR KAESER E6KE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "11512",
+    "codigo": "321659",
+    "descricao": " BOMBA, VAZÃO:280 L/H, TENSÃO ALIMENTAÇÃO:110 V, FREQÜÊNCIA:60 HZ, POTÊNCIA NOMINAL:7 W, APLICAÇÃO:AQUÁRIO E AQUATERRÁRIO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "11512",
+    "codigo": "327428",
+    "descricao": " BOMBA, VAZÃO:650 L/H, TENSÃO ALIMENTAÇÃO:110 V, FREQÜÊNCIA:60 HZ, POTÊNCIA NOMINAL:11 W, APLICAÇÃO:AQUÁRIO E AQUATERRÁRIO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "11512",
+    "codigo": "327429",
+    "descricao": " BOMBA, VAZÃO:1.950 L/H, TENSÃO ALIMENTAÇÃO:110 V, FREQÜÊNCIA:60 HZ, POTÊNCIA NOMINAL:30 W, APLICAÇÃO:AQUÁRIO E AQUATERRÁRIO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "11512",
+    "codigo": "327430",
+    "descricao": " BOMBA, VAZÃO:3.500 L/H, TENSÃO ALIMENTAÇÃO:110 V, FREQÜÊNCIA:60 HZ, POTÊNCIA NOMINAL:90 W, APLICAÇÃO:AQUÁRIO E AQUATERRÁRIO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "11512",
+    "codigo": "355422",
+    "descricao": " BOMBA, VAZÃO:50 L/H, TENSÃO ALIMENTAÇÃO:230 V, CARACTERÍSTICAS ADICIONAIS:AUTO-ASPIRANTE, MANGUEIRA 3/4\", BICO ALUMÍNIO, BY"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "11512",
+    "codigo": "444810",
+    "descricao": " BOMBA, VAZÃO:2.740 L/H, TENSÃO ALIMENTAÇÃO:110 V, POTÊNCIA NOMINAL:45 W"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "11512",
+    "codigo": "482095",
+    "descricao": " BOMBA, VAZÃO:1.200 L/H, TENSÃO ALIMENTAÇÃO:220 V, POTÊNCIA NOMINAL:22 W, APLICAÇÃO:AQUÁRIO, CARACTERÍSTICAS ADICIONAIS:SILENCIOSA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "11512",
+    "codigo": "482096",
+    "descricao": " BOMBA, VAZÃO:3.000 L/H, TENSÃO ALIMENTAÇÃO:220 V, POTÊNCIA NOMINAL:55 W, APLICAÇÃO:AQUÁRIO, CARACTERÍSTICAS ADICIONAIS:SILENCIOSA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "11512",
+    "codigo": "482097",
+    "descricao": " BOMBA, VAZÃO:500 L/H, TENSÃO ALIMENTAÇÃO:220 V, POTÊNCIA NOMINAL:8 W, APLICAÇÃO:AQUÁRIO, CARACTERÍSTICAS ADICIONAIS:SILENCIOSA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "11512",
+    "codigo": "482098",
+    "descricao": " BOMBA, VAZÃO:300 L/H, TENSÃO ALIMENTAÇÃO:220 V, POTÊNCIA NOMINAL:5 W, APLICAÇÃO:AQUÁRIO, CARACTERÍSTICAS ADICIONAIS:SILENCIOSA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "17923",
+    "codigo": "274939",
+    "descricao": " COMPRESSOR HERMÉTICO SCROLL, POTÊNCIA:4 KW, TENSÃO:220 V, TIPO:SCROLL, FREQUÊNCIA:60 HZ, APLICAÇÃO:APARELHO AR CONDICIONADO, CAPACIDADE:60.000 BTU, MODELO:HERMÉTICO SCROLL, CARACTERíSTICAS ADICIONAIS:ENCAIXE PARA ROSCA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "17923",
+    "codigo": "363474",
+    "descricao": " COMPRESSOR HERMÉTICO SCROLL, POTÊNCIA:4.150 W, TENSÃO:380 V, FREQUÊNCIA:60 HZ, CAPACIDADE:48.000 BTU, MODELO:HERMÉTICO SCROLL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "17923",
+    "codigo": "363475",
+    "descricao": " COMPRESSOR HERMÉTICO SCROLL, POTÊNCIA:3.200 W, TENSÃO:220 V, FREQUÊNCIA:60 HZ, CAPACIDADE:36.000 BTU, MODELO:HERMÉTICO SCROLL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "17923",
+    "codigo": "363478",
+    "descricao": " COMPRESSOR HERMÉTICO SCROLL, POTÊNCIA:1.323 W, TENSÃO:220 V, FREQUÊNCIA:60 HZ, CAPACIDADE:12.000 BTU, MODELO:HERMÉTICO SCROLL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "17923",
+    "codigo": "363501",
+    "descricao": " COMPRESSOR HERMÉTICO SCROLL, POTÊNCIA:5.120 W, TENSÃO:380 V, FREQUÊNCIA:60 HZ, APLICAÇÃO:CENTRAL AR CONDICIONADO, CAPACIDADE:60.000 BTU, MODELO:HERMÉTICO SCROLL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "17923",
+    "codigo": "364161",
+    "descricao": " COMPRESSOR HERMÉTICO SCROLL, POTÊNCIA:5 TR, TENSÃO:220 V, FREQUÊNCIA:60 HZ, APLICAÇÃO:APARELHO AR CONDICIONADO, CAPACIDADE:60.000 BTU"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "17923",
+    "codigo": "380447",
+    "descricao": " COMPRESSOR HERMÉTICO SCROLL, POTÊNCIA:7,50 TR, TENSÃO:220 V, FREQUÊNCIA:60 HZ, CARACTERíSTICAS ADICIONAIS:TRIFÁSICO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "17923",
+    "codigo": "380448",
+    "descricao": " COMPRESSOR HERMÉTICO SCROLL, POTÊNCIA:10 TR, TENSÃO:380 V, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "17923",
+    "codigo": "393330",
+    "descricao": " COMPRESSOR HERMÉTICO SCROLL, POTÊNCIA:10 TR, TENSÃO:220 V, FREQUÊNCIA:60 HZ, APLICAÇÃO:CENTRAL AR CONDICIONADO, CAPACIDADE:120.000 BTU, CARACTERíSTICAS ADICIONAIS:TRIFÁSICO, GÁS R22, MOTOR 7,5 KW"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "17923",
+    "codigo": "439827",
+    "descricao": " COMPRESSOR HERMÉTICO SCROLL, POTÊNCIA:6,70 TR, TENSÃO:380 V, CAPACIDADE:81.000 BTU"
+  },
+  {
+    "grupo": "43",
+    "classe": "4310",
+    "padrao": "17923",
+    "codigo": "478089",
+    "descricao": " COMPRESSOR HERMÉTICO SCROLL, POTÊNCIA:12,5 TR, TENSÃO:380 V, FREQUÊNCIA:60 HZ, CAPACIDADE:150.000 BTU, CARACTERíSTICAS ADICIONAIS:TRIFÁSICO, GÁS R22"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3733",
+    "codigo": "341460",
+    "descricao": " BOMBA CENTRÍFUGA, TIPO MOTOR:TRIFÁSICA, DIÂMETRO:2 X 1 1/2 POL, ALTURA:45 M, VAZÃO:40 M3, POTÊNCIA:5 CV"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3733",
+    "codigo": "341461",
+    "descricao": " BOMBA CENTRÍFUGA, TIPO MOTOR:TRIFÁSICA, DIÂMETRO:2 X 2 POL, ALTURA:29 M, VAZÃO:20 M3, POTÊNCIA:3 CV"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3733",
+    "codigo": "358626",
+    "descricao": " BOMBA CENTRÍFUGA, TIPO MOTOR:TRIFÁSICO, ALTURA:520 MM, VAZÃO:22 L/S, VOLTAGEM:110/220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3733",
+    "codigo": "461085",
+    "descricao": " BOMBA CENTRÍFUGA, TIPO MOTOR:TRIFÁSICO, DIÂMETRO:2 X 1 1/2 POL, ALTURA:16 M, VAZÃO:20 M3, POTÊNCIA:3 CV, VOLTAGEM:380/220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3733",
+    "codigo": "466346",
+    "descricao": " BOMBA CENTRÍFUGA, TIPO MOTOR:TRIFÁSICO, DIÂMETRO:1 POL, VAZÃO:3,6 M3/H, POTÊNCIA:5 CV, VOLTAGEM:220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3733",
+    "codigo": "466347",
+    "descricao": " BOMBA CENTRÍFUGA, TIPO MOTOR:TRIFÁSICO, DIÂMETRO:1 1/2 POL, VAZÃO:3,8 M3/H, POTÊNCIA:5 CV, VOLTAGEM:220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3733",
+    "codigo": "471237",
+    "descricao": " BOMBA CENTRÍFUGA, TIPO MOTOR:TRIFÁSICO, VAZÃO:50 M3/H, POTÊNCIA:7,5 CV, VOLTAGEM:440 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3733",
+    "codigo": "600912",
+    "descricao": " BOMBA CENTRÍFUGA, TIPO MOTOR:TRIFÁSICA, DIÂMETRO:26 CM, ALTURA:20 CM, VAZÃO:1,6 M3/MIN, POTÊNCIA:5 CV"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3755",
+    "codigo": "253690",
+    "descricao": " BOMBA ENCHER, MATERIAL CORPO:PLÁSTICO, MATERIAL BICO:AÇO INOXIDÁVEL, TAMANHO:ÚNICO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3755",
+    "codigo": "444833",
+    "descricao": " BOMBA ENCHER, MATERIAL CORPO:PLÁSTICO, MATERIAL BICO:PLÁSTICO, TAMANHO:ÚNICO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3755",
+    "codigo": "467415",
+    "descricao": " BOMBA ENCHER, MATERIAL CORPO:PLÁSTICO, MATERIAL BICO:AÇO INOXIDÁVEL, TAMANHO:TAMANHO MÉDIO, CARACTERÍSTICAS ADICIONAIS:DUPLA AÇÃO, BICO 7MM"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3755",
+    "codigo": "480265",
+    "descricao": " BOMBA ENCHER, MATERIAL CORPO:PVC, MATERIAL BICO:AÇO INOXIDÁVEL, TAMANHO:TAMANHO MÉDIO, CARACTERÍSTICAS ADICIONAIS:DUPLA AÇÃO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3756",
+    "codigo": "75183",
+    "descricao": " BOMBA ENCHER PNEU DE BICICLETA, BOMBA DE ENCHER PNEU DE BICICLETA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "234745",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:3 CV, TENSÃO ALIMENTAÇÃO:110 V, CARACTERÍSTICAS ADICIONAIS:TRIFÁSICA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "256353",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:7,5 HP, TENSÃO ALIMENTAÇÃO:220/380 V, CARACTERÍSTICAS ADICIONAIS:RECALQUE MÁXIMO 23 M/PESO 47 KG/SAÍDA 4\", MODELO:SERIE ASB 750, VAZÃO:132 M3/H, TIPO MOTOR:TRIFÁSICA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "258362",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:2 CV, TENSÃO ALIMENTAÇÃO:220/380 V, CARACTERÍSTICAS ADICIONAIS:2 POLOS, 3500 RPM, 60HZ, MODELO:BCS 220, VAZÃO:35 M3/H, TIPO MOTOR:TRIFÁSICA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "295665",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:1/2 CV, TENSÃO ALIMENTAÇÃO:220 V, CARACTERÍSTICAS ADICIONAIS:TRIFÁSICA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "296494",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:1 CV, TENSÃO ALIMENTAÇÃO:220 V, CARACTERÍSTICAS ADICIONAIS:CENTRÍFUGA, CARCAÇA ALUMÍNIO/SILÍCIO, 2 PÓLOS,  RO, TIPO MOTOR:ELÉTRICO, MONOFÁSICO NEMA 48"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "296495",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:1/2 CV, TENSÃO ALIMENTAÇÃO:220 V, CARACTERÍSTICAS ADICIONAIS:INJETORA, CARCAÇA FERRO FUNDIDO, 2 PÓLOS, PROTEÇÃO, TIPO MOTOR:ELÉTRICO, MONOFÁSICO NEMA 48"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "298956",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:1 CV, TENSÃO ALIMENTAÇÃO:220 V, CARACTERÍSTICAS ADICIONAIS:TRIFÁSICA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "301357",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:3 CV, TENSÃO ALIMENTAÇÃO:220/380 V, CARACTERÍSTICAS ADICIONAIS:SAÍDA (RECALQUE) 1 1/2 POL BSP, ENTRADA (SUCÇÃO), MODELO:BC-21 R, VAZÃO:17,5 M3/H, TIPO MOTOR:ELÉTRICO TRIFÁSICO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "321348",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:3 CV, TENSÃO ALIMENTAÇÃO:220 V, VAZÃO:2 M3/H, TIPO MOTOR:TRIFÁSICO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "325630",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:1/2 CV, TENSÃO ALIMENTAÇÃO:220 V, CARACTERÍSTICAS ADICIONAIS:MONOFÁSICA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "347907",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:7,5 CV, TENSÃO ALIMENTAÇÃO:220/380 V, TIPO MOTOR:TRIFÁSICO, VELOCIDADE:3.500 RPM"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "357212",
+    "descricao": " BOMBA HIDRÁULICA, TENSÃO ALIMENTAÇÃO:220/380/440/760 V, MODELO:KSB MEGABLOC 50-315+15 CV, VAZÃO:42,5 M3/H, TIPO MOTOR:TRIFÁSICO, VELOCIDADE:1.750 RPM, FREQÜÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "374294",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:4.7 CV, CARACTERÍSTICAS ADICIONAIS:SUCÇÃOXRECALQUE: 3\"/VAZÃO: 60 M3/H ALTURA 30 MCA, VAZÃO:60 M3/H, TIPO MOTOR:DIESEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "391295",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:4 HP, CARACTERÍSTICAS ADICIONAIS:DIÂMETRO SUCçãO: 2\" / ALTURA MÁXIMA: 35 M.C.A., MODELO:AUTO ESCOVANTE, VAZÃO:620 L/MIN, TIPO MOTOR:GASOLINA 4 TEMPOS"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "405844",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:1,5 CV, TENSÃO ALIMENTAÇÃO:220 V, VAZÃO:10 M3/H, TIPO MOTOR:TRIFÁSICO, VELOCIDADE:1.750 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:SUBMERSA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "407992",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:4 CV, TENSÃO ALIMENTAÇÃO:220/380/440 V, CARACTERÍSTICAS ADICIONAIS:CONEXÃO/RECALQUE DE 3\", VAZÃO:1.400 L/MIN, TIPO MOTOR:TRIFÁSICO, APLICAÇÃO:SUBMERSA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "448074",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:7,5 CV, TENSÃO ALIMENTAÇÃO:220 V, VAZÃO:27,6 M3/H, TIPO MOTOR:TRIFÁSICO, APLICAÇÃO:SUBMERSA, DIÂMETRO:4 POL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "448075",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:10 CV, TENSÃO ALIMENTAÇÃO:220 V, VAZÃO:18 M3/H, TIPO MOTOR:TRIFÁSICO, APLICAÇÃO:SUBMERSA, DIÂMETRO:4 POL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "448506",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:4 CV, TENSÃO ALIMENTAÇÃO:220/380/440 V, CARACTERÍSTICAS ADICIONAIS:CONEXÃO/RECALQUE DE 3\", TIPO MOTOR:TRIFÁSICO, FREQÜÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "448509",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:50 CV, TENSÃO ALIMENTAÇÃO:220/380/440 V, CARACTERÍSTICAS ADICIONAIS:CONEXÃO/RECALQUE DE 2\", FREQÜÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "449483",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:150 CV, TENSÃO ALIMENTAÇÃO:440 V, CARACTERÍSTICAS ADICIONAIS:INSTALAÇÃO AFOGADA/ESCORVADA, MODELO:AUTO ESCOVANTE, VAZÃO:150 M3/H, TIPO MOTOR:ELÉTRICO TRIFÁSICO RADIAL, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE DE ÁGUA SALGADA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "449991",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:75 CV, TENSÃO ALIMENTAÇÃO:440 V, CARACTERÍSTICAS ADICIONAIS:INSTALAÇÃO AFOGADA/ESCORVADA, MODELO:AUTO ESCOVANTE, VAZÃO:150 M3/H, TIPO MOTOR:ELÉTRICO TRIFÁSICO RADIAL, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE DE ÁGUA SALGADA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "453525",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:25 CV, CARACTERÍSTICAS ADICIONAIS:65MCA, TUBULAÇÃO SUCÇÃO: 3\", MODELO:2 POLOS, ISOLAMENTO CLASSE \"F\", TIPO MOTOR:TRIFÁSICO, MONOESTAGIO DE EIXO HORIZONTAL, VELOCIDADE:3.500 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "453526",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:7,5 CV, CARACTERÍSTICAS ADICIONAIS:55MCA, TUBULAÇÃO SUCÇÃO: 3\", MODELO:2 POLOS, ISOLAMENTO CLASSE \"F\", TIPO MOTOR:TRIFÁSICO, MONOESTAGIO DE EIXO HORIZONTAL, VELOCIDADE:3.500 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "453527",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:7,5 CV, CARACTERÍSTICAS ADICIONAIS:43MCA, TUBULAÇÃO SUCÇÃO: 3\", MODELO:2 POLOS, ISOLAMENTO CLASSE \"F\", TIPO MOTOR:TRIFÁSICO, MONOESTAGIO DE EIXO HORIZONTAL, VELOCIDADE:3.500 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "453528",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:5 CV, CARACTERÍSTICAS ADICIONAIS:35MCA, TUBULAÇÃO SUCÇÃO: 2 1/2\", MODELO:2 POLOS, ISOLAMENTO CLASSE \"F\", TIPO MOTOR:TRIFÁSICO, MONOESTAGIO DE EIXO HORIZONTAL, VELOCIDADE:3.500 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "453531",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:3 CV, CARACTERÍSTICAS ADICIONAIS:26MCA,TUBULAÇÃO SUCÇÃO: 2 1/2\", MODELO:2 POLOS, ISOLAMENTO CLASSE \"B\", TIPO MOTOR:TRIFÁSICO, MONOESTAGIO DE EIXO HORIZONTAL, VELOCIDADE:3.500 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "453532",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:30 CV, CARACTERÍSTICAS ADICIONAIS:74MCA, TUBULAÇÃO DE SUCÇÃO: 3\", ELEVAÇÃO: 2 1/2, MODELO:2 POLOS, ISOLAMENTO CLASSE \"F\", TIPO MOTOR:TRIFÁSICO, MONOESTAGIO DE EIXO HORIZONTAL, VELOCIDADE:3.500 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "453534",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:10 CV, CARACTERÍSTICAS ADICIONAIS:60MCA, TUBULAÇÃO DE SUCÇÃO: 2 ¿\", ELEVAÇÃO: 2\", MODELO:2 POLOS, ISOLAMENTO CLASSE \"F\", TIPO MOTOR:TRIFÁSICO, MONOESTAGIO DE EIXO HORIZONTAL, VELOCIDADE:3.500 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "453535",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:7,5 CV, CARACTERÍSTICAS ADICIONAIS:43MCA, TUBULAÇÃO DE SUCÇÃO: 2 ¿\", ELEVAÇÃO: 2\", MODELO:2 POLOS, ISOLAMENTO CLASSE \"F\", TIPO MOTOR:TRIFÁSICO, MONOESTAGIO DE EIXO HORIZONTAL, VELOCIDADE:3.500 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "453538",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:5 CV, CARACTERÍSTICAS ADICIONAIS:50MCA, TUBULAÇÃO SUCÇÃO: 2\", ELEVAÇÃO: 1 1/2\", MODELO:2 POLOS, ISOLAMENTO CLASSE \"F\", TIPO MOTOR:TRIFÁSICO, MONOESTAGIO DE EIXO HORIZONTAL, VELOCIDADE:3.500 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "453539",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:5 CV, CARACTERÍSTICAS ADICIONAIS:64MCA, TUBULAÇÃO SUCÇÃO: 1 1/2\", ELEVAÇÃO: 1 1/4\", MODELO:2 POLOS, ISOLAMENTO CLASSE \"F\", TIPO MOTOR:TRIFÁSICO, MONOESTAGIO DE EIXO HORIZONTAL, VELOCIDADE:3.500 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "453540",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:3 CV, CARACTERÍSTICAS ADICIONAIS:32MCA, TUBULAÇÃO DE SUCÇÃO: 2\", ELEVAÇÃO: 1 1/2\", MODELO:2 POLOS, ISOLAMENTO CLASSE \"B\", TIPO MOTOR:TRIFÁSICO, MONOESTAGIO DE EIXO HORIZONTAL, VELOCIDADE:3.500 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "453541",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:3 CV, CARACTERÍSTICAS ADICIONAIS:41MCA, TUBULAÇÃO SUCÇÃO: 1 1/2\", ELEVAÇÃO: 1 1/4\", MODELO:2 POLOS, ISOLAMENTO CLASSE \"B\", TIPO MOTOR:TRIFÁSICO, MONOESTAGIO DE EIXO HORIZONTAL, VELOCIDADE:3.500 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "453542",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:3 CV, CARACTERÍSTICAS ADICIONAIS:46MCA, TUBULAÇÃO SUCÇÃO: 1 1/2\", ELEVAÇÃO: 1 \", MODELO:2 POLOS, ISOLAMENTO CLASSE \"B\", TIPO MOTOR:TRIFÁSICO, MONOESTAGIO DE EIXO HORIZONTAL, VELOCIDADE:3.500 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "453543",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:2 CV, CARACTERÍSTICAS ADICIONAIS:46MCA, TUBULAÇÃO SUCÇÃO: 1 1/2\", ELEVAÇÃO: 1 \", MODELO:2 POLOS, ISOLAMENTO CLASSE \"B\", TIPO MOTOR:TRIFÁSICO, MONOESTAGIO DE EIXO HORIZONTAL, VELOCIDADE:3.500 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "453544",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:1,5 CV, CARACTERÍSTICAS ADICIONAIS:36MCA, TUBULAÇÃO SUCÇÃO 1,04\", ELEVAÇÃO: 1\", MODELO:2 POLOS, ISOLAMENTO CLASSE \"B\", TIPO MOTOR:TRIFÁSICO, MONOESTAGIO DE EIXO HORIZONTAL, VELOCIDADE:3.500 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "453545",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:1 CV, CARACTERÍSTICAS ADICIONAIS:30MCA, TUBULAÇÃO SUCÇÃO: 1 1/2\", ELEVAÇÃO: 1 1/2\", MODELO:2 POLOS, ISOLAMENTO CLASSE \"B\", TIPO MOTOR:TRIFÁSICO, MONOESTAGIO DE EIXO HORIZONTAL, VELOCIDADE:3.500 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "453546",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:1,2 CV, CARACTERÍSTICAS ADICIONAIS:25MCA, TUBULAÇÃO SUCÇÃO: 1\", ELEVAÇÃO: 3/4\", MODELO:2 POLOS, ISOLAMENTO CLASSE \"B\", TIPO MOTOR:MONOFÁSICO, MONOESTAGIO DE EIXO HORIZONTAL, VELOCIDADE:3.500 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "453547",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:1,4 CV, CARACTERÍSTICAS ADICIONAIS:25MCA, TUBULAÇÃO SUCÇÃO: 1\", ELEVAÇÃO: 3/4\", MODELO:2 POLOS, ISOLAMENTO CLASSE \"B\", TIPO MOTOR:MONOFÁSICO, MONOESTAGIO DE EIXO HORIZONTAL, VELOCIDADE:3.500 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "453548",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:1 CV, CARACTERÍSTICAS ADICIONAIS:9MCA.  TUBULAÇÃO SUCÇÃO: 2\", ELEVAÇÃO: 2\", MODELO:2 POLOS, ISOLAMENTO CLASSE \"B\", TIPO MOTOR:TRIFÁSICO, MONOESTAGIO DE EIXO HORIZONTAL, VELOCIDADE:3.500 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "453549",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:3 CV, CARACTERÍSTICAS ADICIONAIS:19MCA, TUBULAÇÃO DE SUCÇÃO 3\", ELEVAÇÃO: 3\", MODELO:2 POLOS, ISOLAMENTO CLASSE \"B\", TIPO MOTOR:TRIFÁSICO, MONOESTAGIO DE EIXO HORIZONTAL, VELOCIDADE:3.500 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "455243",
+    "descricao": " BOMBA HIDRÁULICA, TENSÃO ALIMENTAÇÃO:220 V, CARACTERÍSTICAS ADICIONAIS:PRESSÃO MÁXIMA=2,3KGF/CM², VAZÃO:4.000 L/S, APLICAÇÃO:EQUIPAMENTO DE AUTOCLAVE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "456174",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:0,75 CV, TENSÃO ALIMENTAÇÃO:220 V, TIPO MOTOR:TRIFÁSICO, APLICAÇÃO:SUBMERSA, DIÂMETRO:4 POL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "456175",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:0,5 CV, TENSÃO ALIMENTAÇÃO:220 V, TIPO MOTOR:TRIFÁSICO, APLICAÇÃO:SUBMERSA, DIÂMETRO:4 POL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "456191",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:5 CV, TENSÃO ALIMENTAÇÃO:220 V, TIPO MOTOR:TRIFÁSICO, APLICAÇÃO:SUBMERSA, DIÂMETRO:4 POL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "456192",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:3,5 CV, TENSÃO ALIMENTAÇÃO:220 V, TIPO MOTOR:TRIFÁSICO, APLICAÇÃO:SUBMERSA, DIÂMETRO:4 POL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "456193",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:1 CV, TENSÃO ALIMENTAÇÃO:220 V, TIPO MOTOR:TRIFÁSICO, APLICAÇÃO:SUBMERSA, DIÂMETRO:4 POL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "456194",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:18 CV, TENSÃO ALIMENTAÇÃO:220 V, APLICAÇÃO:SUBMERSA, DIÂMETRO:4 POL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "456735",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:3 CV, TENSÃO ALIMENTAÇÃO:220/380 V, TIPO MOTOR:TRIFÁSICO, VELOCIDADE:3460 RPM, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "460727",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:5,5 HP, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO 3\", RECALQUE 3\", PRESSÃO MÁXIMA 26 MCA, TIPO MOTOR:GASOLINA, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "461084",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:9 CV, TENSÃO ALIMENTAÇÃO:380 V, VAZÃO:18 M3/H, TIPO MOTOR:TRIFÁSICO, APLICAÇÃO:SUBMERSA, DIÂMETRO:4 POL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "461086",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:5,5 HP, TENSÃO ALIMENTAÇÃO:220 V, VAZÃO:14 M3/H, TIPO MOTOR:TRIFÁSICO, APLICAÇÃO:SUBMERSA, DIÂMETRO:2 POL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "461087",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:5,5 HP, TENSÃO ALIMENTAÇÃO:380 V, VAZÃO:14 M3/H, TIPO MOTOR:TRIFÁSICO, FREQÜÊNCIA:60 HZ, APLICAÇÃO:SUBMERSA, DIÂMETRO:2 POL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "465396",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:10 HP, CARACTERÍSTICAS ADICIONAIS:REFRIGERADO A AR, PARTIDA MANUAL, VAZÃO:100 M3/H, TIPO MOTOR:DIESEL DE 4 TEMPOS, VELOCIDADE:3.600 RPM, DIÂMETRO:4 POL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "465401",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:4 HP, CARACTERÍSTICAS ADICIONAIS:REFRIGERADO A AR, PARTIDA MANUAL, VAZÃO:36 M3/H, TIPO MOTOR:DIESEL DE 4 TEMPOS, VELOCIDADE:3.600 RPM, DIÂMETRO:2 POL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "466386",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:300 W, TENSÃO ALIMENTAÇÃO:220 V, CARACTERÍSTICAS ADICIONAIS:MONOFÁSICA, VAZÃO:1/2 M3/H, TIPO MOTOR:ELÉTRICO MONOFÁSICO, FREQÜÊNCIA:60 HZ, APLICAÇÃO:RECALQUE, DIÂMETRO:3/4 POL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "466630",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:0,5 CV, TENSÃO ALIMENTAÇÃO:220 V, CARACTERÍSTICAS ADICIONAIS:ALTURA MANOMETRICA MÁXIMA 65 M, VAZÃO:1,9 M3/H, TIPO MOTOR:ELÉTRICO MONOFÁSICO, FREQÜÊNCIA:60 HZ, APLICAÇÃO:SUBMERSA, DIÂMETRO:3/4 POL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "466642",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:1 1/2 CV, TENSÃO ALIMENTAÇÃO:220/380 V, CARACTERÍSTICAS ADICIONAIS:BOCAIS COM ROSCA BSP; CARACOL DE FERRO FUNDIDO, VAZÃO:14,6 M3/H, TIPO MOTOR:TRIFÁSICO, FREQÜÊNCIA:60 HZ, APLICAÇÃO:ABASTECIMENTO DE ÁGUA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "466644",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:5 CV, TENSÃO ALIMENTAÇÃO:220/380 V, CARACTERÍSTICAS ADICIONAIS:RECALQUE 2.1/2\", ALTURA MÁXIMA DE SUCÇÃO (M.C.A) 8, TIPO MOTOR:TRIFÁSICO, FREQÜÊNCIA:60 HZ, APLICAÇÃO:ABASTECIMENTO DE ÁGUA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "470957",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:10 HP, CARACTERÍSTICAS ADICIONAIS:PARTIDA MANUAL, VAZÃO:359 L/MIN, TIPO MOTOR:DIESEL, VELOCIDADE:3.450 RPM"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "471010",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:5 HP, TENSÃO ALIMENTAÇÃO:440 V, CARACTERÍSTICAS ADICIONAIS:ROTOR EM AÇO INOXIDÁVEL COM PASSAGEM DE 7MM, VAZÃO:30 M3/H, TIPO MOTOR:TRIFÁSICO, APLICAÇÃO:SUBMERSA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "471339",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:5,5 KW, TENSÃO ALIMENTAÇÃO:220 V, CARACTERÍSTICAS ADICIONAIS:HORIZONTAL, VAZÃO:35 M3/H, TIPO MOTOR:ELÉTRICO TRIFÁSICO, VELOCIDADE:296 RPM, FREQÜÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "472521",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:5,5 CV, TENSÃO ALIMENTAÇÃO:220/380 V, CARACTERÍSTICAS ADICIONAIS:PRÉ-FILTRO SUCÇÃO DE 2.1/2\", MODELO:AUTO ESCOVANTE, TIPO MOTOR:TRIFÁSICO, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "472522",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:4 CV, TENSÃO ALIMENTAÇÃO:220/380 V, CARACTERÍSTICAS ADICIONAIS:PRÉ-FILTRO SUCÇÃO DE 2.1/2\", MODELO:AUTO ESCOVANTE, TIPO MOTOR:TRIFÁSICO, APLICAÇÃO:RECALQUE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "477835",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:4 CV, TENSÃO ALIMENTAÇÃO:220/380 V, VAZÃO:14 M3/H, TIPO MOTOR:TRIFÁSICO, APLICAÇÃO:SUBMERSA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "477836",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:7 CV, TENSÃO ALIMENTAÇÃO:220/380 V, VAZÃO:24 M3/H, TIPO MOTOR:TRIFÁSICO, APLICAÇÃO:SUBMERSA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "477860",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:1,5 CV, TENSÃO ALIMENTAÇÃO:220/380 V, CARACTERÍSTICAS ADICIONAIS:ENTRADA E SAIDA ROSQUEADA, MODELO:MULTIESTAGIO INJETORA THEBE RE-16, TIPO MOTOR:ELÉTRICO TRIFÁSICO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "481152",
+    "descricao": " BOMBA HIDRÁULICA, APLICAÇÃO:ABASTECIMENTO DE ÁGUA, FREQÜÊNCIA:60 HZ, TIPO MOTOR:TRIFÁSICO, VAZÃO:10 M3/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "481154",
+    "descricao": " BOMBA HIDRÁULICA, FREQÜÊNCIA:60 HZ, APLICAÇÃO:ABASTECIMENTO DE ÁGUA, TIPO MOTOR:TRIFÁSICO, MODELO:2 POLOS, ISOLAMENTO CLASSE \"F\""
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "483492",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:5 HP, TENSÃO ALIMENTAÇÃO:220 V, CARACTERÍSTICAS ADICIONAIS:SISTEMA DE ALTA PRESSÃO, 290 CILINDRADA, MODELO: MONOCILINDRICO OHV- 4 TEMPOS., TIPO MOTOR:DIESEL, APLICAÇÃO: BOMBEAMENTO DE ÁGUA LIMPA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "486403",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:430 W, TENSÃO ALIMENTAÇÃO:220 V, MODELO:SUBMERSA, VAZÃO:2.100 L/H, TIPO MOTOR:ELÉTRICO MONOFÁSICO, FREQÜÊNCIA:60 HZ, DIÂMETRO:1 POL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "486677",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:1 CV, TENSÃO ALIMENTAÇÃO:220 V, CARACTERÍSTICAS ADICIONAIS: DIÂMETRO DO ROTOR: 128 MM, PRESSÃO MÁXIMA SEM VAZ, VAZÃO:5,4 M3/H, TIPO MOTOR:ELÉTRICO MONOFÁSICO, APLICAÇÃO:RECALQUE, DIÂMETRO:1 POL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "603296",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:2 CV, TENSÃO ALIMENTAÇÃO:220 V, TIPO MOTOR:TRIFÁSICO, FREQÜÊNCIA:60 HZ, APLICAÇÃO:SUBMERSA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "603502",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:33 HP, TENSÃO ALIMENTAÇÃO:254 V, MODELO:ESTÁGIO 6, TIPO MOTOR:ELÉTRICO MONOFÁSICO, FREQÜÊNCIA:50/60 HZ, APLICAÇÃO:SUBMERSA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "603503",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:0,5 HP, TENSÃO ALIMENTAÇÃO:254 V, MODELO:ESTÁGIO 6, TIPO MOTOR:ELÉTRICO MONOFÁSICO, FREQÜÊNCIA:50/60 HZ, APLICAÇÃO:SUBMERSA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "603504",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:1 HP, TENSÃO ALIMENTAÇÃO:254 V, MODELO:ESTÁGIO 9, TIPO MOTOR:ELÉTRICO MONOFÁSICO, FREQÜÊNCIA:50/60 HZ, APLICAÇÃO:SUBMERSA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "603505",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:1,5 HP, TENSÃO ALIMENTAÇÃO:254 V, MODELO:MULTIESTÁGIO, TIPO MOTOR:ELÉTRICO MONOFÁSICO, FREQÜÊNCIA:50/60 HZ, APLICAÇÃO:SUBMERSA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "603506",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:2 HP, TENSÃO ALIMENTAÇÃO:254 V, MODELO:MULTIESTÁGIO, TIPO MOTOR:ELÉTRICO MONOFÁSICO, FREQÜÊNCIA:50/60 HZ, APLICAÇÃO:SUBMERSA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "603507",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:3 HP, TENSÃO ALIMENTAÇÃO:254 V, MODELO:MULTIESTÁGIO, TIPO MOTOR:ELÉTRICO MONOFÁSICO, FREQÜÊNCIA:50/60 HZ, APLICAÇÃO:SUBMERSA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "603508",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:5,5 HP, TENSÃO ALIMENTAÇÃO:220 V, MODELO:ESTÁGIO 29, TIPO MOTOR:TRIFÁSICO, FREQÜÊNCIA:50/60 HZ, APLICAÇÃO:SUBMERSA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "603640",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:1 CV, TENSÃO ALIMENTAÇÃO:220 V, CARACTERÍSTICAS ADICIONAIS:SUBMERSIVEL ÁGUA SUJA ALTURA MANOMÉTRICA 9MCA, TIPO MOTOR:MONOFASICO, DIÂMETRO:3/4 POL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3776",
+    "codigo": "603650",
+    "descricao": " BOMBA HIDRÁULICA, POTÊNCIA:34 W, CARACTERÍSTICAS ADICIONAIS:DIAMETRO DE ENTRADA 39 MM (1,53\") SERIE BAV1126, TIPO MOTOR:ELETROBOMBA ALTERNATIVA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3792",
+    "codigo": "273929",
+    "descricao": " BOMBA PERISTÁLTICA / PEÇAS E ACESSÓRIOS, TIPO:4 CANAIS, VAZÃO:0,8 A 30 ML/MIN, TENSÃO:110/220 V, MATERIAL:PINOS E CONEXÕES AÇO INOX 304, ROTOR CENTRAL EM, CARACTERÍSTICAS ADICIONAIS:POTENCIÔMETRO VARIAÇÃO DE VELOCIDADE. BASTIDOR PIN"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3792",
+    "codigo": "444542",
+    "descricao": " BOMBA PERISTÁLTICA / PEÇAS E ACESSÓRIOS, TIPO:MONOCANAL, VAZÃO:0,8 A 105 ML/MIN, TENSÃO:110/220 V, FREQUÊNCIA:50/60 HZ, MATERIAL:AÇO, PINTADO, CARACTERÍSTICAS ADICIONAIS:ANALÓGICO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3792",
+    "codigo": "444543",
+    "descricao": " BOMBA PERISTÁLTICA / PEÇAS E ACESSÓRIOS, TIPO:MONOCANAL, VAZÃO:0,002 A 1,65 ML/MIN, TENSÃO:110/220 V, FREQUÊNCIA:50/60 HZ, MATERIAL:AÇO, PINTADO, CARACTERÍSTICAS ADICIONAIS:ANALÓGICO, VELOCIDADE TRANSMISSÃO 1,7 A 10 RPM"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3792",
+    "codigo": "600707",
+    "descricao": " BOMBA PERISTÁLTICA / PEÇAS E ACESSÓRIOS, TIPO:MONOCANAL/MULTICANAL, VAZÃO:0,85-861ML/MIN E MULTICANAL 0,005-364 ML ML/MIN, TEMPERATURA OPERAÇÃO:3-31ºC A 80% ; 32-40ºC ATÉ 50% ¿C, TENSÃO:115 V, FREQUÊNCIA:50/60 HZ, MATERIAL:PINOS E CONEXÕES AÇO INOX 304, ROTOR CENTRAL EM, CARACTERÍSTICAS ADICIONAIS:FLUXO DE BOMBEAMENTO +OU-5%, FAIXA DE VELOCIDADE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "3792",
+    "codigo": "603849",
+    "descricao": " BOMBA PERISTÁLTICA / PEÇAS E ACESSÓRIOS, TIPO:BAIXO FLUXO, VAZÃO:00 A 100 ML/MIN, TEMPERATURA OPERAÇÃO:0 A 40 ¿C, TENSÃO:12 V, CARACTERÍSTICAS ADICIONAIS:FAIXA VELOCIDADE 0,1 A 100RPM, CONECTOR ESPIGÃO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "5765",
+    "codigo": "332134",
+    "descricao": " CONJUNTO MOTOR BOMBA, TIPO:MONOFÁSICO, POTÊNCIA:3 CV, VOLTAGEM:220 V, VAZÃO:35 M3/H, CARACTERÍSTICAS ADICIONAIS:ALTURA MANOMÉTRICA DE 6 M"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "5765",
+    "codigo": "355990",
+    "descricao": " CONJUNTO MOTOR BOMBA, TIPO:TRIFÁSICO, POTÊNCIA:27 HP, VAZÃO:50 M3/H, CARACTERÍSTICAS ADICIONAIS:PORTÁTIL, SUBMERSÍVEL, CONEXÃO 4\", CABOS 20 M, TENSÃO NOMINAL:440 VCA, ROTAÇÃO NOMINAL:3500 RPM, APLICAÇÃO:DRENAGEM DE ÁGUA SUBTERRÂNEA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "5765",
+    "codigo": "358526",
+    "descricao": " CONJUNTO MOTOR BOMBA, TIPO:TRIFÁSICO, POTÊNCIA:3 CV, VAZÃO:10.000 M3/H, CARACTERÍSTICAS ADICIONAIS:BOMBA ENGRENAGEM MONTADA SOBRE CHASSI MÓVEL, TENSÃO NOMINAL:440 VCA, ROTAÇÃO NOMINAL:1740 RPM, APLICAÇÃO:TRANSFERÊNCIA LÍQUIDAS"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "5765",
+    "codigo": "470965",
+    "descricao": " CONJUNTO MOTOR BOMBA, TIPO:TRIFÁSICO, POTÊNCIA:1 HP, VOLTAGEM:220 V, VAZÃO:8.000 L/H, APLICAÇÃO:TRANSFERÊNCIA COMBUSTÍVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "5765",
+    "codigo": "471008",
+    "descricao": " CONJUNTO MOTOR BOMBA, TIPO:BIFÁSICA, POTÊNCIA:550 W, VOLTAGEM:220 V, VAZÃO:72 L/MIN, APLICAÇÃO:TRANSFERÊNCIA ÓLEO DIESEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "5765",
+    "codigo": "471331",
+    "descricao": " CONJUNTO MOTOR BOMBA, TIPO:TRIFÁSICO, VOLTAGEM:110 V, VAZÃO:25 L/MIN, CARACTERÍSTICAS ADICIONAIS:PALHETA, APLICAÇÃO:TRANSFERÊNCIA ÓLEO DIESEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "5765",
+    "codigo": "471332",
+    "descricao": " CONJUNTO MOTOR BOMBA, TIPO:TRIFÁSICO, POTÊNCIA:1,5 CV, VOLTAGEM:380 V, VAZÃO:30 L/MIN, CARACTERÍSTICAS ADICIONAIS:PORTÁTIL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "5765",
+    "codigo": "471333",
+    "descricao": " CONJUNTO MOTOR BOMBA, TIPO:TRIFÁSICO, POTÊNCIA:1.500 W, VOLTAGEM:230 V, VAZÃO:550 L/MIN, APLICAÇÃO:TRANSFERÊNCIA ÓLEO DIESEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "5765",
+    "codigo": "471334",
+    "descricao": " CONJUNTO MOTOR BOMBA, TIPO:TRIFÁSICO, POTÊNCIA:750 W, VOLTAGEM:220 V, VAZÃO:100 L/MIN, APLICAÇÃO:TRANSFERÊNCIA COMBUSTÍVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "5765",
+    "codigo": "471335",
+    "descricao": " CONJUNTO MOTOR BOMBA, TIPO:TRIFÁSICO, VOLTAGEM:220 V, VAZÃO:80 L/MIN, CARACTERÍSTICAS ADICIONAIS:PALHETA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "5765",
+    "codigo": "471336",
+    "descricao": " CONJUNTO MOTOR BOMBA, TIPO:TRIFÁSICO, POTÊNCIA:460 W, VOLTAGEM:220 V, VAZÃO:60 L/MIN, APLICAÇÃO:TRANSFERÊNCIA ÓLEO DIESEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "5765",
+    "codigo": "476367",
+    "descricao": " CONJUNTO MOTOR BOMBA, TIPO:TRIFÁSICO, POTÊNCIA:12,5 CV, VOLTAGEM:380 V, VAZÃO:72,90 M3/H, ROTAÇÃO NOMINAL:1800 RPM, APLICAÇÃO:TRANSFERÊNCIA LÍQUIDAS"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "5765",
+    "codigo": "476493",
+    "descricao": " CONJUNTO MOTOR BOMBA, TIPO:TRIFÁSICO, POTÊNCIA:15 CV, VOLTAGEM:380 V, VAZÃO:72,90 M3/H, ROTAÇÃO NOMINAL:1800 RPM, APLICAÇÃO:TRANSFERÊNCIA LÍQUIDAS"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "226809",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, PRESSÃO MÁXIMA SAÍDA:0 A 80 PSI, PRESSÃO MÁXIMA ENTRADA:3.000 PSI, MODELO:HPL-80, MATERIAL CORPO:AÇO CROMADO, MATERIAL DIAFRAGMA:POLIPROPILENO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "246226",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, PRESSÃO MÁXIMA SAÍDA:10 KGF/CM2, PRESSÃO MÁXIMA ENTRADA:20 KGF/CM2, MODELO:PRG86-N, MATERIAL CORPO:AÇO CROMADO, MATERIAL DIAFRAGMA:POLIPROPILENO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "247651",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:2 MANOMETROS DE 2 1/2\", PRESSÃO MÁXIMA SAÍDA:1.500 PSI, PRESSÃO MÁXIMA ENTRADA:6.000 PSI, MODELO:HPS-4 1500, MATERIAL CORPO:LATÃO USINADO, MATERIAL DIAFRAGMA:VITON, TIPO CONEXÃO SAÍDA:ROSCA 1/4\" NPTF, MATERIAL SEDE:PCTFE TEFLON, CARACTERÍSTICAS ADICIONAIS:SIMPLES ESTÁGIO, APLICAÇÃO:PARA GASES PUROS NÃO CORROSIVOS E DE ALTA PRESSÃO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "248267",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:2 MANÔMETROS, PRESSÃO MÁXIMA SAÍDA:0 A 200 PSI, PRESSÃO MÁXIMA ENTRADA:0 A 4.000 PSI, MODELO:GPT 270, MATERIAL CORPO:LATÃO FORJADO E CROMADO, MATERIAL DIAFRAGMA:AÇO INOXIDÁVEL AISI 301, TIPO CONEXÃO SAÍDA: FÊMEA - 1/4\" NPT., MATERIAL SEDE:POLIURETANO, CARACTERÍSTICAS ADICIONAIS:DUPLO ESTÁGIO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "265774",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, PRESSÃO MÁXIMA SAÍDA:10 KGF/CM2, PRESSÃO MÁXIMA ENTRADA:200 KGF/CM2, MODELO:DE PONTEIRO, MATERIAL CORPO:AÇO INOXIDÁVEL, MATERIAL DIAFRAGMA:POLIPROPILENO, CARACTERÍSTICAS ADICIONAIS:FLUXÔMETRO 0 A 15 L/MIN E ROSQUEAMENTO UNIVERSAL, APLICAÇÃO:OXIGÊNIO MEDICINAL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "265779",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, PRESSÃO MÁXIMA SAÍDA:10 KGF/CM2, PRESSÃO MÁXIMA ENTRADA:200 KGF/CM2, MODELO:DE PONTEIRO, MATERIAL CORPO:AÇO INOXIDÁVEL, MATERIAL DIAFRAGMA:POLIPROPILENO, CARACTERÍSTICAS ADICIONAIS:FLUXÔMETRO 0 A 15 L/MIN E ROSQUEAMENTO UNIVERSAL, APLICAÇÃO:AR COMPRIMIDO MEDICINAL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "267430",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, PRESSÃO MÁXIMA SAÍDA:3,5 KGF/CM2 FIXA, PRESSÃO MÁXIMA ENTRADA:0 A 300 KGF/CM2, MATERIAL CORPO:LATÃO CROMADO, APLICAÇÃO:CILINDRO DE OXIGÊNIO MEDICINAL, VAZÃO:60 L/MIN"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "267431",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, PRESSÃO MÁXIMA SAÍDA:3,5 KGF/CM2 FIXA, PRESSÃO MÁXIMA ENTRADA:0 A 300 KGF/CM2, MATERIAL CORPO:LATÃO CROMADO, APLICAÇÃO:CILINDRO DE AR COMPRIMIDO MEDICINAL, VAZÃO:60 L/MIN"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "267432",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, PRESSÃO MÁXIMA SAÍDA:3,5 KGF/CM2 FIXA, PRESSÃO MÁXIMA ENTRADA:0 A 200 KGF/CM2, MATERIAL CORPO:LATÃO CROMADO, CARACTERÍSTICAS ADICIONAIS:FLUXÔMETRO 0 A 15L/MIN,ESCALA EXPANDIDA 0 A 7L/MIN, APLICAÇÃO:CILINDRO DE OXIGÊNIO MEDICINAL, VAZÃO:15 L/MIN"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "267433",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, PRESSÃO MÁXIMA SAÍDA:3,5 KGF/CM2 FIXA, PRESSÃO MÁXIMA ENTRADA:0 A 200 KGF/CM2, MATERIAL CORPO:LATÃO CROMADO, CARACTERÍSTICAS ADICIONAIS:FLUXÔMETRO 0 A 15L/MIN,ESCALA EXPANDIDA 0 A 7L/MIN, APLICAÇÃO:CILINDRO DE AR COMPRIMIDO MEDICINAL, VAZÃO:15 L/MIN"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "267937",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, PRESSÃO MÁXIMA SAÍDA:10 KGF/CM2 REGULÁVEL, PRESSÃO MÁXIMA ENTRADA:0 A 300 KGF/CM2, MATERIAL CORPO:LATÃO CROMADO, CARACTERÍSTICAS ADICIONAIS:0 A 10 BAR, APLICAÇÃO:CILINDRO DE OXIGÊNIO MEDICINAL, VAZÃO:30 M3/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "273351",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, MODELO:JET CONTROL PLUS 300, MATERIAL CORPO:AÇO CROMADO, MATERIAL DIAFRAGMA:POLIPROPILENO, TIPO CONEXÃO SAÍDA:UNS 9/16, CARACTERÍSTICAS ADICIONAIS:GRADUAÇÃO SAÍDA 0 - 25 L/H;CONEXÃO ENTRADA 209-1;, APLICAÇÃO:CILINDRO DE CO2"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "280525",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO TP BOURDON,VÁLVULA ALÍVIO 6KGF/CM², PRESSÃO MÁXIMA SAÍDA:3,5 A 4,5 KGF/CM2, PRESSÃO MÁXIMA ENTRADA:0 A 300 KGF/CM2, MODELO:SISTEMA SELAGEM METAL/METAL,ESTÁGIO SIMPLES, MATERIAL CORPO:LATÃO CROMADO, MATERIAL DIAFRAGMA:DIAFRAGMA PLANO E CIRCULAR, TIPO CONEXÃO SAÍDA:CONEXÕES PADRÃO ABNT, CARACTERÍSTICAS ADICIONAIS:FILTRO SINTERIZADO RETENÇÃO PARTÍCULAS, APLICAÇÃO:CILINDRO DE OXIGÊNIO MEDICINAL, VAZÃO:100 L/MIN"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "280526",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO TP BOURDON,VÁLVULA ALÍVIO 6KGF/CM², PRESSÃO MÁXIMA SAÍDA:3,5 A 4,5 KGF/CM2, PRESSÃO MÁXIMA ENTRADA:0 A 300 KGF/CM2, MODELO:SISTEMA SELAGEM METAL/METAL,ESTÁGIO SIMPLES, MATERIAL CORPO:LATÃO CROMADO, MATERIAL DIAFRAGMA:DIAFRAGMA PLANO E CIRCULAR, TIPO CONEXÃO SAÍDA:CONEXÕES PADRÃO ABNT, CARACTERÍSTICAS ADICIONAIS:FILTRO SINTERIZADO RETENÇÃO PARTÍCULAS, APLICAÇÃO:CILINDRO DE AR COMPRIMIDO MEDICINAL, VAZÃO:100 L/MIN"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "280527",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO TP BOURDON,VÁLVULA ALÍVIO 6KGF/CM², PRESSÃO MÁXIMA SAÍDA:3,5 KGF/CM2, PRESSÃO MÁXIMA ENTRADA:0 A 300 KGF/CM2, MODELO:SISTEMA SELAGEM METAL/METAL,ESTÁGIO SIMPLES, MATERIAL CORPO:LATÃO CROMADO, MATERIAL DIAFRAGMA:DIAFRAGMA PLANO E CIRCULAR, TIPO CONEXÃO SAÍDA:CONEXÕES PADRÃO ABNT, CARACTERÍSTICAS ADICIONAIS:FILTRO SINTERIZADO RETENÇÃO PARTÍCULAS, APLICAÇÃO:CILINDRO DE ÓXIDO NITROSO MEDICINAL, VAZÃO:100 L/MIN"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "280648",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:2 MANÔMETROS(ENTRADA/SAÍDA), PRESSÃO MÁXIMA SAÍDA:0 A 10 KGF/CM2, PRESSÃO MÁXIMA ENTRADA:0 A 315 KGF/CM2, MODELO:AJUSTÁVEL, MATERIAL CORPO:LATÃO CROMADO, CARACTERÍSTICAS ADICIONAIS:UMA ÚNICA MANOPLA DE TRABALHO(0 A 10 KGF/CM²), APLICAÇÃO:P/ CILINDRO DE NITROGÊNIO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "324362",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, PRESSÃO MÁXIMA SAÍDA:200 PSI, PRESSÃO MÁXIMA ENTRADA:4000 PSI, MODELO:SÉRIE 150, MATERIAL CORPO:LATÃO FORJADO E CROMADO, MATERIAL DIAFRAGMA:AÇO INOX AISI 316.L, TIPO CONEXÃO SAÍDA:FLUXOMETRO AR 0-15 L/PM COM AGULHA, MATERIAL SEDE:AÇO INOX, CARACTERÍSTICAS ADICIONAIS:MONO ESTÁGIO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "326018",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, PRESSÃO MÁXIMA SAÍDA:3,5 KGF/CM2, PRESSÃO MÁXIMA ENTRADA:8 G/CM2, APLICAÇÃO:POSTO OXIGÊNIO, VAZÃO:180 L/MIN"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "326019",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, PRESSÃO MÁXIMA SAÍDA:3,5 KGF/CM2, PRESSÃO MÁXIMA ENTRADA:8 G/CM2, APLICAÇÃO:POSTO AR COMPRIMIDO, VAZÃO:180 L/MIN"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "331537",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, PRESSÃO MÁXIMA SAÍDA:15 KGF/CM2, PRESSÃO MÁXIMA ENTRADA:0 A 300 KGF/CM2, MATERIAL CORPO:LATÃO CROMADO, APLICAÇÃO:CILINDRO DE OXIGÊNIO MEDICINAL, VAZÃO:15 L/MIN"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "334054",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, PRESSÃO MÁXIMA SAÍDA:0 A 160 KGF/CM2, MODELO:AR COMPRIMIDO TIPO DIAFRAGMA, MATERIAL CORPO:AÇO GALVANIZADO, CARACTERÍSTICAS ADICIONAIS:PINTADO/BOTÃO AJUSTE PRESSÃO/FILTRO AR VÁLVULA PUR"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "335718",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO TP BOURDON,VÁLVULA ALÍVIO 6KGF/CM², PRESSÃO MÁXIMA SAÍDA:3,5 A 4,5 KGF/CM2, PRESSÃO MÁXIMA ENTRADA:0 A 300 KGF/CM2, MODELO:SISTEMA SELAGEM METAL/METAL,ESTÁGIO SIMPLES, MATERIAL CORPO:LATÃO CROMADO, MATERIAL DIAFRAGMA:DIAFRAGMA PLANO E CIRCULAR, TIPO CONEXÃO SAÍDA:CONEXÕES PADRÃO ABNT, CARACTERÍSTICAS ADICIONAIS:FILTRO SINTERIZADO RETENÇÃO PARTÍCULAS, APLICAÇÃO:CILINDRO DE OXIGÊNIO MEDICINAL, VAZÃO:ATÉ 15 L/MIN"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "354861",
+    "descricao": " REGULADOR PRESSÃO, PRESSÃO MÁXIMA SAÍDA:0 A 10 KGF/CM2, PRESSÃO MÁXIMA ENTRADA:300 KGF/CM2, MODELO:AJUSTÁVEL, MATERIAL CORPO:LATÃO CROMADO, APLICAÇÃO:CILINDRO DE OXIGÊNIO, VAZÃO:30 M3/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "354862",
+    "descricao": " REGULADOR PRESSÃO, PRESSÃO MÁXIMA SAÍDA:0 A 10 KGF/CM2, PRESSÃO MÁXIMA ENTRADA:300 KGF/CM2, MODELO:AJUSTÁVEL, MATERIAL CORPO:LATÃO CROMADO, APLICAÇÃO:CILINDRO DE NITROGÊNIO, VAZÃO:30 M3/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "354863",
+    "descricao": " REGULADOR PRESSÃO, PRESSÃO MÁXIMA SAÍDA:0 A 10 KGF/CM2, PRESSÃO MÁXIMA ENTRADA:300 KGF/CM2, MODELO:AJUSTÁVEL, MATERIAL CORPO:LATÃO CROMADO, APLICAÇÃO:CILINDRO DE GÁS CARBÔNICO, VAZÃO:30 M3/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "354865",
+    "descricao": " REGULADOR PRESSÃO, PRESSÃO MÁXIMA SAÍDA:0 A 5 KGF/CM2, PRESSÃO MÁXIMA ENTRADA:20 KGF/CM2, MODELO:AJUSTÁVEL, MATERIAL CORPO:LATÃO CROMADO, APLICAÇÃO:POSTO AR COMPRIMIDO, VAZÃO:180 L/MIN"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "354866",
+    "descricao": " REGULADOR PRESSÃO, PRESSÃO MÁXIMA SAÍDA:0 A 5 KGF/CM2, PRESSÃO MÁXIMA ENTRADA:20 KGF/CM2, MODELO:AJUSTÁVEL, MATERIAL CORPO:LATÃO CROMADO, APLICAÇÃO:POSTO ÓXIDO NITROSO, VAZÃO:180 L/MIN"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "359296",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:2 MANÔMETROS, PRESSÃO MÁXIMA SAÍDA:0 A 30 KGF/CM2, PRESSÃO MÁXIMA ENTRADA:25 KGF/CM2, MODELO:PGR 77, MATERIAL CORPO:LATÃO CROMADO, TIPO CONEXÃO SAÍDA:9/16\" X 18 UNF ESQUERDA, MATERIAL SEDE:TEFLON"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "359405",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, PRESSÃO MÁXIMA SAÍDA:3,5 KGF/CM2, PRESSÃO MÁXIMA ENTRADA:200 KGF/CM2, MATERIAL CORPO:AÇO INOXIDÁVEL, CARACTERÍSTICAS ADICIONAIS:FLUXÔGRAMA 0 A 15 L/MIN, VÁLVULA DE ALÍVIO CALIBRA, VAZÃO:15 L/MIN, MATERIAL FLUXOMETRO:VIDRO GRADUADO, ESCALA MANOMÉTRICA:0 A 300 KGF/CM2"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "361927",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:2 MANÔMETROS, PRESSÃO MÁXIMA SAÍDA:0 A 10 BAR., PRESSÃO MÁXIMA ENTRADA:220 BAR., MATERIAL CORPO:LATÃO FORJADO E CROMADO, APLICAÇÃO:CILINDRO DE OXIGÊNIO, VAZÃO:30 M3/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "362251",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, PRESSÃO MÁXIMA SAÍDA:1,5 BAR., PRESSÃO MÁXIMA ENTRADA:25 BAR., MATERIAL CORPO:LATÃO FORJADO, APLICAÇÃO:CILINDRO GÁS ACETILENO, VAZÃO:5 M3/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "414356",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:2 MANÔMETROS, PRESSÃO MÁXIMA SAÍDA:400 PSI, PRESSÃO MÁXIMA ENTRADA:3.000 PSI, MODELO:DE PONTEIRO, MATERIAL CORPO:LATÃO FORJADO, TIPO CONEXÃO SAÍDA:ROSCA 1/4\" NPTF, CARACTERÍSTICAS ADICIONAIS:DUPLO ESTÁGIO/ROSQUEAMENTO UNIVERSAL/VÁLVULA SEGUR, APLICAÇÃO:CILINDRO DE NITROGÊNIO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "419777",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, PRESSÃO MÁXIMA SAÍDA:0,5 A 12 BAR., MATERIAL CORPO:METAL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "426187",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, PRESSÃO MÁXIMA SAÍDA:3,5 KGF/CM2, PRESSÃO MÁXIMA ENTRADA:0 A 300 KGF/CM2, MATERIAL CORPO:LATÃO CROMADO, CARACTERÍSTICAS ADICIONAIS:FLUXÔMETRO 0 A 15 L/MIN E ROSQUEAMENTO UNIVERSAL, APLICAÇÃO:CILINDRO DE ÓXIDO NITROSO MEDICINAL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "426188",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, PRESSÃO MÁXIMA SAÍDA:3,5 KGF/CM2 FIXA KGF/CM2, PRESSÃO MÁXIMA ENTRADA:0 A 300 KGF/CM2, MATERIAL CORPO:LATÃO CROMADO, CARACTERÍSTICAS ADICIONAIS:FLUXÔMETRO 0 A 15 L/MIN E ROSQUEAMENTO UNIVERSAL, APLICAÇÃO:CILINDRO DE ÓXIDO NITROSO MEDICINAL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "446798",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, PRESSÃO MÁXIMA SAÍDA:10 BAR., PRESSÃO MÁXIMA ENTRADA:0 A 10 BAR., MATERIAL CORPO:ALUMÍNIO, TIPO CONEXÃO SAÍDA: FÊMEA - 1/4\" NPT., APLICAÇÃO:AR COMPRIMIDO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "447251",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:2 MANÔMETROS, PRESSÃO MÁXIMA SAÍDA:350 PSI, PRESSÃO MÁXIMA ENTRADA:5.000 PSI, MATERIAL CORPO:LATÃO FORJADO, APLICAÇÃO:CILINDRO DE DE GÁS ARGÔNIO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "447252",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:2 MANÔMETROS, PRESSÃO MÁXIMA SAÍDA:0-40 KGF/CM2, PRESSÃO MÁXIMA ENTRADA:0-160 KGF/CM2, MATERIAL CORPO:LATÃO FORJADO, APLICAÇÃO:CILINDRO DE GÁS CARBÔNICO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "447379",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:2 MANÔMETROS, PRESSÃO MÁXIMA SAÍDA:2,5 BAR., PRESSÃO MÁXIMA ENTRADA:230 BAR., MATERIAL CORPO:LATÃO FORJADO, MATERIAL DIAFRAGMA:BORRACHA, APLICAÇÃO:CILINDRO DE DE GÁS ARGÔNIO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "461665",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:MANÔMETRO, PRESSÃO MÁXIMA SAÍDA:0 A 10 KGF/CM2, MATERIAL CORPO:METAL CROMADO, CARACTERÍSTICAS ADICIONAIS:COM BOTÃO DE CONTROLE, APLICAÇÃO:OXIGÊNIO MEDICINAL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "601733",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:2 MANÔMETROS, PRESSÃO MÁXIMA SAÍDA:350 PSI, PRESSÃO MÁXIMA ENTRADA:500 PSI, MATERIAL CORPO:LATÃO FORJADO, APLICAÇÃO:CILINDRO DE DE GÁS ARGÔNIO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "13770",
+    "codigo": "602544",
+    "descricao": " REGULADOR PRESSÃO, TIPO EQUIPAMENTO:2 MANÔMETROS, PRESSÃO MÁXIMA SAÍDA:8 KGF/CM2, PRESSÃO MÁXIMA ENTRADA:220 KGF/CM2, MATERIAL CORPO:AçO CARBONO, CARACTERÍSTICAS ADICIONAIS:PORCA ROSCA DIREITA /16\"UNF-18 COM BICO DE MANGUEI, APLICAÇÃO:GAS ARGONICO, VAZÃO:40 L/MIN"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "14376",
+    "codigo": "231938",
+    "descricao": " BOMBA AMOSTRAGEM AR, VAZÃO:5 A 5.000 ML/MIN, ESTRUTURA:CAIXA BLINDADA, DIMENSÕES:4,90 X 11,90 X 13 CM, APLICAÇÃO:AMOSTRAGEM PESSOAL OU AMBIENTAL, CARACTERÍSTICAS ADICIONAIS:COMPENSAÇÃO AUTOMÁTICA PRESSÃO RETORNO / FILTRO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "14376",
+    "codigo": "297789",
+    "descricao": " BOMBA AMOSTRAGEM AR, VAZÃO:750 A 3.000 ML/MIN, APLICAÇÃO:LABORATÓRIO DE RADIOQUÍMICA, CARACTERÍSTICAS ADICIONAIS:SISTEMA DE COMPENSAÇÃO DE FLUXO CONTRA SOBRECARGA, USO:PARTICULADOS"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "14376",
+    "codigo": "436802",
+    "descricao": " BOMBA AMOSTRAGEM AR, VAZÃO:115 ML/MIN, ESTRUTURA:AÇO CARBONO, DIMENSÕES:40,60 X 19 X 33,60 CM, APLICAÇÃO:AMBIENTE DE PRODUÇÃO DE RADIO FÁRMACOS, CARACTERÍSTICAS ADICIONAIS:PORTÁTIL, ISENTA DE ÓLEO, PALHETA DE CARBONO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "14377",
+    "codigo": "231940",
+    "descricao": " FILTRO BOMBA AMOSTRAGEM AR, TIPO:CASSETE COM 3 SEÇÕES, APLICAÇÃO:BOMBA AMOSTRAGEM AR, DIÂMETRO:37 MM"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "14377",
+    "codigo": "445708",
+    "descricao": " FILTRO BOMBA AMOSTRAGEM AR, TIPO:CONJUNTO CASSETE COM CLIPE DE TRANSPORTE E TAMPA, APLICAÇÃO:COLETA DE MATERIAL PARTICULADO INALÁVEL, DIÂMETRO:85 MM, MATERIAL:PLÁSTICO CONDUTOR"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "14377",
+    "codigo": "445709",
+    "descricao": " FILTRO BOMBA AMOSTRAGEM AR, TIPO:CASSETE 2 SEÇÕES, APLICAÇÃO:COLETA DE MATERIAL PARTICULADO INALÁVEL, DIÂMETRO:37 MM, MATERIAL:PLACA FILTRO ESTIRENO TRANSPARENTE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "14379",
+    "codigo": "231947",
+    "descricao": " CICLONE, MATERIAL:ALUMÍNIO, APLICAÇÃO:BOMBA AMOSTRAGEM AR, DIÂMETRO:37 MM"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "14379",
+    "codigo": "445696",
+    "descricao": " CICLONE, MATERIAL:ALUMÍNIO, APLICAÇÃO:AMOSTRAGEM DE POEIRAS TORÁCICAS, DIMENSÕES:99 X 38 X 50 MM, CARACTERÍSTICAS ADICIONAIS:PONTO DE CORTE 10 µM ; VAZÃO 1.6 LITRO/MIN"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "14379",
+    "codigo": "445697",
+    "descricao": " CICLONE, MATERIAL:NYLON, APLICAÇÃO:AMOSTRAGEM DE POEIRAS RESPIRÁVEIS, DIMENSÕES:140 X 70 X 25 MM, CARACTERÍSTICAS ADICIONAIS:PONTO DE CORTE 4.0 µM ; VAZÃO 1.7 LITRO/MIN"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "237684",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:29 M3/H, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:10 HP, APLICAÇÃO:IRRIGAÇÃO EM AGRICULTURA, INDÚSTRIA, RESIDÊNCIA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "249739",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:6 M3/H, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:1 HP, MATERIAL:AÇO INOXIDÁVEL, CARACTERÍSTICAS ADICIONAIS:COM ROTOR E BASE SUSTENTAÇÃO REGULÁVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "250997",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:3 CV, APLICAÇÃO:CAIXA DÁGUA, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO DE 2 POL,RECALQUE DE 11/2 POL,1600/1800RPM"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "254072",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:1/3 HP, APLICAÇÃO:LABORATÓRIO E RESIDÊNCIA, MATERIAL:AÇO INOXIDÁVEL, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO E RECALQUE 3/4\" E PRESSÃO MÁXIMA 22 M, VAZÃO:3,20 M3/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "256913",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:3 CV, APLICAÇÃO:POÇO PROFUNDO, MATERIAL:FERRO FUNDIDO, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO (11/2 X 11/4)\", RECALQUE 1\", COMPONENTES ADICIONAIS:COM INJETOR E MANOMETRO MODELO INA-7"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "256916",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:3 CV, APLICAÇÃO:POÇO PROFUNDO, MATERIAL:FERRO FUNDIDO, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO ( 1 1/2 X 1 1/4 )\", RECALQUE 1\", COMPONENTES ADICIONAIS:COM INJETOR E MANOMETRO MODELO INA-7"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "258494",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:7,50 CV, APLICAÇÃO:CAIXA DÁGUA, MATERIAL:FERRO FUNDIDO, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO DE 2 1/2\" E ELEVAÇÃO DE  3 \""
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "280943",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:2 CV, APLICAÇÃO:CAIXA DÁGUA, MATERIAL:FERRO FUNDIDO, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO 1 1/4, ROTOR ALUMÍNIO E SELO AÇO INOXIDÁVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "280944",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:1 1/2 CV, APLICAÇÃO:IRRIGAÇÃO EM AGRICULTURA, INDÚSTRIA, RESIDÊNCIA, MATERIAL:FERRO FUNDIDO, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO DE 1\", 3 ESTÁGIOS, ROTOR ALUMÍNIO E SELO AÇ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "291391",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:15 CV, MATERIAL:FERRO FUNDIDO, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO DE 2 1/2\" E ELEVAÇÃO DE  2 \",  RECALQUE ATÉ, FREQUÊNCIA:60 HZ, VOLTAGEM:220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "298562",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:7,50 CV, APLICAÇÃO:RESERVATÓRIO DE ÁGUA, MATERIAL:FERRO FUNDIDO, CARACTERÍSTICAS ADICIONAIS:ALTURA MANOMÉTRICA DE 70 M, SUCÇÃO DE 2,5 POL, ELE, VAZÃO:16 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "301363",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:5 CV, APLICAÇÃO:RESERVATÓRIO DE ÁGUA, MATERIAL:FERRO FUNDIDO E ROTORES EM BRONZE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "329466",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:5 CV, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO DE 2 POL E RECALQUE DE 11/2 POL, VOLTAGEM:220/380 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "329471",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:1 CV, CARACTERÍSTICAS ADICIONAIS:VERTICAL E SAÍDA DE 2 POL, VOLTAGEM:220/380 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "329472",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:BIFÁSICO, POTÊNCIA:1 CV, CARACTERÍSTICAS ADICIONAIS:VERTICAL DE IMERSÃO E SUCÇÃO DE 2 POL, VOLTAGEM:220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "329852",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:5 CV, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO DE 11/2 POL E RECALQUE DE 11/2 POL, VOLTAGEM:220/380 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "330499",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:5 CV, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO DE 2 POL E ELEVAÇÃO DE 1 1/2 POL, VOLTAGEM:220/380 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "341812",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:0,5 CV, APLICAÇÃO:DESCARGA TAMBORES, MATERIAL:POLIPROPILENO, CARACTERÍSTICAS ADICIONAIS:ROTOR AUXILIAR, 3500 RPM 2 POLOS, IP-55, TFVE, VAZÃO:4 M3/H, COMPONENTES ADICIONAIS:NONOBLOCO VERTICAL, HIDRODINÂMICA, TUBO SUSÇÃO, FREQUÊNCIA:60 HZ, VOLTAGEM:220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "356079",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:21 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:2 CV, APLICAÇÃO:DRENAGEM ÁGUA, MATERIAL:AÇO CARBONO, VAZÃO:9,90 M3/H, VOLTAGEM:220/440 VCA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "356352",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:72 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:15 HP, APLICAÇÃO:CISTERNA, MATERIAL:FERRO FUNDIDO, CARACTERÍSTICAS ADICIONAIS:HORIZONTAL, VAZÃO:47 M3/H, VOLTAGEM:220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "356793",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:20 M3/H, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:2 HP, MATERIAL:FERRO, VAZÃO:20 M3/H, VOLTAGEM:220/440 VCA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "362073",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:3.500 RPM, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:1,0 CV, APLICAÇÃO:RESERVATÓRIO DE ÁGUA, MATERIAL:ALUMÍNIO/SILÍCIO, CARACTERÍSTICAS ADICIONAIS:ALTURA MANOMÉTRICA 8 MCA/SAÍDA 50MM ROSCA INTERNA, VAZÃO:16 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "362079",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:3.500 RPM, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:1,0 CV, APLICAÇÃO:DRENAGEM ÁGUA, MATERIAL:ALUMÍNIO/SILÍCIO, CARACTERÍSTICAS ADICIONAIS:ALTURA MANOMÉTRICA 8 MCA/SAÍDA 50MM ROSCA INTERNA, VAZÃO:16 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:220 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "362080",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:3.500 RPM, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:0,5 CV, APLICAÇÃO:ESGOTO DOMÉSTICO, MATERIAL:ALUMÍNIO/SILÍCIO, CARACTERÍSTICAS ADICIONAIS:ALTURA MANOMÉTRICA 10 MCA/SAÍDA 50MM ROSCA INTERNA, VAZÃO:4,8 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:220 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "362082",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:1,5 M3/H, TIPO MOTOR:MONOFÁSICO, APLICAÇÃO:áGUA POTáVEL, MATERIAL:TERMOPLÁSTICO, CARACTERÍSTICAS ADICIONAIS:SUCÇãO/ELEVAÇÃO: 3/4\"  ALTURA MANOMÉTRICA 20MCA, VAZÃO:1,5 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:220 V, TIPO INSTALAçãO:INJETORA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "364212",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:BIFÁSICO, POTÊNCIA:4 CV, MATERIAL:AÇO INOXIDÁVEL, CARACTERÍSTICAS ADICIONAIS:ALTURA MANOMÉTRICA DE 183 M, RECALQUE 1 1/2 POL, VAZÃO:4,8 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:220 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "364444",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, POTÊNCIA:800 W, MATERIAL:FERRO FUNDIDO, CARACTERÍSTICAS ADICIONAIS:RECALQUE DE 3/4 POLEGADAS, VAZÃO:1.100 L/H, VOLTAGEM:220 V, TIPO INSTALAçãO:CENTRíFUGA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "364747",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:450 W, APLICAÇÃO:DRENAGEM ÁGUA, MATERIAL:POLIPROPILENO, CARACTERÍSTICAS ADICIONAIS:ALTURA MANOMÉTRICA 50 METROS, VAZÃO:850 A 1930 L/H, FREQUÊNCIA:60 HZ, VOLTAGEM:115/254 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "371975",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, POTÊNCIA:55 W, APLICAÇÃO:DRENAGEM ÁGUA, MATERIAL:POLIETILENO, CARACTERÍSTICAS ADICIONAIS:ALTURA BOMBEAMENTO 4M, ENTRADA 5/8\", SAÍDA 3/8\", VAZÃO:2 L/MIN, FREQUÊNCIA:60 HZ, VOLTAGEM:220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "379126",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:TRIFÁSICO, APLICAÇÃO:SISTEMA ARREFECIMENTO DE AR CONDICIONADO CENTRAL, MATERIAL:FERRO FUNDIDO E BRONZE, CARACTERÍSTICAS ADICIONAIS:PRESSÃO 28 MCA, VAZÃO:25 M3/H, VOLTAGEM:220/380/440/760 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "380839",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:2 CV, APLICAÇÃO:CAIXA DÁGUA, MATERIAL:FERRO FUNDIDO, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO 1 1/4, ROTOR ALUMÍNIO, SELO AÇO INOXIDÁVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "382659",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:3/4 CV, APLICAÇÃO:CAIXA DÁGUA, MATERIAL:AÇO INOXIDÁVEL, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO 1 1/4, ROTOR ALUMÍNIO E SELO AÇO INOXIDÁVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "400451",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:11,8 KW, MATERIAL:FERRO FUNDIDO, CARACTERÍSTICAS ADICIONAIS:ALTURA MANOMÉTRICA: 8 M / DIÂMETRO RECALQUE: 6\", VAZÃO:260 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:220 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "402761",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:16,1 M3/H, POTÊNCIA:2 CV, APLICAÇÃO:MOTOR IP21, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO DE 1 1/2\" RECALQUE 1\", VAZÃO:3,5 M3/H, VOLTAGEM:220/380 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "404719",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:3/4 CV, MATERIAL:FERRO, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO DE 1 1/2\", VAZÃO:1 A 11 M3/H, VOLTAGEM:110/220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "404728",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:3 CV, MATERIAL:FERRO, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO DE 1 1/2\", MCA 6-45 M, VAZÃO:8 A 17,50 M3/H, VOLTAGEM:110/220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443646",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:8 A 16 MCA, TIPO MOTOR:2 PÓLOS, POTÊNCIA:2 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:15,5 A 31,4 M3/H, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443647",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:12 A 42 MCA, TIPO MOTOR:2 PÓLOS, POTÊNCIA:2 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:3,1 A 15,3 M3/H, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443648",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:6 A 26 MCA, TIPO MOTOR:2 PÓLOS, POTÊNCIA:3 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:10,9 A 36,8 M3/H, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443649",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:8 A 20 MCA, TIPO MOTOR:2 PÓLOS, POTÊNCIA:5 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:27,6 A 78,9 M3/H, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443650",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:2 A 30 MCA, TIPO MOTOR:2 PÓLOS, POTÊNCIA:1 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:2,3 A 7,1 M3/H, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443669",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:10 A 22 MCA, TIPO MOTOR:4 PÓLOS, MATERIAL:FERRO FUNDIDO, VAZÃO:12,9 A 120 M3/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443685",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:26 A 50 MCA, TIPO MOTOR:2 PÓLOS, POTÊNCIA:5 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:7,5 A 16,6 M3/H, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443686",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:36 A 42 MCA, TIPO MOTOR:2 PÓLOS, POTÊNCIA:10 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:27 A 53,3 M3/H, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443687",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:46 A 68 MCA, TIPO MOTOR:2 PÓLOS, POTÊNCIA:10 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:14,3 A 20 M3/H, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443688",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:40 A 52 MCA, TIPO MOTOR:2 PÓLOS, POTÊNCIA:15 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:44,5 A 83,9 M3/H, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443689",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:50 A 74 MCA, TIPO MOTOR:2 PÓLOS, POTÊNCIA:15 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:20,9 A 41 M3/H, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443690",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:30 A 62 MCA, TIPO MOTOR:2 PÓLOS, POTÊNCIA:20 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:40,7 A 109 M3/H, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443691",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:62 A 90 MCA, TIPO MOTOR:2 PÓLOS, POTÊNCIA:20 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:21,1 A 43,8 M3/H, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443692",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:40 A 70 MCA, TIPO MOTOR:2 PÓLOS, POTÊNCIA:25 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:41,5 A 106 M3/H, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443693",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:74 A 106 MCA, TIPO MOTOR:2 PÓLOS, POTÊNCIA:25 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:17,1 A 43,6 M3/H, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443694",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:85 A 135 MCA, TIPO MOTOR:2 PÓLOS, POTÊNCIA:75 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:48,5 A 112,2 M3/H, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443728",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:2 A 8 MCA, TIPO MOTOR:2 PÓLOS, POTÊNCIA:1/2 CV, MATERIAL:FERRO FUNDIDO, CARACTERÍSTICAS ADICIONAIS:ALTURA MANOMÉTRICA DE 2 A 8 M.C.A, VAZÃO:8,2 A 21,3 M3/H, FREQUÊNCIA:60 HZ, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443729",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:2 A 24 MCA, TIPO MOTOR:2 PÓLOS, POTÊNCIA:4 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:6,9 A 76,1 M3/H, FREQUÊNCIA:60 HZ, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443730",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:6 A 16 MCA, TIPO MOTOR:4 PÓLOS, POTÊNCIA:5 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:21 A 115 M3/H, FREQUÊNCIA:60 HZ, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443884",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:36 A 42 MCA, TIPO MOTOR:2 PÓLOS, POTÊNCIA:7,5 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:38,3 A 20,8 M3/H, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443885",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:22 A 34 MCA, TIPO MOTOR:2 PÓLOS, POTÊNCIA:5 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:36,9 A 18,9 M3/H, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "443886",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:10 A 42 MCA, TIPO MOTOR:2 PÓLOS, POTÊNCIA:3/4 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:4,05 A 0,65 M3/H, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "446514",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:30 M3/H, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:2 CV, MATERIAL:FERRO, CARACTERÍSTICAS ADICIONAIS:ALTURA MANOMÉTRICA TOTAL, M.C.A.0 3 MTS, VAZÃO:30 M3/H, VOLTAGEM:220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "450969",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:2,50 M3/H, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:1 CV, MATERIAL:FERRO FUNDIDO E ROTORES EM BRONZE, CARACTERÍSTICAS ADICIONAIS:ALTURA MANOMÉTRICA 50 METROS, VAZÃO:2,50 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "451009",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:1.760 RPM, TIPO MOTOR:220/380 E TRIFÁSICO, POTÊNCIA:5 CV, MATERIAL:FERRO FUNDIDO, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO DE 5\" E ELEVAÇÃO DE 4\", VAZÃO:100 M3/H, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "460335",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:8,0 MCA, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:1 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:16,7 M3/H, VOLTAGEM:220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "460336",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:10 M3/H, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:3 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:20,3 M3/H, VOLTAGEM:220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "464320",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:3.500 RPM, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:3 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:58 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:220/380 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "465446",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:8,0 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:1 CV, APLICAÇÃO:ESGOTO, MATERIAL:FERRO FUNDIDO, VAZÃO:16,7 M3/H, VOLTAGEM:220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "465447",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:16 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:1 CV, APLICAÇÃO:ESGOTO, MATERIAL:ALUMÍNIO/SILÍCIO, VAZÃO:9,1 M3/H, VOLTAGEM:220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "465448",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:22 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:3 CV, APLICAÇÃO:ESGOTO, MATERIAL:ALUMÍNIO/SILÍCIO, VAZÃO:22,5 M3/H, VOLTAGEM:220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "465449",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:49 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:3 CV, APLICAÇÃO:IRRIGAÇÃO, MATERIAL:FERRO FUNDIDO, CARACTERÍSTICAS ADICIONAIS:MULTIESTÁGIO, SUCÇÃO DE 1 1/2\" RECALQUE 1\", VAZÃO:6,9 M3/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "465688",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:14,0 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:3 CV, APLICAÇÃO:ESGOTO, MATERIAL:ALUMÍNIO/SILÍCIO, VAZÃO:14,5 M3/H, VOLTAGEM:220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "465690",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:52 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:3 CV, APLICAÇÃO:IRRIGAÇÃO, MATERIAL:FERRO FUNDIDO, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO DE 1 1/2\" RECALQUE 1\", VAZÃO:1,4 M3/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "468824",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:50 MCA, TIPO MOTOR:TRIFÁSICO, MATERIAL:BRONZE, CARACTERÍSTICAS ADICIONAIS:HORIZONTAL, VAZÃO:10 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:440 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "469127",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:12 MCA, TIPO MOTOR:TRIFÁSICO, MATERIAL:BRONZE, CARACTERÍSTICAS ADICIONAIS:HORIZONTAL, SUCÇÃO 2 1/2\" E RECALQUE 2\", VAZÃO:36 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:440 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "469132",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:12,7 MCA, TIPO MOTOR:TRIFÁSICO, MATERIAL:BRONZE, CARACTERÍSTICAS ADICIONAIS:HORIZONTAL, SUCÇÃO 2\" E RECALQUE 1 1/2\", VAZÃO:9,5 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:440 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "470947",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:18 MCA, TIPO MOTOR:TRIFÁSICO, MATERIAL:BRONZE, VAZÃO:30 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:440 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "470948",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:3.500 RPM, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:5 CV, MATERIAL:BRONZE, VAZÃO:27,5 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:440 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "470949",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:3.500 RPM, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:6 CV, MATERIAL:BRONZE, VAZÃO:27,5 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:440 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "470950",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:3.500 RPM, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:10 CV, MATERIAL:BRONZE, VAZÃO:27,5 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:440 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "470951",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:3.500 RPM, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:20 CV, MATERIAL:BRONZE, VAZÃO:27,5 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:440 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "470952",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:3.500 RPM, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:25 CV, MATERIAL:BRONZE, VAZÃO:27,5 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:440 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "470953",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:3.500 RPM, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:15 CV, MATERIAL:BRONZE, VAZÃO:27,5 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:440 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "470954",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:3.500 RPM, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:7,5 CV, MATERIAL:BRONZE, VAZÃO:22 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:440 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "470955",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:3.420 RPM, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:3,4 CV, MATERIAL:BRONZE, VAZÃO:22 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:440 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "470956",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:3.560 RPM, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:5 HP, MATERIAL:AÇO INOX AISI 304, VAZÃO:30 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:440 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "470958",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:10,7 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:4 CV, MATERIAL:BRONZE, VAZÃO:11 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:440 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "471225",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:2 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:1/2 CV, MATERIAL:AÇO INOX AISI 304, VAZÃO:21 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:220 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "471226",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:6 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:1 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:20 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:127/220 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "471227",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:8 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:2 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:10 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:127/220 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "471228",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:2 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:2 CV, MATERIAL:AÇO INOX AISI 304, VAZÃO:33 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:220 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "471229",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:2 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:4 CV, MATERIAL:AÇO INOX AISI 304, VAZÃO:81 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:220/380 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "471230",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:3.550 RPM, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:5 HP, MATERIAL:FERRO FUNDIDO, VAZÃO:32 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:220/380 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "471231",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:20 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:3 CV, MATERIAL:AÇO INOXIDÁVEL, VAZÃO:17 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:220/380 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "471232",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:2 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:3 CV, MATERIAL:AÇO INOXIDÁVEL, VAZÃO:80 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:220/380 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "471337",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:3.450 RPM, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:1 CV, APLICAÇÃO:ESGOTO, MATERIAL:AÇO INOXIDÁVEL, VAZÃO:21.000 L/H, COMPONENTES ADICIONAIS:COM SENSOR DE NÍVEL INTEGRADO, VOLTAGEM:220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "471338",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:3.500 RPM, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:3 CV, APLICAÇÃO:ESGOTO, MATERIAL:AÇO INOXIDÁVEL, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO 1 1/4\", RECALQUE 1\", VAZÃO:15 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:220/380 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "471838",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:296 M3/H, TIPO MOTOR:4 PÓLOS, POTÊNCIA:5,5 KW, MATERIAL:AÇO INOXIDÁVEL, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO: FLANGE 6\" ANSI B16.1 - 125 FF, VERTICAL, P, VAZÃO:35 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:110/220 V, TIPO INSTALAçãO:HORIZONTAL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "471918",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:20 MCA, TIPO MOTOR:MONOFÁSICO, MATERIAL:BRONZE, CARACTERÍSTICAS ADICIONAIS:SUCÇÃO DE 3\" E ELEVAÇÃO DE 3\", VAZÃO:32 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:440 V, TIPO INSTALAçãO:HORIZONTAL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "474299",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:13 MCA, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:25 CV, MATERIAL:TERMOPLÁSTICO, VAZÃO:200 M3/H, VOLTAGEM:440 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "474300",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:13 MCA, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:25 CV, MATERIAL:TERMOPLÁSTICO, VAZÃO:200 M3/H, VOLTAGEM:440 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "474302",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:20 MCA, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:40 CV, MATERIAL:TERMOPLÁSTICO, VAZÃO:350 M3/H, VOLTAGEM:440 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "474320",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:100 MCA, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:100 HP, MATERIAL:TERMOPLÁSTICO, VAZÃO:125 M3/H, VOLTAGEM:440 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "476489",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:8 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:1 CV, APLICAÇÃO:ESGOTO, MATERIAL:FERRO FUNDIDO, VAZÃO:16,7 M3/H, VOLTAGEM:380 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "476490",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:10 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:3 CV, APLICAÇÃO:ESGOTO, MATERIAL:FERRO FUNDIDO, VAZÃO:20,3 M3/H, VOLTAGEM:380 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "476491",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:14,0 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:3 CV, APLICAÇÃO:ESGOTO, MATERIAL:ALUMÍNIO/SILÍCIO, VAZÃO:14,5 M3/H, VOLTAGEM:380 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "476492",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:16 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:1 CV, APLICAÇÃO:ESGOTO, MATERIAL:ALUMÍNIO/SILÍCIO, VAZÃO:9,1 M3/H, VOLTAGEM:380 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "476512",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:22 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:3 CV, APLICAÇÃO:ESGOTO, MATERIAL:ALUMÍNIO/SILÍCIO, VAZÃO:22,5 M3/H, VOLTAGEM:380 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "476514",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:52 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:3 CV, APLICAÇÃO:IRRIGAÇÃO, MATERIAL:FERRO FUNDIDO, VAZÃO:1,4 M3/H, VOLTAGEM:380 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "476515",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:82 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:5 CV, APLICAÇÃO:IRRIGAÇÃO, MATERIAL:FERRO FUNDIDO, VAZÃO:3,6 M3/H, VOLTAGEM:380 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "476545",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:80 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:5 CV, APLICAÇÃO:IRRIGAÇÃO, MATERIAL:FERRO FUNDIDO, VAZÃO:3,6 M3/H, VOLTAGEM:380 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "477053",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:12 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:1,5 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:16 M3/H, VOLTAGEM:220/380 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "477054",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:10 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:1 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:10 M3/H, VOLTAGEM:220/380 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "477055",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:10 MCA, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:0,5 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:7 M3/H, VOLTAGEM:127/220 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "477081",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:34 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:15 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:51,3 M3/H, VOLTAGEM:220/380/440 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "477082",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:39 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:15 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:30 M3/H, VOLTAGEM:220/380 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "477083",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:30 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:7,5 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:37 M3/H, VOLTAGEM:220/380 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "477084",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:18 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:4 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:34,9 M3/H, VOLTAGEM:220/380 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "477085",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:16 MCA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:2 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:15,5 M3/H, VOLTAGEM:220/380 V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "478111",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:3,4 M3/H, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:0,5 CV, MATERIAL:AÇO INOXIDÁVEL, VAZÃO:800 M3/H, COMPONENTES ADICIONAIS:COM VÁLVULA DE RETENÇÃO, FREQUÊNCIA:60 HZ, VOLTAGEM:220 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "478112",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:3,4 M3/H, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:1,5 CV, MATERIAL:AÇO INOXIDÁVEL, VAZÃO:800 M3/H, COMPONENTES ADICIONAIS:COM VÁLVULA DE RETENÇÃO, FREQUÊNCIA:60 HZ, VOLTAGEM:220 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "478113",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:3,4 M3/H, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:1 CV, MATERIAL:AÇO INOXIDÁVEL, VAZÃO:800 M3/H, COMPONENTES ADICIONAIS:COM VÁLVULA DE RETENÇÃO, FREQUÊNCIA:60 HZ, VOLTAGEM:220 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "478114",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:3,4 M3/H, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:2 CV, MATERIAL:AÇO INOXIDÁVEL, VAZÃO:800 M3/H, COMPONENTES ADICIONAIS:COM VÁLVULA DE RETENÇÃO, FREQUÊNCIA:60 HZ, VOLTAGEM:220 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "478115",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:3,4 M3/H, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:3 CV, MATERIAL:AÇO INOXIDÁVEL, VAZÃO:800 M3/H, COMPONENTES ADICIONAIS:COM VÁLVULA DE RETENÇÃO, FREQUÊNCIA:60 HZ, VOLTAGEM:220 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "478116",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:9,8 M3/H, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:5 CV, MATERIAL:FERRO FUNDIDO, VAZÃO:800 M3/H, COMPONENTES ADICIONAIS:GUIA DE VÁLVULA, FREQUÊNCIA:60 HZ, VOLTAGEM:220 V, TIPO INSTALAçãO:INJETORA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "601150",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:0,25 KW, APLICAÇÃO:ESGOTO, MATERIAL:ALUMÍNIO/SILÍCIO, CARACTERÍSTICAS ADICIONAIS:ROTACAO 3450 RPM, VAZÃO:10,7 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:220 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "601151",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:0,75 KW, APLICAÇÃO:ESGOTO, MATERIAL:ALUMÍNIO/SILÍCIO, CARACTERÍSTICAS ADICIONAIS:ROTACAO 3450 RPM, VAZÃO:20,5 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:440 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "601152",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:1,5 KW, APLICAÇÃO:ESGOTO, MATERIAL:ALUMÍNIO/SILÍCIO, VAZÃO:60 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:440 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "601387",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:2,4 CV, APLICAÇÃO:ESGOTO, MATERIAL:FERRO FUNDIDO, VAZÃO:75 M3/H, FREQUÊNCIA:60 HZ, VOLTAGEM:360/440 V, TIPO INSTALAçãO:SUBMERSíVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "602968",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:8,0 MCA, TIPO MOTOR:MONOFÁSICO, POTÊNCIA:1,0 CV, MATERIAL:FERRO FUNDIDO E ROTORES EM BRONZE, CARACTERÍSTICAS ADICIONAIS:RECALQUE SUCÇÃO 1.1/2\", ALTURA MANOMÉTRICA 55 MCA, VAZÃO:3.000 L/H, VOLTAGEM:127/220 V, TIPO INSTALAçãO:HORIZONTAL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "602969",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, CAPACIDADE:47 M3/H, TIPO MOTOR:MONOBLOCO E MANCALIZADA, POTÊNCIA:2 CV, MATERIAL:FERRO FUNDIDO E ROTORES EM BRONZE, CARACTERÍSTICAS ADICIONAIS:ROTAÇÃO: 3500 RPM, SUCÇÃO ( 1 1/2 )\", RECALQUE 1\", VAZÃO:16,5 L/H, COMPONENTES ADICIONAIS:BOCAIS TIPO ROSQUEADOS"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15162",
+    "codigo": "603468",
+    "descricao": " BOMBA CENTRÍFUGA ÁGUA, TIPO MOTOR:TRIFÁSICO, POTÊNCIA:1,5 CV, APLICAÇÃO:ÁGUA, MATERIAL:FERRO FUNDIDO E ROTORES EM BRONZE, CARACTERÍSTICAS ADICIONAIS:3400 RPM, FREQUÊNCIA:60 HZ"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15250",
+    "codigo": "238647",
+    "descricao": " REGULADOR BOTIJÃO GÁS, MATERIAL CORPO:LIGA DE ZINCO, MATERIAL VEDAÇÃO:BORRACHA NITRÍLICA, DIÂMETRO SAÍDA:3/8 POL, COMPONENTES ADICIONAIS:BORBOLETA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15250",
+    "codigo": "304158",
+    "descricao": " REGULADOR BOTIJÃO GÁS, MATERIAL CORPO:ZAMAC, DIÂMETRO SAÍDA:3/8 POL, CARACTERÍSTICAS ADICIONAIS:VAZÃO DE 2 KG DE GÁS POR HORA, BAIXA PRESSÃO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15250",
+    "codigo": "466177",
+    "descricao": " REGULADOR BOTIJÃO GÁS, MATERIAL CORPO:ZAMAC, DIÂMETRO SAÍDA:3/8 POL, COMPONENTES ADICIONAIS:BORBOLETA, CARACTERÍSTICAS ADICIONAIS:VAZÃO DE 1 KG DE GÁS POR HORA, BAIXA PRESSÃO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "15340",
+    "codigo": "239773",
+    "descricao": " REGULADOR GÁS, MATERIAL:ALUMÍNIO FUNDIDO, TIPO FECHAMENTO:REDISTRO MANUAL, COMPONENTE:ALAVANCA, TIPO ROSCA:GAS GLP, MEDIDA DA ROSCA:3/4 POL, CARACTERÍSTICA ADCIONAIS:COM FILTRO"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "16218",
+    "codigo": "252185",
+    "descricao": " ESTATOR, REFERÊNCIA FABRICANTE:2HF-50 NBRA, APLICAÇÃO:BOMBA DEJETOS WEATHEFORD"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "16218",
+    "codigo": "409129",
+    "descricao": " ESTATOR, REFERÊNCIA FABRICANTE:NDB4963219, APLICAÇÃO:BOMBA NETZSCH"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "16218",
+    "codigo": "466231",
+    "descricao": " ESTATOR, REFERÊNCIA FABRICANTE:2680-500-111, APLICAÇÃO:ALTERNADOR BOSCH 12V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4320",
+    "padrao": "16218",
+    "codigo": "466232",
+    "descricao": " ESTATOR, REFERÊNCIA FABRICANTE:2680-500-447[, APLICAÇÃO:ALTERNADOR BOSCH 28V"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "4756",
+    "codigo": "443716",
+    "descricao": " CENTRÍFUGA INDUSTRIAL / PEÇAS E ACESSÓRIOS, TIPO:REFRIGERADA, MATERIAL CÂMARA INTERNA:AÇO INOX, CARACTERÍSTICAS ADICIONAIS:ROTORES COM TROCA RáPIDA SEM FERRAMENTAS AUTO-LOCK, VELOCIDADE MÁXIMA ÂNGULAR:15.200 RPM, VELOCIDADE MÁXIMA HORIZONTAL:5.300 RPM, FAIXA TEMPERATURA:10 A 40 GRA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "264894",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:FIBRA CELULOSE, ESPESSURA:25 MICROM, COMPRIMENTO:248 MM, DIÂMETRO EXTERNO:65 MM, APLICAÇÃO:FILTRO POÇO ARTESIANO, CARACTERÍSTICAS ADICIONAIS:AGREGADO COM RESINA MELAMÍNICA, CARTUCHO AP111 H/C"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "305403",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIESTIRENO ALTO IMPACTO, ESPESSURA:4 MM, COMPRIMENTO:220 MM, DIÂMETRO EXTERNO:54/60 MM, APLICAÇÃO:PURIFICADOR ÁGUA IBBL FR600, CARACTERÍSTICAS ADICIONAIS:CLASSE P III,MICROFIBRA EM POLIPROPILENO 25 E 5 MI"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "310540",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:MICROFIBRAS INORGÂNICAS, ESPESSURA:10 MICRA, COMPRIMENTO:310 MM, DIÂMETRO INTERNO:45 MM, DIÂMETRO EXTERNO:78 MM"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "312442",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:PLÁSTICO INJETADO, APLICAÇÃO:PURIFICADOR DE ÁGUA LATINA PA ELETRONIC, CARACTERÍSTICAS ADICIONAIS:FILTRAGEM 3 ESTÁGIOS, CLASSE I (CLORO), CLASSE III, NORMAS TÉCNICAS:NBR 14908/2000"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "313989",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, ESPESSURA:65 MM, COMPRIMENTO:230 MM, DIÂMETRO INTERNO:12 MM, DIÂMETRO EXTERNO:65 MM, APLICAÇÃO:EQUIPAMENTO LAVAGEM DE ROUPA, CARACTERÍSTICAS ADICIONAIS:MODELO CM-230, ROSCA 1/2 POL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "334183",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIESTIRENO SINTETIZADO, APLICAÇÃO:FILTRAGEM DE ÁGUA, CARACTERÍSTICAS ADICIONAIS:VAZÃO 1800 L/H, ENTRADA 1.1/2 POL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "341062",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:FIBRA POLIÉSTER, ESPESSURA:0,2 MICRA, APLICAÇÃO:FILTRAGEM DE ÁGUA, CARACTERÍSTICAS ADICIONAIS:LAVADORA JOHSON & JOHSON MODELO AER PLUS"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "341067",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:MICROFIBRA, ESPESSURA:1 MICRA, APLICAÇÃO:FILTRAGEM DE ÁGUA, CARACTERÍSTICAS ADICIONAIS:LAVADORA JOHSON & JOHSON MODELO AER PLUS"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "356635",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:ALGODÃO BOBINADO, CAPACIDADE FILTRAGEM:PARTÍCULAS MAIORES OU IGUAIS A 1 MICRON, APLICAÇÃO:TRATAMENTO ÓLEO ISOLANTE TRANSFORMADOR, CARACTERÍSTICAS ADICIONAIS:NÚCLEO EM INOX, 14 FILTRO PRIMÁRIO FF2"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "356636",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:ALGODÃO BOBINADO, CAPACIDADE FILTRAGEM:PARTÍCULAS MAIORES OU IGUAIS A 1 MICRON, APLICAÇÃO:TRATAMENTO ÓLEO ISOLANTE TRANSFORMADOR, CARACTERÍSTICAS ADICIONAIS:NÚCLEO EM INOX, 02 FILTRO PRIMÁRIO FF2"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "357317",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, COMPRIMENTO:225 MM, DIÂMETRO EXTERNO:70 MM, APLICAÇÃO:FILTRAGEM DE ÁGUA, CARACTERÍSTICAS ADICIONAIS:COM CARVÃO ATIVADO E CELULOSE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "365554",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, ESPESSURA:1 MICRA, CAPACIDADE FILTRAGEM:PARTÍCULAS MAIORES OU IGUAIS A 1 MICRON PER, APLICAÇÃO:FILTRAGEM DE ÁGUA, CARACTERÍSTICAS ADICIONAIS:BOBINADO, TRANÇADO, 10 POLEGAS"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "365560",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, ESPESSURA:5 MICRA, CAPACIDADE FILTRAGEM:PARTÍCULAS MAIORES OU IGUAIS A 5 MICRON PER, APLICAÇÃO:FILTRAGEM DE ÁGUA, CARACTERÍSTICAS ADICIONAIS:BOBINADO, TRANÇADO, 20 POLEGADAS"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "373471",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, ESPESSURA:5 MICRA, CAPACIDADE FILTRAGEM:130 L/H, TEMPERATURA MÁXIMA:50 ¿C, APLICAÇÃO:FILTRO  5HPC 5\", CARACTERÍSTICAS ADICIONAIS:CARVÃO ATIVADO COM PRATA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "373472",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, ESPESSURA:5 MICRA, CAPACIDADE FILTRAGEM:180 L/H, TEMPERATURA MÁXIMA:50 ¿C, APLICAÇÃO:FILTRO 5HPC 9 3/4\", CARACTERÍSTICAS ADICIONAIS:CARVÃO ATIVADO COM PRATA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "375342",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, CAPACIDADE FILTRAGEM:PARTÍCULAS MAIORES OU IGUAIS A 5 MICRON, TEMPERATURA MÁXIMA:38 ¿C, APLICAÇÃO:FILTRO AGUALAR AP200PE, CARACTERÍSTICAS ADICIONAIS:ANEL VEDAÇÃO BUNA-N, CONEXÃO 1/2 POL, BSP, VAZÃO:340 L/H, PRESSÃO MÁXIMA:60 PSI"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "389413",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, ESPESSURA:5 MICRA, CAPACIDADE FILTRAGEM:CLASSE III, APLICAÇÃO:FILTRO HIDRO FILTER  9 1/2\" TR FILTER FLUX, VAZÃO:1.200 L/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "389414",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:CARVÃO ATIVADO, ESPESSURA:5 MICRA, CAPACIDADE FILTRAGEM:CLASSE III, APLICAÇÃO:FILTRO HIDRO FILTER  9 1/2\" TR FILTER FLUX, VAZÃO:180 L/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "400228",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:CARVÃO ATIVADO E PRATA COLOIDAL, ESPESSURA:5 MICRA, CAPACIDADE FILTRAGEM:3.000 L, APLICAÇÃO:FILTRAGEM DE ÁGUA, CARACTERÍSTICAS ADICIONAIS:2 ESTÁGIOS FILTRAGEM"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "418297",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:CARVÃO ATIVADO VEGETAL CASCA DE COCO, APLICAÇÃO:REMOÇÃO CLORO SABORES ODORES PARTÍCULAS MOLÉCULAS, CARACTERÍSTICAS ADICIONAIS:CARVÃO ATIVADO GRANULOMETRIA GM 8X30"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "419743",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:FIBRA CELULOSE, CAPACIDADE FILTRAGEM:680 L/H, APLICAÇÃO:FILTRO AQUALAR, CARACTERÍSTICAS ADICIONAIS:TRIPLA FILTRAGEM/CARVÃO ATIVADO COM PRATA COLOIDAL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "440931",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:QUARTZO I, QUARTZO II, DOLOMITA E FELDSPATO, VAZÃO:3.000 L/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "440932",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:QUARTZO I, QUARTZO II, DOLOMITA E FELDSPATO, VAZÃO:600 L/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "441735",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, ESPESSURA:1 MM, CAPACIDADE FILTRAGEM:PARTÍCULAS MAIORES OU IGUAIS A 1 MICRON, CARACTERÍSTICAS ADICIONAIS:BOBINADO, TRANÇADO, 20 POLEGADAS"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "441932",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIESTIRENO SINTETIZADO, APLICAÇÃO:FILTRAGEM DE ÁGUA, CARACTERÍSTICAS ADICIONAIS:VAZÃO 1200 L/H, ENTRADA 3,4\""
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "447376",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:RESINA DE ENGENHARIA, ESPESSURA:65 MM, CAPACIDADE FILTRAGEM:400.000, COMPRIMENTO:520 MM, DIÂMETRO EXTERNO:65 MM, TEMPERATURA MÁXIMA:75 ¿C, APLICAÇÃO:TANQUES E BOMBAS DE ABASTECIMENTO A DIESEL, NORMAS TÉCNICAS:NBR 11348/2005, VAZÃO:400.000 L/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "447377",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:RESINA DE ENGENHARIA, ESPESSURA:65 MM, CAPACIDADE FILTRAGEM:200.000, COMPRIMENTO:290 MM, DIÂMETRO EXTERNO:65 MM, TEMPERATURA MÁXIMA:75 ¿C, APLICAÇÃO:TANQUES E BOMBAS DE ABASTECIMENTO A DIESEL, NORMAS TÉCNICAS:NBR 11348/2005, VAZÃO:200.000 L/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "454455",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:CARVÃO ATIVADO E PRATA COLOIDAL, CAPACIDADE FILTRAGEM:PARTÍCULAS MAIORES OU IGUAIS A 3 MICROM, DIÂMETRO EXTERNO:64 MM, APLICAÇÃO:FILTRO IGATU, CARACTERÍSTICAS ADICIONAIS:ALTURA 9 3/4 POLEGADAS"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "454456",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:CARVÃO ATIVADO E PRATA COLOIDAL, CAPACIDADE FILTRAGEM:PARTÍCULAS MAIORES OU IGUAIS A 5 MICROM, DIÂMETRO EXTERNO:64 MM, APLICAÇÃO:FILTRO IGATU, CARACTERÍSTICAS ADICIONAIS:ALTURA 9 3/4 POLEGADAS"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "454457",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:CARVÃO ATIVADO E PRATA COLOIDAL, CAPACIDADE FILTRAGEM:PARTÍCULAS MAIORES OU IGUAIS A 10 MICROM, DIÂMETRO EXTERNO:64 MM, APLICAÇÃO:FILTRO IGATU, CARACTERÍSTICAS ADICIONAIS:ALTURA 9 3/4 POLEGADAS"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "455000",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, ESPESSURA:0,2 MICRA, CARACTERÍSTICAS ADICIONAIS:REFERENCIA: POLYCAP 36HD; 2611T, WHATMAN, PRESSÃO MÁXIMA:60 PSI"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "460848",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, ESPESSURA:25 MICRA, APLICAÇÃO:FILTRAGEM DE ÁGUA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "460852",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, ESPESSURA:1 MICRA, APLICAÇÃO:FILTRAGEM DE ÁGUA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "460920",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:CARVÃO ATIVADO, ESPESSURA:5 MICRA, APLICAÇÃO:FILTRAGEM DE ÁGUA, CARACTERÍSTICAS ADICIONAIS:MEDIDAS, 10\" X 2,5\""
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "461416",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:CARVÃO ATIVADO, ESPESSURA:5 MICRA, COMPRIMENTO:20 POL, DIÂMETRO EXTERNO:2,1/2 POL, APLICAÇÃO:FILTRAGEM DE ÁGUA, CARACTERÍSTICAS ADICIONAIS:ARRUELAS E DEMAIS COMPONENTES, VAZÃO:600 L/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "461451",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, ESPESSURA:25 MICRA, APLICAÇÃO:EQUIPAMENTO FR0500, CARACTERÍSTICAS ADICIONAIS:PRÉ-FILTRO OSMOSE REVERSA PARA ELIMINAÇÃO DE CONTA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "461547",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, ESPESSURA:5 MICRA, COMPRIMENTO:9,3/4 POL, DIÂMETRO EXTERNO:65 MM, APLICAÇÃO:PARA ÁGUA, CARACTERÍSTICAS ADICIONAIS:PROTEGIDO COM REDE DE NYLON"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "461556",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:CARVÃO ATIVADO, ESPESSURA:5 MICRA, COMPRIMENTO:9,3/4 POL, DIÂMETRO EXTERNO:65 MM, APLICAÇÃO:PARA ÁGUA, CARACTERÍSTICAS ADICIONAIS:PROTEGIDO COM REDE DE NYLON"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "461584",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, ESPESSURA:5 MICRA, COMPRIMENTO:20 POL, DIÂMETRO EXTERNO:2,1/2 POL, APLICAÇÃO:PARA ÁGUA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "464995",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, CAPACIDADE FILTRAGEM:PARTÍCULAS MAIORES OU IGUAIS A 1 MICRON, COMPRIMENTO:10 POL, DIÂMETRO EXTERNO:2,5 POL, APLICAÇÃO:FILTRAGEM DE ÁGUA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "464996",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, CAPACIDADE FILTRAGEM:PARTÍCULAS MAIORES OU IGUAIS A 5 MICRON, COMPRIMENTO:10 POL, DIÂMETRO EXTERNO:2,5 POL, APLICAÇÃO:FILTRAGEM DE ÁGUA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "464997",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, CAPACIDADE FILTRAGEM:PARTÍCULAS MAIORES OU IGUAIS A 25 MICRON, COMPRIMENTO:10 POL, DIÂMETRO EXTERNO:2,5 POL, APLICAÇÃO:FILTRAGEM DE ÁGUA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "464998",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, CAPACIDADE FILTRAGEM:PARTÍCULAS MAIORES OU IGUAIS A 1 MICRON, COMPRIMENTO:20 POL, DIÂMETRO EXTERNO:2,5 POL, APLICAÇÃO:FILTRAGEM DE ÁGUA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "464999",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, CAPACIDADE FILTRAGEM:PARTÍCULAS MAIORES OU IGUAIS A 5 MICRON, COMPRIMENTO:20 POL, DIÂMETRO EXTERNO:2,5 POL, APLICAÇÃO:FILTRAGEM DE ÁGUA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "465000",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, CAPACIDADE FILTRAGEM:PARTÍCULAS MAIORES OU IGUAIS A 25 MICRON, COMPRIMENTO:20 POL, DIÂMETRO EXTERNO:2,5 POL, APLICAÇÃO:FILTRAGEM DE ÁGUA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "465972",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:CARVÃO ATIVADO, ESPESSURA:5 MICRA, COMPRIMENTO:20 X 2,5 POL, APLICAÇÃO:FILTRAGEM DE ÁGUA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "466862",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:TELA METÁLICA, COMPRIMENTO:135 MM, DIÂMETRO EXTERNO:80 MM, APLICAÇÃO:BOCAL DO TANQUE COMBUSTÍVEL, CARACTERÍSTICAS ADICIONAIS:VEÍCULO BLINDADO URUTU / CASCAVEL, REFERÊNCIA FABRICANTE:2241-000-179"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "466863",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:TELA METÁLICA, COMPRIMENTO:270 MM, APLICAÇÃO:PESCADOR DO RESERVATÓRIO COMBUSTÍVEL, CARACTERÍSTICAS ADICIONAIS:VEÍCULO BLINDADO URUTU / CASCAVEL, REFERÊNCIA FABRICANTE:1702-010-337"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "467092",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, CAPACIDADE FILTRAGEM:5 MICRA. CLASSE III, APLICAÇÃO:BEBEDOURO INDUSTRIAL, MODELO HIDRO FILTER POU 5 BR, VAZÃO:90 L/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "467093",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, CAPACIDADE FILTRAGEM:5 MICRA. CLASSE III, APLICAÇÃO:BEBEDOURO INDUSTRIAL, MODELO HIDRO FILTER POU 7 BR, VAZÃO:100 L/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "467094",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, CAPACIDADE FILTRAGEM:5 MICRA. CLASSE III, APLICAÇÃO:BEBEDOURO INDUSTRIAL, MODELO HIDRO FILTER POU 9 BR, VAZÃO:180 L/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "467095",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, CAPACIDADE FILTRAGEM:PARTÍCULAS MAIORES OU IGUAIS A 25 MICRON, APLICAÇÃO:FILTRAGEM DE ÁGUA, VAZÃO:6.000 L/H"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "467296",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:FIBRA DE VIDRO, COMPRIMENTO:230 MM, APLICAÇÃO:USO LABORATORIAL, CARACTERÍSTICAS ADICIONAIS:PARA SER FIXADO COM BASTIDOR EM TAMPA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "6446",
+    "codigo": "475705",
+    "descricao": " ELEMENTO FILTRANTE, MATERIAL:POLIPROPILENO, CAPACIDADE FILTRAGEM:1 MICRA, DIÂMETRO EXTERNO:2,5 POL, APLICAÇÃO:LAVADORA MOP, CARACTERÍSTICAS ADICIONAIS:REFIL; 10\" DE ALTURA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "7457",
+    "codigo": "468716",
+    "descricao": " FILTRO CARTUCHO, FORMATO:CILÍNDRICO COM TAMPAS, MATERIAL:ENCARTONADO DE CELULOSE, CARACTERÍSTICAS ADICIONAIS:160 PLISSAS E 3 SLUGS, DIMENSÕES:320 X 1.320 X 160 MM"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "7470",
+    "codigo": "248595",
+    "descricao": " FILTRO DE FIBRA DE VIDRO, MATERIAL:FIBRA DE VIDRO, DIÂMETRO:47 MM, ESPESSURA:0,3 MM, POROSIDADE:0,7 MICROM"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "7470",
+    "codigo": "322919",
+    "descricao": " FILTRO DE FIBRA DE VIDRO, MATERIAL:FIBRA DE VIDRO, DIÂMETRO:47 MM, POROSIDADE:0,60 A 1,20 MICROM"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "7470",
+    "codigo": "350704",
+    "descricao": " FILTRO DE FIBRA DE VIDRO, DIÂMETRO:150 MM, POROSIDADE:1,6 MICRA, REFERÊNCIA:1820-150"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "7470",
+    "codigo": "363432",
+    "descricao": " FILTRO DE FIBRA DE VIDRO, DIÂMETRO:125 MM, POROSIDADE:200 MICRA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "7470",
+    "codigo": "428956",
+    "descricao": " FILTRO DE FIBRA DE VIDRO, MATERIAL:FIBRA DE VIDRO, DIÂMETRO:45 MM"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "7470",
+    "codigo": "474904",
+    "descricao": " FILTRO DE FIBRA DE VIDRO, MATERIAL:FIBRA DE VIDRO, DIÂMETRO:47 MM"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "7470",
+    "codigo": "484187",
+    "descricao": " FILTRO DE FIBRA DE VIDRO, MATERIAL:FIBRA DE VIDRO, DIÂMETRO:55 MM, ESPESSURA:0,68 MM, POROSIDADE:1 MICRA, REFERÊNCIA:GRADE GF/D"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "7470",
+    "codigo": "484188",
+    "descricao": " FILTRO DE FIBRA DE VIDRO, MATERIAL:FIBRA DE VIDRO, DIÂMETRO:90 MM, ESPESSURA:0,67 MM, POROSIDADE:2,7 MICRA, REFERÊNCIA:GRADE GF/D"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "7486",
+    "codigo": "284005",
+    "descricao": " FILTRO PARA AR COMPRIMIDO, VAZÃO NOMINAL:1200 L/MIN, TIPO CONEXÃO:ROSCA G 1/4 POL, PRESSÃO ENTRADA:1 A 16 BAR., CARACTERÍSTICAS ADICIONAIS:COM VÁLVULA REGULADORA PRESSÃO E MANOMETRO, GRAU FILTRAGEM:5 MICROM"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "7486",
+    "codigo": "301569",
+    "descricao": " FILTRO PARA AR COMPRIMIDO, TIPO CONEXÃO:ROSCA G 1 1/2\" POL, PRESSÃO ENTRADA:1 A 17 BAR., CARACTERÍSTICAS ADICIONAIS:DRENO MANUAL, TERMINAIS P/ CONEXÃO E SUPORTE P/ MO, GRAU FILTRAGEM:40 MICRA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "7486",
+    "codigo": "451609",
+    "descricao": " FILTRO PARA AR COMPRIMIDO, TIPO CONEXÃO:ROSCA G 1/4 POL, PRESSÃO ENTRADA:12 BAR., CARACTERÍSTICAS ADICIONAIS:MANÔMETRO INCORPORADO, DRENO SEMIAUTOMÁTICO, SEM, GRAU FILTRAGEM:40 MICRA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "7486",
+    "codigo": "479118",
+    "descricao": " FILTRO PARA AR COMPRIMIDO, VAZÃO NOMINAL:10.000 L/MIN, TIPO CONEXÃO:ROSCA G 1 1/2\" POL, PRESSÃO ENTRADA:0,5 - 12 BAR., CARACTERÍSTICAS ADICIONAIS:COPO DE PROTEÇÃO, MANOMETRO, DRENO AUTOMÁTICO, GRAU FILTRAGEM:40 MICRA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "7486",
+    "codigo": "479119",
+    "descricao": " FILTRO PARA AR COMPRIMIDO, VAZÃO NOMINAL:9.700 L/MIN, TIPO CONEXÃO:ROSCA G 3/4 POL, PRESSÃO ENTRADA:0,5 - 12 BAR., CARACTERÍSTICAS ADICIONAIS:COPO DE PROTEÇÃO, MANOMETRO, DRENO MANUAL, GRADE, GRAU FILTRAGEM:40 MICRA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "7486",
+    "codigo": "601707",
+    "descricao": " FILTRO PARA AR COMPRIMIDO, VAZÃO NOMINAL:2.600 L/MIN, TIPO CONEXÃO:ROSCA G 1/2 POL, PRESSÃO ENTRADA:10 BAR., CARACTERÍSTICAS ADICIONAIS:MANÔMETRO INCORPORADO, DRENO AUTOMÁTICO, GRAU FILTRAGEM:40 MICRA"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "11343",
+    "codigo": "289669",
+    "descricao": " PURGADOR, TIPO:TERMODINÂMICO DE CONDENSADO, TAMANHO:1/2 POL, COMPATIBILIDADE:COMPATÍVEL C/AUTOCLAVE HOGNER MODELO TD52"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "11343",
+    "codigo": "475710",
+    "descricao": " PURGADOR, TIPO:TERMODINÂMICO DE CONDENSADO, TAMANHO:1/2 POL, REFERÊNCIA:BT6, SPIRAX SARCO, MATERIAL:AÇO INOXIDÁVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "11343",
+    "codigo": "475711",
+    "descricao": " PURGADOR, TIPO:TERMODINÂMICO DE CONDENSADO, TAMANHO:1/2 POL, REFERÊNCIA:TDS-52, SPIRAX SARCO, MATERIAL:AÇO INOXIDÁVEL"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "15277",
+    "codigo": "238965",
+    "descricao": " FILTRO  ORDENHADEIRA, MATERIAL:PAPEL, USO:FILTRAR LEITE"
+  },
+  {
+    "grupo": "43",
+    "classe": "4330",
+    "padrao": "15277",
+    "codigo": "462264",
+    "descricao": " FILTRO  ORDENHADEIRA, MATERIAL:TNT ATÓXICO, USO:FILTRAR LEITE"
+  }
+]

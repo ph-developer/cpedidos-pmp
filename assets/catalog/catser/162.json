@@ -1,0 +1,38 @@
+[
+  {
+    "grupo": "162",
+    "classe": "1621",
+    "codigo": "26980",
+    "descricao": "CENTRAL DE SERVICOS DE TIC"
+  },
+  {
+    "grupo": "162",
+    "classe": "1621",
+    "codigo": "26999",
+    "descricao": "SERVICOS DE GERENCIAMENTO  DE REDES DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO (TIC)"
+  },
+  {
+    "grupo": "162",
+    "classe": "1621",
+    "codigo": "27006",
+    "descricao": "SERVICOS DE GERENCIAMENTO DE SISTEMAS COMPUTACIONAIS"
+  },
+  {
+    "grupo": "162",
+    "classe": "1621",
+    "codigo": "27014",
+    "descricao": "SERVICOS DE GERENCIAMENTO DE INFRAESTRUTURA DE TECNOLOGIA DAINFORMACAO E COMUNICACAO (TIC)"
+  },
+  {
+    "grupo": "162",
+    "classe": "1621",
+    "codigo": "27022",
+    "descricao": "OUTROS SERVICOS DE  GERENCIAMENTO DE INFRAESTRUTURA DE TECNOLOGIA DA INFORMACAO E COMUNICACAO (TIC)"
+  },
+  {
+    "grupo": "162",
+    "classe": "1621",
+    "codigo": "27758",
+    "descricao": "SERVICOS ESPECIALIZADOS DE  DISPONIBILIZACAO DE COPIAS DE SEGURANÇA DE DADOS (BACKUP COMO SERVICO)"
+  }
+]

@@ -1,0 +1,919 @@
+[
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "9919",
+    "codigo": "255864",
+    "descricao": " MOTOSERRA INDUSTRIAL, POTÊNCIA:2,9 KW, COMBUSTÍVEL MOTOR:GASOLINA, CAPACIDADE TANQUE COMBUSTÍVEL:0,75 L, CILINDRADA MOTOR:62 CC, CARACTERÍSTICAS ADICIONAIS:SABRE DE 13 A 18 POL, PASSO DA CORRENTE DE 3/8 POL"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "9919",
+    "codigo": "256551",
+    "descricao": " MOTOSERRA INDUSTRIAL, POTÊNCIA:3,6 KW, COMBUSTÍVEL MOTOR:GASOLINA, CAPACIDADE TANQUE COMBUSTÍVEL:0,68 L, CILINDRADA MOTOR:72,2 CC, CARACTERÍSTICAS ADICIONAIS:SABRE DE 33 CM, PASSO DA CORRENTE DE 3/8 POL"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "9919",
+    "codigo": "264559",
+    "descricao": " MOTOSERRA INDUSTRIAL, POTÊNCIA:1,6 KW, COMBUSTÍVEL MOTOR:GASOLINA, CAPACIDADE TANQUE COMBUSTÍVEL:0,40 L, CILINDRADA MOTOR:36 CM3, CARACTERÍSTICAS ADICIONAIS:SABRE DE 13 A 15 POL E CORRENTE DE 0,325 POL"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "9919",
+    "codigo": "264562",
+    "descricao": " MOTOSERRA INDUSTRIAL, POTÊNCIA:3,4 KW, COMBUSTÍVEL MOTOR:GASOLINA, CAPACIDADE TANQUE COMBUSTÍVEL:0,63 L, CILINDRADA MOTOR:61,5 CC, CARACTERÍSTICAS ADICIONAIS:SABRE DE 40 CM E PASSO DA CORRENTE DE 3/8 POL"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "9919",
+    "codigo": "295586",
+    "descricao": " MOTOSERRA INDUSTRIAL, POTÊNCIA:2,9 KW, COMBUSTÍVEL MOTOR:GASOLINA, CILINDRADA MOTOR:59 CM3, CARACTERÍSTICAS ADICIONAIS:SABRE DE 33 A 60 CM E PASSO DA CORRENTE DE 3/8"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "9919",
+    "codigo": "295590",
+    "descricao": " MOTOSERRA INDUSTRIAL, POTÊNCIA:2,5 KW, COMBUSTÍVEL MOTOR:GASOLINA, CAPACIDADE TANQUE COMBUSTÍVEL:0,60 L, CILINDRADA MOTOR:53,2 CM3, CARACTERÍSTICAS ADICIONAIS:SABRE DE 33 A 50 CM E PASSO DA CORRENTE DE 3/8"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "9919",
+    "codigo": "295594",
+    "descricao": " MOTOSERRA INDUSTRIAL, POTÊNCIA:3,2 KW, COMBUSTÍVEL MOTOR:GASOLINA, CILINDRADA MOTOR:66,7 CM3, CARACTERÍSTICAS ADICIONAIS:SABRE DE 38 A 60 CM E PASSO DA CORRENTE DE 3/8 POL"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "9919",
+    "codigo": "359089",
+    "descricao": " MOTOSERRA INDUSTRIAL, POTÊNCIA:4,20 KW, CAPACIDADE TANQUE COMBUSTÍVEL:0,90 L, CILINDRADA MOTOR:80,70 CM3, CARACTERÍSTICAS ADICIONAIS:SABRE DE 45 A 70 CM, PASSO DA CORRENTE DE 3/8 POL"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "9919",
+    "codigo": "363059",
+    "descricao": " MOTOSERRA INDUSTRIAL, POTÊNCIA:3,9 KW, CILINDRADA MOTOR:72,2 CM3, CARACTERÍSTICAS ADICIONAIS:SABRE DE 40 A 75 CM, PASSO DA CORRENTE DE 3/8 POL"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "9919",
+    "codigo": "373384",
+    "descricao": " MOTOSERRA INDUSTRIAL, POTÊNCIA:2,3 KW, COMBUSTÍVEL MOTOR:GASOLINA, CAPACIDADE TANQUE COMBUSTÍVEL:0,470 L, CILINDRADA MOTOR:45,3 CM3, CARACTERÍSTICAS ADICIONAIS:PASSO CORRENTE 3/8 POLEGADAS"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "9919",
+    "codigo": "445728",
+    "descricao": " MOTOSERRA INDUSTRIAL, POTÊNCIA:2,5 KW, COMBUSTÍVEL MOTOR:GASOLINA, CAPACIDADE TANQUE COMBUSTÍVEL:0,52 L, CILINDRADA MOTOR:58 CC, CARACTERÍSTICAS ADICIONAIS:SABRE DE 17 A 20 POL, PASSO DA CORRENTE 3/8 POL"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "9919",
+    "codigo": "447121",
+    "descricao": " MOTOSERRA INDUSTRIAL, POTÊNCIA:1.3 KW, COMBUSTÍVEL MOTOR:GASOLINA, CAPACIDADE TANQUE COMBUSTÍVEL:0,25 L, CILINDRADA MOTOR:30,1 CM3, CARACTERÍSTICAS ADICIONAIS:ROTAÇÃO LENTA MÍNIMA DE 2800RPM E  ROTAÇÃO MÁXIMA"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "9919",
+    "codigo": "449191",
+    "descricao": " MOTOSERRA INDUSTRIAL, POTÊNCIA:3,9 KW, COMBUSTÍVEL MOTOR:GASOLINA, CAPACIDADE TANQUE COMBUSTÍVEL:0,68 L, CILINDRADA MOTOR:72,2 CM3"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "9919",
+    "codigo": "468600",
+    "descricao": " MOTOSERRA INDUSTRIAL, POTÊNCIA:3,5 HP, COMBUSTÍVEL MOTOR:GASOLINA, CAPACIDADE TANQUE COMBUSTÍVEL:0,460 L, CILINDRADA MOTOR:50.2 CC"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "9919",
+    "codigo": "468601",
+    "descricao": " MOTOSERRA INDUSTRIAL, POTÊNCIA:5.4 HP, COMBUSTÍVEL MOTOR:GASOLINA, CAPACIDADE TANQUE COMBUSTÍVEL:0,00085 L, CILINDRADA MOTOR:91,1 CC"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "9919",
+    "codigo": "479713",
+    "descricao": " MOTOSERRA INDUSTRIAL, POTÊNCIA:4,3 KW, COMBUSTÍVEL MOTOR:GASOLINA, CILINDRADA MOTOR:89,2 CM3, CARACTERÍSTICAS ADICIONAIS:SABRE DE 75 CM, CORRENTE DE 0,404\", ROTAÇÃO 10.000"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "9919",
+    "codigo": "483176",
+    "descricao": " MOTOSERRA INDUSTRIAL, POTÊNCIA:4,8 HP, COMBUSTÍVEL MOTOR:GASOLINA, CILINDRADA MOTOR:56 CC"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "9919",
+    "codigo": "487734",
+    "descricao": " MOTOSERRA INDUSTRIAL, POTÊNCIA:1,6 KW, COMBUSTÍVEL MOTOR:GASOLINA, CAPACIDADE TANQUE COMBUSTÍVEL:0,37 L, CILINDRADA MOTOR:40,9 CM3, CARACTERÍSTICAS ADICIONAIS:SABRE DE 33 A 45 CM"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "12034",
+    "codigo": "265920",
+    "descricao": " SERRA CIRCULAR INDUSTRIAL, MATERIAL:FERRO FUNDIDO, TIPO SERRA:TAQUEADEIRA, TIPO ACIONAMENTO:ELÉTRICA, POTÊNCIA DO MOTOR:5 HP, CARACTERíSTICAS ADICIONAIS:TRIFÁSICA, COM MESA MEDINDO 0,70X0,80 CM"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "12034",
+    "codigo": "468594",
+    "descricao": " SERRA CIRCULAR INDUSTRIAL, MATERIAL:FERRO FUNDIDO, TIPO SERRA:ESQUADREJADEIRA, CARACTERíSTICAS ADICIONAIS:COM INCLINACÃO DE 0¿ A 45¿ 3 CV DE POTENCIA"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "12034",
+    "codigo": "468596",
+    "descricao": " SERRA CIRCULAR INDUSTRIAL, MATERIAL:FERRO FUNDIDO, TIPO SERRA:CIRCULAR/ BANCADA, TIPO ACIONAMENTO:ELÉTRICA, CARACTERíSTICAS ADICIONAIS:CONFORME MODELO"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "13129",
+    "codigo": "323050",
+    "descricao": " TUPIA INDUSTRIAL, DIÂMETRO:1/2 POL, POTÊNCIA MOTOR:930 W, ROTAÇÃO:23.000 RPM, DIÂMETRO FRESA:12 MM, CARACTERÍSTICAS ADICIONAIS:ESTRUTURA COM MANOPLA EM D, APLICAÇÃO:CARPINTARIA"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "13129",
+    "codigo": "460101",
+    "descricao": " TUPIA INDUSTRIAL, DIÂMETRO:1/2 POL, POTÊNCIA MOTOR:900 W, ROTAÇÃO:16.000 RPM, DIÂMETRO FRESA:12 MM, APLICAÇÃO:CARPINTARIA"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "13129",
+    "codigo": "466455",
+    "descricao": " TUPIA INDUSTRIAL, DIÂMETRO:30 MM, POTÊNCIA MOTOR:3 CV, ROTAÇÃO:6.000 A 10.000 RPM, CARACTERÍSTICAS ADICIONAIS:TRIFÁSICO, APLICAÇÃO:CARPINTARIA"
+  },
+  {
+    "grupo": "32",
+    "classe": "3220",
+    "padrao": "13129",
+    "codigo": "603226",
+    "descricao": " TUPIA INDUSTRIAL, DIÂMETRO:30 MM, POTÊNCIA MOTOR:TRIFASICO 5CV 2 POLOS CV, CARACTERÍSTICAS ADICIONAIS:EIXO 30 MM DIMENSOES DA MESA 900X700 MM, APLICAÇÃO:CARPINTARIA"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "3271",
+    "codigo": "235699",
+    "descricao": " BANCADA PROFISSIONAL, MATERIAL:MADEIRA REVESTIDA FÓRMICA, COMPRIMENTO:1,60 M, LARGURA:0,70 M, ALTURA:1,10 M, ESPESSURA:1,50 CM, APLICAÇÃO:SERVIÇOS GERAIS - OFICINA, CARACTERÍSTICAS ADICIONAIS:ESTRUTURA METÁLICA"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "3271",
+    "codigo": "246537",
+    "descricao": " BANCADA PROFISSIONAL, MATERIAL:METAL E MADEIRA, COMPRIMENTO:3 M, LARGURA:1,80 M, ALTURA:0,80 M, ESPESSURA:2,50 CM, CARACTERÍSTICAS ADICIONAIS:ESTRUTURA METÁLICA, COMPONENTES:GAVETEIRO FIXO DE 3 GAVETAS COM CHAVE;  GAVETEIRO"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "3271",
+    "codigo": "320016",
+    "descricao": " BANCADA PROFISSIONAL, MATERIAL:METAL E MADEIRA, COMPRIMENTO:1500 MM, LARGURA:650 MM, ALTURA:900 MM, ESPESSURA:2,50 CM, APLICAÇÃO:LABORATÓRIO, CARACTERÍSTICAS ADICIONAIS:ESTRUTURA EM AÇO 2MM, TAMPO MADEIRA  PEROBA 50MM, COMPONENTES:GAVETEIRO FIXO DE 3 GAVETAS COM CHAVE;  GAVETEIRO"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "3271",
+    "codigo": "320464",
+    "descricao": " BANCADA PROFISSIONAL, MATERIAL:MADEIRA MACIÇA, COMPRIMENTO:4 M, LARGURA:0,73 M, ALTURA:1,05 M, ESPESSURA:4 CM, APLICAÇÃO:MANUTENÇÃO"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "3271",
+    "codigo": "323267",
+    "descricao": " BANCADA PROFISSIONAL, MATERIAL:MADEIRA MACIÇA, COMPRIMENTO:4 M, LARGURA:0,40 M, ALTURA:0,90 M, ESPESSURA:3 CM, APLICAÇÃO:LABORATÓRIO"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "3271",
+    "codigo": "324064",
+    "descricao": " BANCADA PROFISSIONAL, MATERIAL:METAL E MADEIRA, COMPRIMENTO:3 M, LARGURA:1,80 M, ALTURA:0,80 M, ESPESSURA:2,50 CM, APLICAÇÃO:LABORATÓRIO DE OFICINA MECÂNICA, COMPONENTES:GAVETEIRO FIXO DE 04 GAVETAS"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "3271",
+    "codigo": "430059",
+    "descricao": " BANCADA PROFISSIONAL, MATERIAL:MADEIRA COM REVESTIMENTO EM FÓRMICA, COMPRIMENTO:200 CM, LARGURA:150 CM, ALTURA:90 CM, ESPESSURA:18 CM, CARACTERÍSTICAS ADICIONAIS:ESTRUTURA METÁLICA, COMPONENTES:GAVETAS"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "3271",
+    "codigo": "445247",
+    "descricao": " BANCADA PROFISSIONAL, MATERIAL:MDF, COMPRIMENTO:2.300 MM, LARGURA:600 MM, ALTURA:950 MM, ESPESSURA:15 MM, CARACTERÍSTICAS ADICIONAIS:BASE DE ALUMÍNIO COM PÉS AJUSTAVEIS, COMPONENTES:COM 12 NICHOS, PIA E TORNEIRA"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "3271",
+    "codigo": "476056",
+    "descricao": " BANCADA PROFISSIONAL, MATERIAL:AÇO INOXIDÁVEL ASI 304, COMPRIMENTO:1,50 M, LARGURA:0,60 M, ALTURA:0,90 M, ESPESSURA:1,50 MM, APLICAÇÃO:SALAS LIMPAS COM PISO EMBORRACHADO, CARACTERÍSTICAS ADICIONAIS:04 RODÍZIOS EM SILICONE, TAMPO DUPLO COM POLIURETA"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "3271",
+    "codigo": "476057",
+    "descricao": " BANCADA PROFISSIONAL, MATERIAL:AÇO INOXIDÁVEL ASI 304, COMPRIMENTO:0,95 M, LARGURA:0,90 M, ALTURA:2,60 M, ESPESSURA:1,50 MM, APLICAÇÃO:SALAS LIMPAS COM PISO EMBORRACHADO, COMPONENTES:COM 2 CUBAS: 0,60 (A) X 0,60 (L) X 0,3 (P) M"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "3271",
+    "codigo": "476058",
+    "descricao": " BANCADA PROFISSIONAL, MATERIAL:AÇO INOXIDÁVEL ASI 304, COMPRIMENTO:1 M, LARGURA:0,75 M, ALTURA:0,90 M, ESPESSURA:1,50 MM, APLICAÇÃO:SALAS LIMPAS COM PISO EMBORRACHADO, CARACTERÍSTICAS ADICIONAIS:04 RODÍZIOS EM PTFE, SENDO 02 COM FREIO"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "3271",
+    "codigo": "476059",
+    "descricao": " BANCADA PROFISSIONAL, MATERIAL:AÇO INOXIDÁVEL ASI 304, COMPRIMENTO:2 M, LARGURA:0,75 M, ALTURA:0,90 M, ESPESSURA:1,50 MM, APLICAÇÃO:SALAS LIMPAS COM PISO EMBORRACHADO, CARACTERÍSTICAS ADICIONAIS:04 RODÍZIOS EM PTFE, SENDO 02 COM FREIO"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "3271",
+    "codigo": "482742",
+    "descricao": " BANCADA PROFISSIONAL, MATERIAL:AÇO INOX, COMPRIMENTO:80 CM, LARGURA:54 CM, ALTURA:50 CM, APLICAÇÃO:BANCADA EXAUSTORA DE PESAGEM, CARACTERÍSTICAS ADICIONAIS:SISTEMA DE EXAUSTÃO DE PÓ (DUPLA FILTRAGEM) FILTRO, COMPONENTES:BANCADA, EXAUSTOR (100X65X150)CM E GAVETA (100X65X"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "3271",
+    "codigo": "482743",
+    "descricao": " BANCADA PROFISSIONAL, MATERIAL:AÇO INOX, COMPRIMENTO:80 CM, LARGURA:54 CM, ALTURA:50 CM, APLICAÇÃO:BANCADA EXAUSTORA DE PESAGEM, CARACTERÍSTICAS ADICIONAIS:SISTEMA DE EXAUSTÃO DE PÓ (DUPLA FILTRAGEM) FILTRO, COMPONENTES:BANCADA, EXAUSTOR PONTO SIMPLES (33X18X26) CM"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "3271",
+    "codigo": "601477",
+    "descricao": " BANCADA PROFISSIONAL, MATERIAL:AÇO GALVANIZADO, COMPRIMENTO:5,30 M, LARGURA:900 MM, ALTURA:900 MM, ESPESSURA:2 CM, APLICAÇÃO:LABORATÓRIO, CARACTERÍSTICAS ADICIONAIS:ESTRUTURA EM AÇO E BANCADA EM GRANITO"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "3271",
+    "codigo": "603342",
+    "descricao": " BANCADA PROFISSIONAL, MATERIAL:AÇO GALVANIZADO, COMPRIMENTO:610 MM, LARGURA:610 MM, ALTURA:1100 MM, CARACTERÍSTICAS ADICIONAIS:BANCADA PARA TESTE DE BICOS INJETORES ELETRÔNICOS"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "5902",
+    "codigo": "241569",
+    "descricao": " CORRENTE CORTANTE, MATERIAL:AÇO, FORMATO ELOS:REDONDO, APLICAÇÃO:MOTO-SERRA"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "5902",
+    "codigo": "283648",
+    "descricao": " CORRENTE CORTANTE, MATERIAL:AÇO, FORMATO ELOS:REDONDO, APLICAÇÃO:MOTO-PODA, CARACTERÍSTICAS ADICIONAIS:TAMANHO ELOS 3/8 POL, PARA SABRE DE 6 POLEGADAS"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "5902",
+    "codigo": "344123",
+    "descricao": " CORRENTE CORTANTE, MATERIAL:AÇO, APLICAÇÃO:MOTO-SERRA STIHL, CARACTERÍSTICAS ADICIONAIS:REFERÊNCIA: 35190000085"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "5902",
+    "codigo": "344126",
+    "descricao": " CORRENTE CORTANTE, MATERIAL:AÇO, APLICAÇÃO:MOTO-SERRA STIHL, CARACTERÍSTICAS ADICIONAIS:REFERÊNCIA: 35190000060"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "5902",
+    "codigo": "376676",
+    "descricao": " CORRENTE CORTANTE, MATERIAL:AÇO, APLICAÇÃO:MOTO-SERRA, CARACTERÍSTICAS ADICIONAIS:42 DENTES E 02 GUIAS"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "5902",
+    "codigo": "387671",
+    "descricao": " CORRENTE CORTANTE, MATERIAL:AÇO, APLICAÇÃO:MOTO-SERRA STIHL, CARACTERÍSTICAS ADICIONAIS:REFERÊNCIA 3519-000-00072, PASSO 3/8\", 36 DENTES"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "5902",
+    "codigo": "402072",
+    "descricao": " CORRENTE CORTANTE, MATERIAL:AÇO, APLICAÇÃO:MOTO-PODA 1.1, CARACTERÍSTICAS ADICIONAIS:TAMANHO ELOS 3/8 POL, PARA SABRE DE 10 POLEGADAS"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "5902",
+    "codigo": "402073",
+    "descricao": " CORRENTE CORTANTE, MATERIAL:AÇO, APLICAÇÃO:MOTO-SERRA 1.3, CARACTERÍSTICAS ADICIONAIS:TAMANHO ELOS 3/8 POL"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "5902",
+    "codigo": "402074",
+    "descricao": " CORRENTE CORTANTE, MATERIAL:AÇO, APLICAÇÃO:MOTO-SERRA 1.5, CARACTERÍSTICAS ADICIONAIS:TAMANHO ELOS 3/8 POL"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "5902",
+    "codigo": "402075",
+    "descricao": " CORRENTE CORTANTE, MATERIAL:AÇO, APLICAÇÃO:MOTO-SERRA 1.6, CARACTERÍSTICAS ADICIONAIS:TAMANHO ELOS 3/8 POL"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "8616",
+    "codigo": "242645",
+    "descricao": " LÂMINA DE MÁQUINA PARA TRABALHO EM MADEIRA, MATERIAL:AÇO FLEXÍVEL, QUANTIDADE DENTES:8 DENTES POR POLEGADA, LARGURA:9 MM, COMPRIMENTO:100 MM, PASSO:3 MM, APLICAÇÃO:SERRA TICO-TICO"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "15189",
+    "codigo": "237936",
+    "descricao": " SABRE, MATERIAL:AÇO CARBONO, COMPRIMENTO:500 MM, USO:MOTOSSERRA STIHL"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "15189",
+    "codigo": "312587",
+    "descricao": " SABRE, MATERIAL:AÇO CARBONO, COMPRIMENTO:630 MM, USO:MOTOSSERRA STIHL"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "15189",
+    "codigo": "338035",
+    "descricao": " SABRE, MATERIAL:AÇO CARBONO, COMPRIMENTO:400 MM, USO:MOTOSSERRA STIHL"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17544",
+    "codigo": "263411",
+    "descricao": " JUNTA CILINDRO, REFERÊNCIA:11190292301, APLICAÇÃO:MOTOSERRA MODELO 038 MAGNUN"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "263684",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:CINTA DO FREIO, REFERÊNCIA:11111605401, APLICAÇÃO:MOTOSSERRA STIHL MODELO 038 MAGNUM"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "263688",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:MANÍPULO DO ARRANQUE, REFERÊNCIA:11211953400, APLICAÇÃO:MOTOSSERRA STIHL MODELO 038 MAGNUM"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "263689",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:MANÍPULO DO ARRANQUE, REFERÊNCIA:11211953400, APLICAÇÃO:MOTOSSERRA STIHL MODELO 051 ELETRONIC"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "263690",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:VELA DE IGNIÇÃO (MOTOR DOIS TEMPOS), REFERÊNCIA:00004007000, APLICAÇÃO:MOTOSSERRA STIHL MODELO 038 MAGNUM"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "263692",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:CORDÃO DO ARRANQUE, REFERÊNCIA:11071958200, APLICAÇÃO:MOTOSSERRA STIHL MODELO 038 MAGNUM"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "263693",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:CORDÃO DO ARRANQUE, REFERÊNCIA:11071958200, APLICAÇÃO:MOTOSSERRA STIHL MODELO 051 ELETRONIC"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "263699",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:MANGUEIRA DE COMBUSTÍVEL, REFERÊNCIA:11101418600, APLICAÇÃO:MOTOSSERRA STIHL MODELO 051 ELETRONIC"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "263700",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:PORCA DE SEGURANÇA DA GARRA DO FREIO, REFERÊNCIA:92162610700, APLICAÇÃO:MOTOSSERRA STIHL MODELO 051 ELETRONIC"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "263701",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:FILTRO DE AR TELA DE ARAME, REFERÊNCIA:11191201605, APLICAÇÃO:MOTOSSERRA STIHL MODELO 038 MAGNUM"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "263702",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:TAMPA TANQUE COMBUSTÍVEL, REFERÊNCIA:00003500520, APLICAÇÃO:MOTOSSERRA STIHL MODELO 038 MAGNUM"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "263703",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:GAIOLA DE AGULHAS DO PINHÃO, REFERÊNCIA:95129333150, APLICAÇÃO:MOTOSSERRA STIHL MODELO 038 MAGNUM"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "263705",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:ANEL DE RETENÇÃO DA TAMPA DO FREIO, REFERÊNCIA:94556214010, APLICAÇÃO:MOTOSSERRA STIHL MODELO 038 MAGNUM"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "263708",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:JUNTA DE VEDAÇÃO SUPERIOR DO CARBURADOR, REFERÊNCIA:11101491200, APLICAÇÃO:MOTOSSERRA STIHL MODELO 051 ELETRONIC"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "263712",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:TAMPA DO FILTRO DO CARBURADOR, REFERÊNCIA:11191401905, APLICAÇÃO:MOTOSSERRA STIHL MODELO 038 MAGNUM"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "263768",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:LUVA DO CILINDRO, REFERÊNCIA:11191411800, APLICAÇÃO:MOTOSSERRA STIHL MODELO 038 MAGNUM"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "263769",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:JUNTA DE VEDAÇÃO INFERIOR DO CARBURADOR, REFERÊNCIA:11111291100, APLICAÇÃO:MOTOSSERRA STIHL MODELO 051 ELETRONIC"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "263829",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:MOLA DE TRAÇÃO DO FREIO, REFERÊNCIA:00009976004, APLICAÇÃO:MOTOSSERRA STIHL MODELO 051 ELETRONIC"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "264108",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:PARAFUSO DO PROTETOR DA MÃO, REFERÊNCIA:90223411010, APLICAÇÃO:MOTOSSERRA STIHL MODELO 051 ELETRONIC"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "264173",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:VELA DE IGNIÇÃO (MOTOR DOIS TEMPOS), REFERÊNCIA:00004007004, APLICAÇÃO:MOTOSSERRA STIHL MODELO 034 ELETRÔNIC SUPEC"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "264177",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:FILTRO DE AR, REFERÊNCIA:11251201610, APLICAÇÃO:MOTOSSERRA STIHL MODELO 034 ELETRÔNIC SUPEC"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "264181",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:TAMPA TANQUE DE ÓLEO, REFERÊNCIA:00003500510, APLICAÇÃO:MOTOSSERRA STIHL MODELO 034 ELETRÔNIC SUPEC"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "264358",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:ANEL ORING DO CÁRTER, REFERÊNCIA:6632050267, APLICAÇÃO:MOTOSERRA MODELO 133 INTERTEC"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "264359",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:CARRETEL CORDA DO ARRANQUE, REFERÊNCIA:1331620101, APLICAÇÃO:MOTOSERRA MODELO 133 INTERTEC"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "266102",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:PESCADOR BOMBA DE ÓLEO, REFERÊNCIA:665451295, APLICAÇÃO:MOTOSERRA MODELO 133 INTERTEC"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "266108",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:KIT CAMISA/PISTÃO/ANEL, REFERÊNCIA:133130000, APLICAÇÃO:MOTOSERRA MODELO 133 INTERTEC"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "303055",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:CORRENTE, APLICAÇÃO:MOTOSSERRA HUSQVARNA 061, CARACTERÍSTICAS ADICIONAIS:34 DENTES E 1,5 MM"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "303056",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:CONJUNTO CILINDRO E PISTÃO, APLICAÇÃO:MOTOSSERRA STIHL MODELO 038 MAGNUM, CARACTERÍSTICAS ADICIONAIS:52 MM, ANÉIS, GRAMPO E EIXO"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "361240",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:VELA DE IGNIÇÃO, REFERÊNCIA:BPMR7A, APLICAÇÃO:MOTOSSERRA HUSQVARNA MODELO 61"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "364745",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:CORRENTE, REFERÊNCIA:35230000055, APLICAÇÃO:MOTOSERRA STIHL MS 250"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "393862",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:CORRENTE, REFERÊNCIA:35140000072, APLICAÇÃO:MOTOSSERRA STIHL MODELO 381, CARACTERÍSTICAS ADICIONAIS:30 DENTES"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "397794",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:JUNTA DO SILENCIADOR, REFERÊNCIA:11081490600, APLICAÇÃO:MOTOSSERRA STIHL 08S"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "397806",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:RETENTOR 15X3, 5X7, REFERÊNCIA:96400031610, APLICAÇÃO:MOTOSSERRA STIHL 08S"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "397809",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:VELA IGNIÇÃO, REFERÊNCIA:CJ8Y, APLICAÇÃO:MOTOSSERRA STIHL 08S"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "397823",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:CAPA DE PROTEÇÃO, REFERÊNCIA:11154008200, APLICAÇÃO:MOTOSSERRA STIHL 08S"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "397824",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:CARBURADOR, REFERÊNCIA:11081200610, APLICAÇÃO:MOTOSSERRA STIHL 08S"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "397836",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:AGULHA DE ADMISSÃO, REFERÊNCIA:11101215100, APLICAÇÃO:MOTOSSERRA STIHL 051 AVE"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "397841",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:AMORTECEDOR, APLICAÇÃO:MOTOSSERRA STIHL 051 AVE, REFERÊNCIA 1:11111909905"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "397847",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:EMBREAGEM, APLICAÇÃO:MOTOSERRA STIHL MS 08 S, REFERÊNCIA 1:11081602001"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "397853",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:EIXO, APLICAÇÃO:MOTOSSERRA STIHL 051 AVE, REFERÊNCIA 1:11101219200"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "397855",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:JOGO DE PEÇAS DO CARBURADOR, APLICAÇÃO:MOTOSSERRA STIHL 051 AVE, REFERÊNCIA 1:11220071060"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "397877",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOSSERRA STIHL 051 AVE, REFERÊNCIA 1:11221902900, TIPO 1:CORDÃO DE ARRANQUE"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "398542",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOSSERRA STIHL, REFERÊNCIA 1:00003503504, TIPO 1:CABEÇOTE DE ASPIRAÇÃO"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "398545",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOSSERRA STIHL, REFERÊNCIA 1:00009512911, TIPO 1:PARAFUSO TENSOR M6"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "398550",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOSSERRA STIHL, REFERÊNCIA 1:30030019221, TIPO 1:SABRE"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "398617",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOSSERRA STIHL, REFERÊNCIA 1:11231200605, TIPO 1:CARBURADOR"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "398618",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOSSERRA STIHL, REFERÊNCIA 1:11230201209, TIPO 1:CILINDRO COM PISTÃO"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "398623",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOSSERRA STIHL, REFERÊNCIA 1:11231627900, TIPO 1:MOLA DA TRAÇÃO"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "398629",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOSSERRA STIHL, REFERÊNCIA 1:95030030340, TIPO 1:ROLAMENTO DE ESFERA"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "398630",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOSSERRA STIHL, REFERÊNCIA 1:30050004813, TIPO 1:SABRE"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "398667",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:CILINDRO COM PISTÃO, APLICAÇÃO:MOTOSSERRA STIHL, REFERÊNCIA 1:11220201209"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "400613",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOPODA SHINDAIWA MODELO M-230, REFERÊNCIA 1:9202751, TIPO 1:CHAVETA"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "400621",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOPODA SHINDAIWA MODELO M-230, REFERÊNCIA 1:9226622, TIPO 1:CORRENTE P 3/8 0,043 GA 19 DENTES"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "400700",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOPODA SHINDAIWA MODELO M-230, TIPO 1:TANQUE COMBUSTÍVEL COMPLETO, REFERÊNCIA 2:9206944"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "400742",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOPODA SHINDAIWA MODELO M-230, TIPO 1:VIRABREQUIM, REFERÊNCIA 2:9206654"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "401517",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:CORRENTE, APLICAÇÃO:MOTOSSERRA STIHL, REFERÊNCIA 2:30030019213"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "402257",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:VELA DE IGNIÇÃO, APLICAÇÃO:MOTOSSERRA STIHL, REFERÊNCIA 2:00004007000"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "402274",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOSSERRA STIHL, REFERÊNCIA 2:11230202113, TIPO 2:CARCAÇA DO VIRABREQUIM"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "402275",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOSSERRA STIHL, REFERÊNCIA 2:11256401900, TIPO 2:CORREDIÇA TENSORA"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "402318",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOSSERRA SHINDAIWA, REFERÊNCIA 2:9233823, TIPO 2:CORRENTE 3/8 X 16, 32 DENTES"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "402568",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOSSERRA STIHL, TIPO 1:SABRE, REFERÊNCIA 3:30030019241"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "436291",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:CORRENTE, APLICAÇÃO:MOTOSSERRA STIHL, CARACTERÍSTICAS ADICIONAIS:3/8 DE 36 DENTES"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "436292",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:CORRENTE, APLICAÇÃO:MOTOSSERRA STIHL, CARACTERÍSTICAS ADICIONAIS:3/8 DE 42 DENTES"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "486067",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:CORRENTE, APLICAÇÃO:MOTOSSERRA STIHL MS 170, CARACTERÍSTICAS ADICIONAIS:22 DENTES RANHURA DE 1,1MM, PASSO 3/8\",SABRE 30 CM"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "486082",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:CORRENTE, APLICAÇÃO:TOYAMA MODELO TCS63F, CARACTERÍSTICAS ADICIONAIS:32 DENTES,RANHURA DE 1,5MM,PASSO 3/8\", SABRE 45CM"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "486099",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOSSERRA, CARACTERÍSTICAS ADICIONAIS:REDONDA 4,0MM, TIPO 2:LIMA DE AFIAR MOTOSSERRA"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "486100",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOSSERRA, CARACTERÍSTICAS ADICIONAIS:LIMA REDONDA 4,8MM, TIPO 2:LIMA DE AFIAR MOTOSSERRA"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "486101",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOSSERRA, CARACTERÍSTICAS ADICIONAIS:LIMA REDONDA 5,2MM, TIPO 2:LIMA DE AFIAR MOTOSSERRA"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "486102",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:CORRENTE, APLICAÇÃO:MOTOSSERRA STIHL, CARACTERÍSTICAS ADICIONAIS:42 DENTES + 1ELO, RANHURA DE 1,6MM, PASSO 3/8\", SA, REFERÊNCIA 3:MODELO MS 460"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "486133",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:CORRENTE, APLICAÇÃO:MOTOSSERRA STIHL, CARACTERÍSTICAS ADICIONAIS:COMPRIMENTO 36 DENTES,RANHURA DE 1,6MM, PASSO 3/8\", REFERÊNCIA 3:MODELO MS 381"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "486134",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, TIPO:CORRENTE, APLICAÇÃO:MOTOSSERRA STIHL, CARACTERÍSTICAS ADICIONAIS:COMPRIMENTO 27 DENTES + 1 ELO, RANHURA DE 1,3MM,PA, REFERÊNCIA 3:MODELO MS 250."
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "486597",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOSSERRA STHIL MODELO 660, TIPO 1:SABRE"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "487735",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOSSERRA HUSQVARNA, TIPO 2:FURADEIRA, REFERÊNCIA 3:61-62-161-162-268-272"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "600863",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOSSERRA STIHL MS 382, TIPO 2:ROLETE 36 DENTES"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "600864",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:MOTOSSERRA HUSQVARNA 390 XP, CARACTERÍSTICAS ADICIONAIS:SABRE 42 DENTES"
+  },
+  {
+    "grupo": "32",
+    "classe": "3230",
+    "padrao": "17560",
+    "codigo": "600865",
+    "descricao": " PEÇA / ACESSÓRIO - MOTOSERRA, APLICAÇÃO:STHIL FS 160, TIPO 1:JUNTA DO ESCAPAMENTO"
+  }
+]

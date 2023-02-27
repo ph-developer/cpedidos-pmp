@@ -1,0 +1,38 @@
+[
+  {
+    "grupo": "721",
+    "classe": "'-7",
+    "codigo": "4316",
+    "descricao": "LOCACAO DE IMOVEL"
+  },
+  {
+    "grupo": "721",
+    "classe": "'-7",
+    "codigo": "14630",
+    "descricao": "ESTACIONAMENTO DE VEICULOS AUTOMOTORES - GERENCIA / CONTROLE"
+  },
+  {
+    "grupo": "721",
+    "classe": "'-7",
+    "codigo": "17566",
+    "descricao": "CONSULTORIA E ASSESSORIA - IMOBILIARIA"
+  },
+  {
+    "grupo": "721",
+    "classe": "'-7",
+    "codigo": "19356",
+    "descricao": "CONCESSAO USO - AREA / IMOVEL PUBLICO"
+  },
+  {
+    "grupo": "721",
+    "classe": "7211",
+    "codigo": "15490",
+    "descricao": "PSICOPEDAGOGIA CLINICA"
+  },
+  {
+    "grupo": "721",
+    "classe": "7211",
+    "codigo": "25429",
+    "descricao": "LOCACAO VAGA ESTACIONAMENTO / ATRACADOURO"
+  }
+]

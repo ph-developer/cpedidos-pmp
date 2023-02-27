@@ -1,0 +1,86 @@
+[
+  {
+    "grupo": "822",
+    "classe": "'-7",
+    "codigo": "680",
+    "descricao": "AUDITORIA EM AREA CONTABIL"
+  },
+  {
+    "grupo": "822",
+    "classe": "'-7",
+    "codigo": "698",
+    "descricao": "AUDITORIA EM AREA FISCAL"
+  },
+  {
+    "grupo": "822",
+    "classe": "'-7",
+    "codigo": "701",
+    "descricao": "AUDITORIA EM AREA TRIBUTARIA"
+  },
+  {
+    "grupo": "822",
+    "classe": "'-7",
+    "codigo": "710",
+    "descricao": "AUDITORIA EM AREA DE PROJETOS"
+  },
+  {
+    "grupo": "822",
+    "classe": "'-7",
+    "codigo": "728",
+    "descricao": "AUDITORIA EM AREA DE ADMINISTRACAO"
+  },
+  {
+    "grupo": "822",
+    "classe": "'-7",
+    "codigo": "736",
+    "descricao": "AUDITORIA EM AREA DE PROCESSAMENTO DE DADOS"
+  },
+  {
+    "grupo": "822",
+    "classe": "'-7",
+    "codigo": "4529",
+    "descricao": "AUDITORIA EM AREA INDUSTRIAL / COMERCIAL"
+  },
+  {
+    "grupo": "822",
+    "classe": "'-7",
+    "codigo": "8737",
+    "descricao": "AUDITORIA TECNICA EM PROCEDIMENTOS - AREA MEDICA"
+  },
+  {
+    "grupo": "822",
+    "classe": "'-7",
+    "codigo": "8745",
+    "descricao": "AUDITORIA FINANCEIRA EM AREA MEDICA"
+  },
+  {
+    "grupo": "822",
+    "classe": "'-7",
+    "codigo": "8753",
+    "descricao": "AUDITORIA TECNICA DE PROCEDIMENTOS - ODONTOLOGIA"
+  },
+  {
+    "grupo": "822",
+    "classe": "'-7",
+    "codigo": "8761",
+    "descricao": "AUDITORIA FINANCEIRA EM AREA ODONTOLOGICA"
+  },
+  {
+    "grupo": "822",
+    "classe": "'-7",
+    "codigo": "17230",
+    "descricao": "AUDITORIA - ATUARIAL"
+  },
+  {
+    "grupo": "822",
+    "classe": "'-7",
+    "codigo": "19771",
+    "descricao": "COBRANCA / INFORMACAO CADASTRAL (CONSULTA, INCLUSAO E BAIXA)NOS SERVICOS DE PROTECAO AO CREDITO"
+  },
+  {
+    "grupo": "822",
+    "classe": "8221",
+    "codigo": "19623",
+    "descricao": "AUDITORIA AREA FINANCEIRA"
+  }
+]
