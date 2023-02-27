@@ -60,6 +60,9 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
   }
 
   void initSearchForm() {
+    var lastNumber = '';
+    var lastType = 'SE';
+
     final debouncedSearch = debounce(
       () => cubit.search(typeEC.text, numberEC.text),
       500,
@@ -71,10 +74,12 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
         } else {
           await cubit.setDirty();
         }
-      } else {
+      } else if (numberEC.text != lastNumber || typeEC.text != lastType) {
         await cubit.setDirty();
         debouncedSearch();
       }
+      lastNumber = numberEC.text;
+      lastType = typeEC.text;
     }
 
     numberEC.addListener(onChange);
