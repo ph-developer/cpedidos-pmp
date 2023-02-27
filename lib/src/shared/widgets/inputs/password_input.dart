@@ -32,7 +32,11 @@ class _PasswordInputState extends State<PasswordInput> {
     focusNode.unfocus();
     Future.microtask(() {
       focusNode.requestFocus();
-      fixPasswordCss();
+      try {
+        fixPasswordCss();
+      } catch (e) {
+        // ignore if not added external function.
+      }
     });
   }
 
