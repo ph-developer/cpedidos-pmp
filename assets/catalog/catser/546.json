@@ -1,0 +1,242 @@
+[
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "1554",
+    "descricao": "INSTALACOES PREDIAIS TELEFONICAS"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "1562",
+    "descricao": "INSTALACOES PREDIAIS DE GAS ( OBRAS CIVIS )"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "1570",
+    "descricao": "INSTALACOES PREDIAIS ELETRONICAS ( OBRAS CIVIS )"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "1589",
+    "descricao": "INSTALACOES PREDIAIS DE COMUNICACAO ( OBRAS CIVIS )"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "1597",
+    "descricao": "OBRAS CIVIS INSTALACOES PREDIAIS - SOM AMBIENTE / SISTEMA AUDIOVISUAL"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "2232",
+    "descricao": "INSTALACAO E MONTAGEM DE ISOLAMENTO TERMICO"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "2240",
+    "descricao": "INSTALACAO E MONTAGEM DE ISOLAMENTO ACUSTICO"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "2259",
+    "descricao": "INSTALACAO E MONTAGEM DE CONSTRUCAO NAVAL"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "4570",
+    "descricao": "INSTALACAO / MONTAGEM / DESMONTAGEM / MANUTENCAO / USINA HI-DRELETRICA"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "4588",
+    "descricao": "INSTALACAO / MONTAGEM / DESMONTAGEM / MANUTENCAO / USINA HI-DRELETRICA ATÉ 10MW"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "4596",
+    "descricao": "INSTALACAO E MONTAGEM DE ENERGIA ELETRICA ATE 60KV"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "4600",
+    "descricao": "INSTALACAO E MONTAGEM DE SUBESTACOES DE ENERGIA ELETRICA ATE138KV"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "4618",
+    "descricao": "INSTALACAO E MONTAGEM DE SUBESTACOES DE ENERGIA ELETRICA ATE230KV"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "4626",
+    "descricao": "INSTALACAO E MONTAGEM DE SUBESTACOES DE ENERGIA ELETRICA ATE500KV"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "4634",
+    "descricao": "INSTALACAO E MONTAGEM DE SUBESTACOES DE ENERGIA ELETRICA ACIMA DE 500KV"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "4642",
+    "descricao": "INSTALACAO E MONTAGEM DE  SUBESTACOES  DE  ENERGIA  ELETRICABLINDADAS"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "4650",
+    "descricao": "INSTALACAO E MONTAGEM LINHAS DE TRANSMISSAO - ENERGIA ELETRICA ATE 690KV"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "4669",
+    "descricao": "INSTALACAO E MONTAGEM LINHAS DE TRANSMISSAO - ENERGIA ELETRICA ATE 138KV"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "4677",
+    "descricao": "INSTALACAO E MONTAGEM LINHAS DE TRANSMISSAO - ENERGIA ELETRICA ATE 230KV"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "4685",
+    "descricao": "INSTALACAO E MONTAGEM LINHAS DE TRANSMISSAO - ENERGIA ELETRICA ATE 500KV"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "4693",
+    "descricao": "INSTALACAO E MONTAGEM LINHAS DE TRANSMISSAO - ENERGIA ELETRICA ACIMA DE 500KV"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "4707",
+    "descricao": "INSTALACAO E MONTAGEM LINHAS AEREAS DE DISTRIBUICAO DE ENER-GIA ELETRICA"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "4715",
+    "descricao": "INSTALACAO E MONTAGEM LINHAS SUBTERRANEAS DE  DISTRIBUICAO -ENERGIA ELETRICA"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "4758",
+    "descricao": "OBRAS CIVIS DE USINAS HIDRELETRICAS ACIMA DE 10KV"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "4766",
+    "descricao": "OBRAS CIVIS DE USINAS HIDRELETRICAS ATE 10MW"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "8834",
+    "descricao": "INSTALACAO E MONTAGEM DE PONTES DE EMBARQUE EM AEROPORTO"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "15814",
+    "descricao": "INSTALACAO / REMOCAO DE DIVISORIA / PAINEL / PERSIANA / JANELA / PORTA / ESQUADRIA EM GERAL"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "16675",
+    "descricao": "INSTALACAO / MANUTENCAO - CERCA / ALAMBRADO / TELA"
+  },
+  {
+    "grupo": "546",
+    "classe": "'-7",
+    "codigo": "19739",
+    "descricao": "INSTALACAO / MANUTENCAO - REDE TELEFONICA"
+  },
+  {
+    "grupo": "546",
+    "classe": "5461",
+    "codigo": "1538",
+    "descricao": "INSTALACOES PREDIAIS ELETRICAS"
+  },
+  {
+    "grupo": "546",
+    "classe": "5461",
+    "codigo": "5606",
+    "descricao": "INSTALACAO / MANUTENCAO ELETRICA - PREDIAL, INDUSTRIAL"
+  },
+  {
+    "grupo": "546",
+    "classe": "5461",
+    "codigo": "20630",
+    "descricao": "INSTALACAO / MANUTENCAO - ENERGIA FOTOVOLTAICA"
+  },
+  {
+    "grupo": "546",
+    "classe": "5461",
+    "codigo": "21687",
+    "descricao": "INSTALACAO/MANUTENCAO/OPERACAO - ELETRICA"
+  },
+  {
+    "grupo": "546",
+    "classe": "5469",
+    "codigo": "1546",
+    "descricao": "INSTALACOES PREDIAIS HIDRO-SANITARIAS"
+  },
+  {
+    "grupo": "546",
+    "classe": "5469",
+    "codigo": "3557",
+    "descricao": "INSTALACAO / MANUTENCAO - ELEVADORES, ESCADAS ROLANTES,  MONTA - CARGAS / PLATAFORMA / ESCADAS"
+  },
+  {
+    "grupo": "546",
+    "classe": "5469",
+    "codigo": "4383",
+    "descricao": "OBRAS CIVIS DE INSTALACAO DE ELEVADORES"
+  },
+  {
+    "grupo": "546",
+    "classe": "5469",
+    "codigo": "5584",
+    "descricao": "INSTALACAO DE PELICULA DE PROTECAO"
+  },
+  {
+    "grupo": "546",
+    "classe": "5469",
+    "codigo": "13129",
+    "descricao": "MANUTENCAO / INSTALACOES PREDIAIS ELETRONICAS"
+  },
+  {
+    "grupo": "546",
+    "classe": "5469",
+    "codigo": "24929",
+    "descricao": "INSTALACAO / MONTAGEM / DESMONTAGEM - TANQUE COMBUSTIVEL"
+  },
+  {
+    "grupo": "546",
+    "classe": "5469",
+    "codigo": "25321",
+    "descricao": "INSTALACAO - PERSIANAS VERTICAIS/HORIZONTAIS"
+  }
+]

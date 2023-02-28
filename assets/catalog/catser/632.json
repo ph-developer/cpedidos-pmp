@@ -1,0 +1,38 @@
+[
+  {
+    "grupo": "632",
+    "classe": "'-7",
+    "codigo": "5320",
+    "descricao": "REFEICOES INDUSTRIAIS - PREPARO / DISTRIBUICAO"
+  },
+  {
+    "grupo": "632",
+    "classe": "'-7",
+    "codigo": "12807",
+    "descricao": "BUFFET"
+  },
+  {
+    "grupo": "632",
+    "classe": "6321",
+    "codigo": "3697",
+    "descricao": "FORNECIMENTO DE REFEICOES / LANCHES / SALGADOS / DOCES"
+  },
+  {
+    "grupo": "632",
+    "classe": "6321",
+    "codigo": "3700",
+    "descricao": "REFEICAO SISTEMA CONVENIO ( TIQUETE )"
+  },
+  {
+    "grupo": "632",
+    "classe": "6321",
+    "codigo": "15210",
+    "descricao": "CANTINA / BAR / LANCHONETE / REFEICAO RAPIDA / RESTAURANTE"
+  },
+  {
+    "grupo": "632",
+    "classe": "6329",
+    "codigo": "25500",
+    "descricao": "DISTRIBUICAO DE LEITE"
+  }
+]

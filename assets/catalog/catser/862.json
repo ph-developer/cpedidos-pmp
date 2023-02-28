@@ -1,0 +1,26 @@
+[
+  {
+    "grupo": "862",
+    "classe": "'-7",
+    "codigo": "15776",
+    "descricao": "ARMAZEM ALFANDEGARIO"
+  },
+  {
+    "grupo": "862",
+    "classe": "'-7",
+    "codigo": "24716",
+    "descricao": "SERVICOS EM POCOS DE PETROLEO"
+  },
+  {
+    "grupo": "862",
+    "classe": "8621",
+    "codigo": "21016",
+    "descricao": "BENEFICIAMENTO MINERAL"
+  },
+  {
+    "grupo": "862",
+    "classe": "8621",
+    "codigo": "21024",
+    "descricao": "PRODUCAO MINERAIS PESADOS"
+  }
+]

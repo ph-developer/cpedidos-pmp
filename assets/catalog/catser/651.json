@@ -1,0 +1,32 @@
+[
+  {
+    "grupo": "651",
+    "classe": "'-7",
+    "codigo": "5100",
+    "descricao": "TRANSPORTE MARITIMO - INTERNACIONAL / NACIONAL"
+  },
+  {
+    "grupo": "651",
+    "classe": "'-7",
+    "codigo": "24830",
+    "descricao": "TRANSPORTE MARITIMO/COSTEIRO E TRANSOCEANICO DE CARGA EM NAVIOS TANQUES"
+  },
+  {
+    "grupo": "651",
+    "classe": "6512",
+    "codigo": "3182",
+    "descricao": "TRANSPORTE MARITIMO E FLUVIAL DE PESSOAL / CARGA"
+  },
+  {
+    "grupo": "651",
+    "classe": "6512",
+    "codigo": "3190",
+    "descricao": "TRANSPORTE MARITIMO E FLUVIAL DE CARGA LIQUIDA"
+  },
+  {
+    "grupo": "651",
+    "classe": "6512",
+    "codigo": "3204",
+    "descricao": "TRANSPORTE MARITIMO E FLUVIAL DE CARGA SECA"
+  }
+]

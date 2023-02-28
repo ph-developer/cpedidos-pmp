@@ -1,0 +1,326 @@
+[
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "2933",
+    "descricao": "LIMPEZA QUIMICA DE EQUIPAMENTOS E TUBULACOES"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "2941",
+    "descricao": "LIMPEZA DE EQUIPAMENTOS E TUBULACOES POR HIDROJATEAMENTO"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "2950",
+    "descricao": "LIMPEZA MECANICA DE EQUIPAMENTOS E TUBULACOES"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "12696",
+    "descricao": "LIMPEZA / RECUPERACAO DE CARPETES E TAPETES"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "13544",
+    "descricao": "LAVAGEM DE VEICULO AUTOMOTIVO"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "13595",
+    "descricao": "MANUTENCAO / HIGIENIZACAO DE RESERVATORIO DE AGUA POTAVEL"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "13617",
+    "descricao": "POLIMENTO MANUAL EM PINTURA TIPO AUTOMOTIVA"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "13625",
+    "descricao": "PINTURA AUTOMOTIVA - POLIMENTO MECANIZADO"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "14044",
+    "descricao": "ROÇADA / LIMPEZA DE AREA - MECANIZADA / MANUAL"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "14265",
+    "descricao": "COLETA DE LIXO - RESIDENCIAL / COMERCIAL / INDUSTRIAL"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "14672",
+    "descricao": "LIMPEZA URBANA"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "16446",
+    "descricao": "LIMPEZA AERONAVE - INTERNA / EXTERNA"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "18325",
+    "descricao": "LIMPEZA SUPERFICIE / REMOCAO PICHACAO"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "18473",
+    "descricao": "HIGIENIZACAO EQUIPAMENTO PROTECAO INDIVIDUAL"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23329",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS  INTERNAS - 44 HORAS SEMANAIS DIURNAS - PRODUTIVIDADE 600 M2"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23345",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS INTER NAS - 12 HORAS DIURNAS - 2ª A DOMINGO - OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23361",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS INTER-NAS - 12 HORAS DIURNAS - 2ª A 6ª FEIRA - OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23370",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS INTER-NAS-12 HORAS DIURNAS-SAB/DOM E FERIADO - OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23396",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS INTER-NAS - 12 HORAS NOTURNAS - 2ª A DOMINGO - OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23400",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS INTER-NAS-12 HORAS NOTURNAS - 2ª A 6ª FEIRA - OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23426",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS INTER-NAS-12 HORAS NOTURNAS-SAB/DOM E FERIADO-OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23434",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS EXTER-NAS- 44 HORAS SEMANAIS DIURNAS- PRODUTIVIDADE 1800 A 2700 M2"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23450",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS EXTER-NAS - 12 HORAS DIURNAS - 2ª A DOMINGO - OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23477",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS EXTER-NAS - 12 HORAS DIURNAS - 2ª A 6ª FEIRA - OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23485",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS EXTER-NAS-12 HORAS DIURNAS-SAB/DOM E FERIADO - OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23515",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS EXTER-NAS - 12 HORAS NOTURNAS - 2ª A DOMINGO - OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23523",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS EXTER-NAS-12 HORAS NOTURNAS - 2ª A 6ª FEIRA - OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23540",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS EXTER-NAS-12 HORAS NOTURNAS-SAB/DOM E FERIADO-OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23566",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - ESQUADRIAS  EXTERNAS - FREQUENCIA 16H/MENSAL - PRODUTIVIDADE 220 M2"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23582",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - FACHADAS    ENVIDRACADAS - FREQUENCIA 8H/SEMESTRE - PRODUTIVIDADE 110 M2"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23590",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS HOSPI-TALARES - 44 HORAS SEMANAIS DIURNAS - PRODUTIVIDADE 330 M2"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23604",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS HOSPI-TALARES-12 HORAS DIURNAS- 2ª A DOMINGO - OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23620",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS HOSPI-TALARES-12 HORAS DIURNAS-2ª A 6ª FEIRA - OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23639",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO-AREAS HOSPITA-LARES-12 HORAS DIURNAS-SAB/DOM E FERIADO-OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23655",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS HOSPI-TALARES-12 HORAS NOTURNAS - 2ª A DOMINGO-OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23671",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS HOSPI-TALARES-12 HORAS NOTURNAS-2ª A 6ª FEIRA-OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "23680",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO-AREAS HOSPITA-LARES-12 HORAS NOTURNAS-SAB/DOM/FERIADO-OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "24023",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - OUTRAS      NECESSIDADES"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "24031",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS INTER-NAS - 44 HORAS SEMANAIS DIURNAS - OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "24040",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS EXTER-NAS - 44 HORAS SEMANAIS DIURNAS - OUTRA PROUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "24058",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - ESQUADRIAS  EXTERNAS - FREQUENCIA 16H/MENSAL - OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "24066",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - FACHADAS    ENVIDRACADAS - FREQUENCIA 8H/SEMESTRE - OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "24074",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS HOSPI-TALARES - 44 HORAS SEMANAIS DIURNAS - OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "24090",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO -  AREAS INTERNAS - OUTRAS NECESSIDADES - OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "24104",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS EXTER-NAS - OUTRAS NECESSIDADES - OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "24112",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - ESQUADRIAS  EXTERNAS - OUTRAS NECESSIDADES - OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "24473",
+    "descricao": "LAVAGEM PAINEL DIVISORIO"
+  },
+  {
+    "grupo": "853",
+    "classe": "'-7",
+    "codigo": "27782",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS INTER-NAS- 44 HORAS SEMANAIS DIURNAS - PRODUTIVIDADE 800 A 1200 M2"
+  },
+  {
+    "grupo": "853",
+    "classe": "8533",
+    "codigo": "25194",
+    "descricao": "SERVICO ESPECIALIZADO DE LIMPEZA"
+  },
+  {
+    "grupo": "853",
+    "classe": "8534",
+    "codigo": "16527",
+    "descricao": "LIMPEZA DE FOSSA / ESGOTO / BOCA DE LOBO"
+  },
+  {
+    "grupo": "853",
+    "classe": "8534",
+    "codigo": "17124",
+    "descricao": "LOCACAO DE ARTIGOS DE TECIDO"
+  },
+  {
+    "grupo": "853",
+    "classe": "8534",
+    "codigo": "17132",
+    "descricao": "HIGIENIZACAO DE ARTIGOS DE TECIDO/COURO/ESTOFAMENTO"
+  },
+  {
+    "grupo": "853",
+    "classe": "8534",
+    "codigo": "17159",
+    "descricao": "HIGIENIZACAO DE EQUIPAMENTOS"
+  },
+  {
+    "grupo": "853",
+    "classe": "8534",
+    "codigo": "22675",
+    "descricao": "HIGIENIZACAO / CONSERVACAO DE LIVROS"
+  }
+]

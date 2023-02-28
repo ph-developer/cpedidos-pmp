@@ -1,0 +1,92 @@
+[
+  {
+    "grupo": "182",
+    "classe": "1821",
+    "codigo": "1279",
+    "descricao": "INFORMATICA - PROGRAMAS FECHADOS (SOFTWARE)"
+  },
+  {
+    "grupo": "182",
+    "classe": "1821",
+    "codigo": "5576",
+    "descricao": "BANCO DE DADOS - PROGRAMA ( SOFTWARE ) DE GERENCIAMENTO"
+  },
+  {
+    "grupo": "182",
+    "classe": "1821",
+    "codigo": "15741",
+    "descricao": "INFORMATICA - LOCACAO ( SOFTWARE )"
+  },
+  {
+    "grupo": "182",
+    "classe": "1821",
+    "codigo": "16233",
+    "descricao": "REGISTRO DE PROGRAMA DE COMPUTADOR"
+  },
+  {
+    "grupo": "182",
+    "classe": "1821",
+    "codigo": "22179",
+    "descricao": "CESSAO DIREITO USO SOFTWARE / ARQUIVO"
+  },
+  {
+    "grupo": "182",
+    "classe": "1821",
+    "codigo": "24333",
+    "descricao": "SERVICO DE LICENCA PELO USO DE SOFTWARE"
+  },
+  {
+    "grupo": "182",
+    "classe": "1821",
+    "codigo": "27456",
+    "descricao": "LICENCIAMENTO DE DIREITOS PERMANENTES  DE  USO  DE  SOFTWAREPARA ESTACAO DE TRABALHO"
+  },
+  {
+    "grupo": "182",
+    "classe": "1821",
+    "codigo": "27464",
+    "descricao": "LICENCIAMENTO DE DIREITOS PERMANENTES  DE  USO  DE  SOFTWAREPARA SERVIDOR"
+  },
+  {
+    "grupo": "182",
+    "classe": "1821",
+    "codigo": "27472",
+    "descricao": "LICENCIAMENTO DE DIREITOS  PERMANENTES DE USO DE OUTROS SOFTWARES / PROGRAMAS DE COMPUTADOR"
+  },
+  {
+    "grupo": "182",
+    "classe": "1821",
+    "codigo": "27480",
+    "descricao": "LICENCIAMENTO DE DIREITOS DE PRODUCAO, DISTRIBUICAO OU COMERCIALIZACAO DE PROGRAMAS DE COMPUTADOR"
+  },
+  {
+    "grupo": "182",
+    "classe": "1821",
+    "codigo": "27499",
+    "descricao": "LICENCIAMENTO DE OUTROS DIREITOS PERMANENTES SOBRE PROGRAMASDE COMPUTADOR"
+  },
+  {
+    "grupo": "182",
+    "classe": "1821",
+    "codigo": "27502",
+    "descricao": "CESSAO TEMPORARIA DE DIREITOS SOBRE PROGRAMAS DE COMPUTADOR LOCACAO DE SOFTWARE"
+  },
+  {
+    "grupo": "182",
+    "classe": "1822",
+    "codigo": "27510",
+    "descricao": "CONTRATOS DE PRESTACAO DE SERVICOS DE ASSISTENCIA TECNICA E CIENTIFICA"
+  },
+  {
+    "grupo": "182",
+    "classe": "1822",
+    "codigo": "27529",
+    "descricao": "CONTRATOS DE TRANSFERENCIA DE TECNOLOGIA (KNOW-HOW)"
+  },
+  {
+    "grupo": "182",
+    "classe": "1822",
+    "codigo": "27537",
+    "descricao": "OUTROS CONTRATOS DE TRANSFERENCIA DE TECNOLOGIA"
+  }
+]

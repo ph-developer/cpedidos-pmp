@@ -1,0 +1,152 @@
+[
+  {
+    "grupo": "542",
+    "classe": "'-7",
+    "codigo": "1740",
+    "descricao": "HIDROSSEMEADURA (OBRAS CIVIS)"
+  },
+  {
+    "grupo": "542",
+    "classe": "'-7",
+    "codigo": "1783",
+    "descricao": "OBRAS CIVIS DE RODOVIAS / ESTACIONAMENTO"
+  },
+  {
+    "grupo": "542",
+    "classe": "'-7",
+    "codigo": "1791",
+    "descricao": "OBRAS CIVIS DE FERROVIAS,PATIOS E TERMINAIS"
+  },
+  {
+    "grupo": "542",
+    "classe": "'-7",
+    "codigo": "1805",
+    "descricao": "OBRAS CIVIS DE AEROPORTOS"
+  },
+  {
+    "grupo": "542",
+    "classe": "'-7",
+    "codigo": "1848",
+    "descricao": "OBRAS CIVIS - BARRAGENS DE TERRA"
+  },
+  {
+    "grupo": "542",
+    "classe": "'-7",
+    "codigo": "1856",
+    "descricao": "OBRAS CIVIS - DIQUES E ENSECADEIRAS"
+  },
+  {
+    "grupo": "542",
+    "classe": "'-7",
+    "codigo": "5622",
+    "descricao": "OBRAS CIVIS PUBLICAS ( CONSTRUCAO )"
+  },
+  {
+    "grupo": "542",
+    "classe": "'-7",
+    "codigo": "13455",
+    "descricao": "OBRAS CIVIS - PEQUENAS OBRAS / PINTURA EM GERAL"
+  },
+  {
+    "grupo": "542",
+    "classe": "'-7",
+    "codigo": "24481",
+    "descricao": "LANCAMENTO LINHAS FLEXIVEIS"
+  },
+  {
+    "grupo": "542",
+    "classe": "'-7",
+    "codigo": "24490",
+    "descricao": "CONSTRUCAO MONTAGEM DE DUTOS TERRESTRES"
+  },
+  {
+    "grupo": "542",
+    "classe": "5421",
+    "codigo": "1406",
+    "descricao": "OBRAS CIVIS DE PAVIMENTACAO ASFALTICA"
+  },
+  {
+    "grupo": "542",
+    "classe": "5421",
+    "codigo": "1414",
+    "descricao": "OBRAS CIVIS DE PAVIMENTACAO POLIEDRICA"
+  },
+  {
+    "grupo": "542",
+    "classe": "5421",
+    "codigo": "1422",
+    "descricao": "OBRAS CIVIS DE PAVIMENTACAO DE PARALELEPIPEDO"
+  },
+  {
+    "grupo": "542",
+    "classe": "5421",
+    "codigo": "18376",
+    "descricao": "MANUTENCAO / CONSERVACAO / RECUPERACAO - VIAS PUBLICAS"
+  },
+  {
+    "grupo": "542",
+    "classe": "5421",
+    "codigo": "22896",
+    "descricao": "CONSERVACAO / MANUTENCAO / RESTAURACAO DE RODOVIA"
+  },
+  {
+    "grupo": "542",
+    "classe": "5422",
+    "codigo": "1767",
+    "descricao": "OBRAS CIVIS DE PONTES E VIADUTOS - METALICOS"
+  },
+  {
+    "grupo": "542",
+    "classe": "5422",
+    "codigo": "1775",
+    "descricao": "OBRAS CIVIS DE TUNEIS"
+  },
+  {
+    "grupo": "542",
+    "classe": "5424",
+    "codigo": "1910",
+    "descricao": "OBRAS CIVIS - SUBESTACOES ENERGIA ELETRICA"
+  },
+  {
+    "grupo": "542",
+    "classe": "5424",
+    "codigo": "1929",
+    "descricao": "OBRAS CIVIS DE LINHAS DE TRANSMISSAO DE ENERGIA ELETRICA"
+  },
+  {
+    "grupo": "542",
+    "classe": "5424",
+    "codigo": "1937",
+    "descricao": "OBRAS CIVIS DE LINHAS DE DISTRIBUICAO DE ENERGIA ELETRICA"
+  },
+  {
+    "grupo": "542",
+    "classe": "5427",
+    "codigo": "25445",
+    "descricao": "CONSTRUCAO PISTA DE ATLETISMO"
+  },
+  {
+    "grupo": "542",
+    "classe": "5427",
+    "codigo": "25453",
+    "descricao": "MANUTENCAO EM OBSTACULO E PERCURSO DE PISTA DE ATLETISMO"
+  },
+  {
+    "grupo": "542",
+    "classe": "5429",
+    "codigo": "1430",
+    "descricao": "OBRAS CIVIS DE REBAIXAMENTO DE LENCOL D'AGUA"
+  },
+  {
+    "grupo": "542",
+    "classe": "5429",
+    "codigo": "3425",
+    "descricao": "CONSERVACAO DE CABINES E ABRIGOS"
+  },
+  {
+    "grupo": "542",
+    "classe": "5429",
+    "codigo": "4774",
+    "descricao": "OBRAS CIVIS DE USINA TERMOELETRICAS / TERMONUCLEARES / SOLAR FOTOVOTAICA"
+  }
+]

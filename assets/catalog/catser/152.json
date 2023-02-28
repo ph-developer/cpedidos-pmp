@@ -1,0 +1,98 @@
+[
+  {
+    "grupo": "152",
+    "classe": "1521",
+    "codigo": "26735",
+    "descricao": "OUTSOURCING DE  IMPRESSAO - LOCACAO DE EQUIPAMENTO - MONOCROMATICO A4 ATE 30 PPM"
+  },
+  {
+    "grupo": "152",
+    "classe": "1521",
+    "codigo": "26743",
+    "descricao": "OUTSOURCING DE  IMPRESSAO - LOCACAO DE EQUIPAMENTO - MONOCROMATICO A4 DE 31 A 45 PPM"
+  },
+  {
+    "grupo": "152",
+    "classe": "1521",
+    "codigo": "26751",
+    "descricao": "OUTSOURCING DE  IMPRESSAO - LOCACAO DE EQUIPAMENTO - MONOCROMATICO A4 ACIMA DE 45 PPM"
+  },
+  {
+    "grupo": "152",
+    "classe": "1521",
+    "codigo": "26760",
+    "descricao": "OUTSOURCING DE  IMPRESSAO - LOCACAO DE EQUIPAMENTO - POLICROMATICO A4 ATE 25 PPM"
+  },
+  {
+    "grupo": "152",
+    "classe": "1521",
+    "codigo": "26778",
+    "descricao": "OUTSOURCING DE  IMPRESSAO - LOCACAO DE EQUIPAMENTO - POLICROMATICO A4 DE 26 A 40 PPM"
+  },
+  {
+    "grupo": "152",
+    "classe": "1521",
+    "codigo": "26786",
+    "descricao": "OUTSOURCING DE  IMPRESSAO - LOCACAO DE EQUIPAMENTO - POLICROMATICO A4 ACIMA DE 40 PPM"
+  },
+  {
+    "grupo": "152",
+    "classe": "1521",
+    "codigo": "26794",
+    "descricao": "OUTSOURCING DE  IMPRESSAO - LOCACAO DE EQUIPAMENTO - MONOCROMATICO A3"
+  },
+  {
+    "grupo": "152",
+    "classe": "1521",
+    "codigo": "26808",
+    "descricao": "OUTSOURCING DE IMPRESSAO  - LOCACAO DE EQUIPAMENTO - POLICROMATICO A3"
+  },
+  {
+    "grupo": "152",
+    "classe": "1522",
+    "codigo": "26816",
+    "descricao": "OUTSOURCING DE IMPRESSAO - LOCACAO PAGINAS IMPRESSAS A4  SEMPAPEL"
+  },
+  {
+    "grupo": "152",
+    "classe": "1522",
+    "codigo": "26824",
+    "descricao": "OUTSOURCING DE IMPRESSAO - LOCACAO PAGINAS IMPRESSAS A4 MONOCROMATICA COM PAPEL"
+  },
+  {
+    "grupo": "152",
+    "classe": "1522",
+    "codigo": "26832",
+    "descricao": "OUTSOURCING DE IMPRESSAO - LOCACAO PAGINAS IMPRESSAS A3 MONOCROMATICA SEM PAPEL"
+  },
+  {
+    "grupo": "152",
+    "classe": "1522",
+    "codigo": "26840",
+    "descricao": "OUTSOURCING DE IMPRESSAO - LOCACAO PAGINAS IMPRESSAS A3 MONOCROMATICA A3 COM PAPEL"
+  },
+  {
+    "grupo": "152",
+    "classe": "1522",
+    "codigo": "26859",
+    "descricao": "OUTSOURCING DE IMPRESSAO - LOCACAO PAGINAS IMPRESSAS A4 POLICROMATICA SEM PAPEL"
+  },
+  {
+    "grupo": "152",
+    "classe": "1522",
+    "codigo": "26867",
+    "descricao": "OUTSOURCING DE IMPRESSAO - LOCACAO PAGINAS IMPRESSAS A4 POLICROMATICA COM PAPEL"
+  },
+  {
+    "grupo": "152",
+    "classe": "1522",
+    "codigo": "26875",
+    "descricao": "OUTSOURCING DE IMPRESSAO - LOCACAO PAGINAS IMPRESSAS A3 POLICROMATICA SEM PAPEL"
+  },
+  {
+    "grupo": "152",
+    "classe": "1522",
+    "codigo": "26883",
+    "descricao": "OUTSOURCING DE IMPRESSAO - LOCACAO PAGINAS IMPRESSAS A3 POLICROMATICA COM PAPEL"
+  }
+]

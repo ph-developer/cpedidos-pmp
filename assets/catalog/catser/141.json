@@ -1,0 +1,332 @@
+[
+  {
+    "grupo": "141",
+    "classe": "1411",
+    "codigo": "21873",
+    "descricao": "TELEFONIA FIXA COMUTADA / CONVENCIONAL"
+  },
+  {
+    "grupo": "141",
+    "classe": "1411",
+    "codigo": "26085",
+    "descricao": "TAXA DE INSTALACAO/HABILITACAO DE SERVICO DE TELEFONIA STFC"
+  },
+  {
+    "grupo": "141",
+    "classe": "1411",
+    "codigo": "26093",
+    "descricao": "ASSINATURA DE DDR"
+  },
+  {
+    "grupo": "141",
+    "classe": "1411",
+    "codigo": "26107",
+    "descricao": "ASSINATURA DE RAMAL TELEFONICO"
+  },
+  {
+    "grupo": "141",
+    "classe": "1411",
+    "codigo": "26115",
+    "descricao": "CHAMADAS LOCAIS FIXO-FIXO STFC-LOCAL-FF"
+  },
+  {
+    "grupo": "141",
+    "classe": "1411",
+    "codigo": "26123",
+    "descricao": "CHAMADAS LOCAIS FIXO-MOVEL STFC-LOCAL-FM (VC1)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1411",
+    "codigo": "26131",
+    "descricao": "CHAMADAS NACIONAIS FIXO-FIXO STFC-LDN-FF (DEGRAUS 1 A 4)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1411",
+    "codigo": "26140",
+    "descricao": "CHAMADAS NACIONAIS FIXO-MOVEL - STFC-LDN-FM (VC2 E VC3)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1411",
+    "codigo": "26166",
+    "descricao": "TAXA DE INSTALAÇÃO LINK DE INTERNET - STFC (BANDA LARGA)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1411",
+    "codigo": "26174",
+    "descricao": "ACESSO A INTERNET - STFC (BANDA LARGA)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1411",
+    "codigo": "26182",
+    "descricao": "ASSINATURA DE LINHA ANALOGICA"
+  },
+  {
+    "grupo": "141",
+    "classe": "1411",
+    "codigo": "26190",
+    "descricao": "TAXA INSTALACAO DO SERVIÇO DE DISCAGEM DIRETA GRATUITA (DDG)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1411",
+    "codigo": "26204",
+    "descricao": "ASSINATURA DO SERVIÇO DE DISCAGEM DIRETA GRATUITA (DDG)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1411",
+    "codigo": "26212",
+    "descricao": "DISCAGEM DIRETA GRATUITA (DDG) - FIXO LOCAL"
+  },
+  {
+    "grupo": "141",
+    "classe": "1411",
+    "codigo": "26220",
+    "descricao": "DISCAGEM DIRETA GRATUITA (DDG) - FIXO INTER-ESTADUAL"
+  },
+  {
+    "grupo": "141",
+    "classe": "1411",
+    "codigo": "26239",
+    "descricao": "DISCAGEM DIRETA GRATUITA (DDG) - MOVEL LOCAL"
+  },
+  {
+    "grupo": "141",
+    "classe": "1411",
+    "codigo": "26247",
+    "descricao": "DISCAGEM DIRETA GRATUITA (DDG) - MOVEL INTER-ESTADUAL"
+  },
+  {
+    "grupo": "141",
+    "classe": "1411",
+    "codigo": "26255",
+    "descricao": "FACILIDADES DO SERVICO DDG (COMUTADO OU DEDICADO)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1411",
+    "codigo": "26263",
+    "descricao": "\"OUTROS SERVICOS DE TELEFONIA FIXA COMUTADA (STFC - OUTROS)\""
+  },
+  {
+    "grupo": "141",
+    "classe": "1411",
+    "codigo": "27731",
+    "descricao": "ASSINATURA DE ENTRONCAMENTO DIGITAL BIDIRECIONAL E1"
+  },
+  {
+    "grupo": "141",
+    "classe": "1412",
+    "codigo": "26271",
+    "descricao": "CHAMADAS  LOCAIS MOVEL-MOVEL  INTRAOPERADORA SMP-LOCAL-MM-IO(VC1)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1412",
+    "codigo": "26280",
+    "descricao": "CHAMADAS  LOCAIS MOVEL-MOVEL  EXTRAOPERADORA SMP-LOCAL-MM-EO(VC1)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1412",
+    "codigo": "26298",
+    "descricao": "CHAMADAS LOCAIS MOVEL-FIXO SMP-LOCAL-MF (VC1)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1412",
+    "codigo": "26301",
+    "descricao": "CHAMADAS  NACIONAIS MOVEL-MOVEL INTRAOPERADORA SMP-LDN-MM-IO(VC2 E VC3)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1412",
+    "codigo": "26310",
+    "descricao": "CHAMADAS  NACIONAIS MOVEL-MOVEL EXTRAOPERADORA SMP-LDN-MM-EO(VC2 E VC3)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1412",
+    "codigo": "26328",
+    "descricao": "CHAMADAS NACIONAIS MOVEL-FIXO SMP-LDN-MF (VC2 E VC3)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1412",
+    "codigo": "26344",
+    "descricao": "ACESSO A INTERNET MOVEL (BANDA LARGA)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1412",
+    "codigo": "26352",
+    "descricao": "MENSAGENS DE TEXTO (SMS)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1412",
+    "codigo": "26360",
+    "descricao": "MENSAGENS MULTIMIDIA (MMS)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1412",
+    "codigo": "26379",
+    "descricao": "CHIP AVULSO"
+  },
+  {
+    "grupo": "141",
+    "classe": "1412",
+    "codigo": "26387",
+    "descricao": "PACOTE DE SERVICOS SMP (VOZ, DADOS, SMS, ETC)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1412",
+    "codigo": "26395",
+    "descricao": "SERVICOS DE GERENCIA DE REDES MOVEIS E DE USUARIOS DESSAS REDES"
+  },
+  {
+    "grupo": "141",
+    "classe": "1412",
+    "codigo": "26409",
+    "descricao": "OUTROS SERVICOS MOVEIS PESSOAIS"
+  },
+  {
+    "grupo": "141",
+    "classe": "1412",
+    "codigo": "27693",
+    "descricao": "ADICIONAL DE CHAMADAS  -  LIGACOES RECEBIDAS FORA DA AREA DEMOBILIDADE - DENTRO DA AREA DA OPERADORA (SMP AD1-IO)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1412",
+    "codigo": "27707",
+    "descricao": "ADICIONAL DE CHAMADAS  -  LIGACOES RECEBIDAS FORA DA AREA DEMOBILIDADE - FORA DA AREA DA OPERADORA (SMP AD2-EO)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1412",
+    "codigo": "27715",
+    "descricao": "SERVICO DE DESLOCAMENTO - LIGACOES RECEBIDA FORA DA AREA  DEMOBILIDADE - DENTRO DA AREA DE NUMERACAO PRIMARIA (SMP DSL1)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1412",
+    "codigo": "27723",
+    "descricao": "SERVICO DE DESLOCAMENTO - LIGACOES RECEBIDA FORA DA AREA  DEMOBILIDADE - FORA DA AREA DE NUMERACAO PRIMARIA (SMP DSL2)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1412",
+    "codigo": "27880",
+    "descricao": "SERVIÇO DE DESLOCAMENTO - LIGAÇÕES RECEBIDAS FORA DA ÁREA DE MOBILIDADE - FORA DA ÁREA DE NUMERAÇÃO PRIMÁRIA (SMP DLS3)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1412",
+    "codigo": "27898",
+    "descricao": "SERVIÇO DE DESLOCAMENTO - LIGAÇÕES RECEBIDAS FORA DA ÁREA DE MOBILIDADE - FORA DA ÁREA DE NUMERAÇÃO PRIMÁRIA (SMP DLS4)"
+  },
+  {
+    "grupo": "141",
+    "classe": "1412",
+    "codigo": "27910",
+    "descricao": "ACESSO À INTERNET MÓVEL - INTERNET PATROCINADA"
+  },
+  {
+    "grupo": "141",
+    "classe": "1413",
+    "codigo": "26158",
+    "descricao": "CHAMADAS INTERNACIONAIS (LDI-STFC-FF) - ORIGEM FIXO"
+  },
+  {
+    "grupo": "141",
+    "classe": "1413",
+    "codigo": "26336",
+    "descricao": "CHAMADAS INTERNACIONAIS (LDI-SMP-MF) - ORIGEM MÓVEL"
+  },
+  {
+    "grupo": "141",
+    "classe": "1413",
+    "codigo": "27634",
+    "descricao": "CHAMADAS INTERNACIONAIS (LDI-STFC-FM) - ORIGEM FIXO"
+  },
+  {
+    "grupo": "141",
+    "classe": "1413",
+    "codigo": "27642",
+    "descricao": "CHAMADAS INTERNACIONAIS (LDI-SMP-MM) - ORIGEM MÓVEL"
+  },
+  {
+    "grupo": "141",
+    "classe": "1413",
+    "codigo": "27650",
+    "descricao": "CHAMADAS INTERNACIONAIS (LDI-STFC/SMP-FM/F) - DESTINO FIXO"
+  },
+  {
+    "grupo": "141",
+    "classe": "1413",
+    "codigo": "27669",
+    "descricao": "CHAMADAS INTERNACIONAIS (LDI-STFC/SMP-FM/M) - DESTINO MOVEL"
+  },
+  {
+    "grupo": "141",
+    "classe": "1413",
+    "codigo": "27839",
+    "descricao": "CHAMADAS INTERNACIONAIS (LDI-STFC-FFM) - ORIGEM FIXO"
+  },
+  {
+    "grupo": "141",
+    "classe": "1413",
+    "codigo": "27847",
+    "descricao": "CHAMADAS INTERNACIONAIS (LDI-SMP-MFM) - ORIGEM MÓVEL"
+  },
+  {
+    "grupo": "141",
+    "classe": "1413",
+    "codigo": "27855",
+    "descricao": "UTILIZAÇÃO DE VOZ E DADOS EM ROAMING INTERNACIONAL"
+  },
+  {
+    "grupo": "141",
+    "classe": "1414",
+    "codigo": "26417",
+    "descricao": "CHAMADAS LOCAIS - SATELITE"
+  },
+  {
+    "grupo": "141",
+    "classe": "1414",
+    "codigo": "26425",
+    "descricao": "CHAMADAS NACIONAIS (LDN) - SATELITE"
+  },
+  {
+    "grupo": "141",
+    "classe": "1414",
+    "codigo": "26433",
+    "descricao": "CHAMADAS INTERNACIONAIS (LDI) - SATELITE"
+  },
+  {
+    "grupo": "141",
+    "classe": "1414",
+    "codigo": "26441",
+    "descricao": "ACESSO A INTERNET - TELEFONIA SATELITE"
+  },
+  {
+    "grupo": "141",
+    "classe": "1414",
+    "codigo": "26450",
+    "descricao": "ASSINATURA DO SERVICO DE TELECOMUNICACOES - SATELITE"
+  },
+  {
+    "grupo": "141",
+    "classe": "1414",
+    "codigo": "26468",
+    "descricao": "SERVICOS DE GERENCIA DE REDES SATELITAIS E ADMINISTRACAO DE SEUS USUARIOS"
+  }
+]

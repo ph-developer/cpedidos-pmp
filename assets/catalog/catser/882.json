@@ -1,0 +1,32 @@
+[
+  {
+    "grupo": "882",
+    "classe": "'-7",
+    "codigo": "20770",
+    "descricao": "CONFECCAO PEÇA METÁLICA"
+  },
+  {
+    "grupo": "882",
+    "classe": "'-7",
+    "codigo": "25062",
+    "descricao": "CONFECCAO ESTRUTURAS METALICAS"
+  },
+  {
+    "grupo": "882",
+    "classe": "8821",
+    "codigo": "15555",
+    "descricao": "CONFECCAO APARELHO ORTODONTICO"
+  },
+  {
+    "grupo": "882",
+    "classe": "8821",
+    "codigo": "16829",
+    "descricao": "SERRALHARIA"
+  },
+  {
+    "grupo": "882",
+    "classe": "8822",
+    "codigo": "22713",
+    "descricao": "CONFECCAO CARRO / EQUIPAMENTO PARA EMBARCAÇÃO"
+  }
+]

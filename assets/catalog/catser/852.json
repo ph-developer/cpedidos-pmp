@@ -1,0 +1,218 @@
+[
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "14079",
+    "descricao": "GUARDA - MOVEIS"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "14184",
+    "descricao": "ESTUDOS E PROJETOS SISTEMA INTEGRADO -  SEGURANCA  PESSOAL /PATRIMONIAL"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "17205",
+    "descricao": "SERVICO SEGURANCA NACIONAL / TRABALHO"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "21660",
+    "descricao": "MONITORAMENTO CIRCUITO FECHADO TV"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "23507",
+    "descricao": "PRESTACAO DE SERVICO DE  VIGILANCIA E SEGURANÇA - ORGANICA -44 HORAS SEMANAIS DIURNAS"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "23647",
+    "descricao": "PRESTACAO DE SERVICO DE  VIGILANCIA E SEGURANCA - ORGANICA -12 HORAS DIURNAS - 2ª A DOMINGO"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "23701",
+    "descricao": "PRESTACAO DE SERVICO DE  VIGILANCIA E SEGURANCA - ORGANICA -12 HORAS DIURNAS - 2ª A 6ª FEIRA"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "23795",
+    "descricao": "PRESTACAO DE SERVICO DE  VIGILANCIA E SEGURANCA - ORGANICA -24 HORAS DIUTURNAS"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "23809",
+    "descricao": "PRESTACAO DE SERVICO DE  VIGILANCIA E SEGURANCA - ELETRONICA12 HORAS DIURNAS - 2ª A DOMINGO"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "23817",
+    "descricao": "PRESTACAO DE SERVICO DE  VIGILANCIA E SEGURANCA - ELETRONICA12 HORAS DIURNAS - 2ª A 6ª-FEIRA"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "23825",
+    "descricao": "PRESTACAO DE SERVICO DE  VIGILANCIA E SEGURANCA - ELETRONICA12 HORAS DIURNAS - SABADO/DOMINGO/FERIADOS"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "23833",
+    "descricao": "PRESTACAO DE SERVICO DE  VIGILANCIA E SEGURANCA - ELETRONICA12 HORAS NOTURNAS - 2ª A DOMINGO"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "23841",
+    "descricao": "PRESTACAO DE SERVICO DE  VIGILANCIA E SEGURANCA - ELETRONICA12 HORAS NOTURNAS - 2ª A 6ª-FEIRA"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "23850",
+    "descricao": "PRESTACAO DE SERVICO DE  VIGILANCIA E SEGURANCA - ELETRONICA12 HORAS NOTURNAS - SABADO/DOMINGO/FERIADOS"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "23868",
+    "descricao": "PRESTACAO DE SERVICO DE  VIGILANCIA E SEGURANCA - ELETRONICA24 HORAS DIUTURNAS"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "23876",
+    "descricao": "PRESTACAO DE SERVICO DE  VIGILANCIA E SEGURANCA - ORGANICA EELETRONICA (INTEGRADA) - 44 HORAS SEMANAIS DIURNAS"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "23884",
+    "descricao": "PRESTACAO DE SERVICO DE  VIGILANCIA E SEGURANCA - ORGANICA EELETRONICA (INTEGRADA) - 12 HORAS DIURNAS - 2ª A DOMINGO"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "23892",
+    "descricao": "PRESTACAO DE SERVICO DE VIGILANCIA E SEGURANCA - ORGANICA E ELETRONICA (INTEGRADA) - 12 HORAS DIURNAS - 2ª A 6ª-FEIRA"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "23914",
+    "descricao": "PRESTACAO DE SERVICO DE  VIGILANCIA E SEGURANCA - ORGANICA EELETRONICA (INTEGRADA) - 12 HORAS NOTURNAS - 2ª A DOMINGO"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "23922",
+    "descricao": "PRESTACAO DE SERVICO DE  VIGILANCIA E SEGURANCA - ORGANICA EELETRONICA (INTEGRADA) - 12 HORAS NOTURNAS - 2ª A 6ª-FEIRA"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "23930",
+    "descricao": "PRESTACAO DE SERVICO DE  VIGILANCIA E SEGURANCA - ORGANICA EELETRONICA (INTEGRADA) - 24 HORAS DIUTURNAS"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "23949",
+    "descricao": "PRESTACAO DE SERVICO DE  VIGILANCIA E SEGURANCA - ORGANICA -12 HORAS DIURNAS - SABADO / DOMINGO / FERIADOS"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "23957",
+    "descricao": "PRESTACAO DE SERVICO DE  VIGILANCIA E SEGURANCA - ORGANICA -12H NOTURNAS - 2ª A DOMINGO"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "23973",
+    "descricao": "PRESTACAO DE SERVICO DE VIGILANCIA E  SEGURANCA - ORGANICA -12 HORAS NOTURNAS - SABADO / DOMINGO / FERIADOS"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "23981",
+    "descricao": "PRESTACAO DE SERVICO DE VIGILANCIA E SEGURANCA -  ORGANICA EELETRONICA (INTEGRADA) - 12H NOTURNAS - SAB/DOM/FERIADOS"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "24015",
+    "descricao": "SERVICO DE VIGILANCIA ARMADA"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "24120",
+    "descricao": "PRESTACAO DE SERVICO DE  LIMPEZA E CONSERVACAO - FACHADAS ENVIDRACADAS - OUTRAS NECESSIDADES - OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "24139",
+    "descricao": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - AREAS HOSPI-TALARES - OUTRAS NECESSIDADES - OUTRA PRODUTIVIDADE"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "24147",
+    "descricao": "PRESTACAO DE SERVICO DE VIGILANCIA E SEGURANCA - ORGANICA - OUTRAS NECESSIDADES (INATIVO)"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "24155",
+    "descricao": "PRESTACAO DE SERVICO DE VIGILANCIA E SEGURANCA - ELETRONICA-OUTRAS NECESSIDADES  (INATIVO)"
+  },
+  {
+    "grupo": "852",
+    "classe": "'-7",
+    "codigo": "24163",
+    "descricao": "PRESTACAO DE SERVICO DE VIGILANCIA E SEGURANCA - ORGANICA E ELETRONICA (INTEGRADA) - OUTRAS NECESSIDADES (INATIVO)"
+  },
+  {
+    "grupo": "852",
+    "classe": "8525",
+    "codigo": "13960",
+    "descricao": "GUARDA / CUSTODIA VALOR (COFRE DE ALUGUEL / CAIXA FORTE)"
+  },
+  {
+    "grupo": "852",
+    "classe": "8525",
+    "codigo": "23965",
+    "descricao": "PRESTACAO DE SERVICO DE VIGILANCIA E SEGURANCA - ORGANICA - 12H NOTURNAS - 2ª A 6ª-FEIRA"
+  },
+  {
+    "grupo": "852",
+    "classe": "8525",
+    "codigo": "25410",
+    "descricao": "SERVICO DE RASTREAMENTO"
+  },
+  {
+    "grupo": "852",
+    "classe": "8529",
+    "codigo": "20419",
+    "descricao": "INSPECAO DE SEGURANCA"
+  },
+  {
+    "grupo": "852",
+    "classe": "8529",
+    "codigo": "25550",
+    "descricao": "SERVICOS DE PREVENCAO COMBATE INCENDIO / BRIGADISTA"
+  }
+]

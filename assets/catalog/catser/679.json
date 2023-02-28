@@ -1,0 +1,38 @@
+[
+  {
+    "grupo": "679",
+    "classe": "'-7",
+    "codigo": "3360",
+    "descricao": "TRANSPORTE INTERMODAL / MULTIMODAL"
+  },
+  {
+    "grupo": "679",
+    "classe": "'-7",
+    "codigo": "5533",
+    "descricao": "DESPACHO DE CARGA / ENCOMENDA VIA  AEREA / TERRESTRE - NACIONAL/INTERNACIONAL"
+  },
+  {
+    "grupo": "679",
+    "classe": "'-7",
+    "codigo": "8656",
+    "descricao": "TRANSPORTE SUPERFICIE  EM  AEROPORTOS - PASSAGEIRO / CARGA /AERONAVE / EQUIPAMENTO"
+  },
+  {
+    "grupo": "679",
+    "classe": "'-7",
+    "codigo": "13897",
+    "descricao": "AGENCIAMENTO DE CARGA AEREA / TERRESTRE / MARITIMA / FLUVIAL"
+  },
+  {
+    "grupo": "679",
+    "classe": "'-7",
+    "codigo": "23027",
+    "descricao": "FORNECIMENTO PASSAGEM RODOVIARIA - MENOR TAXA DE SERVICO"
+  },
+  {
+    "grupo": "679",
+    "classe": "6799",
+    "codigo": "16470",
+    "descricao": "COMERCIALIZACAO / DISTRIBUICAO - VALE TRANSPORTE"
+  }
+]

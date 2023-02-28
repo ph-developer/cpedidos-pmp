@@ -1,0 +1,32 @@
+[
+  {
+    "grupo": "961",
+    "classe": "'-7",
+    "codigo": "3778",
+    "descricao": "AUDIOVISUAL"
+  },
+  {
+    "grupo": "961",
+    "classe": "9611",
+    "codigo": "21431",
+    "descricao": "FONOGRAMA MUSICAL"
+  },
+  {
+    "grupo": "961",
+    "classe": "9612",
+    "codigo": "15580",
+    "descricao": "PRODUCAO / VEICULACAO - PROGRAMA TELEDUCATIVO / DOCUMENTARIO/ ENTREVISTA / DEBATE"
+  },
+  {
+    "grupo": "961",
+    "classe": "9614",
+    "codigo": "21482",
+    "descricao": "LABORATORIO CINEMATOGRAFICO"
+  },
+  {
+    "grupo": "961",
+    "classe": "9616",
+    "codigo": "20923",
+    "descricao": "RADIODIFUSAO"
+  }
+]

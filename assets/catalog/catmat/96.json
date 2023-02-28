@@ -1,0 +1,807 @@
+[
+  {
+    "grupo": "96",
+    "classe": "9610",
+    "padrao": "4971",
+    "codigo": "323279",
+    "descricao": " CHUMBO, ASPECTO FÍSICO:SÓLIDO, APRESENTAÇÃO:BARRA, PONTO DE FUSÃO:70 ¿C, TIPO USO:BLINDAGEM, APLICAÇÃO:BLINDAGEM"
+  },
+  {
+    "grupo": "96",
+    "classe": "9610",
+    "padrao": "4971",
+    "codigo": "352660",
+    "descricao": " CHUMBO, ASPECTO FÍSICO:SÓLIDO, APRESENTAÇÃO:TUBO, APLICAÇÃO:PESO PARA REDE DE PESCA, CARACTERÍSTICAS ADICIONAIS:DIÂMETRO NOMINAL: EXTERNO 8 MM X INTERNO 5MM"
+  },
+  {
+    "grupo": "96",
+    "classe": "9610",
+    "padrao": "4971",
+    "codigo": "471978",
+    "descricao": " CHUMBO, ASPECTO FÍSICO:SÓLIDO, APRESENTAÇÃO:FORMATO OLIVA, APLICAÇÃO:PÊSO PARA PESCA, CARACTERÍSTICAS ADICIONAIS:VAZADA, PÊSO 50 GRAMAS"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "2981",
+    "codigo": "254485",
+    "descricao": " AREIA - FILTRACAO DE AGUA, MATERIAL:AREIA QUARTZOSA, TAMANHO EFETIVO:0,4 A 0,42 MM, APLICAÇÃO:FILTRAÇÃO ÁGUA"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "2986",
+    "codigo": "445129",
+    "descricao": " ARGILA, COR:VERMELHA"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "8053",
+    "codigo": "230652",
+    "descricao": " GRAFITE, DIÂMETRO:0,50 MM"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "8053",
+    "codigo": "232154",
+    "descricao": " GRAFITE, DIÂMETRO:0,70 MM"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "8053",
+    "codigo": "232155",
+    "descricao": " GRAFITE, DIÂMETRO:0,90 MM"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "8053",
+    "codigo": "265651",
+    "descricao": " GRAFITE, DIÂMETRO:0,70 MM, APLICAÇÃO:LAPISEIRA"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "8053",
+    "codigo": "297625",
+    "descricao": " GRAFITE, APLICAÇÃO:TRATAMENTO DE SEMENTES NA AGRICULTURA, APRESENTAÇÃO:PÓ"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "8053",
+    "codigo": "300104",
+    "descricao": " GRAFITE, DIÂMETRO:58 MM, COMPRIMENTO:150 MM, APLICAÇÃO:CONFECÇÃO DE CADINHOS, APRESENTAÇÃO:TARUGO USINADO, GRAU:GRÃO FINO"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "8053",
+    "codigo": "321776",
+    "descricao": " GRAFITE, COMPRIMENTO:400 MM, APLICAÇÃO:CONFECÇÃO DE JUNTAS, FITAS, GAXETAS, APRESENTAÇÃO:PLACA, LARGURA:400 MM, ALTURA:12 MM, CARACTERÍSTICAS ADICIONAIS:PARA ALTA TEMPERATURA C/ RESISTÊNCIA DE 600 PSI"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "8053",
+    "codigo": "324277",
+    "descricao": " GRAFITE, DIÂMETRO:0,50 MM, APLICAÇÃO:LAPISEIRA"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "8053",
+    "codigo": "364045",
+    "descricao": " GRAFITE, DIÂMETRO:0,7 MM, APLICAÇÃO:LAPISEIRA, CARACTERÍSTICAS ADICIONAIS:TIPO: HB"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "8053",
+    "codigo": "364046",
+    "descricao": " GRAFITE, DIÂMETRO:0,5 MM, APLICAÇÃO:LAPISEIRA, CARACTERÍSTICAS ADICIONAIS:TIPO: HB"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "8053",
+    "codigo": "364047",
+    "descricao": " GRAFITE, DIÂMETRO:0,9 MM, APLICAÇÃO:LAPISEIRA, CARACTERÍSTICAS ADICIONAIS:TIPO: HB"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "8053",
+    "codigo": "364327",
+    "descricao": " GRAFITE, DIÂMETRO:0,7 MM, APLICAÇÃO:LAPISEIRA, CARACTERÍSTICAS ADICIONAIS:TIPO: 2B"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "8053",
+    "codigo": "384006",
+    "descricao": " GRAFITE, DIÂMETRO:0,5 MM, APLICAÇÃO:LAPISEIRA, CARACTERÍSTICAS ADICIONAIS:TIPO: 2B"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "8053",
+    "codigo": "395551",
+    "descricao": " GRAFITE, DIÂMETRO:0,9 MM, APLICAÇÃO:LAPISEIRA, CARACTERÍSTICAS ADICIONAIS:TIPO: 2B"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "8053",
+    "codigo": "429220",
+    "descricao": " GRAFITE, DIÂMETRO:0,03 MM, APLICAÇÃO:LAPISEIRA"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "15160",
+    "codigo": "237659",
+    "descricao": " CALCÁRIO DOLOMITICO, ASPECTO FÍSICO:PO, COR:BRANCA, GRANULOMETRIA:98 PER, COMPOSIÇÃO:ÓXIDO DE CÁLCIO, DE MAGNESIO E MATERIAL INERTE., USO:CORREÇÃO DO SOLO"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "15160",
+    "codigo": "237660",
+    "descricao": " CALCÁRIO DOLOMITICO, ASPECTO FÍSICO:PO, COR:BRANCA, GRANULOMETRIA:99 PER, COMPOSIÇÃO:ÓXIDO DE CÁLCIO, DE MAGNESIO E MATERIAL INERTE., USO:CORREÇÃO DO SOLO"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "15160",
+    "codigo": "237661",
+    "descricao": " CALCÁRIO DOLOMITICO, ASPECTO FÍSICO:PO, COR:BRANCA, GRANULOMETRIA:100 PER, COMPOSIÇÃO:ÓXIDO DE CÁLCIO, DE MAGNESIO E MATERIAL INERTE., USO:CORREÇÃO DO SOLO"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "15160",
+    "codigo": "252768",
+    "descricao": " CALCÁRIO DOLOMITICO, ASPECTO FÍSICO:PO, COMPOSIÇÃO:PRNT ACIMA DE 90%, USO:CORREÇÃO DO SOLO"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "15160",
+    "codigo": "318031",
+    "descricao": " CALCÁRIO DOLOMITICO, ASPECTO FÍSICO:PÓ, COMPOSIÇÃO:PRNT 65 A 75 PER, USO:CORREÇÃO ACIDEZ DO SOLO, CARACTERÍSTICAS ADICIONAIS:ENSACADO"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "15160",
+    "codigo": "321679",
+    "descricao": " CALCÁRIO DOLOMITICO, ASPECTO FÍSICO:PÓ, COR:BRANCA, COMPOSIÇÃO:ADUBO CALCÁRIO, ÓXIDO DE MAGNÉSIO > 12%, USO:CORREÇÃO ACIDEZ DO SOLO, CARACTERÍSTICAS ADICIONAIS:ENSACADO"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "15160",
+    "codigo": "391060",
+    "descricao": " CALCÁRIO DOLOMITICO, ASPECTO FÍSICO:PÓ, COMPOSIÇÃO:PRNT ACIMA DE 80%"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "15160",
+    "codigo": "402221",
+    "descricao": " CALCÁRIO DOLOMITICO, ASPECTO FÍSICO:PÓ, COR:BRANCA, COMPOSIÇÃO:30,3% CACO3, 22,4% MGCO3, PRNT > 95%, PN > 109%, USO:CORREÇÃO ACIDEZ DO SOLO"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "15160",
+    "codigo": "402953",
+    "descricao": " CALCÁRIO DOLOMITICO, ASPECTO FÍSICO:PÓ, COMPOSIÇÃO:PRNT MÍNIMO DE 90%"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "15160",
+    "codigo": "423325",
+    "descricao": " CALCÁRIO DOLOMITICO, ASPECTO FÍSICO:PÓ, COMPOSIÇÃO:PRNT MÍNIMO DE 80%"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "15160",
+    "codigo": "485560",
+    "descricao": " CALCÁRIO DOLOMITICO, ASPECTO FÍSICO:PÓ, COMPOSIÇÃO:PRNT MÍNIMO DE 80%, USO:CORREÇÃO ACIDEZ DO SOLO"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "15176",
+    "codigo": "237852",
+    "descricao": " TERRA DIATOMÁCEA, ASPECTO FÍSICO:PO, TIPO:AREIA, COR:CINZA CLARO, COMPOSIÇÃO:PARTÍCULAS INERTES, PUREZA MÍNIMA:90 PER, USO:FILTRAGEM, SOLUBILIDADE:INSOLÚVEL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "15176",
+    "codigo": "341271",
+    "descricao": " TERRA DIATOMÁCEA, ASPECTO FÍSICO:PO, COR:BRANCA, COMPOSIÇÃO:PARTÍCULAS INERTES, USO:FILTRAGEM"
+  },
+  {
+    "grupo": "96",
+    "classe": "9620",
+    "padrao": "15176",
+    "codigo": "433421",
+    "descricao": " TERRA DIATOMÁCEA, ASPECTO FÍSICO:PÓ, TIPO:AREIA, COR:BRANCA, COMPOSIÇÃO:AL2O3 1,0%; CAO 6,73%; FE2O3 0,46%; NA2O+K2O 1,88%"
+  },
+  {
+    "grupo": "96",
+    "classe": "9630",
+    "padrao": "19378",
+    "codigo": "438765",
+    "descricao": " LIGA METÁLICA, COMPOSIÇÃO:LIGA DE ALUMíNIO-NÍQUEL, CONCENTRAÇÃO:PUREZA MÍNIMA 99%, FORMA FÍSICA:CATALIZADOR SÓLIDO COMPOSTO POR GRÃOS"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "7396",
+    "codigo": "232763",
+    "descricao": " FERRO CONSTRUÇÃO CIVIL, TIPO:CA-60, DIÂMETRO:5,00 MM"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "7396",
+    "codigo": "251355",
+    "descricao": " FERRO CONSTRUÇÃO CIVIL, TIPO:CA-60, DIÂMETRO:5/16 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "7396",
+    "codigo": "251607",
+    "descricao": " FERRO CONSTRUÇÃO CIVIL, TIPO:CA-50, DIÂMETRO:5/16 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "7396",
+    "codigo": "255612",
+    "descricao": " FERRO CONSTRUÇÃO CIVIL, TIPO:CA-50, DIÂMETRO:1/4 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "7396",
+    "codigo": "255613",
+    "descricao": " FERRO CONSTRUÇÃO CIVIL, TIPO:CA-50, DIÂMETRO:3/4 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "7396",
+    "codigo": "256992",
+    "descricao": " FERRO CONSTRUÇÃO CIVIL, TIPO:CA-50, DIÂMETRO:3/16 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "7396",
+    "codigo": "270736",
+    "descricao": " FERRO CONSTRUÇÃO CIVIL, TIPO:CA-50, DIÂMETRO:3/8 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "7396",
+    "codigo": "271701",
+    "descricao": " FERRO CONSTRUÇÃO CIVIL, TIPO:CA-50, DIÂMETRO:1/2 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "7396",
+    "codigo": "292022",
+    "descricao": " FERRO CONSTRUÇÃO CIVIL, TIPO:CA-60, DIÂMETRO:4,2 MM"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "7396",
+    "codigo": "337720",
+    "descricao": " FERRO CONSTRUÇÃO CIVIL, TIPO:CA-50, DIÂMETRO:5/8 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "7396",
+    "codigo": "354664",
+    "descricao": " FERRO CONSTRUÇÃO CIVIL, TIPO:CA-60, DIÂMETRO:7/32 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "7396",
+    "codigo": "387217",
+    "descricao": " FERRO CONSTRUÇÃO CIVIL, TIPO:CA-50, DIÂMETRO:4,2 MM"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "7396",
+    "codigo": "417035",
+    "descricao": " FERRO CONSTRUÇÃO CIVIL, TIPO:CA-50, DIÂMETRO:8 MM"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "7396",
+    "codigo": "449431",
+    "descricao": " FERRO CONSTRUÇÃO CIVIL, TIPO:CA-60, DIÂMETRO:1/4 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "7396",
+    "codigo": "480611",
+    "descricao": " FERRO CONSTRUÇÃO CIVIL, TIPO:CA-60, DIÂMETRO:6,00 MM"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "10926",
+    "codigo": "439130",
+    "descricao": " PÓ METÁLICO, TIPO:AÇO INOXIDÁVEL AISI 316L, COMPOSIÇÃO QUÍMICA:16-18% CR, 10.0-14.0% NI, 2.0-3.0% MO, 2.00% MAX,, CARACTERÍSTICAS ADICIONAIS:ATOMIZADO A GÁS, NORMA TÉCNICA:AISI 316L"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "10926",
+    "codigo": "439131",
+    "descricao": " PÓ METÁLICO, TIPO:LIGA DE COBALTO-CROMO, COMPOSIÇÃO QUÍMICA:BAL CO, 27.0-30.0% CR,5.0-7.0% MO,1.00% MAX MN,1%, TAMANHO MÉDIO PARTÍCULAS:15 A 45 MÍCRONS, CARACTERÍSTICAS ADICIONAIS:ATOMIZADO A GÁS"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "10926",
+    "codigo": "451595",
+    "descricao": " PÓ METÁLICO, TIPO:AÇO, COMPOSIÇÃO QUÍMICA:(%):C-0.8 A 1.2; MN- 0.6 A 1.2; SI - MINIMO DE 0.4, APLICAÇÃO:JATEAMENTO, CARACTERÍSTICAS ADICIONAIS:DUREZA MÍNIMA 60 HRC, NORMA TÉCNICA:SAE J 1993"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12556",
+    "codigo": "325033",
+    "descricao": " TARUGO DE AÇO, MATERIAL:AÇO SAE 1020"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12556",
+    "codigo": "325034",
+    "descricao": " TARUGO DE AÇO, MATERIAL:AÇO AISI 316"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12556",
+    "codigo": "483214",
+    "descricao": " TARUGO DE AÇO, MATERIAL:AISI D6 (W-NR-12436 OU VC-131), DIÂMETRO:1 1/2 POL, COMPRIMENTO:1.000 MM, FORMATO:REDONDO"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12556",
+    "codigo": "483215",
+    "descricao": " TARUGO DE AÇO, MATERIAL:AISI D6 (W-NR-12436 OU VC-131), DIÂMETRO:2 POL, COMPRIMENTO:1.000 MM, FORMATO:REDONDO"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12556",
+    "codigo": "483216",
+    "descricao": " TARUGO DE AÇO, MATERIAL:AISI D6 (W-NR-12436 OU VC-131), DIÂMETRO:3 POL, COMPRIMENTO:1.000 MM, FORMATO:REDONDO"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12556",
+    "codigo": "483310",
+    "descricao": " TARUGO DE AÇO, MATERIAL:AÇO VC131, DIÂMETRO:1 POL, COMPRIMENTO:1.000 MM, FORMATO:REDONDO"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "348590",
+    "descricao": " TARUGO METÁLICO, MATERIAL:BRONZE, FORMATO:CILÍNDRICO, DIÂMETRO:3 POL, COMPRIMENTO:4 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "349445",
+    "descricao": " TARUGO METÁLICO, MATERIAL:LATÃO, FORMATO:REDONDO, DIÂMETRO:3/4 POL, COMPRIMENTO:0,50 M"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "349541",
+    "descricao": " TARUGO METÁLICO, MATERIAL:AÇO SAE 1045, FORMATO:CILÍNDRICO, DIÂMETRO:1 POL, COMPRIMENTO:6 M"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "350048",
+    "descricao": " TARUGO METÁLICO, MATERIAL:AÇO INOXIDÁVEL AISI 304, FORMATO:REDONDO, DIÂMETRO:1 1/2 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "350049",
+    "descricao": " TARUGO METÁLICO, MATERIAL:AÇO INOXIDÁVEL AISI 304, FORMATO:REDONDO, DIÂMETRO:1 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "350275",
+    "descricao": " TARUGO METÁLICO, MATERIAL:AÇO INOXIDÁVEL AISI 304, FORMATO:REDONDO, DIÂMETRO:2 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "374923",
+    "descricao": " TARUGO METÁLICO, MATERIAL:LATÃO, FORMATO:SEXTAVADO, DIÂMETRO:1/2 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "432874",
+    "descricao": " TARUGO METÁLICO, MATERIAL:BRONZE, FORMATO:REDONDO, DIÂMETRO:1 3/4 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "432875",
+    "descricao": " TARUGO METÁLICO, MATERIAL:COBRE, FORMATO:REDONDO, DIÂMETRO:1 3/4 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "432878",
+    "descricao": " TARUGO METÁLICO, MATERIAL:COBRE, FORMATO:QUADRADO, COMPRIMENTO:1 3/4 POL, LARGURA:1 3/4 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "449581",
+    "descricao": " TARUGO METÁLICO, MATERIAL:BRONZE FOSFOROSO, FORMATO:REDONDO, DIÂMETRO:4 POL, COMPRIMENTO:101,60 M"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "472861",
+    "descricao": " TARUGO METÁLICO, MATERIAL:BRONZE, FORMATO:REDONDO, DIÂMETRO:1 POL, COMPRIMENTO:500 MM"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "479479",
+    "descricao": " TARUGO METÁLICO, MATERIAL:AÇO INOXIDÁVEL AISI 304, FORMATO:REDONDO, DIÂMETRO:11,4 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "479480",
+    "descricao": " TARUGO METÁLICO, MATERIAL:AÇO INOXIDÁVEL AISI 304, FORMATO:REDONDO, DIÂMETRO:1/2 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "479481",
+    "descricao": " TARUGO METÁLICO, MATERIAL:AÇO INOXIDÁVEL AISI 304, FORMATO:REDONDO, DIÂMETRO:21,2 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "479482",
+    "descricao": " TARUGO METÁLICO, MATERIAL:AÇO INOXIDÁVEL AISI 304, FORMATO:REDONDO, DIÂMETRO:3,16 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "479483",
+    "descricao": " TARUGO METÁLICO, MATERIAL:AÇO INOXIDÁVEL AISI 304, FORMATO:REDONDO, DIÂMETRO:5/16 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "479484",
+    "descricao": " TARUGO METÁLICO, MATERIAL:AÇO INOXIDÁVEL AISI 316L, FORMATO:REDONDO, DIÂMETRO:11,2 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "479485",
+    "descricao": " TARUGO METÁLICO, MATERIAL:AÇO INOXIDÁVEL AISI 316L, FORMATO:REDONDO, DIÂMETRO:2 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "479486",
+    "descricao": " TARUGO METÁLICO, MATERIAL:AÇO INOXIDÁVEL AISI 316L, FORMATO:REDONDO, DIÂMETRO:3 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "479487",
+    "descricao": " TARUGO METÁLICO, MATERIAL:AÇO INOXIDÁVEL AISI 316L, FORMATO:REDONDO, DIÂMETRO:4 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "479488",
+    "descricao": " TARUGO METÁLICO, MATERIAL:AÇO INOXIDÁVEL AISI 316L, FORMATO:REDONDO, DIÂMETRO:6 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "479489",
+    "descricao": " TARUGO METÁLICO, MATERIAL:AÇO INOXIDÁVEL AISI 316L, FORMATO:REDONDO, DIÂMETRO:3 MM"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "479490",
+    "descricao": " TARUGO METÁLICO, MATERIAL:LATÃO, FORMATO:REDONDO, DIÂMETRO:3 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "12559",
+    "codigo": "479491",
+    "descricao": " TARUGO METÁLICO, MATERIAL:LATÃO, FORMATO:REDONDO, DIÂMETRO:4 POL, COMPRIMENTO:1 M"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "252860",
+    "descricao": " TARUGO, MATERIAL:BRONZE, DIÂMETRO:76 MM, FORMATO SEÇÃO:CIRCULAR"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "284546",
+    "descricao": " TARUGO, MATERIAL:LATÃO, FORMATO:REDONDO, DIÂMETRO:1/2 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "284548",
+    "descricao": " TARUGO, MATERIAL:ALUMÍNIO, FORMATO:REDONDO, DIÂMETRO:1/2 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "284550",
+    "descricao": " TARUGO, MATERIAL:ALUMÍNIO, FORMATO:REDONDO, DIÂMETRO:1 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "284554",
+    "descricao": " TARUGO, MATERIAL:PVC, FORMATO:REDONDO, DIÂMETRO:2 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "291673",
+    "descricao": " TARUGO, MATERIAL:ALUMÍNIO, FORMATO:REDONDO, DIÂMETRO:2 POL, COMPRIMENTO:100 CM, APLICAÇÃO:USO LABORATORIAL, NORMAS TÉCNICAS:NBR 5595"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "298651",
+    "descricao": " TARUGO, MATERIAL:ALUMÍNIO, FORMATO:REDONDO, DIÂMETRO:100 MM, COMPRIMENTO:1000 MM, APLICAÇÃO:USINAGEM EM GERAL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "298922",
+    "descricao": " TARUGO, MATERIAL:LATÃO, FORMATO:SEXTAVADO, DIÂMETRO:1/4 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "298923",
+    "descricao": " TARUGO, MATERIAL:LATÃO, FORMATO:SEXTAVADO, DIÂMETRO:1/2 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "298926",
+    "descricao": " TARUGO, MATERIAL:LATÃO, FORMATO:SEXTAVADO, DIÂMETRO:5/8 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "299005",
+    "descricao": " TARUGO, MATERIAL:LATÃO, FORMATO:REDONDO, DIÂMETRO:2 1/2 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "299006",
+    "descricao": " TARUGO, MATERIAL:LATÃO, FORMATO:REDONDO, DIÂMETRO:2 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "326190",
+    "descricao": " TARUGO, MATERIAL:LATÃO, FORMATO:REDONDO, DIÂMETRO:1 1/2 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "326195",
+    "descricao": " TARUGO, MATERIAL:LATÃO, FORMATO:REDONDO, DIÂMETRO:3/8 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "335187",
+    "descricao": " TARUGO, MATERIAL:LATÃO, FORMATO:REDONDO, DIÂMETRO:1/4 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "335188",
+    "descricao": " TARUGO, MATERIAL:LATÃO, FORMATO:REDONDO, DIÂMETRO:5/8 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "335189",
+    "descricao": " TARUGO, MATERIAL:LATÃO, FORMATO:REDONDO, DIÂMETRO:1 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "344872",
+    "descricao": " TARUGO, MATERIAL:POLIETILENO, FORMATO:REDONDO, DIÂMETRO:10 MM, COR:PRETA"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "348677",
+    "descricao": " TARUGO, MATERIAL:AÇO INOXIDÁVEL, FORMATO:REDONDO, DIÂMETRO:3 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "366142",
+    "descricao": " TARUGO, MATERIAL:TEFLON, DIÂMETRO:30 MM, COMPRIMENTO:300 MM, FORMATO SEÇÃO:CILÍNDRICO"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "373235",
+    "descricao": " TARUGO, MATERIAL:TEFLON, FORMATO:REDONDO, DIÂMETRO:130 MM, COMPRIMENTO:1000 MM"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "432879",
+    "descricao": " TARUGO, MATERIAL:LATÃO, FORMATO:REDONDO, DIÂMETRO:1 3/4 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "432880",
+    "descricao": " TARUGO, MATERIAL:LATÃO, FORMATO:QUADRADO, COMPRIMENTO:1 3/4 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "456044",
+    "descricao": " TARUGO, MATERIAL:TEFLON, DIÂMETRO:100 MM, COMPRIMENTO:300 MM, APLICAÇÃO:USINAGEM EM GERAL, FORMATO SEÇÃO:CILÍNDRICO"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "472787",
+    "descricao": " TARUGO, MATERIAL:ALUMÍNIO, FORMATO:REDONDO, DIÂMETRO:2 POL, COMPRIMENTO:1000 MM, APLICAÇÃO:USINAGEM EM GERAL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "472788",
+    "descricao": " TARUGO, MATERIAL:ALUMÍNIO, FORMATO:REDONDO, DIÂMETRO:1 1/2 POL, COMPRIMENTO:1000 MM, APLICAÇÃO:USINAGEM EM GERAL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "472906",
+    "descricao": " TARUGO, MATERIAL:AÇO INOX AISI 304, FORMATO:REDONDO, DIÂMETRO:4 POL"
+  },
+  {
+    "grupo": "96",
+    "classe": "9640",
+    "padrao": "14486",
+    "codigo": "483217",
+    "descricao": " TARUGO, MATERIAL:BRONZE, FORMATO:REDONDO, DIÂMETRO:50 MM, COMPRIMENTO:1000 MM"
+  },
+  {
+    "grupo": "96",
+    "classe": "9650",
+    "padrao": "17839",
+    "codigo": "272776",
+    "descricao": " CINTA ISOLANTE, MATERIAL:ALUMÍNIO, ESPESSURA:0,5 MM, LARGURA:13 MM"
+  },
+  {
+    "grupo": "96",
+    "classe": "9650",
+    "padrao": "17839",
+    "codigo": "294414",
+    "descricao": " CINTA ISOLANTE, MATERIAL:ALUMÍNIO CORRUGADO, ESPESSURA:0,15 MM, LARGURA:910 MM, APLICAÇÃO:ISOLAMENTO TUBULAÇÃO CENTRAL AR CONDICIONADO"
+  },
+  {
+    "grupo": "96",
+    "classe": "9650",
+    "padrao": "17839",
+    "codigo": "294439",
+    "descricao": " CINTA ISOLANTE, MATERIAL:POLIPEX, ESPESSURA:25 MM, LARGURA:1000 MM, APLICAÇÃO:CENTRAL AR CONDICIONADO, USO:ISOLANTE TÉRMICO"
+  }
+]

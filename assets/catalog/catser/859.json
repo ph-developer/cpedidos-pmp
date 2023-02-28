@@ -1,0 +1,992 @@
+[
+  {
+    "grupo": "859",
+    "classe": "'-7",
+    "codigo": "5398",
+    "descricao": "PRESTACAO DE SERVICOS DE INFORMATICA"
+  },
+  {
+    "grupo": "859",
+    "classe": "'-7",
+    "codigo": "13935",
+    "descricao": "DISPONIBILIZACAO DE LINHA PARA COMUNICACAO / TRANSMISSAO  DEDADOS"
+  },
+  {
+    "grupo": "859",
+    "classe": "'-7",
+    "codigo": "14370",
+    "descricao": "GRAFICO - IMPRESSO USO OFICIAL / SEGURANCA"
+  },
+  {
+    "grupo": "859",
+    "classe": "'-7",
+    "codigo": "14389",
+    "descricao": "PRESTACAO DE SERVICOS DE OPERADOR DE CARGA E DESCARGA"
+  },
+  {
+    "grupo": "859",
+    "classe": "'-7",
+    "codigo": "14397",
+    "descricao": "PRESTACAO DE SERVICOS DE COPEIRAGEM"
+  },
+  {
+    "grupo": "859",
+    "classe": "'-7",
+    "codigo": "15270",
+    "descricao": "DESENHO / PRODUCAO - MULTIMIDIA"
+  },
+  {
+    "grupo": "859",
+    "classe": "'-7",
+    "codigo": "15296",
+    "descricao": "PROJETO E MONTAGEM DE ILUMINACAO - RESIDENCIAL / COMERCIAL /ARTISTICA"
+  },
+  {
+    "grupo": "859",
+    "classe": "'-7",
+    "codigo": "16780",
+    "descricao": "INFORMATICA - AUTOMACAO DE ESCRITORIO"
+  },
+  {
+    "grupo": "859",
+    "classe": "'-7",
+    "codigo": "16799",
+    "descricao": "INFORMATICA - ARMAZENAMENTO ELETRONICO DE RELATORIOS / DADOS"
+  },
+  {
+    "grupo": "859",
+    "classe": "'-7",
+    "codigo": "16802",
+    "descricao": "INFORMATICA - LEITURA ELETRONICA DE CARACTERES"
+  },
+  {
+    "grupo": "859",
+    "classe": "'-7",
+    "codigo": "20583",
+    "descricao": "SERVICO AUTOMACAO - CONTROLE ACESSO"
+  },
+  {
+    "grupo": "859",
+    "classe": "'-7",
+    "codigo": "21377",
+    "descricao": "ESTUDO DE PLANTAS"
+  },
+  {
+    "grupo": "859",
+    "classe": "'-7",
+    "codigo": "21946",
+    "descricao": "ALIENACAO DE BENS MOVEIS E IMOVEIS"
+  },
+  {
+    "grupo": "859",
+    "classe": "'-7",
+    "codigo": "24996",
+    "descricao": "SERVICOS ACESSORIOS E COMPLEMENTARES EM ATIVIDADES DE ADMIN ISTRACAO, RECURSOS HUMANOS E RECURSOS FINANCEIROS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8594",
+    "codigo": "12726",
+    "descricao": "ESTAMPARIA DE PECA - ACO INOXIDAVEL / METAIS DIVERSOS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8594",
+    "codigo": "12890",
+    "descricao": "GRAVACAO TIPO DOURACAO / BAIXO RELEVO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8594",
+    "codigo": "16764",
+    "descricao": "IMPRESSAO ELETRONICA - LASER / JATO TINTA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8594",
+    "codigo": "17035",
+    "descricao": "APLICACAO DE ESTAMPAS ( TRANSFER ) LASER"
+  },
+  {
+    "grupo": "859",
+    "classe": "8594",
+    "codigo": "17388",
+    "descricao": "GRAFICO - CONFECCAO DOCUMENTOS OFICIAIS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8594",
+    "codigo": "18716",
+    "descricao": "GRAFICO - CONFECCAO BILHETE MAGNETIZADO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8594",
+    "codigo": "18724",
+    "descricao": "GRAFICO - CONFECCAO SELO / CONVITE / IMPRESSOS / CERTIFICADOENVELOPE"
+  },
+  {
+    "grupo": "859",
+    "classe": "8594",
+    "codigo": "18732",
+    "descricao": "GRAFICO - CONFECCAO CEDULA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8594",
+    "codigo": "19291",
+    "descricao": "MICROFILMAGEM - DUPLICACAO MICROFILME"
+  },
+  {
+    "grupo": "859",
+    "classe": "8594",
+    "codigo": "19658",
+    "descricao": "AUDIOVISUAL - REPRODUCAO / EDICAO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8594",
+    "codigo": "20567",
+    "descricao": "REPRODUCAO / ENCADERNACAO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8594",
+    "codigo": "22438",
+    "descricao": "GRAVACAO EM CHAPAS IMPRESSAO GRAFICA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8594",
+    "codigo": "23140",
+    "descricao": "PRESTACAO DE SERVICO DE REPROGRAFIA ENVOLVENDO EQUIPAMENTO /OPERACAO/SUPRIMENTOS - REPRODUCAO COR PRETA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8594",
+    "codigo": "23159",
+    "descricao": "PRESTACAO DE SERVICO DE REPROGRAFIA ENVOLVENDO EQUIPAMENTO /OPERACAO/SUPRIMENTOS - REPRODUCAO COLORIDA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8594",
+    "codigo": "23167",
+    "descricao": "PRESTACAO DE SERVICO DE REPROGRAFIA - LOCACAO DE EQUIPAMENTOREPRODUCAO COR PRETA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8594",
+    "codigo": "23175",
+    "descricao": "PRESTACAO DE SERVICO DE REPROGRAFIA - LOCACAO DE EQUIPAMENTO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8594",
+    "codigo": "23183",
+    "descricao": "PRESTACAO DE SERVICO DE REPROGRAFIA - OPERACAO DE EQUIPAMEN-TO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8594",
+    "codigo": "24082",
+    "descricao": "PRESTACAO DE SERVICO DE REPROGRAFIA - OUTRAS NECESSIDADES"
+  },
+  {
+    "grupo": "859",
+    "classe": "8594",
+    "codigo": "27600",
+    "descricao": "PRESTACAO DE  SERVICOS DE  IMPRESSAO - GRANDE FORMATO (A0) -ENVOLVENDO EQUIPAMENTO / SUPRIMENTO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8596",
+    "codigo": "19615",
+    "descricao": "INFORMATICA - INSTALACAO / MANUTENCAO COMUNICACAO DADOS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "3956",
+    "descricao": "AGENCIAMENTO MARITIMO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "3964",
+    "descricao": "OPERACAO DE EMBARCACOES"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "3972",
+    "descricao": "LEILOEIROS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "5258",
+    "descricao": "REMOCAO DE CARGA ATE 80T"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "5266",
+    "descricao": "REMOCAO DE CARGA ACIMA DE 80T"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "5363",
+    "descricao": "PRESTACAO DE SERVICOS DE GARCON"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "8672",
+    "descricao": "INSPECAO DE PASSAGEIROS, TRIPULANTES, EMPREGADOS DE AEROPOR-TOS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "8680",
+    "descricao": "INSPECAO DE BAGAGEM / CARGA - PORAO AERONAVE, NAVIO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "8702",
+    "descricao": "PROTECAO, SUPERVISAO E CONTROLE DE CARGA AEREA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "8710",
+    "descricao": "CONTROLE DE ACESSO - AREAS OPERACIONAIS E RESTRITAS DE AERO-PORTOS E TERMINAIS DE CARGA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "8796",
+    "descricao": "PLANEJAMENTO / CONTROLE DE SERVICO MEDICO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "9695",
+    "descricao": "SOLDA - OXIGENIO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "9709",
+    "descricao": "SOLDA - ELETRICA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "9717",
+    "descricao": "TORNO - BARRAMENTO DE 1 A 3 METROS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "9725",
+    "descricao": "FRESA - MORSA 1,20 METRO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "12947",
+    "descricao": "DESMONTAGEM DE ESTRUTURA DE AERONAVE"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "13749",
+    "descricao": "GRAVACAO - DEGRAVACAO - IMAGEM / SOM / DADOS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "13919",
+    "descricao": "COLETA E TRANSPORTE DE DOCUMENTO COMERCIAL / SIGILOSO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "14109",
+    "descricao": "ADMINISTRACAO DE TIQUETE ( TICKET ) / VALE ALIMENTACAO (CAR-TAO ELETRONICO) - SISTEMA CONVENIO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "14222",
+    "descricao": "CLASSIFICACAO DE PRODUTO ( MATERIAL )"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "14230",
+    "descricao": "RADIOCHAMADA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "14486",
+    "descricao": "INFORMATICA - DIGITALIZACAO DE DOCUMENTO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "14516",
+    "descricao": "TESTE DE IMPRESSAO ( PROVA DE PRELO )"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "14591",
+    "descricao": "PROMOCAO DE EVENTO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "14761",
+    "descricao": "INFORMATICA - DIGITACAO DOCUMENTO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "14770",
+    "descricao": "MANIPULACAO DE VALORES / DOCUMENTOS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "14800",
+    "descricao": "CADASTRAMENTO TECNICO DE DADOS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "14907",
+    "descricao": "ALMOXARIFE / CONTROLE DE ESTOQUE"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "15245",
+    "descricao": "COMERCIALIZACAO - AUTOMOVEL / CAMINHAO / UTILITARIO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "15369",
+    "descricao": "INFRA-ESTRUTURA AEROPORTUARIA -  IMPLANTACAO / ADMINISTRACAOAPOIO NAVEGACAO AEREA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "15407",
+    "descricao": "DOCUMENTO - GUARDA / TRANSPORTE"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "15539",
+    "descricao": "HIGIENIZACAO DE DOCUMENTACAO ARQUIVISTICO / ACERVO BIBLIOGRAFICO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "15652",
+    "descricao": "DESENHO TECNICO - CONVENCIONAL"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "16039",
+    "descricao": "VISTORIA / CLASSIFICACAO DE NAVIO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "16160",
+    "descricao": "GUINCHO / REBOQUE"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "16292",
+    "descricao": "ATENDIMENTO AO PUBLICO EM GERAL"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "16438",
+    "descricao": "CHECK - IN / CHECK - OUT DE PASSAGEIRO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "16462",
+    "descricao": "BENEFICIAMENTO DE ARROZ / MATERIA PRIMA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "16551",
+    "descricao": "MARCENEIRO / CARPINTEIRO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "16560",
+    "descricao": "PEDREIRO / AZULEJISTA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "16748",
+    "descricao": "DISTRIBUICAO / ENTREGA DE CONTA - LUZ, TELEFONE, AGUA, GAS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "16756",
+    "descricao": "DISTRIBUICAO DE PANFLETO / PROSPECTO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "17060",
+    "descricao": "MADEIREIRA / SERRARIA / COMERCIO DE MADEIRA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "17167",
+    "descricao": "ARMAZENAMENTO / GUARDA / CONSERVACAO / DISTRIBUICAO - MERCA-DORIA , BENS , ALIMENTO , OBJETOS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "17329",
+    "descricao": "FLORICULTURA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "17337",
+    "descricao": "ENGENHARIA ELETRONICA - PROCESSAMENTO DE SINAIS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "17345",
+    "descricao": "ENGENHARIA ELETRONICA - DESENVOLVIMENTO DE SISTEMAS RESIDEN-TES ( FIRMWARE )"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "17370",
+    "descricao": "DESPACHANTE - MARITIMO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "17493",
+    "descricao": "SOLDA - EXOTERMICA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "17558",
+    "descricao": "AVALIACAO DE MAQUINAS / EQUIPAMENTOS / VEICULOS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "17582",
+    "descricao": "ADMINISTRACAO DE TERMINAL RODOVIARIO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "17647",
+    "descricao": "FISCALIZACAO / MEDICAO DE MIDIA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "17671",
+    "descricao": "PADRONIZACAO DE GRAOS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "17698",
+    "descricao": "MODERADOR PLANEJAMENTO PARTICIPATIVO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "17728",
+    "descricao": "BENEFICIAMENTO DE BORRACHA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "17779",
+    "descricao": "COMISSARIA AEREA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "17787",
+    "descricao": "INDUSTRIALIZACAO / RESTAURACAO PECAS - METAIS PRECIOSOS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "17914",
+    "descricao": "SINALIZACAO VISUAL COMPUTADORIZADA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "17922",
+    "descricao": "AFIACAO DE FERRAMENTA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18007",
+    "descricao": "PRATICAGEM - FLUVIAL / MARITIMA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18015",
+    "descricao": "HIALOTECNIA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18074",
+    "descricao": "AR RESPIRAVEL - TESTE HIDROSTATICO CILINDRO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18082",
+    "descricao": "AR RESPIRAVEL - MANUTENCAO EQUIPAMENTO AUTONOMO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18090",
+    "descricao": "AR RESPIRAVEL - MANUTENCAO SISTEMA DE LINHA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18171",
+    "descricao": "DIAGNOSTICO PARTICIPATIVO - RURAL / URBANO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18279",
+    "descricao": "TRANSITO - REGISTRO / EMPLACAMENTO DE VEICULOS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18295",
+    "descricao": "FRIGOCONSERVACAO - CONGELAMENTO / RECUPERACAO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18317",
+    "descricao": "BENEFICIAMENTO PRODUTO FRIGORIFICADO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18341",
+    "descricao": "OPERACAO DE CALDEIRA / UNIDADES INDUSTRIAIS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18384",
+    "descricao": "TESTES E AVALIACOES EDUCACIONAIS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18546",
+    "descricao": "SERVICO OPTICO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18589",
+    "descricao": "RETIFICA INDUSTRIAL"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18600",
+    "descricao": "COMERCIALIZACAO / DISTRIBUICAO - BILHETE  APURACAO INSTANTA-NEA E SORTEIO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18627",
+    "descricao": "INSTALACAO / MANUTENCAO / EXPANSAO / PROGRAMACAO / LOCACAO  EQUIPAMENTO TELEFONICO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18694",
+    "descricao": "SOLDA PLASTICA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18708",
+    "descricao": "CALDEIRARIA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18759",
+    "descricao": "DOBRA / CORTE LASER - CHAPA METALICA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18775",
+    "descricao": "TRANSCODIFICACAO / RECODIFICACAO / AUDIO / VIDEO / EQUIPAMENTO ELETRONICO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18783",
+    "descricao": "OPERADOR MAQUINA  - MOVIMENTACAO CARGA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18805",
+    "descricao": "TORREFACAO / MOAGEM - CAFE"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "18848",
+    "descricao": "CONSIGNACOES"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "19003",
+    "descricao": "ESCRITORIO VIRTUAL"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "19011",
+    "descricao": "TRATAMENTO TERMICO PECA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "19046",
+    "descricao": "MANUTENCAO / ADMINISTRACAO / GUARDA DE BENS / INSTALACOES MARITIMAS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "19097",
+    "descricao": "FONTES REFERENCIA - FORNECIMENTO / CALIBRACAO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "19135",
+    "descricao": "CAPTURA - ANIMAL / AVE"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "19208",
+    "descricao": "ADMINISTRACAO / DISTRIBUICAO - CARTAO MAGNETICO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "19666",
+    "descricao": "DISTRIBUICAO / ENTREGA -DOCUMENTO / JORNAL / REVISTA / LIVRO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "19712",
+    "descricao": "CARGA / MATERIAL - CONTROLE E MANUSEIO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "19801",
+    "descricao": "MICROFILMAGEM - PESQUISA / EMISSAO COPIA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "19984",
+    "descricao": "ATENDIMENTO TECNICO - USUARIO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "20150",
+    "descricao": "MICRONIZACAO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "20168",
+    "descricao": "INVENTARIO / CATALOGACAO - BENS MOVEIS / IMOVEIS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "20249",
+    "descricao": "ADMINISTRACAO PRESIDIO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "20257",
+    "descricao": "INCINERACAO SELO CONTROLE"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "20346",
+    "descricao": "TRATAMENTO DOCUMENTO - CAIXA RAPIDO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "20370",
+    "descricao": "REVESTIMENTO EXTERNO - MANGUEIRA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "20389",
+    "descricao": "INSPECAO / REPARO / RECLASSIFICACAO - ANCORAS  /  AMARRAS  /ACESSORIOS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "20427",
+    "descricao": "MONTAGEM DE MUNICAO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "20435",
+    "descricao": "RECUPERACAO EMBALAGEM DE MUNICAO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "20443",
+    "descricao": "ENCUNHAMENTO DE MUNICAO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "20486",
+    "descricao": "MONTAGEM PLACA CIRCUITO IMPRESSO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "20680",
+    "descricao": "DESCUPINIZACAO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "20699",
+    "descricao": "ESPANTAMENTO AVES"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "20893",
+    "descricao": "ABASTECIMENTO TERMINAL AUTO-ATENDIMENTO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "20966",
+    "descricao": "PRESTACAO DE SERVICOS DE MOTOCICLISTA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "21032",
+    "descricao": "PRESTACAO DE SERVICOS DE OPERACAO SISTEMA /  EQUIPAMENTOS  /MAQUINAS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "21091",
+    "descricao": "ELABORACAO MANUAL"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "21253",
+    "descricao": "SERVICO CHANCELA/NUMERACAO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "21261",
+    "descricao": "CASA LOTERICA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "21318",
+    "descricao": "DEPURACAO CONTRATO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "21326",
+    "descricao": "EXECUCAO EXTRAJUDICIAL CONTRATO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "21415",
+    "descricao": "LABORATORIO - REBENEFICIAMENTO MATERIAL"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "21440",
+    "descricao": "EFEITO SONORO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "21610",
+    "descricao": "INSTALACAO BLOQUEADOR - LIGACAO TELEFONICA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "21636",
+    "descricao": "DESMONTAGEM EQUIPAMENTO RAIO - X"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "21725",
+    "descricao": "DESENVOLVIMENTO TECNOLOGICO EQUIPAMENTO COMBUSTAO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "21865",
+    "descricao": "AUXILIO_GAS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "22250",
+    "descricao": "REVISAO VEICULO - QUILOMETRAGEM"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "22918",
+    "descricao": "COOPERACAO / CONVENIOS / CONTRATOS - AREA NACIONAL E INTERNACIONAL"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "23990",
+    "descricao": "PRESTACAO DE SERVICOS DE INFORMÁTICA OPERAÇÃO DE COMPUTADOR"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "24392",
+    "descricao": "SERVICOS DE PRODUCAO E NEGOCIOS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "24457",
+    "descricao": "ANALISE / IDENTIFICACAO / CLASSIFICACAO DE PRAGAS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "24872",
+    "descricao": "PRESTACAO DE SERVICOS DE SINALEIRO FERROVIARIO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "24945",
+    "descricao": "REGENERACAO DE RESINA"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "24961",
+    "descricao": "CONTROLE DE ACESSO - BILHETEIRO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "25259",
+    "descricao": "REMANEJAMENTO DE EQUIPAMENTO / MOBILIARIO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "25330",
+    "descricao": "DIAGRAMACAO ELETRONICA E PROJETO GRAFICO"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "25372",
+    "descricao": "CONTROLE DE ABASTECIMENTO DE VEICULOS"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "25623",
+    "descricao": "PRESTACAO SERVICO SUPERVISOR DE PESSOAL"
+  },
+  {
+    "grupo": "859",
+    "classe": "8599",
+    "codigo": "25631",
+    "descricao": "AUXILIAR DE SERVICOS TECNICOS"
+  }
+]

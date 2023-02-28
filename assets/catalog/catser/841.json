@@ -1,0 +1,86 @@
+[
+  {
+    "grupo": "841",
+    "classe": "'-7",
+    "codigo": "4251",
+    "descricao": "COMUNICACAO TELEFONICA - LOCACAO / SERVICO"
+  },
+  {
+    "grupo": "841",
+    "classe": "'-7",
+    "codigo": "4260",
+    "descricao": "COMUNICACAO - TELEX / TELEGRAFO"
+  },
+  {
+    "grupo": "841",
+    "classe": "'-7",
+    "codigo": "4278",
+    "descricao": "COMUNICACAO POR FAC-SIMILE"
+  },
+  {
+    "grupo": "841",
+    "classe": "'-7",
+    "codigo": "4332",
+    "descricao": "DIVULGACAO ESCRITA"
+  },
+  {
+    "grupo": "841",
+    "classe": "'-7",
+    "codigo": "4340",
+    "descricao": "DIVULGACAO FALADA"
+  },
+  {
+    "grupo": "841",
+    "classe": "'-7",
+    "codigo": "4359",
+    "descricao": "DIVULGACAO TELEVISADA"
+  },
+  {
+    "grupo": "841",
+    "classe": "'-7",
+    "codigo": "18139",
+    "descricao": "TELEFONIA - CONVENCIONAL / CELULAR"
+  },
+  {
+    "grupo": "841",
+    "classe": "'-7",
+    "codigo": "20206",
+    "descricao": "SISTEMA LINHA DEDICADA DIGITAL / ANALOGICA"
+  },
+  {
+    "grupo": "841",
+    "classe": "'-7",
+    "codigo": "20354",
+    "descricao": "SERVICO TELEFONIA VIA SATELITE"
+  },
+  {
+    "grupo": "841",
+    "classe": "'-7",
+    "codigo": "22365",
+    "descricao": "SERVICOS DE TELECOMUNICACOES"
+  },
+  {
+    "grupo": "841",
+    "classe": "'-7",
+    "codigo": "23051",
+    "descricao": "FORNECIMENTO CARTAO / CREDITO TELEFONE CELULAR"
+  },
+  {
+    "grupo": "841",
+    "classe": "'-7",
+    "codigo": "24783",
+    "descricao": "IMPLANTACAO / REMANEJAMENTO / INFOVIA / FIBRA OPTICA"
+  },
+  {
+    "grupo": "841",
+    "classe": "'-7",
+    "codigo": "25739",
+    "descricao": "PRESTACAO DE SERVICOS DE TECNICO DE TELECOMUNICACOES"
+  },
+  {
+    "grupo": "841",
+    "classe": "8414",
+    "codigo": "25755",
+    "descricao": "CESSAO USO INFRAESTRUTURA REDE AEREA / SUBTERRANEA"
+  }
+]

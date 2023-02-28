@@ -1,0 +1,68 @@
+[
+  {
+    "grupo": "142",
+    "classe": "1421",
+    "codigo": "25135",
+    "descricao": "SERVICO REDE COMUNICACAO DADOS E IMAGEM"
+  },
+  {
+    "grupo": "142",
+    "classe": "1421",
+    "codigo": "26476",
+    "descricao": "TRAFEGO DE DADOS VIA CABO"
+  },
+  {
+    "grupo": "142",
+    "classe": "1421",
+    "codigo": "26484",
+    "descricao": "ACESSO A INTERNET VIA CABO"
+  },
+  {
+    "grupo": "142",
+    "classe": "1421",
+    "codigo": "26492",
+    "descricao": "INFOVIA BRASILIA"
+  },
+  {
+    "grupo": "142",
+    "classe": "1421",
+    "codigo": "26506",
+    "descricao": "SERVICO DE LINK VIA CABO"
+  },
+  {
+    "grupo": "142",
+    "classe": "1422",
+    "codigo": "26514",
+    "descricao": "TRAFEGO DE DADOS VIA RADIO"
+  },
+  {
+    "grupo": "142",
+    "classe": "1422",
+    "codigo": "26522",
+    "descricao": "ACESSO A INTERNET VIA RADIO"
+  },
+  {
+    "grupo": "142",
+    "classe": "1422",
+    "codigo": "26530",
+    "descricao": "ASSINATURA DO SERVICO DE LINK VIA RADIO"
+  },
+  {
+    "grupo": "142",
+    "classe": "1423",
+    "codigo": "26549",
+    "descricao": "TRAFEGO DE DADOS VIA SATELITE"
+  },
+  {
+    "grupo": "142",
+    "classe": "1423",
+    "codigo": "26557",
+    "descricao": "ACESSO A INTERNET VIA SATELITE"
+  },
+  {
+    "grupo": "142",
+    "classe": "1423",
+    "codigo": "26565",
+    "descricao": "ASSINATURA DO SERVICO DE LINK VIA SATELITE"
+  }
+]

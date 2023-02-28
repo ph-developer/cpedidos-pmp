@@ -1,0 +1,32 @@
+[
+  {
+    "grupo": "166",
+    "classe": "1661",
+    "codigo": "27103",
+    "descricao": "SERVICOS DE MANUTENCAO E REPARACAO DE COMPUTADORES E SEUS PERIFERICOS"
+  },
+  {
+    "grupo": "166",
+    "classe": "1661",
+    "codigo": "27111",
+    "descricao": "SERVICOS DE INSTALACAO DE COMPUTADORES E SEUS PERIFERICOS"
+  },
+  {
+    "grupo": "166",
+    "classe": "1661",
+    "codigo": "27120",
+    "descricao": "SERVICOS DE MANUTENCAO DE  EQUIPAMENTOS DE COMUNICACAO DE DADOS E COMUTACAO TELEFONICA"
+  },
+  {
+    "grupo": "166",
+    "classe": "1661",
+    "codigo": "27138",
+    "descricao": "SERVICOS DE MANUTENCAO DE IMPRESSORAS, COPIADORAS, PLOTTER E SCANNERS"
+  },
+  {
+    "grupo": "166",
+    "classe": "1661",
+    "codigo": "27740",
+    "descricao": "SERVICOS DE GARANTIA DE EQUIPAMENTOS DE TIC"
+  }
+]

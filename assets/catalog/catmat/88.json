@@ -1,0 +1,674 @@
+[
+  {
+    "grupo": "88",
+    "classe": "8810",
+    "padrao": "13984",
+    "codigo": "253834",
+    "descricao": " PINTO CORTE, RAÇA:COOB, IDADE:1 D"
+  },
+  {
+    "grupo": "88",
+    "classe": "8810",
+    "padrao": "13984",
+    "codigo": "270737",
+    "descricao": " PINTO CORTE, RAÇA:PARAÍSO PEDRÊS, IDADE:1 D"
+  },
+  {
+    "grupo": "88",
+    "classe": "8810",
+    "padrao": "13984",
+    "codigo": "293730",
+    "descricao": " PINTO CORTE, RAÇA:HUBBARD / COBB / ROSS / AVIAN FARMSSEXADOS, IDADE:1 D, CARACTERÍSTICAS ADICIONAIS:MACHO OU MISTO"
+  },
+  {
+    "grupo": "88",
+    "classe": "8810",
+    "padrao": "13984",
+    "codigo": "322163",
+    "descricao": " PINTO CORTE, RAÇA:CAIPIRÃO, IDADE:1 D, CARACTERÍSTICAS ADICIONAIS:MISTO"
+  },
+  {
+    "grupo": "88",
+    "classe": "8810",
+    "padrao": "13984",
+    "codigo": "369096",
+    "descricao": " PINTO CORTE, RAÇA:CAIPIRA LOBEL ROUGE"
+  },
+  {
+    "grupo": "88",
+    "classe": "8810",
+    "padrao": "13984",
+    "codigo": "456575",
+    "descricao": " PINTO CORTE, RAÇA:CAIPIRA/COLONIAL, IDADE:1 D, CARACTERÍSTICAS ADICIONAIS:MISTO/PESADÃO"
+  },
+  {
+    "grupo": "88",
+    "classe": "8810",
+    "padrao": "13984",
+    "codigo": "456576",
+    "descricao": " PINTO CORTE, RAÇA:CAIPIRA/COLONIAL, IDADE:1 D, CARACTERÍSTICAS ADICIONAIS:MISTO/CARIJÓ"
+  },
+  {
+    "grupo": "88",
+    "classe": "8810",
+    "padrao": "13984",
+    "codigo": "456577",
+    "descricao": " PINTO CORTE, RAÇA:CAIPIRA/COLONIAL, IDADE:1 D, CARACTERÍSTICAS ADICIONAIS:MISTO/PESCOÇO PELADO"
+  },
+  {
+    "grupo": "88",
+    "classe": "8810",
+    "padrao": "13984",
+    "codigo": "456578",
+    "descricao": " PINTO CORTE, RAÇA:CAIPIRA/COLONIAL, IDADE:1 D, CARACTERÍSTICAS ADICIONAIS:MISTO/PESCOÇO PELADO CARIJÓ"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2524",
+    "codigo": "248294",
+    "descricao": " ANIMAL LABORATÓRIO, ESPÉCIE ANIMAL:RATO E CAMUNDONGO, APLICAÇÃO:TESTE EM LABORATÓRIO E PROJETO DE PESQUISA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2524",
+    "codigo": "257791",
+    "descricao": " ANIMAL LABORATÓRIO, ESPÉCIE ANIMAL:SUÍNO, APLICAÇÃO:TESTE EM LABORATÓRIO E PROJETO DE PESQUISA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2524",
+    "codigo": "378561",
+    "descricao": " ANIMAL LABORATÓRIO, ESPÉCIE ANIMAL:COELHO"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2524",
+    "codigo": "456418",
+    "descricao": " ANIMAL LABORATÓRIO, ESPÉCIE ANIMAL:RATO (FÊMEA), LINHAGEM:WISTAR, HETEROGÊNICO (OUTBRED), CARACTERÍSTICAS ADICIONAIS:COR: BRANCO; PELAGEM NORMAL"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2524",
+    "codigo": "456419",
+    "descricao": " ANIMAL LABORATÓRIO, ESPÉCIE ANIMAL:RATO (MACHO), LINHAGEM:WISTAR, HETEROGÊNICO (OUTBRED), CARACTERÍSTICAS ADICIONAIS:COR: BRANCO; PELAGEM NORMAL"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2524",
+    "codigo": "460927",
+    "descricao": " ANIMAL LABORATÓRIO, ESPÉCIE ANIMAL:VICUGNA PACOS, LINHAGEM:CAMELIDEOS"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2524",
+    "codigo": "460928",
+    "descricao": " ANIMAL LABORATÓRIO, ESPÉCIE ANIMAL:LAMA GLAMA, LINHAGEM:CAMELIDEOS"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "234795",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:CAPRINO, RAÇA:ALPINA, IDADE:6 MESES, CARACTERÍSTICAS ADICIONAIS:REGISTRADO, PELAGEM:CHANOISSE"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "252030",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:LEPORÍDEOS, RAÇA:COELHO, IDADE:2 MESES, CARACTERÍSTICAS ADICIONAIS:NOVA ZELANDIA, GIGANTE, BOUSCART COLIFORNIA, PELAGEM:BRANCA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "252097",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:LEPORÍDEOS, RAÇA:COELHO, IDADE:4 A 6 MESES, CARACTERÍSTICAS ADICIONAIS:NOVA ZELANDIA, GIGANTE, BOUSCART COLIFORNIA, PELAGEM:BRANCA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "254439",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:OVINO, RAÇA:SANTA INÊS, IDADE:4 MESES, CARACTERÍSTICAS ADICIONAIS:SEM REGISTRO"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "258642",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNO, FÊMEA, RAÇA:DUROC, IDADE:4 A 12 MESES, CARACTERÍSTICAS ADICIONAIS:SEM REGISTRO"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "260115",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNA, RAÇA:LARGE WHITE, PESO:80 A 100 KG, APLICAÇÃO:ZOOTÉCNICA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "260116",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNO, FÊMEA, RAÇA:LANDRACE, PESO:80 A 100 KG, APLICAÇÃO:ZOOTÉCNICA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "274362",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNO, MACHO, RAÇA:AGPIC-409"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "274773",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:CAPRINO, RAÇA:SAANE, IDADE:4 A 6 MESES"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "276542",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:OVINO, RAÇA:MESTIÇO, IDADE:4 A 12 MESES, CARACTERÍSTICAS ADICIONAIS:SEM REGISTRO"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "276547",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNO, MACHO, RAÇA:PIETRAIN, IDADE:APROXIMADAMENTE 5 MESES, PESO:90 A 100 KG"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "283841",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:PEIXE, CARACTERÍSTICAS ADICIONAIS:ORNAMENTAL, APLICAÇÃO:PESQUISA, TIPO:GAROUPA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "287692",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNA, RAÇA:CAMBOROUGH 23, IDADE:APROXIMADAMENTE 5 MESES, CARACTERÍSTICAS ADICIONAIS:FÊMEA, PELAGEM:BRANCA, PESO:90 A 100 KG, APLICAÇÃO:ZOOTÉCNICA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "289016",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNA, CARACTERÍSTICAS ADICIONAIS:REPRODUTOR HÍBRIDO CP 800, PESO:80 A 100 KG, APLICAÇÃO:ZOOTÉCNICA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "293910",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNA, RAÇA:LARGE WHITE, IDADE:5 A 6 MESES, CARACTERÍSTICAS ADICIONAIS:FÊMEA, CERTIFICADO DE REGISTRO GENELÓGICO"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "297400",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:OVINO, RAÇA:SANTA INÊS, IDADE:6 A 10 MESES, CARACTERÍSTICAS ADICIONAIS:REGISTRADO, LINHAGEM:PO (PURO DE ORIGEM), APLICAÇÃO:REPRODUTOR"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "297401",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:OVINO, RAÇA:SANTA INÊS, IDADE:6 A 10 MESES, CARACTERÍSTICAS ADICIONAIS:REGISTRADO, LINHAGEM:PO (PURO DE ORIGEM), APLICAÇÃO:MATRIZ"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "318007",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:BOVINO, RAÇA:NELORE P.O, IDADE:18 A 24 MESES"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "327169",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:AVE, IDADE:1 D, CARACTERÍSTICAS ADICIONAIS:PINTINHA DE POSTURA, GRANJA, PELAGEM:BRANCA, APLICAÇÃO:AVICULTURA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "327170",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:AVE, IDADE:30 D, CARACTERÍSTICAS ADICIONAIS:CODORNA DE POSTURA, MACHO OU FÊMEA, APLICAÇÃO:ZOOTÉCNICA, USO:ALIMENTAÇÃO HUMANA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "346057",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:AVES DE CORTE, CARACTERÍSTICAS ADICIONAIS:PENA BRANCA, APLICAÇÃO:ABATE"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "361250",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:MINHOCA, RAÇA:VERMELHA DA CALIFÓRNIA, CARACTERÍSTICAS ADICIONAIS:\"EISENIA ANDREI\", APLICAÇÃO:PRODUÇÃO HUMUS"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "364206",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:GALINHA POEDEIRA, RAÇA:LAPEL RUGE, CARACTERÍSTICAS ADICIONAIS:INICIO DE POSTURA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "364209",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:GALO, RAÇA:LAPEL RUGE, APLICAÇÃO:REPRODUTOR"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "431289",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:CAPRINO, RAÇA:SAANE, IDADE:8 A 9 MESES, CARACTERÍSTICAS ADICIONAIS:FÊMEA, PESO:ACIMA DE 40 KG"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "451522",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:AVE, RAÇA:CARIJÓ, IDADE:1 D, CARACTERÍSTICAS ADICIONAIS:PINTO SEMI CAIPIRA, APLICAÇÃO:AVICULTURA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "451523",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:AVE, IDADE:1 D, CARACTERÍSTICAS ADICIONAIS:PINTINHA DE POSTURA, GRANJA, LINHAGEM:HISEX, APLICAÇÃO:AVICULTURA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "453003",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:CAPRINO, RAÇA:SAANEN, IDADE:12 A 24 MESES, CARACTERÍSTICAS ADICIONAIS:MACHO REPRODUTOR"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "453004",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:AVE, RAÇA:COTURNIX JAPÔNICA, IDADE:35 DIAS, CARACTERÍSTICAS ADICIONAIS:CODORNA FÊMEA, APLICAÇÃO:PESQUISA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "453005",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:LEPORÍDEOS, RAÇA:COELHO, IDADE:4 A 5 MESES, CARACTERÍSTICAS ADICIONAIS:CHINCHILA, FÊMEA, PESO:APROX. 3,5 KG, APLICAÇÃO:PESQUISA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "453006",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:LEPORÍDEOS, RAÇA:COELHO, IDADE:4 A 5 MESES, CARACTERÍSTICAS ADICIONAIS:CHINCHILA, MACHO, PESO:APROX. 3,5 KG, APLICAÇÃO:PESQUISA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "453007",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:LEPORÍDEOS, RAÇA:COELHO, IDADE:4 MESES, CARACTERÍSTICAS ADICIONAIS:FÊMEA, PESO:APROX. 4,5 KG, APLICAÇÃO:PESQUISA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "453008",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:LEPORÍDEOS, RAÇA:COELHO, IDADE:4 MESES, CARACTERÍSTICAS ADICIONAIS:MACHO, PESO:APROX. 4,5 KG, APLICAÇÃO:PESQUISA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "453009",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:AVE, IDADE:112 A 120 DIAS, CARACTERÍSTICAS ADICIONAIS:PINTINHA DE POSTURA, GRANJA, APLICAÇÃO:PESQUISA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "453011",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:GALINHA POEDEIRA, RAÇA:HY-LINE BROWN, IDADE:110 A 120 DIAS, APLICAÇÃO:PESQUISA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "453012",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:OVINO, RAÇA:DORPER, IDADE:7 A 24 MESES, CARACTERÍSTICAS ADICIONAIS:FÊMEA REPRODUTORA, APLICAÇÃO:PESQUISA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "453013",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:OVINO, RAÇA:DORPER, IDADE:12 A 24 MESES, CARACTERÍSTICAS ADICIONAIS:MACHO REPRODUTOR, APLICAÇÃO:PESQUISA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "453014",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:AVE, IDADE:1 D, CARACTERÍSTICAS ADICIONAIS:PINTO PARA CORTE, APLICAÇÃO:PESQUISA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "453015",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:AVE, RAÇA:CAIPIRA, IDADE:1 D, CARACTERÍSTICAS ADICIONAIS:PINTO MACHO, LINHAGEM:REDBRO PLUMÉ, APLICAÇÃO:PESQUISA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "453016",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNO, FÊMEA, RAÇA:DUROC, IDADE:6 A 8 MESES, CARACTERÍSTICAS ADICIONAIS:REGISTRADO, PESO:90 A 120 KG, APLICAÇÃO:PESQUISA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "453017",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNO, FÊMEA, RAÇA:PIETRAIN, IDADE:6 A 8 MESES, CARACTERÍSTICAS ADICIONAIS:REGISTRADO, PESO:90 A 120 KG, APLICAÇÃO:PESQUISA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "453018",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNO, MACHO, RAÇA:DUROC, IDADE:6 A 8 MESES, CARACTERÍSTICAS ADICIONAIS:MACHO REPRODUTOR, PESO:90 A 120 KG, APLICAÇÃO:PESQUISA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "453019",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNO, MACHO, RAÇA:LANDRACE, IDADE:6 A 8 MESES, CARACTERÍSTICAS ADICIONAIS:MACHO REPRODUTOR, PESO:90 A 120 KG, APLICAÇÃO:PESQUISA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "453021",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNO, MACHO, RAÇA:LARGE WHITE, IDADE:6 A 8 MESES, CARACTERÍSTICAS ADICIONAIS:MACHO REPRODUTOR, PESO:90 A 120 KG, APLICAÇÃO:PESQUISA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "453022",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNO, MACHO, RAÇA:PIETRAIN, IDADE:6 A 8 MESES, CARACTERÍSTICAS ADICIONAIS:MACHO REPRODUTOR, PESO:90 A 120 KG, APLICAÇÃO:PESQUISA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "453024",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNO, FÊMEA, RAÇA:LANDRACE, IDADE:6 A 8 MESES, CARACTERÍSTICAS ADICIONAIS:REGISTRADO, PESO:90 A 120 KG, APLICAÇÃO:PESQUISA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "453026",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNO, FÊMEA, RAÇA:LARGE WHITE, IDADE:6 A 8 MESES, CARACTERÍSTICAS ADICIONAIS:REGISTRADO, PESO:90 A 120 KG, APLICAÇÃO:PESQUISA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "453246",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:AVES DE CORTE, RAÇA:COMUM, IDADE:40 A 45 DIAS, CARACTERÍSTICAS ADICIONAIS:GALINHA, APLICAÇÃO:ABATE"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "458085",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNO, FÊMEA, RAÇA:DUROC, IDADE:5 A 6 MESES, CARACTERÍSTICAS ADICIONAIS:MINIMO DE 7 PARES DE TETOS FUNCIONAIS, PESO:90 A 100 KG, APLICAÇÃO:REPRODUTOR"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "458086",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNO, MACHO, RAÇA:DUROC, IDADE:6 A 7 MESES, CARACTERÍSTICAS ADICIONAIS:7 PARES DE TETOS E TESTÍCULOS SIMÉTRICOS E PROPORC, PESO:120 A 140 KG, APLICAÇÃO:REPRODUTOR"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "458087",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNO, MACHO, RAÇA:LARGE WHITE, IDADE:6 A 7 MESES, CARACTERÍSTICAS ADICIONAIS:7 PARES DE TETOS E TESTÍCULOS SIMÉTRICOS E PROPORC, PESO:120 A 140 KG, APLICAÇÃO:REPRODUTOR"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "458088",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNO, FÊMEA, RAÇA:PIETRAIN, IDADE:6 A 8 MESES, CARACTERÍSTICAS ADICIONAIS:MINIMO DE 7 PARES DE TETOS FUNCIONAIS, PESO:90 A 100 KG, APLICAÇÃO:REPRODUTOR"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "458089",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNO, MACHO, RAÇA:PIETRAIN, IDADE:6 A 7 MESES, CARACTERÍSTICAS ADICIONAIS:7 PARES DE TETOS E TESTÍCULOS SIMÉTRICOS E PROPORC, PESO:120 A 140 KG, APLICAÇÃO:REPRODUTOR"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "458090",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNO, FÊMEA, RAÇA:PIETRAIN, IDADE:5 A 6 MESES, CARACTERÍSTICAS ADICIONAIS:MINIMO DE 7 PARES DE TETOS FUNCIONAIS, PESO:90 A 100 KG, APLICAÇÃO:REPRODUTOR"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "458091",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNO, MACHO, RAÇA:LANDRACE, IDADE:5 A 6 MESES, CARACTERÍSTICAS ADICIONAIS:MINIMO DE 7 PARES DE TETOS FUNCIONAIS, PESO:90 A 100 KG, APLICAÇÃO:REPRODUTOR"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "458093",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNO, FÊMEA, RAÇA:MEIO-SANGUE F1 DE LARGE WHITE X LANDRACE, IDADE:5 A 6 MESES, CARACTERÍSTICAS ADICIONAIS:MINIMO DE 7 PARES DE TETOS FUNCIONAIS, PESO:90 A 100 KG, APLICAÇÃO:REPRODUTOR"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "458094",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:CAPRINO, MACHO, RAÇA:BOER, IDADE:12 A 24 MESES, CARACTERÍSTICAS ADICIONAIS:REGISTRADO, LINHAGEM:PO (PURO DE ORIGEM), APLICAÇÃO:REPRODUTOR"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "458095",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:CAPRINO, FÊMEA, RAÇA:BOER, IDADE:7 A 14 MESES, CARACTERÍSTICAS ADICIONAIS:REGISTRADO, LINHAGEM:PO (PURO DE ORIGEM), APLICAÇÃO:REPRODUTOR"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "458096",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:OVINO, RAÇA:DORPER, IDADE:12 A 15 MESES, CARACTERÍSTICAS ADICIONAIS:MACHO CASTRADO, VACINADO, LINHAGEM:MOCHOS, PESO:40 KG"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "458099",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:GALINHA POEDEIRA, IDADE:100 DIAS, CARACTERÍSTICAS ADICIONAIS:ATESTADO DE VACINAÇÃO E EXAMES CONFORME CATÁLOGO T, LINHAGEM:SEMIPESADA (BROWN), APLICAÇÃO:AVICULTURA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "466011",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:CAPRINO, RAÇA:TOGGENBURG, IDADE:12 A 24 MESES, CARACTERÍSTICAS ADICIONAIS:COMPROVAÇÃO ATESTADA POR REGISTRO GENEALÓGICO DEFI, LINHAGEM:PO (PURO DE ORIGEM), APLICAÇÃO:REPRODUTOR"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "478575",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:CANINA, RAÇA:PASTOR BELGA MALINOIS, IDADE:4 A 6 MESES, CARACTERÍSTICAS ADICIONAIS:FÊMEA, COM PEDIGREE, VACINADO, APLICAÇÃO:TRABALHO POLICIAL"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "478576",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:CANINA, RAÇA:PASTOR BELGA MALINOIS, IDADE:4 A 6 MESES, CARACTERÍSTICAS ADICIONAIS:MACHO, COM PEDIGREE, VACINADO, APLICAÇÃO:TRABALHO POLICIAL"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "478586",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:CANINA, RAÇA:PASTOR BELGA MALINOIS, IDADE:2 A 6 MESES, CARACTERÍSTICAS ADICIONAIS:FÊMEA, ATESTADO DE VACINAÇÃO E EXAMES CONFORME CAT, APLICAÇÃO:MATRIZ"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "478587",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:CANINA, RAÇA:PASTOR ALEMÃO, IDADE:2 A 6 MESES, CARACTERÍSTICAS ADICIONAIS:FÊMEA, ATESTADO DE VACINAÇÃO E EXAMES CONFORME CAT, APLICAÇÃO:MATRIZ"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "478588",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:CANINA, RAÇA:ROTTWEILER, IDADE:2 A 6 MESES, CARACTERÍSTICAS ADICIONAIS:FÊMEA, ATESTADO DE VACINAÇÃO E EXAMES CONFORME CAT, APLICAÇÃO:MATRIZ"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "479084",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:CANINA, IDADE:9 A 24 MESES, APLICAÇÃO:TRABALHO POLICIAL"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "480900",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:EQUINO, IDADE:3 A 8 ANOS, APLICAÇÃO:INSTRUÇÃO MILITAR"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "480905",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:CAPRINO, RAÇA:KALAHARI, IDADE:12 A 24 MESES, CARACTERÍSTICAS ADICIONAIS:MACHO REPRODUTOR"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "480906",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:CAPRINO, RAÇA:SAVANA, IDADE:12 A 24 MESES, CARACTERÍSTICAS ADICIONAIS:MACHO REPRODUTOR"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "480908",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:CAPRINO, RAÇA:ANGLO NUBIANO, IDADE:12 A 24 MESES, CARACTERÍSTICAS ADICIONAIS:MACHO REPRODUTOR"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "603255",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:CAPRINO, FÊMEA, RAÇA:PARDA ALPINA, IDADE:8 A 12 MESES, LINHAGEM:PO (PURO DE ORIGEM), APLICAÇÃO:ZOOTÉCNICA"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "603256",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:CAPRINO, MACHO, RAÇA:PARDA ALPINA, IDADE:12 A 24 MESES, LINHAGEM:PO (PURO DE ORIGEM), APLICAÇÃO:REPRODUTOR"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "603258",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:CAPRINO, FÊMEA, RAÇA:ANGLO NUBIANO, IDADE:8 A 12 MESES, LINHAGEM:PO (PURO DE ORIGEM), APLICAÇÃO:ZOOTÉCNICA (A43293)"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "2529",
+    "codigo": "603451",
+    "descricao": " ANIMAL VIVO, ESPÉCIE:SUÍNA, RAÇA:LANDRACE, IDADE:5 A 6 MESES, CARACTERÍSTICAS ADICIONAIS:MINIMO DE 7 PARES DE TETOS FUNCIONAIS, PESO:90 A 100 KG, APLICAÇÃO:REPRODUTOR"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "14319",
+    "codigo": "231399",
+    "descricao": " ALEVINO, ESPÉCIE:TILÁPIA TAILANDESA, TIPO:FILHO DE MATRIZ, DE 1ª GERAÇÃO, IDADE:ATÉ 30 DIAS, FINALIDADE:FORMAÇÃO DE PLANTEL DE MATRIZES REPRODUTORAS"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "14319",
+    "codigo": "282045",
+    "descricao": " ALEVINO, ESPÉCIE:TAMBACÚ, IDADE:ATÉ 30 DIAS, APLICAÇÃO:CORTE E PESQUISA, CARACTERÍSTICAS ADICIONAIS:NÚMERO 3"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "14319",
+    "codigo": "282046",
+    "descricao": " ALEVINO, ESPÉCIE:TAMBAQUI, IDADE:ATÉ 30 DIAS, APLICAÇÃO:CORTE E PESQUISA, CARACTERÍSTICAS ADICIONAIS:NÚMERO 3"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "14319",
+    "codigo": "316330",
+    "descricao": " ALEVINO, ESPÉCIE:PIAUAÇU, IDADE:ATÉ 30 DIAS, APLICAÇÃO:CORTE E PESQUISA, CARACTERÍSTICAS ADICIONAIS:4 A 6CM DE COMPRIMENTO"
+  },
+  {
+    "grupo": "88",
+    "classe": "8820",
+    "padrao": "16411",
+    "codigo": "265450",
+    "descricao": " CARCAÇA ANIMAL, ESPÉCIE:SUÍNA, APRESENTAÇÃO:RESFRIADA, APLICAÇÃO:AGROINDÚSTRIA, FABRICAÇÃO DE EMBUTIDOS E DEFUMADOS"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "grupo": "711",
+    "classe": "'-7",
+    "codigo": "5525",
+    "descricao": "CAMBIO - MOEDA ESTRANGEIRA"
+  },
+  {
+    "grupo": "711",
+    "classe": "'-7",
+    "codigo": "16195",
+    "descricao": "RECOLHIMENTO DE TAXA / IMPOSTO / MULTA"
+  },
+  {
+    "grupo": "711",
+    "classe": "'-7",
+    "codigo": "18368",
+    "descricao": "ADMINISTRACAO / OPERACAO - PEDAGIO"
+  },
+  {
+    "grupo": "711",
+    "classe": "'-7",
+    "codigo": "18910",
+    "descricao": "PECULIO"
+  },
+  {
+    "grupo": "711",
+    "classe": "'-7",
+    "codigo": "19941",
+    "descricao": "RECEBIMENTO TARIFA PUBLICA"
+  },
+  {
+    "grupo": "711",
+    "classe": "'-7",
+    "codigo": "20010",
+    "descricao": "RECOLHIMENTO CONTRIBUICAO / ANUIDADE"
+  },
+  {
+    "grupo": "711",
+    "classe": "'-7",
+    "codigo": "20362",
+    "descricao": "PRESTACAO DE SERVICOS BANCARIOS"
+  },
+  {
+    "grupo": "711",
+    "classe": "'-7",
+    "codigo": "21156",
+    "descricao": "FORNECIMENTO CUPOM - PEDAGIO"
+  },
+  {
+    "grupo": "711",
+    "classe": "'-7",
+    "codigo": "21300",
+    "descricao": "ADMINISTRACAO - COBRANCA"
+  },
+  {
+    "grupo": "711",
+    "classe": "'-7",
+    "codigo": "21849",
+    "descricao": "PAGAMENTO DIARIA - NACIONAL / INTERNACIONAL"
+  },
+  {
+    "grupo": "711",
+    "classe": "'-7",
+    "codigo": "21857",
+    "descricao": "PAGAMENTO DESPESA COM PESSOAL"
+  },
+  {
+    "grupo": "711",
+    "classe": "'-7",
+    "codigo": "22764",
+    "descricao": "PAGAMENTO COBERTURAS SEGURO VEÍCULO"
+  },
+  {
+    "grupo": "711",
+    "classe": "'-7",
+    "codigo": "23132",
+    "descricao": "PAGAMENTO FATURA TELEFONICA"
+  },
+  {
+    "grupo": "711",
+    "classe": "7110",
+    "codigo": "21903",
+    "descricao": "PEDAGIO ELETRONICO"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "grupo": "151",
+    "classe": "1511",
+    "codigo": "26573",
+    "descricao": "OUTSOURCING DE  IMPRESSAO - PAGINAS A4 - MONOCROMATICO - DENTRO DA FRANQUIA SEM PAPEL"
+  },
+  {
+    "grupo": "151",
+    "classe": "1511",
+    "codigo": "26581",
+    "descricao": "OUTSOURCING DE  IMPRESSAO - PAGINAS A4 - MONOCROMATICO - DENTRO DA FRANQUIA COM PAPEL"
+  },
+  {
+    "grupo": "151",
+    "classe": "1511",
+    "codigo": "26590",
+    "descricao": "OUTSOURCING DE  IMPRESSAO - PAGINAS A3 - MONOCROMATICO - DENTRO DA FRANQUIA SEM PAPEL"
+  },
+  {
+    "grupo": "151",
+    "classe": "1511",
+    "codigo": "26603",
+    "descricao": "OUTSOURCING DE IMPRESSAO  - PAGINAS A3 - MONOCROMATICO - DENTRO DA FRANQUIA COM PAPEL"
+  },
+  {
+    "grupo": "151",
+    "classe": "1511",
+    "codigo": "26611",
+    "descricao": "OUTSOURCING DE  IMPRESSAO - PAGINAS A4 - POLICROMATICO - DENTRO DA FRANQUIA SEM PAPEL"
+  },
+  {
+    "grupo": "151",
+    "classe": "1511",
+    "codigo": "26620",
+    "descricao": "OUTSOURCING DE  IMPRESSAO - PAGINAS A4 - POLICROMATICO - DENTRO DA FRANQUIA COM PAPEL"
+  },
+  {
+    "grupo": "151",
+    "classe": "1511",
+    "codigo": "26638",
+    "descricao": "OUTSOURCING DE  IMPRESSAO - PAGINAS A3 - POLICROMATICO - DENTRO DA FRANQUIA SEM PAPEL"
+  },
+  {
+    "grupo": "151",
+    "classe": "1511",
+    "codigo": "26646",
+    "descricao": "OUTSOURCING DE  IMPRESSAO - PAGINAS A3 - POLICROMATICO - DENTRO DA FRANQUIA COM PAPEL"
+  },
+  {
+    "grupo": "151",
+    "classe": "1512",
+    "codigo": "26654",
+    "descricao": "OUTSOURCING DE IMPRESSAO - PAGINAS A4 - MONOCROMATICO - EXCEDENTE A FRANQUIA SEM PAPEL"
+  },
+  {
+    "grupo": "151",
+    "classe": "1512",
+    "codigo": "26662",
+    "descricao": "OUTSOURCING DE IMPRESSAO - PAGINAS A4 - MONOCROMATICO - EXCEDENTE A FRANQUIA COM PAPEL"
+  },
+  {
+    "grupo": "151",
+    "classe": "1512",
+    "codigo": "26670",
+    "descricao": "OUTSOURCING DE IMPRESSAO - PAGINAS A3 - MONOCROMATICO - EXCEDENTE A FRANQUIA SEM PAPEL"
+  },
+  {
+    "grupo": "151",
+    "classe": "1512",
+    "codigo": "26689",
+    "descricao": "OUTSOURCING DE IMPRESSAO - PAGINAS A3 - MONOCROMATICO - EXCEDENTE A FRANQUIA COM PAPEL"
+  },
+  {
+    "grupo": "151",
+    "classe": "1512",
+    "codigo": "26697",
+    "descricao": "OUTSOURCING DE IMPRESSAO - PAGINAS A4 - POLICROMATICO - EXCEDENTE A FRANQUIA SEM PAPEL"
+  },
+  {
+    "grupo": "151",
+    "classe": "1512",
+    "codigo": "26700",
+    "descricao": "OUTSOURCING DE IMPRESSAO - PAGINAS A4 - POLICROMATICO - EXCEDENTE A FRANQUIA - COM PAPEL"
+  },
+  {
+    "grupo": "151",
+    "classe": "1512",
+    "codigo": "26719",
+    "descricao": "OUTSOURCING DE IMPRESSAO - PAGINAS A3 - POLICROMATICO - EXCEEXCEDENTE A FRANQUIA - SEM PAPEL"
+  },
+  {
+    "grupo": "151",
+    "classe": "1512",
+    "codigo": "26727",
+    "descricao": "OUTSOURCING DE IMPRESSAO - PAGINAS A3 - POLICROMATICO - EXCEDENTE A FRANQUIA - COM PAPEL"
+  }
+]

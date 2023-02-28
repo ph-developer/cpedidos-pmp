@@ -1,0 +1,524 @@
+[
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "5819",
+    "descricao": "CONFECCAO E INSTALACAO DE CORTINA"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "12971",
+    "descricao": "INSTALACAO E MONTAGEM DE CENTRAL DE ESTERILIZACAO"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "12998",
+    "descricao": "INSTALACAO E MONTAGEM DE LAVANDERIA HOSPITALAR / INDUSTRIAL"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "13013",
+    "descricao": "INSTALACAO E MONTAGEM DE MOBILIARIO HOSPITALAR"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "13137",
+    "descricao": "CONFECCAO / INSTALACAO - VIDRO / ESPELHO / MOLDURA"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "13331",
+    "descricao": "INSTALACAO DE SISTEMA ELETRONICO INTEGRADO  DE  SEGURANCA  -(PESSOAL / PATRIMONIAL)"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "13340",
+    "descricao": "CORRETAGEM - PLANO DE SAUDE"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "13501",
+    "descricao": "INSTALACAO DE APARELHO OPTICO"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "13510",
+    "descricao": "INSTALACAO DE APARELHO OFTALMOLOGICO"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "13676",
+    "descricao": "INSTALACAO DE REDE LOCAL DE MICROCOMPUTADOR"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "13757",
+    "descricao": "INSTALACAO / MANUTENCAO / OPERACAO / LOCACAO  -  EQUIPAMENTODE LUZ / IMAGEM / SOM"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "14648",
+    "descricao": "INSTALACAO E MONTAGEM DE EQUIPAMENTO - LIQUEFACAO / FABRICA-CAO DE GAS"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "14826",
+    "descricao": "INSTALACAO / MANUTENCAO / MONITORIZACAO - SISTEMA ALARME /  SEGURANCA"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "14834",
+    "descricao": "INSTALACAO E MONTAGEM VIDRARIA LABORATORIO"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "14923",
+    "descricao": "INSTALACAO / MANUTENCAO - HIDROMETRO / CAVALETE"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "15903",
+    "descricao": "INSTALACAO DE FORRO - LA DE VIDRO / LA DE ROCHA"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "16179",
+    "descricao": "INSTALACAO E MONTAGEM - SISTEMA DE VENTILACAO  E  LAVAGEM DEGASES"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "17639",
+    "descricao": "INSTALACAO E MONTAGEM - PAINEL / PLACA LUMINOSA"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "17655",
+    "descricao": "INSTALACAO / MANUTENCAO - CABO OPTICO / ACESSORIO"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "17744",
+    "descricao": "LOCACAO / INSTALACAO / MANUTENCAO / OPERACAO  -  EQUIPAMENTOELETRONICO DE CONTROLE DE VELOCIDADE"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "17809",
+    "descricao": "INSTALACAO / MANUTENCAO - COBERTURA/PASSARELA/TOLDO/BARRACA"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "18180",
+    "descricao": "INSTALACAO / REMOCAO / MANUTENCAO - FORRO"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "19631",
+    "descricao": "INSTALACAO / MANUTENCAO - EQUIPAMENTO CONTROLE ACESSO PESSOA"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "19925",
+    "descricao": "INSTALACAO / MANUTENCAO - ESQUADRIA"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "20141",
+    "descricao": "INSTALACAO / MONTAGEM / MANUTENCAO - ESTANTE VENTILADA / ISOLADOR ANIMAL / CANIL"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "20559",
+    "descricao": "INSTALACAO / MANUTENCAO RELOGIO"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "20664",
+    "descricao": "INSTALACAO / MANUTENCAO - BRISES FACHADA"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "20672",
+    "descricao": "INSTALACAO / MANUTENCAO - HASTE MANOBRA"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "20702",
+    "descricao": "CONFECCAO / INSTALACAO - CALHA"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "20710",
+    "descricao": "INSTALACAO / MANUTENCAO / MONTAGEM - SALA COFRE / SALA TELE-RESENCA / VIDEOCONFERENCIA"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "20826",
+    "descricao": "CONFECCAO / INSTALACAO - ABRIGO METEOROLOGICO"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "21083",
+    "descricao": "INSTALACAO/MANUTENCAO - GRAMA SINTETICA"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "21334",
+    "descricao": "INSTALACAO / MANUTENCAO - PLACA DE IDENTIFICACAO"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "21342",
+    "descricao": "AUTOMATIZACAO PORTA DE VIDRO - INSTALACAO / MANUTENCAO"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "21512",
+    "descricao": "CONFECCAO / INSTALACAO - CLAVICULARIO"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "21539",
+    "descricao": "INSTALACAO / MANUTENCAO - ILUMINACAO TRAVESSIA URBANA / OBRADE ARTE ESPECIAL"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "21806",
+    "descricao": "INSTALACAO / MONTAGEM - ESTANTE"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "22977",
+    "descricao": "INSTALACAO/MANUTENCAO - CIRCUITO FECHADO TV"
+  },
+  {
+    "grupo": "873",
+    "classe": "'-7",
+    "codigo": "22985",
+    "descricao": "INSTALACAO / MANUTENCAO - BOMBAS HIDRAULICAS / COMBUSTIVEL"
+  },
+  {
+    "grupo": "873",
+    "classe": "8731",
+    "codigo": "22799",
+    "descricao": "INSTALAÇAO CORRIMOES DE FERRO"
+  },
+  {
+    "grupo": "873",
+    "classe": "8732",
+    "codigo": "1961",
+    "descricao": "INSTALACAO E MONTAGEM EQUIPAMENTOS DE CALDEIRARIA"
+  },
+  {
+    "grupo": "873",
+    "classe": "8732",
+    "codigo": "1970",
+    "descricao": "INSTALACAO / MONTAGEM / MANUTENCAO - EQUIPAMENTOS ELETRICOS"
+  },
+  {
+    "grupo": "873",
+    "classe": "8732",
+    "codigo": "22063",
+    "descricao": "INSTALACAO DE MAQUINAS E  EQUIPAMENTOS PARA INDUSTRIA FARMA-CEUTICA"
+  },
+  {
+    "grupo": "873",
+    "classe": "8734",
+    "codigo": "1988",
+    "descricao": "MANUTENCAO / INSTALACAO / MONTAGEM / AMPLIACAO - EQUIPAMENTOS DE TELECOMUNICACOES"
+  },
+  {
+    "grupo": "873",
+    "classe": "8734",
+    "codigo": "2704",
+    "descricao": "INSTALACAO / MANUTENCAO DE EQUIPAMENTOS DE RADIO / ANTENA / AGULHA GIROSCOPICA"
+  },
+  {
+    "grupo": "873",
+    "classe": "8735",
+    "codigo": "2267",
+    "descricao": "INSTALACAO E MONTAGEM DE EQUIPAMENTOS MECANICOS/ELETROMECANICOS"
+  },
+  {
+    "grupo": "873",
+    "classe": "8735",
+    "codigo": "5720",
+    "descricao": "MANUTENCAO DE APARELHO DE RAIO - X"
+  },
+  {
+    "grupo": "873",
+    "classe": "8735",
+    "codigo": "5738",
+    "descricao": "MANUTENCAO EM PROCESSADORA DE RAIO - X"
+  },
+  {
+    "grupo": "873",
+    "classe": "8735",
+    "codigo": "5746",
+    "descricao": "MANUTENCAO EM APARELHO DE ULTRA - SOM"
+  },
+  {
+    "grupo": "873",
+    "classe": "8735",
+    "codigo": "5754",
+    "descricao": "MANUTENCAO EM APARELHO DE ONDAS - CURTAS"
+  },
+  {
+    "grupo": "873",
+    "classe": "8735",
+    "codigo": "5762",
+    "descricao": "MANUTENCAO EM APARELHO ELETROESTIMULADOR"
+  },
+  {
+    "grupo": "873",
+    "classe": "8735",
+    "codigo": "5770",
+    "descricao": "MANUTENCAO EM APARELHO DE MICRO - ONDAS"
+  },
+  {
+    "grupo": "873",
+    "classe": "8735",
+    "codigo": "5797",
+    "descricao": "MANUTENCAO EM EQUIPAMENTOS DE CONSULTORIO ODONTOLOGICO"
+  },
+  {
+    "grupo": "873",
+    "classe": "8735",
+    "codigo": "12963",
+    "descricao": "INSTALACAO/MONTAGEM/DESMONTAGEM/REMOCAO  - APARELHOS MEDICO/ODONTOLOGICO/HOSPITALAR"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "2003",
+    "descricao": "INSTALACAO E MONTAGEM DE SISTEMAS DE TUBULACOES INDUSTRIAIS"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "2011",
+    "descricao": "INSTALACAO E MONTAGEM DE SISTEMAS - PROTECAO CONTRA INCENDIO"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "2020",
+    "descricao": "AR CONDICIONADO - INSTALACAO/MONTAGEM/DESMONATAGEM/REMOÇÃO -(PAREDE / SISTEMAS)"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "2038",
+    "descricao": "INSTALACAO E MONTAGEM - SISTEMAS VENTILACAO E EXAUSTAO  MECANICA"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "2046",
+    "descricao": "INSTALACAO E MONTAGEM DE SISTEMAS DE AQUECIMENTO"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "2054",
+    "descricao": "INSTALACAO E MONTAGEM DE SISTEMAS DE REFRIGERACAO"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "2062",
+    "descricao": "INSTALACAO E MONTAGEM DE SISTEMAS DE SINALIZACAO FERROVIARIA"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "2070",
+    "descricao": "INSTALACAO E MONTAGEM DE SISTEMAS DE SINALIZACAO MARITIMA"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "2089",
+    "descricao": "INSTALACAO E MONTAGEM DE SISTEMAS DE SINALIZACAO RODOVIARIA"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "2097",
+    "descricao": "INSTALACAO E MONTAGEM DE SISTEMAS DE SINALIZACAO AEREA"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "2135",
+    "descricao": "INSTALACAO / MANUTENCAO  SISTEMAS DE ATERRAMENTO E PROTECAO CONTRA DESCARGAS ATMOSFERICAS"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "2143",
+    "descricao": "INSTALACAO E MONTAGEM DE REDES AEREAS - TELECOMUNICACOES"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "2151",
+    "descricao": "INSTALACAO E MONTAGEM REDES SUBTERRANEAS - TELECOMUNICACOES"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "2160",
+    "descricao": "INSTALACAO E MONTAGEM REDES SUBAQUATICAS - TELECOMUNICACOES"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "2186",
+    "descricao": "INSTALACAO E MONTAGEM DE COZINHAS INDUSTRIAIS"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "2194",
+    "descricao": "INSTALACAO E MONTAGEM DE OFICINAS"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "2208",
+    "descricao": "INSTALACAO E MONTAGEM DE LABORATORIOS"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "2216",
+    "descricao": "INSTALACAO E MONTAGEM DE INSTALACOES FRIGORIFICAS"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "2828",
+    "descricao": "MANUTENCAO DE SISTEMAS DE SINALIZACAO MARITIMA"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "2844",
+    "descricao": "MANUTENCAO DE SISTEMAS DE SINALIZACAO AEREA"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "13102",
+    "descricao": "INSTALACAO / MONTAGEM / ASSISTENCIA TECNICA DE SISTEMA   DE ARQUIVAMENTO DESLIZANTE"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "13110",
+    "descricao": "INSTALACAO / MONTAGEM / ASSISTENCIA TECNICA DE FICHARIO TIPOELETROMECANICO ROTATIVO"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "16136",
+    "descricao": "INSTALACAO / MANUTENCAO - TANQUE CRIOGENICO"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "17302",
+    "descricao": "INSTALACAO E MONTAGEM - MOVEIS / ARTEFATOS METALICOS"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "21989",
+    "descricao": "INSTALACAO / MANUTENÇÃO / REMOÇÃO - PISO MADEIRA"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "21997",
+    "descricao": "INSTALACAO - FORRO PVC"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "22020",
+    "descricao": "INSTALACAO / MANUTENCAO DISPOSITIVO SUSTENTACAO/AFASTAMENTO"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "22071",
+    "descricao": "INSTALACAO DE UNIDADE MOVEL DE AGUA GELADA"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "22080",
+    "descricao": "INSTALACAO DE GRUPO DATADOR PARA LOTE E VALIDADE"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "22535",
+    "descricao": "INSTALACAO CORTINA AR"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "22543",
+    "descricao": "SERVICO INSTALACAO GRUPO GERADOR"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "22578",
+    "descricao": "INSTALACAO / MANUTENCAO / BANCADA"
+  },
+  {
+    "grupo": "873",
+    "classe": "8739",
+    "codigo": "27812",
+    "descricao": "INSTALAÇÃO E MONTAGEM / DESMONTAGEM - REMANEJAMENTO COM TRANSPORTE DE MAQUINAS / EQUIPAMENTOS"
+  }
+]

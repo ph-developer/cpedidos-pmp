@@ -1,0 +1,50 @@
+[
+  {
+    "grupo": "838",
+    "classe": "'-7",
+    "codigo": "930",
+    "descricao": "AEROFOTOGRAMETRIA"
+  },
+  {
+    "grupo": "838",
+    "classe": "'-7",
+    "codigo": "3743",
+    "descricao": "MICROFILMAGEM - SISTEMA CONVENCIONAL- ADMINISTRATIVO"
+  },
+  {
+    "grupo": "838",
+    "classe": "'-7",
+    "codigo": "3751",
+    "descricao": "MICROFILMAGEM - SISTEMA CONVENCIONAL - ENGENHARIA"
+  },
+  {
+    "grupo": "838",
+    "classe": "'-7",
+    "codigo": "3760",
+    "descricao": "MICROFILMAGEM"
+  },
+  {
+    "grupo": "838",
+    "classe": "'-7",
+    "codigo": "12688",
+    "descricao": "REVELACAO DE FILME FOTOGRAFICO / AMPLIACAO DE FOTOGRAFIA"
+  },
+  {
+    "grupo": "838",
+    "classe": "8381",
+    "codigo": "6050",
+    "descricao": "SERVICO FOTOGRAFICO"
+  },
+  {
+    "grupo": "838",
+    "classe": "8381",
+    "codigo": "19194",
+    "descricao": "MONTAGEM / RESTAURACAO - FOTOGRAFIA"
+  },
+  {
+    "grupo": "838",
+    "classe": "8381",
+    "codigo": "22640",
+    "descricao": "TRATAMENTO IMAGEM DIGITAL"
+  }
+]

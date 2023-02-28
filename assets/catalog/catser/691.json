@@ -1,0 +1,26 @@
+[
+  {
+    "grupo": "691",
+    "classe": "6911",
+    "codigo": "4120",
+    "descricao": "ENERGIA ELETRICA - FORNECIMENTO MERCADO REGULADO"
+  },
+  {
+    "grupo": "691",
+    "classe": "6911",
+    "codigo": "27863",
+    "descricao": "ENERGIA ELETRICA - FORNECIMENTO MERCADO LIVRE"
+  },
+  {
+    "grupo": "691",
+    "classe": "6911",
+    "codigo": "27960",
+    "descricao": "SERVIÇO DE MONITORAMENTO DE ENERGIA ELÉTRICA"
+  },
+  {
+    "grupo": "691",
+    "classe": "6912",
+    "codigo": "4138",
+    "descricao": "FORNECIMENTO DE GAS CANALIZADO"
+  }
+]

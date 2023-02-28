@@ -1,0 +1,656 @@
+[
+  {
+    "grupo": "839",
+    "classe": "'-7",
+    "codigo": "3921",
+    "descricao": "DESPACHOS ADUANEIROS"
+  },
+  {
+    "grupo": "839",
+    "classe": "'-7",
+    "codigo": "3930",
+    "descricao": "DESPACHANTE - DOCUMENTOS PESSOAIS"
+  },
+  {
+    "grupo": "839",
+    "classe": "'-7",
+    "codigo": "3948",
+    "descricao": "DESPACHANTE - VEICULOS"
+  },
+  {
+    "grupo": "839",
+    "classe": "'-7",
+    "codigo": "5436",
+    "descricao": "CHAVEIRO"
+  },
+  {
+    "grupo": "839",
+    "classe": "'-7",
+    "codigo": "13161",
+    "descricao": "COLETA DE AMOSTRA DE ROCHA - CAVERNA / MONTANHA / LAGO / MAR"
+  },
+  {
+    "grupo": "839",
+    "classe": "'-7",
+    "codigo": "13170",
+    "descricao": "CAPTURA / COLETA / REGISTRO DE ANIMAL"
+  },
+  {
+    "grupo": "839",
+    "classe": "'-7",
+    "codigo": "13188",
+    "descricao": "COLETA DE VEGETAIS - CAVERNA / MONTANHA / LAGO / MAR"
+  },
+  {
+    "grupo": "839",
+    "classe": "'-7",
+    "codigo": "13218",
+    "descricao": "COLETA DE AMOSTRA DE ROCHA EM CAVERNA"
+  },
+  {
+    "grupo": "839",
+    "classe": "'-7",
+    "codigo": "13226",
+    "descricao": "COLETA DE AMOSTRA DE ROCHA EM MONTANHA"
+  },
+  {
+    "grupo": "839",
+    "classe": "'-7",
+    "codigo": "13234",
+    "descricao": "COLETA DE AMOSTRA DE ROCHA EM LAGO"
+  },
+  {
+    "grupo": "839",
+    "classe": "'-7",
+    "codigo": "13242",
+    "descricao": "COLETA DE AMOSTRA DE ROCHA NO MAR"
+  },
+  {
+    "grupo": "839",
+    "classe": "'-7",
+    "codigo": "13293",
+    "descricao": "COLETA DE VEGETAL EM CAVERNA"
+  },
+  {
+    "grupo": "839",
+    "classe": "'-7",
+    "codigo": "13307",
+    "descricao": "COLETA DE VEGETAL EM MONTANHA"
+  },
+  {
+    "grupo": "839",
+    "classe": "'-7",
+    "codigo": "13315",
+    "descricao": "COLETA DE VEGETAL EM LAGO"
+  },
+  {
+    "grupo": "839",
+    "classe": "'-7",
+    "codigo": "13323",
+    "descricao": "COLETA DE VEGETAL NO MAR"
+  },
+  {
+    "grupo": "839",
+    "classe": "'-7",
+    "codigo": "13706",
+    "descricao": "PREGAO PUBLICO EM BOLSA DE CEREAL"
+  },
+  {
+    "grupo": "839",
+    "classe": "'-7",
+    "codigo": "13714",
+    "descricao": "PREGAO PUBLICO EM BOLSA DE VALOR"
+  },
+  {
+    "grupo": "839",
+    "classe": "'-7",
+    "codigo": "14290",
+    "descricao": "REFINO DE PRODUTO QUIMICO"
+  },
+  {
+    "grupo": "839",
+    "classe": "'-7",
+    "codigo": "22950",
+    "descricao": "SERVICOS ESPECIALIZADOS DE PLANEJAMENTO/ IMPLANTACAO E OPERACAO DE CENTRAL DE ATENDIMENTO"
+  },
+  {
+    "grupo": "839",
+    "classe": "'-7",
+    "codigo": "27685",
+    "descricao": "SERVIÇO DE ALMOXARIFADO  VIRTUAL DE MATERIAL DE CONSUMO ADMINISTRATIVO - GERENCIAMENTO DE MEIOS LOGÍSTICOS"
+  },
+  {
+    "grupo": "839",
+    "classe": "8391",
+    "codigo": "3891",
+    "descricao": "TRADUCAO, ADAPTACAO E VERSAO DE TEXTOS"
+  },
+  {
+    "grupo": "839",
+    "classe": "8391",
+    "codigo": "12637",
+    "descricao": "TRADUCAO / INTERPRETACAO SIMULTANEA / CONSECUTIVA"
+  },
+  {
+    "grupo": "839",
+    "classe": "8391",
+    "codigo": "12645",
+    "descricao": "REDACAO / REVISAO DE TEXTO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8391",
+    "codigo": "25780",
+    "descricao": "PRESTACAO DE SERVICOS DE DUBLAGEM"
+  },
+  {
+    "grupo": "839",
+    "classe": "8391",
+    "codigo": "27928",
+    "descricao": "SERVIÇOS DE ACESSIBILIDADE À INFORMAÇÃO E À COMUNICAÇÃO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "949",
+    "descricao": "SENSORIAMENTO REMOTO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "1023",
+    "descricao": "ANALISE DINAMICA DE BASES DE EQUIPAMENTOS"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "1210",
+    "descricao": "INSPECOES E TESTES EM MATERIAIS E EQUIPAMENTOS ELETRICOS"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "1228",
+    "descricao": "INSPECOES E TESTES EM EQUIPAMENTOS ELETRICOS EM OPERACAO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "1236",
+    "descricao": "PROVA DE CARGA"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "1287",
+    "descricao": "INFORMATICA - SERVICO DE BUREAU"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "1295",
+    "descricao": "INFORMATICA - ADMINISTRACAO E OPERACAO EM PROCESSAMENTO DE  DADOS"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "10138",
+    "descricao": "EDITORACAO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "10197",
+    "descricao": "ICONOGRAFIA PESSOAL / DOSSIES"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "12866",
+    "descricao": "ENCADERNAÇÃO / DESENCADERNAÇÃO - LIVRO / REVISTA (FOLHAS SOLTAS)"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "12904",
+    "descricao": "ELABORACAO DE ARTE - GRAFICA"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "14125",
+    "descricao": "INSEMINACAO ARTIFICIAL DE ANIMAL"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "14168",
+    "descricao": "ESTUDOS E PROJETOS DE AUDITORIOS"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "14320",
+    "descricao": "CARREGAMENTO DE MATERIAL BELICO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "14621",
+    "descricao": "ESTUDO, PROJETO - COMERCIO EXTERIOR"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "15180",
+    "descricao": "MONTAGEM / MANUTENCAO - SATELITE"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "15199",
+    "descricao": "MONTAGEM / MANUTENCAO TESTE COMPONENTE ELETRONICO - SATELITE"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "15202",
+    "descricao": "MODELAGEM / PROTOTIPACAO DE COMPONENTE MECANICO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "15415",
+    "descricao": "CARTORIO / TABELIONATO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "15474",
+    "descricao": "INSCRICAO / FISCALIZACAO EXERCICIO PROFISSIONAL"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "15598",
+    "descricao": "MANUTENCAO DE POCO - TUBULAR"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "15610",
+    "descricao": "ASSISTENCIA TECNICA A OPERACAO DE USINA TERMONUCLEAR / TERMOELETRICA"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "15636",
+    "descricao": "OPERACAO DE CENTRAIS TERMONUCLEARES / TERMOELETRICAS"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "15644",
+    "descricao": "GERENCIAMENTO DE CONSTRUCAO E MONTAGEM  CENTRAL TERMONUCLEAR/ TERMOELETRICA / SOLAR FOTOVOTAICA"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "15660",
+    "descricao": "MANIPULACAO DE FORMULAS - MEDICAMENTOS / COSMETICOS /  INSU-MOS FARMACEUTICOS"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "15695",
+    "descricao": "CHECKLIVRO - DIVULGACAO / COMERCIALIZACAO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "16020",
+    "descricao": "IMPORTACAO / COMERCIALIZACAO / DISTRIBUICAO DE PRODUTO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "16225",
+    "descricao": "REGISTRO DE MARCA / PATENTE"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "16403",
+    "descricao": "DESENVOLVIMENTO TECNOLOGIA AMBIENTAL"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "16578",
+    "descricao": "SECRETARIA"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "16918",
+    "descricao": "INFORMATICA - DESENVOLVIMENTO / IMPLANTACAO / MANUTENCAO RE DE DE COMPUTADOR"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "17116",
+    "descricao": "CLASSIFICACAO E DEGUSTACAO - CAFE"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "17175",
+    "descricao": "DESENVOLVIMENTO, CONSTRUCAO, INSTALACAO - SISTEMA AUTOMATICOAQUISICAO DADOS CONJUNTO HIBRIDO ( EOLICO, SOLAR, DIESEL )"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "17183",
+    "descricao": "METROLOGIA"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "17213",
+    "descricao": "ADMINISTRACAO PORTUARIA / EMBARCACAO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "17221",
+    "descricao": "MODERNIZACAO / AGILIZACAO / APRIMORAMENTO -  PROCESSOS ADMINISTRATIVOS"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "17310",
+    "descricao": "INFORMATICA - COMPUTACAO GRAFICA"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "17485",
+    "descricao": "DECORACAO - AMBIENTE"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "17736",
+    "descricao": "ENGENHARIA DE TRANSITO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "18112",
+    "descricao": "TELECONFERENCIA / VIDEOCONFERENCIA"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "18147",
+    "descricao": "OPERADOR PORTUARIO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "18260",
+    "descricao": "TRANSITO - SUPERVISAO E CONTROLE /APRENDIZAGEM / HABILITACAO/ FISCALIZACAO / CONDUTORES DE VEICULOS"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "18287",
+    "descricao": "TRANSITO - POLICIAMENTO / SEGURANCA / CAMPANHAS /  ANALISE /RELATORIO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "18430",
+    "descricao": "OBRAS CIVIS - CALCULO ESTRUTURAL"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "18449",
+    "descricao": "PLANEJAMENTO / ORGANIZACAO / EXECUCAO / ARBITRAGEM / ATIVIDADES LUDICAS / DESPORTIVAS / RECREATIVAS / COLONIA DE FERIAS"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "18740",
+    "descricao": "CUNHAGEM EM METAL"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "19216",
+    "descricao": "ESTUDOS ASTRONOMICOS"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "19330",
+    "descricao": "INSPECAO SEGURANCA VEICULO AUTOMOTIVO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "19437",
+    "descricao": "REPRESENTACAO - ORGAO PUBLICO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "19488",
+    "descricao": "DESENVOLVIMENTO / GERACAO / IMPLANTACAO - CODIGO BARRA"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "19887",
+    "descricao": "REABILITACAO PROFISSIONAL"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "19909",
+    "descricao": "ACOMPANHAMENTO / ANALISE PROCESSO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "21059",
+    "descricao": "FABRICACAO COMPONENTE NUCLEAR"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "21067",
+    "descricao": "CICLO COMBUSTIVEL NUCLEAR"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "21768",
+    "descricao": "ASSISTENCIA TECNICA / PRESTACAO SERVICO - RADIOCOMUNICACAO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "22136",
+    "descricao": "REMEDIACAO E BIORREMEDIACAO AMBIENTAL"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "22144",
+    "descricao": "PLANO EMERGENCIAL - PREVENCAO/CONTROLE AMBIENTAL"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "22349",
+    "descricao": "ADAPTACAO / TRANSFORMACAO FATOR DE POTENCIA SISTEMA ELÉTRICO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "22357",
+    "descricao": "COMUNICACAO DE DADOS ATM E FRAME RELAY COM ROTEADORES"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "22470",
+    "descricao": "VISTORIA/AVALIACAO E REGULACAO DE SINISTROS AERONAUTICOS"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "22560",
+    "descricao": "LEVANTAMENTO DE DADOS POPULACIONAIS"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "22624",
+    "descricao": "FORMOLIZACAO DE CADAVER"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "22705",
+    "descricao": "PRODUCAO DE MAPAS"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "22748",
+    "descricao": "MONTAGEM AMBULATORIO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "22810",
+    "descricao": "CONFECCAO DE CORDAO PARA CRACHA"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "22926",
+    "descricao": "SERVICOS DE CONSERVAÇÃO DE RECURSOS GENÉTICOS"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "23060",
+    "descricao": "FISCALIZACAO OBRAS CIVIS"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "24503",
+    "descricao": "ASSESSORIA"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "24597",
+    "descricao": "MANUTENCAO - PLANEJAMENTO DE SERVICOS"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "24686",
+    "descricao": "OPERACAO DE VEICULO SUBMARINO COM CONTROLE REMOTO - ROV"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "24759",
+    "descricao": "PESQUISA E DESENVOLVIMENTO TECNOLOGICO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "24899",
+    "descricao": "SERVICOS CORRELATOS A POCOS PROFUNDOS"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "24970",
+    "descricao": "SERVICOS DE TECNOLOGIA DA INFORMACAO E APOIO TECNICO DE ATIVIDADES DE INFORMATICA"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "25003",
+    "descricao": "ADMINISTRACAO DE INFRA-ESTRUTURA DE PERIMETRO IRRIGADO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "25100",
+    "descricao": "SERVICO CORTE PAPEL"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "25127",
+    "descricao": "MANUTENCAO COFRE"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "25143",
+    "descricao": "SERVICO DE ADESTRAMENTO E TRATADOR DE ANIMAIS"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "25160",
+    "descricao": "MANUTENCAO E RECUPERACAO DE CAPACETE"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "25399",
+    "descricao": "SERVICO DE TRATAMENTO FITOSSANITARIO / FUMIGACAO / IMPREGNACAO QUIMICA"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "25470",
+    "descricao": "SERVICO DE VISTORIA / VALIDACAO / CERTIFICACAO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "25690",
+    "descricao": "ESTUDOS E PROJETOS AERONAUTICO"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "25720",
+    "descricao": "SERVICO IMPLANTACAO DE INFRAESTRUTURA"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "25771",
+    "descricao": "AUDITORIA EM AREA AMBIENTAL"
+  },
+  {
+    "grupo": "839",
+    "classe": "8399",
+    "codigo": "27553",
+    "descricao": "CESSAO DE DIREITOS SOBRE TOPOGRAFIAS DE CIRCUITOS INTEGRADOS"
+  }
+]

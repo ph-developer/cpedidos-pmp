@@ -1,0 +1,104 @@
+[
+  {
+    "grupo": "731",
+    "classe": "'-7",
+    "codigo": "4090",
+    "descricao": "LOCACAO DE MAQUINAS DE ESCREVER E CALCULAR"
+  },
+  {
+    "grupo": "731",
+    "classe": "'-7",
+    "codigo": "17990",
+    "descricao": "LOCACAO EQUIPAMENTOS DE IMPRESSAO"
+  },
+  {
+    "grupo": "731",
+    "classe": "'-7",
+    "codigo": "18228",
+    "descricao": "LOCACAO DE EQUIPAMENTO - CONDICIONAMENTO FISICO"
+  },
+  {
+    "grupo": "731",
+    "classe": "'-7",
+    "codigo": "20818",
+    "descricao": "LOCACAO APARELHO AR CONDICIONADO"
+  },
+  {
+    "grupo": "731",
+    "classe": "7312",
+    "codigo": "12556",
+    "descricao": "LOCACAO DE EQUIPAMENTO AUDIOVISUAL / SOM / VIDEO / FILMAGEM"
+  },
+  {
+    "grupo": "731",
+    "classe": "7312",
+    "codigo": "15750",
+    "descricao": "INFORMATICA - LOCACAO EQUIPAMENTOS"
+  },
+  {
+    "grupo": "731",
+    "classe": "7312",
+    "codigo": "20222",
+    "descricao": "LOCACAO EQUIPAMENTO / INSTRUMENTO / PECA / COMPONENTE - MEDICO / ODONTOLOGICO / OFTALMOLOGICO"
+  },
+  {
+    "grupo": "731",
+    "classe": "7312",
+    "codigo": "20885",
+    "descricao": "LOCACAO ACUMULADOR ELETRICO"
+  },
+  {
+    "grupo": "731",
+    "classe": "7312",
+    "codigo": "21490",
+    "descricao": "LOCACAO EQUIPAMENTO - TRADUCAO SIMULTANEA / SONORIZACAO"
+  },
+  {
+    "grupo": "731",
+    "classe": "7312",
+    "codigo": "21679",
+    "descricao": "LOCACAO GERADOR ELETRICO"
+  },
+  {
+    "grupo": "731",
+    "classe": "7312",
+    "codigo": "21733",
+    "descricao": "LOCACAO/MANUTENCAO MAQUINA VENDA AUTOMATICA"
+  },
+  {
+    "grupo": "731",
+    "classe": "7312",
+    "codigo": "21962",
+    "descricao": "LOCACAO TRANSFORMADOR ENERGIA"
+  },
+  {
+    "grupo": "731",
+    "classe": "7312",
+    "codigo": "22233",
+    "descricao": "LOCACAO DE ENERGIA ININTERRUPTA (NOBREAK)"
+  },
+  {
+    "grupo": "731",
+    "classe": "7312",
+    "codigo": "22829",
+    "descricao": "LOCACAO / MANUTENCAO MAQUINA HEMODIALISE"
+  },
+  {
+    "grupo": "731",
+    "classe": "7312",
+    "codigo": "23019",
+    "descricao": "LOCACAO APARELHO TRANSMISSAO/RECEPCAO MENSAGENS"
+  },
+  {
+    "grupo": "731",
+    "classe": "7312",
+    "codigo": "24589",
+    "descricao": "LOCACAO SONDA PERFURACAO E PRODUCAO"
+  },
+  {
+    "grupo": "731",
+    "classe": "7312",
+    "codigo": "24600",
+    "descricao": "LOCACAO SONDAS E PLATAFORMAS - TRANSHIPMENT"
+  }
+]

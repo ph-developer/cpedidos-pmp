@@ -1,0 +1,32 @@
+[
+  {
+    "grupo": "543",
+    "classe": "5431",
+    "codigo": "1635",
+    "descricao": "OBRAS CIVIS - DEMOLICOES"
+  },
+  {
+    "grupo": "543",
+    "classe": "5432",
+    "codigo": "1953",
+    "descricao": "OBRAS CIVIS DE JARDINS E AREAS GRAMADAS"
+  },
+  {
+    "grupo": "543",
+    "classe": "5433",
+    "codigo": "1384",
+    "descricao": "OBRAS CIVIS DE TERRAPLENAGEM"
+  },
+  {
+    "grupo": "543",
+    "classe": "5433",
+    "codigo": "4561",
+    "descricao": "OBRAS CIVIS DE ESCAVACAO"
+  },
+  {
+    "grupo": "543",
+    "classe": "5434",
+    "codigo": "1902",
+    "descricao": "OBRAS CIVIS - PERFURACAO DE POCOS"
+  }
+]
