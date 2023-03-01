@@ -1,14 +1,14 @@
 [
   {
-    "grupo": "941",
-    "classe": "'-7",
-    "codigo": "19160",
-    "descricao": "MANUTENCAO DE REDES - AGUA / ESGOTO"
+    "group": "941",
+    "class": "'-7",
+    "code": "19160",
+    "description": "MANUTENCAO DE REDES - AGUA / ESGOTO"
   },
   {
-    "grupo": "941",
-    "classe": "9411",
-    "codigo": "19526",
-    "descricao": "COLETA / TRATAMENTO - ESGOTO SANITARIO"
+    "group": "941",
+    "class": "9411",
+    "code": "19526",
+    "description": "COLETA / TRATAMENTO - ESGOTO SANITARIO"
   }
 ]

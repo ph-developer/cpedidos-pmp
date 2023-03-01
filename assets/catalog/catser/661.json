@@ -1,20 +1,20 @@
 [
   {
-    "grupo": "661",
-    "classe": "'-7",
-    "codigo": "3174",
-    "descricao": "TRANSPORTE AEREO POR HELICOPTERO / AVIAO"
+    "group": "661",
+    "class": "'-7",
+    "code": "3174",
+    "description": "TRANSPORTE AEREO POR HELICOPTERO / AVIAO"
   },
   {
-    "grupo": "661",
-    "classe": "'-7",
-    "codigo": "25275",
-    "descricao": "PRESTACAO DE SERVICOS DE PILOTO DE AERONAVE"
+    "group": "661",
+    "class": "'-7",
+    "code": "25275",
+    "description": "PRESTACAO DE SERVICOS DE PILOTO DE AERONAVE"
   },
   {
-    "grupo": "661",
-    "classe": "'-7",
-    "codigo": "25828",
-    "descricao": "CONTRATACAO DE PASSAGEM AEREA JUNTO A COMPANHIA CREDENCIADA"
+    "group": "661",
+    "class": "'-7",
+    "code": "25828",
+    "description": "CONTRATACAO DE PASSAGEM AEREA JUNTO A COMPANHIA CREDENCIADA"
   }
 ]

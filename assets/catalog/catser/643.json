@@ -1,344 +1,344 @@
 [
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "12831",
-    "descricao": "TRANSPORTE RODOVIARIO - COMBUSTIVEL / LUBRIFICANTE"
+    "group": "643",
+    "class": "'-7",
+    "code": "12831",
+    "description": "TRANSPORTE RODOVIARIO - COMBUSTIVEL / LUBRIFICANTE"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "18309",
-    "descricao": "TRANSPORTE / ENTREGA - CARGA FRIGORIFICA"
+    "group": "643",
+    "class": "'-7",
+    "code": "18309",
+    "description": "TRANSPORTE / ENTREGA - CARGA FRIGORIFICA"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "18457",
-    "descricao": "TRANSPORTE RODOVIARIO - CARGA VIVA"
+    "group": "643",
+    "class": "'-7",
+    "code": "18457",
+    "description": "TRANSPORTE RODOVIARIO - CARGA VIVA"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "19445",
-    "descricao": "TRANSPORTE RODOVIARIO - MEDICAMENTO"
+    "group": "643",
+    "class": "'-7",
+    "code": "19445",
+    "description": "TRANSPORTE RODOVIARIO - MEDICAMENTO"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "19704",
-    "descricao": "TRANSPORTE RODOVIARIO - PUBLICACAO / LIVRO"
+    "group": "643",
+    "class": "'-7",
+    "code": "19704",
+    "description": "TRANSPORTE RODOVIARIO - PUBLICACAO / LIVRO"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "22730",
-    "descricao": "TRANSPORTE RODOVIARIO-MOBILIARIO/MATERIAIS/EQUIPAMENTOS/BENSPESSOAIS"
+    "group": "643",
+    "class": "'-7",
+    "code": "22730",
+    "description": "TRANSPORTE RODOVIARIO-MOBILIARIO/MATERIAIS/EQUIPAMENTOS/BENSPESSOAIS"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "22772",
-    "descricao": "TRANSPORTE DE MUDANCA - INTERMUNICIPAL"
+    "group": "643",
+    "class": "'-7",
+    "code": "22772",
+    "description": "TRANSPORTE DE MUDANCA - INTERMUNICIPAL"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23191",
-    "descricao": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR - DIARIA DE2ª A 6ª FEIRA"
+    "group": "643",
+    "class": "'-7",
+    "code": "23191",
+    "description": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR - DIARIA DE2ª A 6ª FEIRA"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23213",
-    "descricao": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR - DIARIA DE2ª A DOMINGO"
+    "group": "643",
+    "class": "'-7",
+    "code": "23213",
+    "description": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR - DIARIA DE2ª A DOMINGO"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23230",
-    "descricao": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR - DIARIA DESABADO / DOMINGO / FERIADOS"
+    "group": "643",
+    "class": "'-7",
+    "code": "23230",
+    "description": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR - DIARIA DESABADO / DOMINGO / FERIADOS"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23248",
-    "descricao": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR - MENSAL DE2ª A 6ª-FEIRA"
+    "group": "643",
+    "class": "'-7",
+    "code": "23248",
+    "description": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR - MENSAL DE2ª A 6ª-FEIRA"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23264",
-    "descricao": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR - MENSAL DE2ª A DOMINGO"
+    "group": "643",
+    "class": "'-7",
+    "code": "23264",
+    "description": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR - MENSAL DE2ª A DOMINGO"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23299",
-    "descricao": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR - MENSAL DESABADO / DOMINGO / FERIADOS"
+    "group": "643",
+    "class": "'-7",
+    "code": "23299",
+    "description": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR - MENSAL DESABADO / DOMINGO / FERIADOS"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23310",
-    "descricao": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR - POR HORA"
+    "group": "643",
+    "class": "'-7",
+    "code": "23310",
+    "description": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR - POR HORA"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23353",
-    "descricao": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR - 12 HORAS DIURNAS DE 2ª A 6ª-FEIRA"
+    "group": "643",
+    "class": "'-7",
+    "code": "23353",
+    "description": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR - 12 HORAS DIURNAS DE 2ª A 6ª-FEIRA"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23388",
-    "descricao": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR - CONDUCAODE VEICULO - 44 HORAS SEMANAIS DIURNAS"
+    "group": "643",
+    "class": "'-7",
+    "code": "23388",
+    "description": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR - CONDUCAODE VEICULO - 44 HORAS SEMANAIS DIURNAS"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23418",
-    "descricao": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR - CONDUCAODE VEICULO - 12 HORAS DIURNAS DE 2ª A DOMINGO"
+    "group": "643",
+    "class": "'-7",
+    "code": "23418",
+    "description": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR - CONDUCAODE VEICULO - 12 HORAS DIURNAS DE 2ª A DOMINGO"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23442",
-    "descricao": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR - CONDUCAODE VEICULO - 12 HORAS DIURNAS DE SABADO / DOMINGO / FERIADOS"
+    "group": "643",
+    "class": "'-7",
+    "code": "23442",
+    "description": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR - CONDUCAODE VEICULO - 12 HORAS DIURNAS DE SABADO / DOMINGO / FERIADOS"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23469",
-    "descricao": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR - CONDUCAODE VEICULO - 12 HORAS NOTURNAS DE 2ª A 6ª-FEIRA"
+    "group": "643",
+    "class": "'-7",
+    "code": "23469",
+    "description": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR - CONDUCAODE VEICULO - 12 HORAS NOTURNAS DE 2ª A 6ª-FEIRA"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23493",
-    "descricao": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR - CONDUCAODE VEICULO - 12 HORAS NOTURNAS DE 2ª A DOMINGO"
+    "group": "643",
+    "class": "'-7",
+    "code": "23493",
+    "description": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR - CONDUCAODE VEICULO - 12 HORAS NOTURNAS DE 2ª A DOMINGO"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23531",
-    "descricao": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR - CONDUCAODE VEICULO - 12 HORAS NOTURNAS DE SABADO/DOMINGO/FERIADOS"
+    "group": "643",
+    "class": "'-7",
+    "code": "23531",
+    "description": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR - CONDUCAODE VEICULO - 12 HORAS NOTURNAS DE SABADO/DOMINGO/FERIADOS"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23558",
-    "descricao": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR - CONDUCAODE VEICULO - POR HORA"
+    "group": "643",
+    "class": "'-7",
+    "code": "23558",
+    "description": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR - CONDUCAODE VEICULO - POR HORA"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23574",
-    "descricao": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR ENVOLVENDOVEICULO/CONDUCAO/MANUTENCAO/COMBUSTIVEL-44H SEMANAIS DIURNAS"
+    "group": "643",
+    "class": "'-7",
+    "code": "23574",
+    "description": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR ENVOLVENDOVEICULO/CONDUCAO/MANUTENCAO/COMBUSTIVEL-44H SEMANAIS DIURNAS"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23612",
-    "descricao": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR ENVOLVENDOVEIC/CONDUCAO/MANUT/COMBUSTIVEL-12H DIURNAS DE 2ª A 6ª-FEIRA"
+    "group": "643",
+    "class": "'-7",
+    "code": "23612",
+    "description": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR ENVOLVENDOVEIC/CONDUCAO/MANUT/COMBUSTIVEL-12H DIURNAS DE 2ª A 6ª-FEIRA"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23663",
-    "descricao": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR ENVOLVENDOVEIC/CONDUCAO/MANUT/COMBUSTIVEL-12H DIURNAS DE 2ª A DOMINGO"
+    "group": "643",
+    "class": "'-7",
+    "code": "23663",
+    "description": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR ENVOLVENDOVEIC/CONDUCAO/MANUT/COMBUSTIVEL-12H DIURNAS DE 2ª A DOMINGO"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23698",
-    "descricao": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR ENVOLVENDOVEIC/CONDUCAO/MANUT/COMBUSTIVEL-12H DIURNAS SAB/DOM/FERIADOS"
+    "group": "643",
+    "class": "'-7",
+    "code": "23698",
+    "description": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR ENVOLVENDOVEIC/CONDUCAO/MANUT/COMBUSTIVEL-12H DIURNAS SAB/DOM/FERIADOS"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23728",
-    "descricao": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR ENVOLVENDOVEIC/CONDUC/MANUT/COMBUSTIVEL-12H NOTURNAS DE SEG A DOMINGO"
+    "group": "643",
+    "class": "'-7",
+    "code": "23728",
+    "description": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR ENVOLVENDOVEIC/CONDUC/MANUT/COMBUSTIVEL-12H NOTURNAS DE SEG A DOMINGO"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23736",
-    "descricao": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR ENVOLVENDOVEIC/CONDUC/MANUT/COMBUSTIVEL - 12H NOTURNAS DE SEG A SEXTA"
+    "group": "643",
+    "class": "'-7",
+    "code": "23736",
+    "description": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR ENVOLVENDOVEIC/CONDUC/MANUT/COMBUSTIVEL - 12H NOTURNAS DE SEG A SEXTA"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "23744",
-    "descricao": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR ENVOLVENDOVEIC/CONDUC/MANUT/COMBUSTIVEL-12H NOTURNAS SAB/DOM/FERIADOS"
+    "group": "643",
+    "class": "'-7",
+    "code": "23744",
+    "description": "PRESTACAO DE SERVICO DE  TRANSPORTE PARA SERVIDOR ENVOLVENDOVEIC/CONDUC/MANUT/COMBUSTIVEL-12H NOTURNAS SAB/DOM/FERIADOS"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "24198",
-    "descricao": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR - OUTRAS   NECESSIDADES"
+    "group": "643",
+    "class": "'-7",
+    "code": "24198",
+    "description": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR - OUTRAS   NECESSIDADES"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "24201",
-    "descricao": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR - CONDUCAO DE VEICULO - OUTRAS NECESSIDADES"
+    "group": "643",
+    "class": "'-7",
+    "code": "24201",
+    "description": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR - CONDUCAO DE VEICULO - OUTRAS NECESSIDADES"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "24210",
-    "descricao": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR ENVOLVENDO VEICULO/CONDUCAO/MANUTENCAO/COMBUSTIVEL-OUTRAS NECESSIDADES"
+    "group": "643",
+    "class": "'-7",
+    "code": "24210",
+    "description": "PRESTACAO DE SERVICO DE TRANSPORTE PARA SERVIDOR ENVOLVENDO VEICULO/CONDUCAO/MANUTENCAO/COMBUSTIVEL-OUTRAS NECESSIDADES"
   },
   {
-    "grupo": "643",
-    "classe": "'-7",
-    "codigo": "24341",
-    "descricao": "SERVICO DE TRANSPORTE PARA SERVIDOR ENVOLVENDO VEICULO/MANU-TENCAO/COMBUSTIVEL - 24 HORAS ININTERRUPTAS - SEG A DOMINGO"
+    "group": "643",
+    "class": "'-7",
+    "code": "24341",
+    "description": "SERVICO DE TRANSPORTE PARA SERVIDOR ENVOLVENDO VEICULO/MANU-TENCAO/COMBUSTIVEL - 24 HORAS ININTERRUPTAS - SEG A DOMINGO"
   },
   {
-    "grupo": "643",
-    "classe": "6431",
-    "codigo": "3239",
-    "descricao": "TRANSPORTE RODOVIARIO - PESSOAL POR AUTOMOVEIS"
+    "group": "643",
+    "class": "6431",
+    "code": "3239",
+    "description": "TRANSPORTE RODOVIARIO - PESSOAL POR AUTOMOVEIS"
   },
   {
-    "grupo": "643",
-    "classe": "6431",
-    "codigo": "25763",
-    "descricao": "FORNECIMENTO PASSAGEM RODOVIARIA"
+    "group": "643",
+    "class": "6431",
+    "code": "25763",
+    "description": "FORNECIMENTO PASSAGEM RODOVIARIA"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "3212",
-    "descricao": "TRANSPORTE DE MUDANCA - LOCAL"
+    "group": "643",
+    "class": "6433",
+    "code": "3212",
+    "description": "TRANSPORTE DE MUDANCA - LOCAL"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "3220",
-    "descricao": "TRANSPORTE DE MUDANCA - INTERESTADUAL"
+    "group": "643",
+    "class": "6433",
+    "code": "3220",
+    "description": "TRANSPORTE DE MUDANCA - INTERESTADUAL"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "3263",
-    "descricao": "TRANSPORTE RODOVIARIO - CARGAS / ENCOMENDAS"
+    "group": "643",
+    "class": "6433",
+    "code": "3263",
+    "description": "TRANSPORTE RODOVIARIO - CARGAS / ENCOMENDAS"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "3271",
-    "descricao": "TRANSPORTE RODOVIARIO VALORES"
+    "group": "643",
+    "class": "6433",
+    "code": "3271",
+    "description": "TRANSPORTE RODOVIARIO VALORES"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "3280",
-    "descricao": "TRANSPORTE RODOVIARIO - MATERIAIS EMBALADOS, SOLTOS E  A GRANEL"
+    "group": "643",
+    "class": "6433",
+    "code": "3280",
+    "description": "TRANSPORTE RODOVIARIO - MATERIAIS EMBALADOS, SOLTOS E  A GRANEL"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "3298",
-    "descricao": "TRANSPORTE RODOVIARIO - PRODUTOS SIDERURGICOS"
+    "group": "643",
+    "class": "6433",
+    "code": "3298",
+    "description": "TRANSPORTE RODOVIARIO - PRODUTOS SIDERURGICOS"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "3301",
-    "descricao": "TRANSPORTE RODOVIARIO - GRANEIS LIQUIDOS"
+    "group": "643",
+    "class": "6433",
+    "code": "3301",
+    "description": "TRANSPORTE RODOVIARIO - GRANEIS LIQUIDOS"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "3336",
-    "descricao": "TRANSPORTE RODOVIARIO - EXPLOSIVOS"
+    "group": "643",
+    "class": "6433",
+    "code": "3336",
+    "description": "TRANSPORTE RODOVIARIO - EXPLOSIVOS"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "5126",
-    "descricao": "TRANSPORTE RODOVIARIO - EQUIPAMENTOS ELETRICOS DE PROTECAO ECONTROLE"
+    "group": "643",
+    "class": "6433",
+    "code": "5126",
+    "description": "TRANSPORTE RODOVIARIO - EQUIPAMENTOS ELETRICOS DE PROTECAO ECONTROLE"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "5134",
-    "descricao": "TRANSPORTE RODOVIARIO - OLEO ISOLANTE"
+    "group": "643",
+    "class": "6433",
+    "code": "5134",
+    "description": "TRANSPORTE RODOVIARIO - OLEO ISOLANTE"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "5142",
-    "descricao": "TRANSPORTE RODOVIARIO - CARGA PESADA OU  DIMENSOES ESPECIAISATE 50T"
+    "group": "643",
+    "class": "6433",
+    "code": "5142",
+    "description": "TRANSPORTE RODOVIARIO - CARGA PESADA OU  DIMENSOES ESPECIAISATE 50T"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "5150",
-    "descricao": "TRANSPORTE RODOVIARIO - CARGA PESADA OU DIMENSOES  ESPECIAISDE 50 ATE 100T"
+    "group": "643",
+    "class": "6433",
+    "code": "5150",
+    "description": "TRANSPORTE RODOVIARIO - CARGA PESADA OU DIMENSOES  ESPECIAISDE 50 ATE 100T"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "5169",
-    "descricao": "TRANSPORTE RODOVIARIO - CARGA PESADA OU DIMENSOES  ESPECIAISDE 100 ATE 150T"
+    "group": "643",
+    "class": "6433",
+    "code": "5169",
+    "description": "TRANSPORTE RODOVIARIO - CARGA PESADA OU DIMENSOES  ESPECIAISDE 100 ATE 150T"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "5177",
-    "descricao": "TRANSPORTE RODOVIARIO - CARGA PESADA OU DIMENSOES  ESPECIAISDE 150 ATE 200T"
+    "group": "643",
+    "class": "6433",
+    "code": "5177",
+    "description": "TRANSPORTE RODOVIARIO - CARGA PESADA OU DIMENSOES  ESPECIAISDE 150 ATE 200T"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "5185",
-    "descricao": "TRANSPORTE RODOVIARIO - CARGA PESADA OU DIMENSOES  ESPECIAISACIMA DE 200T"
+    "group": "643",
+    "class": "6433",
+    "code": "5185",
+    "description": "TRANSPORTE RODOVIARIO - CARGA PESADA OU DIMENSOES  ESPECIAISACIMA DE 200T"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "5193",
-    "descricao": "TRANSPORTE RODOVIARIO - SUBSTANCIAS PERIGOSAS /  GRANELEIROS"
+    "group": "643",
+    "class": "6433",
+    "code": "5193",
+    "description": "TRANSPORTE RODOVIARIO - SUBSTANCIAS PERIGOSAS /  GRANELEIROS"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "5207",
-    "descricao": "TRANSPORTE RODOVIARIO - SUBSTANCIAS  PERIGOSAS POR  VEICULOSCOMUNS"
+    "group": "643",
+    "class": "6433",
+    "code": "5207",
+    "description": "TRANSPORTE RODOVIARIO - SUBSTANCIAS  PERIGOSAS POR  VEICULOSCOMUNS"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "5215",
-    "descricao": "TRANSPORTE RODOVIARIO - POSTES"
+    "group": "643",
+    "class": "6433",
+    "code": "5215",
+    "description": "TRANSPORTE RODOVIARIO - POSTES"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "5223",
-    "descricao": "TRANSPORTE DE CARGA DE TEMPERATURA CONTROLADA"
+    "group": "643",
+    "class": "6433",
+    "code": "5223",
+    "description": "TRANSPORTE DE CARGA DE TEMPERATURA CONTROLADA"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "5231",
-    "descricao": "TRANSPORTE RODOVIARIO - CONTAINERS"
+    "group": "643",
+    "class": "6433",
+    "code": "5231",
+    "description": "TRANSPORTE RODOVIARIO - CONTAINERS"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "5240",
-    "descricao": "TRANSPORTE RODOVIARIO - VEICULOS"
+    "group": "643",
+    "class": "6433",
+    "code": "5240",
+    "description": "TRANSPORTE RODOVIARIO - VEICULOS"
   },
   {
-    "grupo": "643",
-    "classe": "6433",
-    "codigo": "24864",
-    "descricao": "TRANSPORTE RODOVIARIO DE CARGA POR CAMINHOES TANQUE OU TANQUES SEMI-TRAILERS"
+    "group": "643",
+    "class": "6433",
+    "code": "24864",
+    "description": "TRANSPORTE RODOVIARIO DE CARGA POR CAMINHOES TANQUE OU TANQUES SEMI-TRAILERS"
   }
 ]

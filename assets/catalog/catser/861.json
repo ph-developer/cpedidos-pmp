@@ -1,110 +1,110 @@
 [
   {
-    "grupo": "861",
-    "classe": "'-7",
-    "codigo": "14362",
-    "descricao": "AGROPECUARIA - ADMINISTRACAO E COMERCIALIZACAO DE PRODUCAO"
+    "group": "861",
+    "class": "'-7",
+    "code": "14362",
+    "description": "AGROPECUARIA - ADMINISTRACAO E COMERCIALIZACAO DE PRODUCAO"
   },
   {
-    "grupo": "861",
-    "classe": "'-7",
-    "codigo": "14796",
-    "descricao": "PRODUCAO DE MUDAS"
+    "group": "861",
+    "class": "'-7",
+    "code": "14796",
+    "description": "PRODUCAO DE MUDAS"
   },
   {
-    "grupo": "861",
-    "classe": "'-7",
-    "codigo": "15040",
-    "descricao": "ABATE - ANIMAL / AVE"
+    "group": "861",
+    "class": "'-7",
+    "code": "15040",
+    "description": "ABATE - ANIMAL / AVE"
   },
   {
-    "grupo": "861",
-    "classe": "'-7",
-    "codigo": "15130",
-    "descricao": "PODA, CORTE, ARRANCAMENTO DE ÁRVORES - ÁREAS PÚBLICA / PARTICULAR"
+    "group": "861",
+    "class": "'-7",
+    "code": "15130",
+    "description": "PODA, CORTE, ARRANCAMENTO DE ÁRVORES - ÁREAS PÚBLICA / PARTICULAR"
   },
   {
-    "grupo": "861",
-    "classe": "'-7",
-    "codigo": "15148",
-    "descricao": "PLANTIO DE ARVORE"
+    "group": "861",
+    "class": "'-7",
+    "code": "15148",
+    "description": "PLANTIO DE ARVORE"
   },
   {
-    "grupo": "861",
-    "classe": "'-7",
-    "codigo": "15300",
-    "descricao": "AGROPECUARIA - SERVICOS AUXILIARES"
+    "group": "861",
+    "class": "'-7",
+    "code": "15300",
+    "description": "AGROPECUARIA - SERVICOS AUXILIARES"
   },
   {
-    "grupo": "861",
-    "classe": "'-7",
-    "codigo": "15318",
-    "descricao": "AGROPECUARIA - PESQUISA"
+    "group": "861",
+    "class": "'-7",
+    "code": "15318",
+    "description": "AGROPECUARIA - PESQUISA"
   },
   {
-    "grupo": "861",
-    "classe": "'-7",
-    "codigo": "15326",
-    "descricao": "AGROPECUARIA - ASSISTENCIA TECNICA E EXTENSAO RURAL"
+    "group": "861",
+    "class": "'-7",
+    "code": "15326",
+    "description": "AGROPECUARIA - ASSISTENCIA TECNICA E EXTENSAO RURAL"
   },
   {
-    "grupo": "861",
-    "classe": "'-7",
-    "codigo": "15954",
-    "descricao": "AGRICULTURA - PREPARACAO / PLANTIO / COLHEITA"
+    "group": "861",
+    "class": "'-7",
+    "code": "15954",
+    "description": "AGRICULTURA - PREPARACAO / PLANTIO / COLHEITA"
   },
   {
-    "grupo": "861",
-    "classe": "'-7",
-    "codigo": "15962",
-    "descricao": "AGRICULTURA - INSTALACAO / MANUTENCAO DE CERCA"
+    "group": "861",
+    "class": "'-7",
+    "code": "15962",
+    "description": "AGRICULTURA - INSTALACAO / MANUTENCAO DE CERCA"
   },
   {
-    "grupo": "861",
-    "classe": "'-7",
-    "codigo": "22934",
-    "descricao": "SERVICOS ESPECIALIZADOS EM BIOTECNOLOGIA"
+    "group": "861",
+    "class": "'-7",
+    "code": "22934",
+    "description": "SERVICOS ESPECIALIZADOS EM BIOTECNOLOGIA"
   },
   {
-    "grupo": "861",
-    "classe": "'-7",
-    "codigo": "22942",
-    "descricao": "PESQUISA,DESENVOLVIMENTO E APERFEICOAMENTO DE BIOTECNOLOGIAS"
+    "group": "861",
+    "class": "'-7",
+    "code": "22942",
+    "description": "PESQUISA,DESENVOLVIMENTO E APERFEICOAMENTO DE BIOTECNOLOGIAS"
   },
   {
-    "grupo": "861",
-    "classe": "'-7",
-    "codigo": "25682",
-    "descricao": "ESTUDOS E PROJETOS AGRONOMIA"
+    "group": "861",
+    "class": "'-7",
+    "code": "25682",
+    "description": "ESTUDOS E PROJETOS AGRONOMIA"
   },
   {
-    "grupo": "861",
-    "classe": "8611",
-    "codigo": "15016",
-    "descricao": "ANALISE DE SEMENTE"
+    "group": "861",
+    "class": "8611",
+    "code": "15016",
+    "description": "ANALISE DE SEMENTE"
   },
   {
-    "grupo": "861",
-    "classe": "8611",
-    "codigo": "22780",
-    "descricao": "RECUPERACAO / MANUTENCAO / TRANSPORTE / TRANSPLANTE PLANTAS"
+    "group": "861",
+    "class": "8611",
+    "code": "22780",
+    "description": "RECUPERACAO / MANUTENCAO / TRANSPORTE / TRANSPLANTE PLANTAS"
   },
   {
-    "grupo": "861",
-    "classe": "8612",
-    "codigo": "15717",
-    "descricao": "SUINOCULTURA - PROJETO TECNICO"
+    "group": "861",
+    "class": "8612",
+    "code": "15717",
+    "description": "SUINOCULTURA - PROJETO TECNICO"
   },
   {
-    "grupo": "861",
-    "classe": "8615",
-    "codigo": "19453",
-    "descricao": "PISCICULTURA"
+    "group": "861",
+    "class": "8615",
+    "code": "19453",
+    "description": "PISCICULTURA"
   },
   {
-    "grupo": "861",
-    "classe": "8615",
-    "codigo": "19950",
-    "descricao": "PESCA PROFISSIONAL"
+    "group": "861",
+    "class": "8615",
+    "code": "19950",
+    "description": "PESCA PROFISSIONAL"
   }
 ]

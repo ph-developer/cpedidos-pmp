@@ -1,20 +1,20 @@
 [
   {
-    "grupo": "131",
-    "classe": "1311",
-    "codigo": "26050",
-    "descricao": "INFRAESTRUTURA COMO SERVICO - IAAS"
+    "group": "131",
+    "class": "1311",
+    "code": "26050",
+    "description": "INFRAESTRUTURA COMO SERVICO - IAAS"
   },
   {
-    "grupo": "131",
-    "classe": "1312",
-    "codigo": "26069",
-    "descricao": "PLATAFORMA COMO SERVICO - PAAS"
+    "group": "131",
+    "class": "1312",
+    "code": "26069",
+    "description": "PLATAFORMA COMO SERVICO - PAAS"
   },
   {
-    "grupo": "131",
-    "classe": "1313",
-    "codigo": "26077",
-    "descricao": "SOFTWARE COMO SERVICO - SAAS"
+    "group": "131",
+    "class": "1313",
+    "code": "26077",
+    "description": "SOFTWARE COMO SERVICO - SAAS"
   }
 ]

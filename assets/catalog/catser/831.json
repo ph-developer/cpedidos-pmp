@@ -1,938 +1,938 @@
 [
   {
-    "grupo": "831",
-    "classe": "'-7",
-    "codigo": "4103",
-    "descricao": "CONSULTORIA / ASSESSORIA - LOGISTICA"
+    "group": "831",
+    "class": "'-7",
+    "code": "4103",
+    "description": "CONSULTORIA / ASSESSORIA - LOGISTICA"
   },
   {
-    "grupo": "831",
-    "classe": "'-7",
-    "codigo": "4537",
-    "descricao": "AUDITORIA EM AREA DE QUALIDADE"
+    "group": "831",
+    "class": "'-7",
+    "code": "4537",
+    "description": "AUDITORIA EM AREA DE QUALIDADE"
   },
   {
-    "grupo": "831",
-    "classe": "'-7",
-    "codigo": "8770",
-    "descricao": "CONSULTORIA E ASSESSORIA - MEDICA GERAL"
+    "group": "831",
+    "class": "'-7",
+    "code": "8770",
+    "description": "CONSULTORIA E ASSESSORIA - MEDICA GERAL"
   },
   {
-    "grupo": "831",
-    "classe": "'-7",
-    "codigo": "8788",
-    "descricao": "CONSULTORIA E ASSESSORIA - ODONTOLOGICA"
+    "group": "831",
+    "class": "'-7",
+    "code": "8788",
+    "description": "CONSULTORIA E ASSESSORIA - ODONTOLOGICA"
   },
   {
-    "grupo": "831",
-    "classe": "'-7",
-    "codigo": "20591",
-    "descricao": "CONSULTORIA E ASSESSORIA - ARQUITETURA"
+    "group": "831",
+    "class": "'-7",
+    "code": "20591",
+    "description": "CONSULTORIA E ASSESSORIA - ARQUITETURA"
   },
   {
-    "grupo": "831",
-    "classe": "'-7",
-    "codigo": "21288",
-    "descricao": "CONSULTORIA E ASSESSORIA - FARMACEUTICA"
+    "group": "831",
+    "class": "'-7",
+    "code": "21288",
+    "description": "CONSULTORIA E ASSESSORIA - FARMACEUTICA"
   },
   {
-    "grupo": "831",
-    "classe": "'-7",
-    "codigo": "27596",
-    "descricao": "SERVICOS ESPECIALIZADOS EM MODELAGEM DE PROCESSOS - BPM"
+    "group": "831",
+    "class": "'-7",
+    "code": "27596",
+    "description": "SERVICOS ESPECIALIZADOS EM MODELAGEM DE PROCESSOS - BPM"
   },
   {
-    "grupo": "831",
-    "classe": "8311",
-    "codigo": "744",
-    "descricao": "CONSULTORIA E ASSESSORIA - ORGANIZACAO E METODOS"
+    "group": "831",
+    "class": "8311",
+    "code": "744",
+    "description": "CONSULTORIA E ASSESSORIA - ORGANIZACAO E METODOS"
   },
   {
-    "grupo": "831",
-    "classe": "8311",
-    "codigo": "752",
-    "descricao": "CONSULTORIA E ASSESSORIA - ECONOMICO / FINANCEIRA"
+    "group": "831",
+    "class": "8311",
+    "code": "752",
+    "description": "CONSULTORIA E ASSESSORIA - ECONOMICO / FINANCEIRA"
   },
   {
-    "grupo": "831",
-    "classe": "8311",
-    "codigo": "760",
-    "descricao": "CONSULTORIA E ASSESSORIA - CONTABIL"
+    "group": "831",
+    "class": "8311",
+    "code": "760",
+    "description": "CONSULTORIA E ASSESSORIA - CONTABIL"
   },
   {
-    "grupo": "831",
-    "classe": "8311",
-    "codigo": "779",
-    "descricao": "CONSULTORIA E ASSESSORIA - FISCAL"
+    "group": "831",
+    "class": "8311",
+    "code": "779",
+    "description": "CONSULTORIA E ASSESSORIA - FISCAL"
   },
   {
-    "grupo": "831",
-    "classe": "8311",
-    "codigo": "787",
-    "descricao": "CONSULTORIA E ASSESSORIA - TRIBUTARIA"
+    "group": "831",
+    "class": "8311",
+    "code": "787",
+    "description": "CONSULTORIA E ASSESSORIA - TRIBUTARIA"
   },
   {
-    "grupo": "831",
-    "classe": "8311",
-    "codigo": "795",
-    "descricao": "CONSULTORIA E ASSESSORIA - JURIDICA"
+    "group": "831",
+    "class": "8311",
+    "code": "795",
+    "description": "CONSULTORIA E ASSESSORIA - JURIDICA"
   },
   {
-    "grupo": "831",
-    "classe": "8311",
-    "codigo": "809",
-    "descricao": "CONSULTORIA / ASSESSORIA - ENGENHARIA"
+    "group": "831",
+    "class": "8311",
+    "code": "809",
+    "description": "CONSULTORIA / ASSESSORIA - ENGENHARIA"
   },
   {
-    "grupo": "831",
-    "classe": "8311",
-    "codigo": "817",
-    "descricao": "CONSULTORIA E ASSESSORIA - MEIO AMBIENTE"
+    "group": "831",
+    "class": "8311",
+    "code": "817",
+    "description": "CONSULTORIA E ASSESSORIA - MEIO AMBIENTE"
   },
   {
-    "grupo": "831",
-    "classe": "8311",
-    "codigo": "825",
-    "descricao": "CONSULTORIA E ASSESSORIA - QUALIDADE"
+    "group": "831",
+    "class": "8311",
+    "code": "825",
+    "description": "CONSULTORIA E ASSESSORIA - QUALIDADE"
   },
   {
-    "grupo": "831",
-    "classe": "8311",
-    "codigo": "841",
-    "descricao": "CONSULTORIA E ASSESSORIA - RECURSOS HUMANOS"
+    "group": "831",
+    "class": "8311",
+    "code": "841",
+    "description": "CONSULTORIA E ASSESSORIA - RECURSOS HUMANOS"
   },
   {
-    "grupo": "831",
-    "classe": "8311",
-    "codigo": "850",
-    "descricao": "CONSULTORIA E ASSESSORIA - ADMINISTRACAO DE MATERIAL"
+    "group": "831",
+    "class": "8311",
+    "code": "850",
+    "description": "CONSULTORIA E ASSESSORIA - ADMINISTRACAO DE MATERIAL"
   },
   {
-    "grupo": "831",
-    "classe": "8311",
-    "codigo": "15601",
-    "descricao": "CONSULTORIA E ASSESSORIA - COMUNICACAO"
+    "group": "831",
+    "class": "8311",
+    "code": "15601",
+    "description": "CONSULTORIA E ASSESSORIA - COMUNICACAO"
   },
   {
-    "grupo": "831",
-    "classe": "8311",
-    "codigo": "15881",
-    "descricao": "CONSULTORIA E ASSESSORIA - SETOR PUBLICO / PRIVADO"
+    "group": "831",
+    "class": "8311",
+    "code": "15881",
+    "description": "CONSULTORIA E ASSESSORIA - SETOR PUBLICO / PRIVADO"
   },
   {
-    "grupo": "831",
-    "classe": "8311",
-    "codigo": "16071",
-    "descricao": "CONSULTORIA E ASSESSORIA - AERONAUTICA"
+    "group": "831",
+    "class": "8311",
+    "code": "16071",
+    "description": "CONSULTORIA E ASSESSORIA - AERONAUTICA"
   },
   {
-    "grupo": "831",
-    "classe": "8311",
-    "codigo": "16241",
-    "descricao": "CONSULTORIA E ASSESSORIA - ERGONOMIA"
+    "group": "831",
+    "class": "8311",
+    "code": "16241",
+    "description": "CONSULTORIA E ASSESSORIA - ERGONOMIA"
   },
   {
-    "grupo": "831",
-    "classe": "8311",
-    "codigo": "16519",
-    "descricao": "CONSULTORIA E ASSESSORIA - AR CONDICIONADO / QUALIDADE DO AR"
+    "group": "831",
+    "class": "8311",
+    "code": "16519",
+    "description": "CONSULTORIA E ASSESSORIA - AR CONDICIONADO / QUALIDADE DO AR"
   },
   {
-    "grupo": "831",
-    "classe": "8311",
-    "codigo": "19674",
-    "descricao": "CONSULTORIA E ASSESSORIA - TERMONUCLEAR / TERMOELETRICA"
+    "group": "831",
+    "class": "8311",
+    "code": "19674",
+    "description": "CONSULTORIA E ASSESSORIA - TERMONUCLEAR / TERMOELETRICA"
   },
   {
-    "grupo": "831",
-    "classe": "8311",
-    "codigo": "19755",
-    "descricao": "CONSULTORIA E ASSESSORIA - CERTIFICACAO"
+    "group": "831",
+    "class": "8311",
+    "code": "19755",
+    "description": "CONSULTORIA E ASSESSORIA - CERTIFICACAO"
   },
   {
-    "grupo": "831",
-    "classe": "8311",
-    "codigo": "30002",
-    "descricao": "CONSULTORIA E ASSESSORIA EM NUTRICAO NOS SERVICOS DE ALIMENTACAO"
+    "group": "831",
+    "class": "8311",
+    "code": "30002",
+    "description": "CONSULTORIA E ASSESSORIA EM NUTRICAO NOS SERVICOS DE ALIMENTACAO"
   },
   {
-    "grupo": "831",
-    "classe": "8312",
-    "codigo": "13781",
-    "descricao": "CONSULTORIA TECNICA - DOCUMENTACAO"
+    "group": "831",
+    "class": "8312",
+    "code": "13781",
+    "description": "CONSULTORIA TECNICA - DOCUMENTACAO"
   },
   {
-    "grupo": "831",
-    "classe": "8313",
-    "codigo": "15440",
-    "descricao": "CONSULTORIA E ASSESSORIA - CURSO TECNICO"
+    "group": "831",
+    "class": "8313",
+    "code": "15440",
+    "description": "CONSULTORIA E ASSESSORIA - CURSO TECNICO"
   },
   {
-    "grupo": "831",
-    "classe": "8313",
-    "codigo": "22004",
-    "descricao": "CONSULTORIA E ASSESSORIA TECNICA - TERAPIA CORPORAL"
+    "group": "831",
+    "class": "8313",
+    "code": "22004",
+    "description": "CONSULTORIA E ASSESSORIA TECNICA - TERAPIA CORPORAL"
   },
   {
-    "grupo": "831",
-    "classe": "8315",
-    "codigo": "13668",
-    "descricao": "ESTUDOS E PROJETOS DE INSTALACAO DE REDE LOCAL DE MICROCOMPUTADOR"
+    "group": "831",
+    "class": "8315",
+    "code": "13668",
+    "description": "ESTUDOS E PROJETOS DE INSTALACAO DE REDE LOCAL DE MICROCOMPUTADOR"
   },
   {
-    "grupo": "831",
-    "classe": "8315",
-    "codigo": "13684",
-    "descricao": "ESTUDOS E PROJETOS DE INSTALACAO DE REDE COMUNICACAO / LOCAL"
+    "group": "831",
+    "class": "8315",
+    "code": "13684",
+    "description": "ESTUDOS E PROJETOS DE INSTALACAO DE REDE COMUNICACAO / LOCAL"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "19",
-    "descricao": "ESTUDOS E PROJETOS VIABILIDADE TECNICO - ECONOMICA  DE  APROVEITAMENTO HIDRELETRICO"
+    "group": "831",
+    "class": "8319",
+    "code": "19",
+    "description": "ESTUDOS E PROJETOS VIABILIDADE TECNICO - ECONOMICA  DE  APROVEITAMENTO HIDRELETRICO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "27",
-    "descricao": "ESTUDOS E PROJETOS DE VIABILIDADE TECNICO - ECONOMICA DE USINAS TERMOELETRICAS / TERMONUCLEARES / SOLAR FOTOVOTAICA"
+    "group": "831",
+    "class": "8319",
+    "code": "27",
+    "description": "ESTUDOS E PROJETOS DE VIABILIDADE TECNICO - ECONOMICA DE USINAS TERMOELETRICAS / TERMONUCLEARES / SOLAR FOTOVOTAICA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "35",
-    "descricao": "ESTUDOS E PROJETOS DE VIABILIDADE TECNICO - ECONOMICA DE UNIDADES INDUSTRIAIS"
+    "group": "831",
+    "class": "8319",
+    "code": "35",
+    "description": "ESTUDOS E PROJETOS DE VIABILIDADE TECNICO - ECONOMICA DE UNIDADES INDUSTRIAIS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "43",
-    "descricao": "ESTUDOS E PROJETOS VIABILIDADE TECNICO - ECONOMICA DE  RECURSOS NATURAIS"
+    "group": "831",
+    "class": "8319",
+    "code": "43",
+    "description": "ESTUDOS E PROJETOS VIABILIDADE TECNICO - ECONOMICA DE  RECURSOS NATURAIS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "51",
-    "descricao": "ESTUDOS E PROJETOS URBANISTICOS / PAISAGISTICOS / ARQUITETO-NICOS"
+    "group": "831",
+    "class": "8319",
+    "code": "51",
+    "description": "ESTUDOS E PROJETOS URBANISTICOS / PAISAGISTICOS / ARQUITETO-NICOS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "60",
-    "descricao": "ESTUDOS E PROJETOS DE ASSENTAMENTO POPULACIONAL"
+    "group": "831",
+    "class": "8319",
+    "code": "60",
+    "description": "ESTUDOS E PROJETOS DE ASSENTAMENTO POPULACIONAL"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "78",
-    "descricao": "ESTUDOS E PROJETOS DE ARQUITETURA"
+    "group": "831",
+    "class": "8319",
+    "code": "78",
+    "description": "ESTUDOS E PROJETOS DE ARQUITETURA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "86",
-    "descricao": "ESTUDOS E PROJETOS DE MEIO AMBIENTE - PLANO DIRETOR"
+    "group": "831",
+    "class": "8319",
+    "code": "86",
+    "description": "ESTUDOS E PROJETOS DE MEIO AMBIENTE - PLANO DIRETOR"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "94",
-    "descricao": "ESTUDOS E PROJETOS DE MEIO AMBIENTE - AVALIACAO E ELABORACAODO RELATORIO DE IMPACTO"
+    "group": "831",
+    "class": "8319",
+    "code": "94",
+    "description": "ESTUDOS E PROJETOS DE MEIO AMBIENTE - AVALIACAO E ELABORACAODO RELATORIO DE IMPACTO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "108",
-    "descricao": "ESTUDOS E PROJETOS DE MEIO AMBIENTE - CONFIABILIDADE E ANALISE DE RISCO"
+    "group": "831",
+    "class": "8319",
+    "code": "108",
+    "description": "ESTUDOS E PROJETOS DE MEIO AMBIENTE - CONFIABILIDADE E ANALISE DE RISCO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "116",
-    "descricao": "ESTUDOS E PROJETOS DE MEIO AMBIENTE FISICO"
+    "group": "831",
+    "class": "8319",
+    "code": "116",
+    "description": "ESTUDOS E PROJETOS DE MEIO AMBIENTE FISICO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "124",
-    "descricao": "ESTUDOS E PROJETOS DE MEIO AMBIENTE BIOTICO"
+    "group": "831",
+    "class": "8319",
+    "code": "124",
+    "description": "ESTUDOS E PROJETOS DE MEIO AMBIENTE BIOTICO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "132",
-    "descricao": "ESTUDOS E PROJETOS DE MEIO AMBIENTE, SOCIO - ECONOMICO, CUL-TURAL"
+    "group": "831",
+    "class": "8319",
+    "code": "132",
+    "description": "ESTUDOS E PROJETOS DE MEIO AMBIENTE, SOCIO - ECONOMICO, CUL-TURAL"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "140",
-    "descricao": "ESTUDOS E PROJETOS DE FUNDACOES DIRETAS E PROFUNDAS"
+    "group": "831",
+    "class": "8319",
+    "code": "140",
+    "description": "ESTUDOS E PROJETOS DE FUNDACOES DIRETAS E PROFUNDAS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "159",
-    "descricao": "ESTUDOS E PROJETOS DE CORTES, ATERROS E ESCORAMENTOS"
+    "group": "831",
+    "class": "8319",
+    "code": "159",
+    "description": "ESTUDOS E PROJETOS DE CORTES, ATERROS E ESCORAMENTOS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "167",
-    "descricao": "ESTUDOS E PROJETOS DE REBAIXAMENTO DE LENCOL D'AGUA"
+    "group": "831",
+    "class": "8319",
+    "code": "167",
+    "description": "ESTUDOS E PROJETOS DE REBAIXAMENTO DE LENCOL D'AGUA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "175",
-    "descricao": "ESTUDOS E PROJETOS DE ESTRUTURAS -  CONCRETO ARMADO"
+    "group": "831",
+    "class": "8319",
+    "code": "175",
+    "description": "ESTUDOS E PROJETOS DE ESTRUTURAS -  CONCRETO ARMADO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "183",
-    "descricao": "ESTUDOS E PROJETOS DE ESTRUTURAS -  CONCRETO PROTENDIDO"
+    "group": "831",
+    "class": "8319",
+    "code": "183",
+    "description": "ESTUDOS E PROJETOS DE ESTRUTURAS -  CONCRETO PROTENDIDO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "191",
-    "descricao": "ESTUDOS E PROJETOS DE ESTRUTURAS - METALICAS"
+    "group": "831",
+    "class": "8319",
+    "code": "191",
+    "description": "ESTUDOS E PROJETOS DE ESTRUTURAS - METALICAS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "205",
-    "descricao": "ESTUDOS E PROJETOS DE RECUPERACAO E REFORCO DE ESTRUTURAS"
+    "group": "831",
+    "class": "8319",
+    "code": "205",
+    "description": "ESTUDOS E PROJETOS DE RECUPERACAO E REFORCO DE ESTRUTURAS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "213",
-    "descricao": "ESTUDOS E PROJETOS DE INSTALACAO ELETRICA"
+    "group": "831",
+    "class": "8319",
+    "code": "213",
+    "description": "ESTUDOS E PROJETOS DE INSTALACAO ELETRICA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "221",
-    "descricao": "ESTUDOS E PROJETOS DE INSTALACAO HIDRO-SANITARIA"
+    "group": "831",
+    "class": "8319",
+    "code": "221",
+    "description": "ESTUDOS E PROJETOS DE INSTALACAO HIDRO-SANITARIA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "230",
-    "descricao": "ESTUDOS E PROJETOS DE INSTALACAO TELEFONICA"
+    "group": "831",
+    "class": "8319",
+    "code": "230",
+    "description": "ESTUDOS E PROJETOS DE INSTALACAO TELEFONICA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "248",
-    "descricao": "ESTUDOS E PROJETOS DE INSTALACAO DE GAS -  INSTALACOES  PRE-DIAIS / INDUSTRIAIS"
+    "group": "831",
+    "class": "8319",
+    "code": "248",
+    "description": "ESTUDOS E PROJETOS DE INSTALACAO DE GAS -  INSTALACOES  PRE-DIAIS / INDUSTRIAIS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "256",
-    "descricao": "ESTUDOS E PROJETOS DE INSTALACAO ELETRONICA"
+    "group": "831",
+    "class": "8319",
+    "code": "256",
+    "description": "ESTUDOS E PROJETOS DE INSTALACAO ELETRONICA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "264",
-    "descricao": "ESTUDOS E PROJETOS - INSTALACOES PREDIAIS"
+    "group": "831",
+    "class": "8319",
+    "code": "264",
+    "description": "ESTUDOS E PROJETOS - INSTALACOES PREDIAIS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "272",
-    "descricao": "ESTUDOS E PROJETOS DE INSTALACAO DE SOM AMBIENTE"
+    "group": "831",
+    "class": "8319",
+    "code": "272",
+    "description": "ESTUDOS E PROJETOS DE INSTALACAO DE SOM AMBIENTE"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "280",
-    "descricao": "ESTUDOS E PROJETOS DE SANEAMENTO - CAPTACAO, ADUCAO E DISTRIBUICAO DE AGUA"
+    "group": "831",
+    "class": "8319",
+    "code": "280",
+    "description": "ESTUDOS E PROJETOS DE SANEAMENTO - CAPTACAO, ADUCAO E DISTRIBUICAO DE AGUA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "299",
-    "descricao": "ESTUDOS E PROJETOS DE SANEAMENTO - TRATAMENTO DE AGUA"
+    "group": "831",
+    "class": "8319",
+    "code": "299",
+    "description": "ESTUDOS E PROJETOS DE SANEAMENTO - TRATAMENTO DE AGUA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "302",
-    "descricao": "ESTUDOS E PROJETOS DE SANEAMENTO - SISTEMA DE ESGOTO SANITARIO"
+    "group": "831",
+    "class": "8319",
+    "code": "302",
+    "description": "ESTUDOS E PROJETOS DE SANEAMENTO - SISTEMA DE ESGOTO SANITARIO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "310",
-    "descricao": "ESTUDOS E PROJETOS DE SANEAMENTO - TRATAMENTO DESPEJO SANITARIO"
+    "group": "831",
+    "class": "8319",
+    "code": "310",
+    "description": "ESTUDOS E PROJETOS DE SANEAMENTO - TRATAMENTO DESPEJO SANITARIO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "329",
-    "descricao": "ESTUDOS E PROJETOS DE SANEAMENTO - TRATAMENTO DESPEJO  INDUSTRIAL"
+    "group": "831",
+    "class": "8319",
+    "code": "329",
+    "description": "ESTUDOS E PROJETOS DE SANEAMENTO - TRATAMENTO DESPEJO  INDUSTRIAL"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "337",
-    "descricao": "ESTUDOS E PROJETOS DE SANEAMENTO - SISTEMA DE DRENAGEM PLUVIAL"
+    "group": "831",
+    "class": "8319",
+    "code": "337",
+    "description": "ESTUDOS E PROJETOS DE SANEAMENTO - SISTEMA DE DRENAGEM PLUVIAL"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "345",
-    "descricao": "ESTUDOS E PROJETOS DE SANEAMENTO - SISTEMA DE DRENAGEM INDUSTRIAL"
+    "group": "831",
+    "class": "8319",
+    "code": "345",
+    "description": "ESTUDOS E PROJETOS DE SANEAMENTO - SISTEMA DE DRENAGEM INDUSTRIAL"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "353",
-    "descricao": "ESTUDOS E PROJETOS DE TRATAMENTO DE REJEITOS RADIOATIVOS"
+    "group": "831",
+    "class": "8319",
+    "code": "353",
+    "description": "ESTUDOS E PROJETOS DE TRATAMENTO DE REJEITOS RADIOATIVOS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "361",
-    "descricao": "ESTUDOS E PROJETOS DE GEOTECNIA E GEOLOGIA"
+    "group": "831",
+    "class": "8319",
+    "code": "361",
+    "description": "ESTUDOS E PROJETOS DE GEOTECNIA E GEOLOGIA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "370",
-    "descricao": "ESTUDOS E PROJETOS DE BARRAGENS E DIQUES"
+    "group": "831",
+    "class": "8319",
+    "code": "370",
+    "description": "ESTUDOS E PROJETOS DE BARRAGENS E DIQUES"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "388",
-    "descricao": "ESTUDOS E PROJETOS DE MODELO REDUZIDO"
+    "group": "831",
+    "class": "8319",
+    "code": "388",
+    "description": "ESTUDOS E PROJETOS DE MODELO REDUZIDO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "396",
-    "descricao": "ESTUDOS E PROJETOS DE OBRAS MARITIMAS"
+    "group": "831",
+    "class": "8319",
+    "code": "396",
+    "description": "ESTUDOS E PROJETOS DE OBRAS MARITIMAS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "400",
-    "descricao": "ESTUDOS E PROJETOS DE HIDROLOGIA"
+    "group": "831",
+    "class": "8319",
+    "code": "400",
+    "description": "ESTUDOS E PROJETOS DE HIDROLOGIA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "418",
-    "descricao": "ESTUDOS E PROJETOS DE HIDROGRAFIA E OCEANOGRAFIA"
+    "group": "831",
+    "class": "8319",
+    "code": "418",
+    "description": "ESTUDOS E PROJETOS DE HIDROGRAFIA E OCEANOGRAFIA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "426",
-    "descricao": "ESTUDOS E PROJETOS DE METEOROLOGIA"
+    "group": "831",
+    "class": "8319",
+    "code": "426",
+    "description": "ESTUDOS E PROJETOS DE METEOROLOGIA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "434",
-    "descricao": "ESTUDOS E PROJETOS DE TUNEIS"
+    "group": "831",
+    "class": "8319",
+    "code": "434",
+    "description": "ESTUDOS E PROJETOS DE TUNEIS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "442",
-    "descricao": "ESTUDOS E PROJETOS DE RODOVIAS"
+    "group": "831",
+    "class": "8319",
+    "code": "442",
+    "description": "ESTUDOS E PROJETOS DE RODOVIAS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "450",
-    "descricao": "ESTUDOS E PROJETOS DE FERROVIAS - PATIOS E TERMINAIS"
+    "group": "831",
+    "class": "8319",
+    "code": "450",
+    "description": "ESTUDOS E PROJETOS DE FERROVIAS - PATIOS E TERMINAIS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "469",
-    "descricao": "ESTUDOS E PROJETOS DE AEROPORTOS"
+    "group": "831",
+    "class": "8319",
+    "code": "469",
+    "description": "ESTUDOS E PROJETOS DE AEROPORTOS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "477",
-    "descricao": "AR CONDICIONADO - ESTUDOS E PROJETOS DE SISTEMA"
+    "group": "831",
+    "class": "8319",
+    "code": "477",
+    "description": "AR CONDICIONADO - ESTUDOS E PROJETOS DE SISTEMA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "485",
-    "descricao": "ESTUDOS E PROJETOS DE SISTEMAS DE VENTILACAO E EXAUSTAO MECANICA"
+    "group": "831",
+    "class": "8319",
+    "code": "485",
+    "description": "ESTUDOS E PROJETOS DE SISTEMAS DE VENTILACAO E EXAUSTAO MECANICA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "493",
-    "descricao": "ESTUDOS E PROJETOS DE SISTEMAS DE AQUECIMENTO"
+    "group": "831",
+    "class": "8319",
+    "code": "493",
+    "description": "ESTUDOS E PROJETOS DE SISTEMAS DE AQUECIMENTO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "507",
-    "descricao": "ESTUDOS E PROJETOS DE SISTEMAS DE REFRIGERACAO"
+    "group": "831",
+    "class": "8319",
+    "code": "507",
+    "description": "ESTUDOS E PROJETOS DE SISTEMAS DE REFRIGERACAO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "515",
-    "descricao": "ESTUDOS E PROJETOS DE SISTEMAS DE TUBULACOES INDUSTRIAIS"
+    "group": "831",
+    "class": "8319",
+    "code": "515",
+    "description": "ESTUDOS E PROJETOS DE SISTEMAS DE TUBULACOES INDUSTRIAIS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "523",
-    "descricao": "ESTUDOS E PROJETOS DE SISTEMAS DE PROTECAO CONTRA INCENDIO"
+    "group": "831",
+    "class": "8319",
+    "code": "523",
+    "description": "ESTUDOS E PROJETOS DE SISTEMAS DE PROTECAO CONTRA INCENDIO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "531",
-    "descricao": "ESTUDOS E PROJETOS DE INSTRUMENTACAO E CONTROLE"
+    "group": "831",
+    "class": "8319",
+    "code": "531",
+    "description": "ESTUDOS E PROJETOS DE INSTRUMENTACAO E CONTROLE"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "566",
-    "descricao": "ESTUDOS E PROJETOS DE INSTALACAO DE LINHAS DE DISTRIBUICAO  ENERGIA ELETRICA"
+    "group": "831",
+    "class": "8319",
+    "code": "566",
+    "description": "ESTUDOS E PROJETOS DE INSTALACAO DE LINHAS DE DISTRIBUICAO  ENERGIA ELETRICA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "574",
-    "descricao": "ESTUDOS E PROJETOS DE SISTEMAS DE ATERRAMENTO E PROTECAO CONTRA DESCARGAS ATMOSFERICAS"
+    "group": "831",
+    "class": "8319",
+    "code": "574",
+    "description": "ESTUDOS E PROJETOS DE SISTEMAS DE ATERRAMENTO E PROTECAO CONTRA DESCARGAS ATMOSFERICAS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "582",
-    "descricao": "ESTUDOS E PROJETOS DE TELECOMUNICACOES - TRANSMISSAO"
+    "group": "831",
+    "class": "8319",
+    "code": "582",
+    "description": "ESTUDOS E PROJETOS DE TELECOMUNICACOES - TRANSMISSAO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "590",
-    "descricao": "ESTUDOS E PROJETOS DE COMUTACAO TELEFONICA"
+    "group": "831",
+    "class": "8319",
+    "code": "590",
+    "description": "ESTUDOS E PROJETOS DE COMUTACAO TELEFONICA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "604",
-    "descricao": "ESTUDOS E PROJETOS DE COMUTACAO TELEGRAFICA"
+    "group": "831",
+    "class": "8319",
+    "code": "604",
+    "description": "ESTUDOS E PROJETOS DE COMUTACAO TELEGRAFICA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "612",
-    "descricao": "ESTUDOS E PROJETOS DE COMUNICACAO DE DADOS"
+    "group": "831",
+    "class": "8319",
+    "code": "612",
+    "description": "ESTUDOS E PROJETOS DE COMUNICACAO DE DADOS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "620",
-    "descricao": "ESTUDOS E PROJETOS DE REDES DE TELECOMUNICACOES"
+    "group": "831",
+    "class": "8319",
+    "code": "620",
+    "description": "ESTUDOS E PROJETOS DE REDES DE TELECOMUNICACOES"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "639",
-    "descricao": "ESTUDOS E PROJETOS DE SISTEMAS DE SINALIZACAO FERROVIARIA"
+    "group": "831",
+    "class": "8319",
+    "code": "639",
+    "description": "ESTUDOS E PROJETOS DE SISTEMAS DE SINALIZACAO FERROVIARIA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "647",
-    "descricao": "ESTUDOS E PROJETOS DE SISTEMAS DE SINALIZACAO MARITIMA"
+    "group": "831",
+    "class": "8319",
+    "code": "647",
+    "description": "ESTUDOS E PROJETOS DE SISTEMAS DE SINALIZACAO MARITIMA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "655",
-    "descricao": "ESTUDOS E PROJETOS DE SISTEMAS DE SINALIZACAO RODOVIARIA"
+    "group": "831",
+    "class": "8319",
+    "code": "655",
+    "description": "ESTUDOS E PROJETOS DE SISTEMAS DE SINALIZACAO RODOVIARIA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "663",
-    "descricao": "ESTUDOS E PROJETOS DE SISTEMAS DE SINALIZACAO AEREA"
+    "group": "831",
+    "class": "8319",
+    "code": "663",
+    "description": "ESTUDOS E PROJETOS DE SISTEMAS DE SINALIZACAO AEREA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "671",
-    "descricao": "ESTUDOS E PROJETOS DE INDUSTRIA NAVAL"
+    "group": "831",
+    "class": "8319",
+    "code": "671",
+    "description": "ESTUDOS E PROJETOS DE INDUSTRIA NAVAL"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "4324",
-    "descricao": "ESTUDOS E PROJETOS DE INSTALACAO DE ELEVADORES - INSTALACOESPREDIAIS"
+    "group": "831",
+    "class": "8319",
+    "code": "4324",
+    "description": "ESTUDOS E PROJETOS DE INSTALACAO DE ELEVADORES - INSTALACOESPREDIAIS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "4413",
-    "descricao": "LOCACAO DE MATERIAIS PERMANENTES"
+    "group": "831",
+    "class": "8319",
+    "code": "4413",
+    "description": "LOCACAO DE MATERIAIS PERMANENTES"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "4421",
-    "descricao": "ESTUDOS E  PROJETOS DE  SUBESTACOES DE ENERGIA ELETRICA  ATE69KV"
+    "group": "831",
+    "class": "8319",
+    "code": "4421",
+    "description": "ESTUDOS E  PROJETOS DE  SUBESTACOES DE ENERGIA ELETRICA  ATE69KV"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "4430",
-    "descricao": "ESTUDOS E  PROJETOS  DE  SUBESTACOES DE ENERGIA ELETRICA ATE230KV"
+    "group": "831",
+    "class": "8319",
+    "code": "4430",
+    "description": "ESTUDOS E  PROJETOS  DE  SUBESTACOES DE ENERGIA ELETRICA ATE230KV"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "4448",
-    "descricao": "ESTUDOS E  PROJETOS  DE  SUBESTACOES DE ENERGIA ELETRICA ATE500KV"
+    "group": "831",
+    "class": "8319",
+    "code": "4448",
+    "description": "ESTUDOS E  PROJETOS  DE  SUBESTACOES DE ENERGIA ELETRICA ATE500KV"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "4456",
-    "descricao": "ESTUDOS E PROJETOS DE SUBESTACOES DE ENERGIA ELETRICA  ACIMADE 500KV"
+    "group": "831",
+    "class": "8319",
+    "code": "4456",
+    "description": "ESTUDOS E PROJETOS DE SUBESTACOES DE ENERGIA ELETRICA  ACIMADE 500KV"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "4464",
-    "descricao": "ESTUDOS E PROJETOS DE SUBESTACOES DE ENERGIA ELETRICA BLINDADAS"
+    "group": "831",
+    "class": "8319",
+    "code": "4464",
+    "description": "ESTUDOS E PROJETOS DE SUBESTACOES DE ENERGIA ELETRICA BLINDADAS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "4472",
-    "descricao": "ESTUDOS E PROJETOS DE LINHAS DE TRANSMISSAO - ENERGIA ELETRICA ATE 69KV"
+    "group": "831",
+    "class": "8319",
+    "code": "4472",
+    "description": "ESTUDOS E PROJETOS DE LINHAS DE TRANSMISSAO - ENERGIA ELETRICA ATE 69KV"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "4480",
-    "descricao": "ESTUDOS E PROJETOS DE LINHAS DE TRANSMISSAO - ENERGIA ELETRICA ATE 230KV"
+    "group": "831",
+    "class": "8319",
+    "code": "4480",
+    "description": "ESTUDOS E PROJETOS DE LINHAS DE TRANSMISSAO - ENERGIA ELETRICA ATE 230KV"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "4499",
-    "descricao": "ESTUDOS E PROJETOS DE LINHAS DE TRANSMISSAO - ENERGIA ELETRICA ATE 500KV"
+    "group": "831",
+    "class": "8319",
+    "code": "4499",
+    "description": "ESTUDOS E PROJETOS DE LINHAS DE TRANSMISSAO - ENERGIA ELETRICA ATE 500KV"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "4502",
-    "descricao": "ESTUDOS E PROJETOS DE LINHAS DE TRANSMISSAO - ENERGIA ELETRICA ACIMA DE 500KV"
+    "group": "831",
+    "class": "8319",
+    "code": "4502",
+    "description": "ESTUDOS E PROJETOS DE LINHAS DE TRANSMISSAO - ENERGIA ELETRICA ACIMA DE 500KV"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "4510",
-    "descricao": "ESTUDOS E PROJETOS DE SISTEMAS DE PROTECAO, COMANDO E CONTROLE DE ENERGIA ELETRICA"
+    "group": "831",
+    "class": "8319",
+    "code": "4510",
+    "description": "ESTUDOS E PROJETOS DE SISTEMAS DE PROTECAO, COMANDO E CONTROLE DE ENERGIA ELETRICA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "8850",
-    "descricao": "ESTUDOS E PROJETOS PARA IMPLANTACAO  CARROSSEL TRANSPORTADORDE BAGAGEM EM AEROPORTO"
+    "group": "831",
+    "class": "8319",
+    "code": "8850",
+    "description": "ESTUDOS E PROJETOS PARA IMPLANTACAO  CARROSSEL TRANSPORTADORDE BAGAGEM EM AEROPORTO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "12602",
-    "descricao": "ASSESSORIA EM RELACOES GOVERNAMENTAIS"
+    "group": "831",
+    "class": "8319",
+    "code": "12602",
+    "description": "ASSESSORIA EM RELACOES GOVERNAMENTAIS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "13153",
-    "descricao": "ASSESSORIA E PLANEJAMENTO - INDUSTRIA GRAFICA"
+    "group": "831",
+    "class": "8319",
+    "code": "13153",
+    "description": "ASSESSORIA E PLANEJAMENTO - INDUSTRIA GRAFICA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "13838",
-    "descricao": "ESTUDOS E PROJETOS DE SISTEMAS DE DETECCAO / PROTECAO CONTRALUZ / CALOR / RADIACAO"
+    "group": "831",
+    "class": "8319",
+    "code": "13838",
+    "description": "ESTUDOS E PROJETOS DE SISTEMAS DE DETECCAO / PROTECAO CONTRALUZ / CALOR / RADIACAO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "13986",
-    "descricao": "ESTUDOS E PROJETOS DE SISTEMA DE IRRIGACAO"
+    "group": "831",
+    "class": "8319",
+    "code": "13986",
+    "description": "ESTUDOS E PROJETOS DE SISTEMA DE IRRIGACAO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "14010",
-    "descricao": "INFORMATICA - ESTUDO E PROJETO DE INSTALACOES FISICAS"
+    "group": "831",
+    "class": "8319",
+    "code": "14010",
+    "description": "INFORMATICA - ESTUDO E PROJETO DE INSTALACOES FISICAS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "14141",
-    "descricao": "CONSULTORIA E ASSESSORIA - RURAL ( AGRICULTURA / PECUARIA )"
+    "group": "831",
+    "class": "8319",
+    "code": "14141",
+    "description": "CONSULTORIA E ASSESSORIA - RURAL ( AGRICULTURA / PECUARIA )"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "14737",
-    "descricao": "ESTUDO, PROJETO - MULTISETORIAL"
+    "group": "831",
+    "class": "8319",
+    "code": "14737",
+    "description": "ESTUDO, PROJETO - MULTISETORIAL"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "14745",
-    "descricao": "CURSO FORMACAO / APERFEICOAMENTO - VIGILANTE"
+    "group": "831",
+    "class": "8319",
+    "code": "14745",
+    "description": "CURSO FORMACAO / APERFEICOAMENTO - VIGILANTE"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "14850",
-    "descricao": "ESTUDOS E PROJETOS DESENVOLVIMENTO EQUIPAMENTO AEROESPACIAL"
+    "group": "831",
+    "class": "8319",
+    "code": "14850",
+    "description": "ESTUDOS E PROJETOS DESENVOLVIMENTO EQUIPAMENTO AEROESPACIAL"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "14869",
-    "descricao": "ESTUDOS E PROJETOS SISTEMA AEROESPACIAL"
+    "group": "831",
+    "class": "8319",
+    "code": "14869",
+    "description": "ESTUDOS E PROJETOS SISTEMA AEROESPACIAL"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "14877",
-    "descricao": "ESTUDOS E PROJETOS SISTEMA PRODUCAO / PROSPECCAO PETROLEO"
+    "group": "831",
+    "class": "8319",
+    "code": "14877",
+    "description": "ESTUDOS E PROJETOS SISTEMA PRODUCAO / PROSPECCAO PETROLEO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "14885",
-    "descricao": "ESTUDO E PROJETO DESENVOLVIMENTO EQUIPAMENTO INDUSTRIA PETROLIFERA"
+    "group": "831",
+    "class": "8319",
+    "code": "14885",
+    "description": "ESTUDO E PROJETO DESENVOLVIMENTO EQUIPAMENTO INDUSTRIA PETROLIFERA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "15628",
-    "descricao": "ESTUDOS E PROJETOS CENTRAL TERMONUCLEAR / TERMOELETRICA / SOLAR FOTOVOTAICA"
+    "group": "831",
+    "class": "8319",
+    "code": "15628",
+    "description": "ESTUDOS E PROJETOS CENTRAL TERMONUCLEAR / TERMOELETRICA / SOLAR FOTOVOTAICA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "15822",
-    "descricao": "ESTUDOS E PROJETOS DE HIDROGEOLOGIA"
+    "group": "831",
+    "class": "8319",
+    "code": "15822",
+    "description": "ESTUDOS E PROJETOS DE HIDROGEOLOGIA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "15873",
-    "descricao": "ESTUDOS E PROJETOS EM CIENCIA ADMINISTRATIVA"
+    "group": "831",
+    "class": "8319",
+    "code": "15873",
+    "description": "ESTUDOS E PROJETOS EM CIENCIA ADMINISTRATIVA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "16705",
-    "descricao": "ESTUDOS E PROJETOS DE ELEVADORES E ESCADA ROLANTE  - AVALIA-CAO / MODERNIZACAO"
+    "group": "831",
+    "class": "8319",
+    "code": "16705",
+    "description": "ESTUDOS E PROJETOS DE ELEVADORES E ESCADA ROLANTE  - AVALIA-CAO / MODERNIZACAO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "16772",
-    "descricao": "CONSULTORIA E ASSESSORIA - PROCESSAMENTO ELETRONICO DE DOCU-MENTOS"
+    "group": "831",
+    "class": "8319",
+    "code": "16772",
+    "description": "CONSULTORIA E ASSESSORIA - PROCESSAMENTO ELETRONICO DE DOCU-MENTOS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "16900",
-    "descricao": "CONSULTORIA E ASSESSORIA - ANALISE QUIMICA"
+    "group": "831",
+    "class": "8319",
+    "code": "16900",
+    "description": "CONSULTORIA E ASSESSORIA - ANALISE QUIMICA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "16977",
-    "descricao": "ESTUDOS E PROJETOS DE VIABILIDADE TECNICO - ECONOMICO"
+    "group": "831",
+    "class": "8319",
+    "code": "16977",
+    "description": "ESTUDOS E PROJETOS DE VIABILIDADE TECNICO - ECONOMICO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "16985",
-    "descricao": "CONSULTORIA E ASSESSORIA - ORCAMENTO"
+    "group": "831",
+    "class": "8319",
+    "code": "16985",
+    "description": "CONSULTORIA E ASSESSORIA - ORCAMENTO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "17086",
-    "descricao": "ESTUDOS E PROJETOS DE SISTEMAS DE SINALIZACAO  / COMUNICACAOVISUAL"
+    "group": "831",
+    "class": "8319",
+    "code": "17086",
+    "description": "ESTUDOS E PROJETOS DE SISTEMAS DE SINALIZACAO  / COMUNICACAOVISUAL"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "17108",
-    "descricao": "CONSULTORIA E ASSESSORIA - MARKETING"
+    "group": "831",
+    "class": "8319",
+    "code": "17108",
+    "description": "CONSULTORIA E ASSESSORIA - MARKETING"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "17620",
-    "descricao": "CONSULTORIA E ASSESSORIA - NEGOCIOS"
+    "group": "831",
+    "class": "8319",
+    "code": "17620",
+    "description": "CONSULTORIA E ASSESSORIA - NEGOCIOS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "17680",
-    "descricao": "CONSULTORIA E ASSESSORIA - INTERNACIONAL"
+    "group": "831",
+    "class": "8319",
+    "code": "17680",
+    "description": "CONSULTORIA E ASSESSORIA - INTERNACIONAL"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "17701",
-    "descricao": "CONSULTORIA E ASSESSORIA - TURISMO"
+    "group": "831",
+    "class": "8319",
+    "code": "17701",
+    "description": "CONSULTORIA E ASSESSORIA - TURISMO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "17825",
-    "descricao": "CONSULTORIA E ASSESSORIA - SEGURANCA DO TRABALHO"
+    "group": "831",
+    "class": "8319",
+    "code": "17825",
+    "description": "CONSULTORIA E ASSESSORIA - SEGURANCA DO TRABALHO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "17841",
-    "descricao": "ESTUDOS E PROJETOS DE SANEAMENTO - GERENCIA DE BACIAS"
+    "group": "831",
+    "class": "8319",
+    "code": "17841",
+    "description": "ESTUDOS E PROJETOS DE SANEAMENTO - GERENCIA DE BACIAS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "17868",
-    "descricao": "CONSULTORIA E ASSESSORIA - PESQUISA HISTORICA"
+    "group": "831",
+    "class": "8319",
+    "code": "17868",
+    "description": "CONSULTORIA E ASSESSORIA - PESQUISA HISTORICA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "17884",
-    "descricao": "ESTUDOS E PROJETOS VIABILIDADE TECNICA - RADIODIFUSAO"
+    "group": "831",
+    "class": "8319",
+    "code": "17884",
+    "description": "ESTUDOS E PROJETOS VIABILIDADE TECNICA - RADIODIFUSAO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "18040",
-    "descricao": "ESTUDOS E PROJETOS DE SISTEMAS AUTOMATIZADOS - ARMAZENAMENTO/ MOVIMENTACAO / DISTRIBUICAO"
+    "group": "831",
+    "class": "8319",
+    "code": "18040",
+    "description": "ESTUDOS E PROJETOS DE SISTEMAS AUTOMATIZADOS - ARMAZENAMENTO/ MOVIMENTACAO / DISTRIBUICAO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "18058",
-    "descricao": "ESTUDOS E PROJETOS - SISTEMA DE PROPULSAO"
+    "group": "831",
+    "class": "8319",
+    "code": "18058",
+    "description": "ESTUDOS E PROJETOS - SISTEMA DE PROPULSAO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "18104",
-    "descricao": "CONSULTORIA E ASSESSORIA - TELECOMUNICACAO"
+    "group": "831",
+    "class": "8319",
+    "code": "18104",
+    "description": "CONSULTORIA E ASSESSORIA - TELECOMUNICACAO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "18244",
-    "descricao": "CONSULTORIA E ASSESSORIA - TRANSPORTE"
+    "group": "831",
+    "class": "8319",
+    "code": "18244",
+    "description": "CONSULTORIA E ASSESSORIA - TRANSPORTE"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "18414",
-    "descricao": "CONSULTORIA E ASSESSORIA - ENERGIA RENOVAVEL  /  CONSERVACAOENERGIA"
+    "group": "831",
+    "class": "8319",
+    "code": "18414",
+    "description": "CONSULTORIA E ASSESSORIA - ENERGIA RENOVAVEL  /  CONSERVACAOENERGIA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "18481",
-    "descricao": "CONSULTORIA E ASSESSORIA - EDUCACAO"
+    "group": "831",
+    "class": "8319",
+    "code": "18481",
+    "description": "CONSULTORIA E ASSESSORIA - EDUCACAO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "18490",
-    "descricao": "ESTUDOS E PROJETOS - AUTOMACAO INDUSTRIAL"
+    "group": "831",
+    "class": "8319",
+    "code": "18490",
+    "description": "ESTUDOS E PROJETOS - AUTOMACAO INDUSTRIAL"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "18511",
-    "descricao": "CONSULTORIA E ASSESSORIA - RECURSOS HIDRICOS"
+    "group": "831",
+    "class": "8319",
+    "code": "18511",
+    "description": "CONSULTORIA E ASSESSORIA - RECURSOS HIDRICOS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "18686",
-    "descricao": "CONSULTORIA E ASSESSORIA - ADMINISTRACAO NEGOCIO / PRODUCAO"
+    "group": "831",
+    "class": "8319",
+    "code": "18686",
+    "description": "CONSULTORIA E ASSESSORIA - ADMINISTRACAO NEGOCIO / PRODUCAO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "18813",
-    "descricao": "CONSULTORIA E ASSESSORIA - SEGURANCA INDUSTRIAL"
+    "group": "831",
+    "class": "8319",
+    "code": "18813",
+    "description": "CONSULTORIA E ASSESSORIA - SEGURANCA INDUSTRIAL"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "19763",
-    "descricao": "FABRICACAO / MANUTENCAO - PROCESSO INDUSTRIAL"
+    "group": "831",
+    "class": "8319",
+    "code": "19763",
+    "description": "FABRICACAO / MANUTENCAO - PROCESSO INDUSTRIAL"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "20478",
-    "descricao": "PROJETO CIRCUITO IMPRESSO"
+    "group": "831",
+    "class": "8319",
+    "code": "20478",
+    "description": "PROJETO CIRCUITO IMPRESSO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "20621",
-    "descricao": "ESTUDO E PROJETO - ENERGIA FOTOVOLTAICA"
+    "group": "831",
+    "class": "8319",
+    "code": "20621",
+    "description": "ESTUDO E PROJETO - ENERGIA FOTOVOLTAICA"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "21113",
-    "descricao": "INFORMATICA / AUTOMACAO - ASSISTENCIA TECNICA / MANUTENCAO /REPARO"
+    "group": "831",
+    "class": "8319",
+    "code": "21113",
+    "description": "INFORMATICA / AUTOMACAO - ASSISTENCIA TECNICA / MANUTENCAO /REPARO"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "21121",
-    "descricao": "HOSPEDAGEM SERVIDOR - INTERNET / SISTEMAS"
+    "group": "831",
+    "class": "8319",
+    "code": "21121",
+    "description": "HOSPEDAGEM SERVIDOR - INTERNET / SISTEMAS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "21202",
-    "descricao": "INFORMATICA - SEGURANCA REDE"
+    "group": "831",
+    "class": "8319",
+    "code": "21202",
+    "description": "INFORMATICA - SEGURANCA REDE"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "21210",
-    "descricao": "INFORMATICA - DIAGNOSTICO E PROJETO REDE DADOS"
+    "group": "831",
+    "class": "8319",
+    "code": "21210",
+    "description": "INFORMATICA - DIAGNOSTICO E PROJETO REDE DADOS"
   },
   {
-    "grupo": "831",
-    "classe": "8319",
-    "codigo": "21792",
-    "descricao": "ESTUDOS E PROJETOS ANTROPOLOGICOS"
+    "group": "831",
+    "class": "8319",
+    "code": "21792",
+    "description": "ESTUDOS E PROJETOS ANTROPOLOGICOS"
   }
 ]

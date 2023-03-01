@@ -1,14 +1,14 @@
 [
   {
-    "grupo": "834",
-    "classe": "'-7",
-    "codigo": "12840",
-    "descricao": "ILUSTRACAO DE CARACTERES BOTANICOS / ANATOMICOS"
+    "group": "834",
+    "class": "'-7",
+    "code": "12840",
+    "description": "ILUSTRACAO DE CARACTERES BOTANICOS / ANATOMICOS"
   },
   {
-    "grupo": "834",
-    "classe": "'-7",
-    "codigo": "12858",
-    "descricao": "LABORATORIO PARA ANATOMIA DA MADEIRA"
+    "group": "834",
+    "class": "'-7",
+    "code": "12858",
+    "description": "LABORATORIO PARA ANATOMIA DA MADEIRA"
   }
 ]

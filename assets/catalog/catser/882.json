@@ -1,32 +1,32 @@
 [
   {
-    "grupo": "882",
-    "classe": "'-7",
-    "codigo": "20770",
-    "descricao": "CONFECCAO PEÇA METÁLICA"
+    "group": "882",
+    "class": "'-7",
+    "code": "20770",
+    "description": "CONFECCAO PEÇA METÁLICA"
   },
   {
-    "grupo": "882",
-    "classe": "'-7",
-    "codigo": "25062",
-    "descricao": "CONFECCAO ESTRUTURAS METALICAS"
+    "group": "882",
+    "class": "'-7",
+    "code": "25062",
+    "description": "CONFECCAO ESTRUTURAS METALICAS"
   },
   {
-    "grupo": "882",
-    "classe": "8821",
-    "codigo": "15555",
-    "descricao": "CONFECCAO APARELHO ORTODONTICO"
+    "group": "882",
+    "class": "8821",
+    "code": "15555",
+    "description": "CONFECCAO APARELHO ORTODONTICO"
   },
   {
-    "grupo": "882",
-    "classe": "8821",
-    "codigo": "16829",
-    "descricao": "SERRALHARIA"
+    "group": "882",
+    "class": "8821",
+    "code": "16829",
+    "description": "SERRALHARIA"
   },
   {
-    "grupo": "882",
-    "classe": "8822",
-    "codigo": "22713",
-    "descricao": "CONFECCAO CARRO / EQUIPAMENTO PARA EMBARCAÇÃO"
+    "group": "882",
+    "class": "8822",
+    "code": "22713",
+    "description": "CONFECCAO CARRO / EQUIPAMENTO PARA EMBARCAÇÃO"
   }
 ]

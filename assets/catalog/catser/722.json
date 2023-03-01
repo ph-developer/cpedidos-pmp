@@ -1,26 +1,26 @@
 [
   {
-    "grupo": "722",
-    "classe": "'-7",
-    "codigo": "5630",
-    "descricao": "SERVICO IMOBILIARIO"
+    "group": "722",
+    "class": "'-7",
+    "code": "5630",
+    "description": "SERVICO IMOBILIARIO"
   },
   {
-    "grupo": "722",
-    "classe": "'-7",
-    "codigo": "17426",
-    "descricao": "CONDOMINIO - GERENCIA / MANUTENCAO DE IMOVEL / ADMINISTRACAO"
+    "group": "722",
+    "class": "'-7",
+    "code": "17426",
+    "description": "CONDOMINIO - GERENCIA / MANUTENCAO DE IMOVEL / ADMINISTRACAO"
   },
   {
-    "grupo": "722",
-    "classe": "'-7",
-    "codigo": "21075",
-    "descricao": "ADMINISTRACAO TITULOS E VALORES MOBILIARIOS"
+    "group": "722",
+    "class": "'-7",
+    "code": "21075",
+    "description": "ADMINISTRACAO TITULOS E VALORES MOBILIARIOS"
   },
   {
-    "grupo": "722",
-    "classe": "7224",
-    "codigo": "21784",
-    "descricao": "ESTUDO, AVALIACAO, PROJETO - IMOVEIS"
+    "group": "722",
+    "class": "7224",
+    "code": "21784",
+    "description": "ESTUDO, AVALIACAO, PROJETO - IMOVEIS"
   }
 ]

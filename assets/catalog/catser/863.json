@@ -1,14 +1,14 @@
 [
   {
-    "grupo": "863",
-    "classe": "'-7",
-    "codigo": "22098",
-    "descricao": "MANUTENCAO REDE OXIGENIO"
+    "group": "863",
+    "class": "'-7",
+    "code": "22098",
+    "description": "MANUTENCAO REDE OXIGENIO"
   },
   {
-    "grupo": "863",
-    "classe": "'-7",
-    "codigo": "22608",
-    "descricao": "INSTALACAO / MANUTENCAO CENTRAL GAS"
+    "group": "863",
+    "class": "'-7",
+    "code": "22608",
+    "description": "INSTALACAO / MANUTENCAO CENTRAL GAS"
   }
 ]

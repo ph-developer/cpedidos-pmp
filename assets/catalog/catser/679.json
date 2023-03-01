@@ -1,38 +1,38 @@
 [
   {
-    "grupo": "679",
-    "classe": "'-7",
-    "codigo": "3360",
-    "descricao": "TRANSPORTE INTERMODAL / MULTIMODAL"
+    "group": "679",
+    "class": "'-7",
+    "code": "3360",
+    "description": "TRANSPORTE INTERMODAL / MULTIMODAL"
   },
   {
-    "grupo": "679",
-    "classe": "'-7",
-    "codigo": "5533",
-    "descricao": "DESPACHO DE CARGA / ENCOMENDA VIA  AEREA / TERRESTRE - NACIONAL/INTERNACIONAL"
+    "group": "679",
+    "class": "'-7",
+    "code": "5533",
+    "description": "DESPACHO DE CARGA / ENCOMENDA VIA  AEREA / TERRESTRE - NACIONAL/INTERNACIONAL"
   },
   {
-    "grupo": "679",
-    "classe": "'-7",
-    "codigo": "8656",
-    "descricao": "TRANSPORTE SUPERFICIE  EM  AEROPORTOS - PASSAGEIRO / CARGA /AERONAVE / EQUIPAMENTO"
+    "group": "679",
+    "class": "'-7",
+    "code": "8656",
+    "description": "TRANSPORTE SUPERFICIE  EM  AEROPORTOS - PASSAGEIRO / CARGA /AERONAVE / EQUIPAMENTO"
   },
   {
-    "grupo": "679",
-    "classe": "'-7",
-    "codigo": "13897",
-    "descricao": "AGENCIAMENTO DE CARGA AEREA / TERRESTRE / MARITIMA / FLUVIAL"
+    "group": "679",
+    "class": "'-7",
+    "code": "13897",
+    "description": "AGENCIAMENTO DE CARGA AEREA / TERRESTRE / MARITIMA / FLUVIAL"
   },
   {
-    "grupo": "679",
-    "classe": "'-7",
-    "codigo": "23027",
-    "descricao": "FORNECIMENTO PASSAGEM RODOVIARIA - MENOR TAXA DE SERVICO"
+    "group": "679",
+    "class": "'-7",
+    "code": "23027",
+    "description": "FORNECIMENTO PASSAGEM RODOVIARIA - MENOR TAXA DE SERVICO"
   },
   {
-    "grupo": "679",
-    "classe": "6799",
-    "codigo": "16470",
-    "descricao": "COMERCIALIZACAO / DISTRIBUICAO - VALE TRANSPORTE"
+    "group": "679",
+    "class": "6799",
+    "code": "16470",
+    "description": "COMERCIALIZACAO / DISTRIBUICAO - VALE TRANSPORTE"
   }
 ]

@@ -1,20 +1,20 @@
 [
   {
-    "grupo": "171",
-    "classe": "1711",
-    "codigo": "27294",
-    "descricao": "SERVICOS DE  GERENCIAMENTO  ELETRONICO DE DOCUMENTOS (GED) EWORKFLOW"
+    "group": "171",
+    "class": "1711",
+    "code": "27294",
+    "description": "SERVICOS DE  GERENCIAMENTO  ELETRONICO DE DOCUMENTOS (GED) EWORKFLOW"
   },
   {
-    "grupo": "171",
-    "classe": "1711",
-    "codigo": "27308",
-    "descricao": "SERVICO ESPECIALIZADO DE BUSINESS INTELIGENCE (BI)"
+    "group": "171",
+    "class": "1711",
+    "code": "27308",
+    "description": "SERVICO ESPECIALIZADO DE BUSINESS INTELIGENCE (BI)"
   },
   {
-    "grupo": "171",
-    "classe": "1711",
-    "codigo": "27316",
-    "descricao": "SERVICOS ESPECIALIZADOS DE GEOPROCESSAMENTO"
+    "group": "171",
+    "class": "1711",
+    "code": "27316",
+    "description": "SERVICOS ESPECIALIZADOS DE GEOPROCESSAMENTO"
   }
 ]

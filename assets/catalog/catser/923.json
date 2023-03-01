@@ -1,14 +1,14 @@
 [
   {
-    "grupo": "923",
-    "classe": "'-7",
-    "codigo": "12785",
-    "descricao": "SERVICO EDUCACIONAL - SUPERIOR ( GRADUACAO )"
+    "group": "923",
+    "class": "'-7",
+    "code": "12785",
+    "description": "SERVICO EDUCACIONAL - SUPERIOR ( GRADUACAO )"
   },
   {
-    "grupo": "923",
-    "classe": "'-7",
-    "codigo": "12793",
-    "descricao": "SERVICO EDUCACIONAL - POS - GRADUACAO / DOUTORADO"
+    "group": "923",
+    "class": "'-7",
+    "code": "12793",
+    "description": "SERVICO EDUCACIONAL - POS - GRADUACAO / DOUTORADO"
   }
 ]

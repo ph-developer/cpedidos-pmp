@@ -1,32 +1,32 @@
 [
   {
-    "grupo": "942",
-    "classe": "'-7",
-    "codigo": "24708",
-    "descricao": "TRATAMENTO DE RESIDUOS"
+    "group": "942",
+    "class": "'-7",
+    "code": "24708",
+    "description": "TRATAMENTO DE RESIDUOS"
   },
   {
-    "grupo": "942",
-    "classe": "9421",
-    "codigo": "1333",
-    "descricao": "INCINERACAO / ATERRAMENTO - RESIDUOS INDUSTRIAIS / LIXO ESPECIAL"
+    "group": "942",
+    "class": "9421",
+    "code": "1333",
+    "description": "INCINERACAO / ATERRAMENTO - RESIDUOS INDUSTRIAIS / LIXO ESPECIAL"
   },
   {
-    "grupo": "942",
-    "classe": "9421",
-    "codigo": "19232",
-    "descricao": "INCINERACAO MATERIAL APREENDIDO"
+    "group": "942",
+    "class": "9421",
+    "code": "19232",
+    "description": "INCINERACAO MATERIAL APREENDIDO"
   },
   {
-    "grupo": "942",
-    "classe": "9422",
-    "codigo": "14966",
-    "descricao": "COLETA DE REJEITO NUCLEAR"
+    "group": "942",
+    "class": "9422",
+    "code": "14966",
+    "description": "COLETA DE REJEITO NUCLEAR"
   },
   {
-    "grupo": "942",
-    "classe": "9422",
-    "codigo": "19380",
-    "descricao": "COLETA / TRATAMENTO LIXO - HOSPITALAR"
+    "group": "942",
+    "class": "9422",
+    "code": "19380",
+    "description": "COLETA / TRATAMENTO LIXO - HOSPITALAR"
   }
 ]

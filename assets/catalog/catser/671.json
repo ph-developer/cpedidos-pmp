@@ -1,20 +1,20 @@
 [
   {
-    "grupo": "671",
-    "classe": "'-7",
-    "codigo": "15032",
-    "descricao": "MOVIMENTACAO CARGA GERAL / BRACAGEM"
+    "group": "671",
+    "class": "'-7",
+    "code": "15032",
+    "description": "MOVIMENTACAO CARGA GERAL / BRACAGEM"
   },
   {
-    "grupo": "671",
-    "classe": "'-7",
-    "codigo": "15890",
-    "descricao": "ESTIVA - CARREGADOR / OPERADOR CARGA"
+    "group": "671",
+    "class": "'-7",
+    "code": "15890",
+    "description": "ESTIVA - CARREGADOR / OPERADOR CARGA"
   },
   {
-    "grupo": "671",
-    "classe": "6719",
-    "codigo": "15091",
-    "descricao": "ICAMENTO - MOVEIS / CARGA / EQUIPAMENTO"
+    "group": "671",
+    "class": "6719",
+    "code": "15091",
+    "description": "ICAMENTO - MOVEIS / CARGA / EQUIPAMENTO"
   }
 ]

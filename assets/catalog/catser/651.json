@@ -1,32 +1,32 @@
 [
   {
-    "grupo": "651",
-    "classe": "'-7",
-    "codigo": "5100",
-    "descricao": "TRANSPORTE MARITIMO - INTERNACIONAL / NACIONAL"
+    "group": "651",
+    "class": "'-7",
+    "code": "5100",
+    "description": "TRANSPORTE MARITIMO - INTERNACIONAL / NACIONAL"
   },
   {
-    "grupo": "651",
-    "classe": "'-7",
-    "codigo": "24830",
-    "descricao": "TRANSPORTE MARITIMO/COSTEIRO E TRANSOCEANICO DE CARGA EM NAVIOS TANQUES"
+    "group": "651",
+    "class": "'-7",
+    "code": "24830",
+    "description": "TRANSPORTE MARITIMO/COSTEIRO E TRANSOCEANICO DE CARGA EM NAVIOS TANQUES"
   },
   {
-    "grupo": "651",
-    "classe": "6512",
-    "codigo": "3182",
-    "descricao": "TRANSPORTE MARITIMO E FLUVIAL DE PESSOAL / CARGA"
+    "group": "651",
+    "class": "6512",
+    "code": "3182",
+    "description": "TRANSPORTE MARITIMO E FLUVIAL DE PESSOAL / CARGA"
   },
   {
-    "grupo": "651",
-    "classe": "6512",
-    "codigo": "3190",
-    "descricao": "TRANSPORTE MARITIMO E FLUVIAL DE CARGA LIQUIDA"
+    "group": "651",
+    "class": "6512",
+    "code": "3190",
+    "description": "TRANSPORTE MARITIMO E FLUVIAL DE CARGA LIQUIDA"
   },
   {
-    "grupo": "651",
-    "classe": "6512",
-    "codigo": "3204",
-    "descricao": "TRANSPORTE MARITIMO E FLUVIAL DE CARGA SECA"
+    "group": "651",
+    "class": "6512",
+    "code": "3204",
+    "description": "TRANSPORTE MARITIMO E FLUVIAL DE CARGA SECA"
   }
 ]

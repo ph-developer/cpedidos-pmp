@@ -1,260 +1,260 @@
 [
   {
-    "grupo": "545",
-    "classe": "'-7",
-    "codigo": "1627",
-    "descricao": "MANUTENCAO / REFORMA PREDIAL"
+    "group": "545",
+    "class": "'-7",
+    "code": "1627",
+    "description": "MANUTENCAO / REFORMA PREDIAL"
   },
   {
-    "grupo": "545",
-    "classe": "'-7",
-    "codigo": "13641",
-    "descricao": "OBRAS CIVIS DE PISCINAS - CONCRETO ARMADO"
+    "group": "545",
+    "class": "'-7",
+    "code": "13641",
+    "description": "OBRAS CIVIS DE PISCINAS - CONCRETO ARMADO"
   },
   {
-    "grupo": "545",
-    "classe": "'-7",
-    "codigo": "13650",
-    "descricao": "OBRAS CIVIS DE PISCINAS - FIBRA DE VIDRO"
+    "group": "545",
+    "class": "'-7",
+    "code": "13650",
+    "description": "OBRAS CIVIS DE PISCINAS - FIBRA DE VIDRO"
   },
   {
-    "grupo": "545",
-    "classe": "'-7",
-    "codigo": "24406",
-    "descricao": "SERVICO DE BLINDAGEM INDUSTRIAL,COMERCIAL E RESIDENCIAL(CONSTRUCAO E MONTAGEM)"
+    "group": "545",
+    "class": "'-7",
+    "code": "24406",
+    "description": "SERVICO DE BLINDAGEM INDUSTRIAL,COMERCIAL E RESIDENCIAL(CONSTRUCAO E MONTAGEM)"
   },
   {
-    "grupo": "545",
-    "classe": "5451",
-    "codigo": "1449",
-    "descricao": "OBRAS CIVIS DE FUNDACOES DIRETAS"
+    "group": "545",
+    "class": "5451",
+    "code": "1449",
+    "description": "OBRAS CIVIS DE FUNDACOES DIRETAS"
   },
   {
-    "grupo": "545",
-    "classe": "5451",
-    "codigo": "1457",
-    "descricao": "OBRAS CIVIS DE FUNDACOES EM ESTACAS DE CONCRETO"
+    "group": "545",
+    "class": "5451",
+    "code": "1457",
+    "description": "OBRAS CIVIS DE FUNDACOES EM ESTACAS DE CONCRETO"
   },
   {
-    "grupo": "545",
-    "classe": "5451",
-    "codigo": "1465",
-    "descricao": "ORAS CIVIS DE FUNDACOES EM ESTACAS METALICAS"
+    "group": "545",
+    "class": "5451",
+    "code": "1465",
+    "description": "ORAS CIVIS DE FUNDACOES EM ESTACAS METALICAS"
   },
   {
-    "grupo": "545",
-    "classe": "5451",
-    "codigo": "1473",
-    "descricao": "OBRAS CIVIS DE FUNDACOES EM TUBULOES"
+    "group": "545",
+    "class": "5451",
+    "code": "1473",
+    "description": "OBRAS CIVIS DE FUNDACOES EM TUBULOES"
   },
   {
-    "grupo": "545",
-    "classe": "5451",
-    "codigo": "1481",
-    "descricao": "OBRAS CIVIS DE FUNDACOES SUBAQUATICAS"
+    "group": "545",
+    "class": "5451",
+    "code": "1481",
+    "description": "OBRAS CIVIS DE FUNDACOES SUBAQUATICAS"
   },
   {
-    "grupo": "545",
-    "classe": "5451",
-    "codigo": "1724",
-    "descricao": "INJECOES DE CIMENTO (OBRAS CIVIS)"
+    "group": "545",
+    "class": "5451",
+    "code": "1724",
+    "description": "INJECOES DE CIMENTO (OBRAS CIVIS)"
   },
   {
-    "grupo": "545",
-    "classe": "5451",
-    "codigo": "1759",
-    "descricao": "OBRAS CIVIS DE PONTES E VIADUTOS - CONCRETO"
+    "group": "545",
+    "class": "5451",
+    "code": "1759",
+    "description": "OBRAS CIVIS DE PONTES E VIADUTOS - CONCRETO"
   },
   {
-    "grupo": "545",
-    "classe": "5452",
-    "codigo": "1643",
-    "descricao": "OBRAS CIVIS DE RECUPERACAO ESTRUTURAL - INJECOES EM TRINCAS E FISSURAS DE CONCRETO"
+    "group": "545",
+    "class": "5452",
+    "code": "1643",
+    "description": "OBRAS CIVIS DE RECUPERACAO ESTRUTURAL - INJECOES EM TRINCAS E FISSURAS DE CONCRETO"
   },
   {
-    "grupo": "545",
-    "classe": "5452",
-    "codigo": "1651",
-    "descricao": "OBRAS CIVIS DE RECUPERACAO ESTRUTURAL - TRATAMENTO E PROTECAO DE ARMADURAS E SUPERFICIES DE CONCRETO"
+    "group": "545",
+    "class": "5452",
+    "code": "1651",
+    "description": "OBRAS CIVIS DE RECUPERACAO ESTRUTURAL - TRATAMENTO E PROTECAO DE ARMADURAS E SUPERFICIES DE CONCRETO"
   },
   {
-    "grupo": "545",
-    "classe": "5452",
-    "codigo": "1660",
-    "descricao": "OBRAS CIVIS DE RECUPERACAO ESTRUTURAL - CONCRETO PROJETADO"
+    "group": "545",
+    "class": "5452",
+    "code": "1660",
+    "description": "OBRAS CIVIS DE RECUPERACAO ESTRUTURAL - CONCRETO PROJETADO"
   },
   {
-    "grupo": "545",
-    "classe": "5452",
-    "codigo": "1678",
-    "descricao": "OBRAS CIVIS DE RECUPERACAO ESTRUTURAL - ESTRUTURAS METALICAS"
+    "group": "545",
+    "class": "5452",
+    "code": "1678",
+    "description": "OBRAS CIVIS DE RECUPERACAO ESTRUTURAL - ESTRUTURAS METALICAS"
   },
   {
-    "grupo": "545",
-    "classe": "5452",
-    "codigo": "1686",
-    "descricao": "OBRAS CIVIS DE MUROS DE ARRIMO"
+    "group": "545",
+    "class": "5452",
+    "code": "1686",
+    "description": "OBRAS CIVIS DE MUROS DE ARRIMO"
   },
   {
-    "grupo": "545",
-    "classe": "5452",
-    "codigo": "1694",
-    "descricao": "OBRAS CIVIS DE CORTINAS ATIRANTADAS"
+    "group": "545",
+    "class": "5452",
+    "code": "1694",
+    "description": "OBRAS CIVIS DE CORTINAS ATIRANTADAS"
   },
   {
-    "grupo": "545",
-    "classe": "5452",
-    "codigo": "1708",
-    "descricao": "OBRAS CIVIS DE MUROS DE GABIOES"
+    "group": "545",
+    "class": "5452",
+    "code": "1708",
+    "description": "OBRAS CIVIS DE MUROS DE GABIOES"
   },
   {
-    "grupo": "545",
-    "classe": "5452",
-    "codigo": "1716",
-    "descricao": "OBRAS CIVIS DE PAREDES DIAFRAGMA"
+    "group": "545",
+    "class": "5452",
+    "code": "1716",
+    "description": "OBRAS CIVIS DE PAREDES DIAFRAGMA"
   },
   {
-    "grupo": "545",
-    "classe": "5452",
-    "codigo": "1732",
-    "descricao": "OBRAS CIVIS DE ATIRANTAMENTO"
+    "group": "545",
+    "class": "5452",
+    "code": "1732",
+    "description": "OBRAS CIVIS DE ATIRANTAMENTO"
   },
   {
-    "grupo": "545",
-    "classe": "5452",
-    "codigo": "1821",
-    "descricao": "OBRAS CIVIS DE BARRAGENS DE CONCRETO (ESTRUTURAL , GRAVIDADEE CONCRETO ROLADO)"
+    "group": "545",
+    "class": "5452",
+    "code": "1821",
+    "description": "OBRAS CIVIS DE BARRAGENS DE CONCRETO (ESTRUTURAL , GRAVIDADEE CONCRETO ROLADO)"
   },
   {
-    "grupo": "545",
-    "classe": "5452",
-    "codigo": "1830",
-    "descricao": "OBRAS CIVIS - BARRAGENS DE ENRROCAMENTO"
+    "group": "545",
+    "class": "5452",
+    "code": "1830",
+    "description": "OBRAS CIVIS - BARRAGENS DE ENRROCAMENTO"
   },
   {
-    "grupo": "545",
-    "classe": "5452",
-    "codigo": "4740",
-    "descricao": "MONITORAMENTO ESTRUTURAL"
+    "group": "545",
+    "class": "5452",
+    "code": "4740",
+    "description": "MONITORAMENTO ESTRUTURAL"
   },
   {
-    "grupo": "545",
-    "classe": "5453",
-    "codigo": "1600",
-    "descricao": "OBRAS CIVIS - IMPERMEABILIZACAO / CRISTALIZACAO / REVESTIMENTO / TRATAMENTO ESPECIAL"
+    "group": "545",
+    "class": "5453",
+    "code": "1600",
+    "description": "OBRAS CIVIS - IMPERMEABILIZACAO / CRISTALIZACAO / REVESTIMENTO / TRATAMENTO ESPECIAL"
   },
   {
-    "grupo": "545",
-    "classe": "5453",
-    "codigo": "19224",
-    "descricao": "CONSTRUCAO / MANUTENCAO / REFORMA - TELHADO"
+    "group": "545",
+    "class": "5453",
+    "code": "19224",
+    "description": "CONSTRUCAO / MANUTENCAO / REFORMA - TELHADO"
   },
   {
-    "grupo": "545",
-    "classe": "5454",
-    "codigo": "1392",
-    "descricao": "OBRAS CIVIS DE PAVIMENTACAO DE CONCRETO"
+    "group": "545",
+    "class": "5454",
+    "code": "1392",
+    "description": "OBRAS CIVIS DE PAVIMENTACAO DE CONCRETO"
   },
   {
-    "grupo": "545",
-    "classe": "5454",
-    "codigo": "1490",
-    "descricao": "OBRAS CIVIS DE ESTRUTURAS DE CONCRETO ARMADO"
+    "group": "545",
+    "class": "5454",
+    "code": "1490",
+    "description": "OBRAS CIVIS DE ESTRUTURAS DE CONCRETO ARMADO"
   },
   {
-    "grupo": "545",
-    "classe": "5454",
-    "codigo": "1503",
-    "descricao": "OBRAS CIVIS DE ESTRUTURAS DE CONCRETO PROTENDIDO"
+    "group": "545",
+    "class": "5454",
+    "code": "1503",
+    "description": "OBRAS CIVIS DE ESTRUTURAS DE CONCRETO PROTENDIDO"
   },
   {
-    "grupo": "545",
-    "classe": "5454",
-    "codigo": "1511",
-    "descricao": "OBRAS CIVIS DE ESTRUTURAS METALICAS"
+    "group": "545",
+    "class": "5454",
+    "code": "1511",
+    "description": "OBRAS CIVIS DE ESTRUTURAS METALICAS"
   },
   {
-    "grupo": "545",
-    "classe": "5454",
-    "codigo": "1520",
-    "descricao": "OBRAS CIVIS DE ESTRUTURAS PRE-MOLDADAS"
+    "group": "545",
+    "class": "5454",
+    "code": "1520",
+    "description": "OBRAS CIVIS DE ESTRUTURAS PRE-MOLDADAS"
   },
   {
-    "grupo": "545",
-    "classe": "5454",
-    "codigo": "17140",
-    "descricao": "OBRAS CIVIS - CONCRETAGEM"
+    "group": "545",
+    "class": "5454",
+    "code": "17140",
+    "description": "OBRAS CIVIS - CONCRETAGEM"
   },
   {
-    "grupo": "545",
-    "classe": "5455",
-    "codigo": "2224",
-    "descricao": "INSTALACAO E MONTAGEM - GALPOES / ESTRUTURAS METALICAS"
+    "group": "545",
+    "class": "5455",
+    "code": "2224",
+    "description": "INSTALACAO E MONTAGEM - GALPOES / ESTRUTURAS METALICAS"
   },
   {
-    "grupo": "545",
-    "classe": "5456",
-    "codigo": "24813",
-    "descricao": "SERVICOS DE ALVENARIA"
+    "group": "545",
+    "class": "5456",
+    "code": "24813",
+    "description": "SERVICOS DE ALVENARIA"
   },
   {
-    "grupo": "545",
-    "classe": "5459",
-    "codigo": "1368",
-    "descricao": "OBRAS CIVIS DE REFLORESTAMENTO"
+    "group": "545",
+    "class": "5459",
+    "code": "1368",
+    "description": "OBRAS CIVIS DE REFLORESTAMENTO"
   },
   {
-    "grupo": "545",
-    "classe": "5459",
-    "codigo": "1376",
-    "descricao": "OBRAS CIVIS EXECUCAO DE DESMATAMENTO"
+    "group": "545",
+    "class": "5459",
+    "code": "1376",
+    "description": "OBRAS CIVIS EXECUCAO DE DESMATAMENTO"
   },
   {
-    "grupo": "545",
-    "classe": "5459",
-    "codigo": "1813",
-    "descricao": "OBRAS CIVIS - EXECUCAO DE OBRAS PORTUARIAS"
+    "group": "545",
+    "class": "5459",
+    "code": "1813",
+    "description": "OBRAS CIVIS - EXECUCAO DE OBRAS PORTUARIAS"
   },
   {
-    "grupo": "545",
-    "classe": "5459",
-    "codigo": "1864",
-    "descricao": "OBRAS CIVIS - DRAGAGEM E DERROCAGEM"
+    "group": "545",
+    "class": "5459",
+    "code": "1864",
+    "description": "OBRAS CIVIS - DRAGAGEM E DERROCAGEM"
   },
   {
-    "grupo": "545",
-    "classe": "5459",
-    "codigo": "1872",
-    "descricao": "OBRAS CIVIS DE SANEAMENTO - CAPTACAO, ADUCAO E DISTRIBUICAO DE AGUA E ESGOTO SANITARIO"
+    "group": "545",
+    "class": "5459",
+    "code": "1872",
+    "description": "OBRAS CIVIS DE SANEAMENTO - CAPTACAO, ADUCAO E DISTRIBUICAO DE AGUA E ESGOTO SANITARIO"
   },
   {
-    "grupo": "545",
-    "classe": "5459",
-    "codigo": "1880",
-    "descricao": "OBRAS CIVIS DE SANEAMENTO - TRATAMENTO DE AGUA, ESGOTO  SANITARIO E DESPEJO INDUSTRIAL"
+    "group": "545",
+    "class": "5459",
+    "code": "1880",
+    "description": "OBRAS CIVIS DE SANEAMENTO - TRATAMENTO DE AGUA, ESGOTO  SANITARIO E DESPEJO INDUSTRIAL"
   },
   {
-    "grupo": "545",
-    "classe": "5459",
-    "codigo": "1899",
-    "descricao": "OBRAS CIVIS DE SANEAMENTO - SISTEMA DE DRENAGEM PLUVIAL E INDUSTRIAL"
+    "group": "545",
+    "class": "5459",
+    "code": "1899",
+    "description": "OBRAS CIVIS DE SANEAMENTO - SISTEMA DE DRENAGEM PLUVIAL E INDUSTRIAL"
   },
   {
-    "grupo": "545",
-    "classe": "5459",
-    "codigo": "1945",
-    "descricao": "OBRAS CIVIS DE REDES DE TELECOMUNICACOES"
+    "group": "545",
+    "class": "5459",
+    "code": "1945",
+    "description": "OBRAS CIVIS DE REDES DE TELECOMUNICACOES"
   },
   {
-    "grupo": "545",
-    "classe": "5459",
-    "codigo": "19178",
-    "descricao": "OBRAS CIVIS DE REDE - GAS / PETROLEO / DERIVADOS"
+    "group": "545",
+    "class": "5459",
+    "code": "19178",
+    "description": "OBRAS CIVIS DE REDE - GAS / PETROLEO / DERIVADOS"
   },
   {
-    "grupo": "545",
-    "classe": "5459",
-    "codigo": "24767",
-    "descricao": "MANUTENCAO DE HIDROVIA"
+    "group": "545",
+    "class": "5459",
+    "code": "24767",
+    "description": "MANUTENCAO DE HIDROVIA"
   }
 ]

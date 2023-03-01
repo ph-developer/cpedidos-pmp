@@ -1,20 +1,20 @@
 [
   {
-    "grupo": "845",
-    "classe": "'-7",
-    "codigo": "14036",
-    "descricao": "ORGANIZACAO DE ARQUIVO"
+    "group": "845",
+    "class": "'-7",
+    "code": "14036",
+    "description": "ORGANIZACAO DE ARQUIVO"
   },
   {
-    "grupo": "845",
-    "classe": "8451",
-    "codigo": "16926",
-    "descricao": "INVENTARIO / CATALOGACAO - ACERVO BIBLIOGRAFICO"
+    "group": "845",
+    "class": "8451",
+    "code": "16926",
+    "description": "INVENTARIO / CATALOGACAO - ACERVO BIBLIOGRAFICO"
   },
   {
-    "grupo": "845",
-    "classe": "8451",
-    "codigo": "16942",
-    "descricao": "BIBLIOTECARIO"
+    "group": "845",
+    "class": "8451",
+    "code": "16942",
+    "description": "BIBLIOTECARIO"
   }
 ]

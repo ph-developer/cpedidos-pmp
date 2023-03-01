@@ -1,14 +1,14 @@
 [
   {
-    "grupo": "611",
-    "classe": "'-7",
-    "codigo": "15512",
-    "descricao": "COMERCIO / REPRESENTACAO : PRODUTO - NACIONAL / IMPORTADO"
+    "group": "611",
+    "class": "'-7",
+    "code": "15512",
+    "description": "COMERCIO / REPRESENTACAO : PRODUTO - NACIONAL / IMPORTADO"
   },
   {
-    "grupo": "611",
-    "classe": "'-7",
-    "codigo": "16080",
-    "descricao": "COMERCIALIZACAO AERONAVE - AVIAO / HELICOPTERO / ULTRALEVE"
+    "group": "611",
+    "class": "'-7",
+    "code": "16080",
+    "description": "COMERCIALIZACAO AERONAVE - AVIAO / HELICOPTERO / ULTRALEVE"
   }
 ]

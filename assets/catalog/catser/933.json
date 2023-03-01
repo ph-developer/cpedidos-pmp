@@ -1,14 +1,14 @@
 [
   {
-    "grupo": "933",
-    "classe": "'-7",
-    "codigo": "12939",
-    "descricao": "ASSISTENCIA SOCIAL"
+    "group": "933",
+    "class": "'-7",
+    "code": "12939",
+    "description": "ASSISTENCIA SOCIAL"
   },
   {
-    "grupo": "933",
-    "classe": "'-7",
-    "codigo": "23124",
-    "descricao": "SERVICO ESPECIALIZADO EM ASSISTENCIA SOCIAL"
+    "group": "933",
+    "class": "'-7",
+    "code": "23124",
+    "description": "SERVICO ESPECIALIZADO EM ASSISTENCIA SOCIAL"
   }
 ]

@@ -1,4064 +1,4064 @@
 [
   {
-    "grupo": "931",
-    "classe": "'-7",
-    "codigo": "27804",
-    "descricao": "GLICEMIA - SISTEMA MONITORIZACAO GLICEMICO COM INFUSAO CONTINUA DE INSULINA"
+    "group": "931",
+    "class": "'-7",
+    "code": "27804",
+    "description": "GLICEMIA - SISTEMA MONITORIZACAO GLICEMICO COM INFUSAO CONTINUA DE INSULINA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "1155",
-    "descricao": "ENSAIOS RADIOGRAFICOS, ULTRA - SOM, LIQUIDO PENETRANTE E PARTICULAS MAGNETICAS"
+    "group": "931",
+    "class": "9311",
+    "code": "1155",
+    "description": "ENSAIOS RADIOGRAFICOS, ULTRA - SOM, LIQUIDO PENETRANTE E PARTICULAS MAGNETICAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "5487",
-    "descricao": "ANALISE CLINICA, ANATOMIA PATOLOGICA E CITOPATOLOGIA"
+    "group": "931",
+    "class": "9311",
+    "code": "5487",
+    "description": "ANALISE CLINICA, ANATOMIA PATOLOGICA E CITOPATOLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "5495",
-    "descricao": "ANALISE QUIMICA BROMATOLOGICA"
+    "group": "931",
+    "class": "9311",
+    "code": "5495",
+    "description": "ANALISE QUIMICA BROMATOLOGICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "5681",
-    "descricao": "DIAGNOSE E TERAPIA - RADIODIAGNOSTICO"
+    "group": "931",
+    "class": "9311",
+    "code": "5681",
+    "description": "DIAGNOSE E TERAPIA - RADIODIAGNOSTICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "5690",
-    "descricao": "DIAGNOSE E TERAPIA - RESSONANCIA MAGNETICA"
+    "group": "931",
+    "class": "9311",
+    "code": "5690",
+    "description": "DIAGNOSE E TERAPIA - RESSONANCIA MAGNETICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "5703",
-    "descricao": "DIAGNOSE E TERAPIA - TOMOGRAFIA COMPUTADORIZADA"
+    "group": "931",
+    "class": "9311",
+    "code": "5703",
+    "description": "DIAGNOSE E TERAPIA - TOMOGRAFIA COMPUTADORIZADA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "5711",
-    "descricao": "DIAGNOSE E TERAPIA - ULTA SONOGRAFIA"
+    "group": "931",
+    "class": "9311",
+    "code": "5711",
+    "description": "DIAGNOSE E TERAPIA - ULTA SONOGRAFIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "5924",
-    "descricao": "EXAME DE OTORRINOLARINGOLOGIA"
+    "group": "931",
+    "class": "9311",
+    "code": "5924",
+    "description": "EXAME DE OTORRINOLARINGOLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "5967",
-    "descricao": "FONOAUDIOLOGIA - TERAPIA"
+    "group": "931",
+    "class": "9311",
+    "code": "5967",
+    "description": "FONOAUDIOLOGIA - TERAPIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6190",
-    "descricao": "NEFROLOGIA - DIALISE PERITONEAL"
+    "group": "931",
+    "class": "9311",
+    "code": "6190",
+    "description": "NEFROLOGIA - DIALISE PERITONEAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6203",
-    "descricao": "NEFROLOGIA - HEMODIALISE"
+    "group": "931",
+    "class": "9311",
+    "code": "6203",
+    "description": "NEFROLOGIA - HEMODIALISE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6211",
-    "descricao": "NEFROLOGIA - HEMOPERFUSAO"
+    "group": "931",
+    "class": "9311",
+    "code": "6211",
+    "description": "NEFROLOGIA - HEMOPERFUSAO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6220",
-    "descricao": "NEFROLOGIA - PUNCAO BIOPSIA RENAL PER CUTANEA"
+    "group": "931",
+    "class": "9311",
+    "code": "6220",
+    "description": "NEFROLOGIA - PUNCAO BIOPSIA RENAL PER CUTANEA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6238",
-    "descricao": "NEFROLOGIA - HEMOFILTRACAO"
+    "group": "931",
+    "class": "9311",
+    "code": "6238",
+    "description": "NEFROLOGIA - HEMOFILTRACAO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6246",
-    "descricao": "NEFROLOGIA - PLASMAFERESE"
+    "group": "931",
+    "class": "9311",
+    "code": "6246",
+    "description": "NEFROLOGIA - PLASMAFERESE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6254",
-    "descricao": "NEFROLOGIA - IMPLANTE DE CATETER VENOSO CENTRAL PARA HEMODIALISE"
+    "group": "931",
+    "class": "9311",
+    "code": "6254",
+    "description": "NEFROLOGIA - IMPLANTE DE CATETER VENOSO CENTRAL PARA HEMODIALISE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6262",
-    "descricao": "NEFROLOGIA - DIALISE PERITONEAL CRONICA"
+    "group": "931",
+    "class": "9311",
+    "code": "6262",
+    "description": "NEFROLOGIA - DIALISE PERITONEAL CRONICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6270",
-    "descricao": "NEFROLOGIA - HEMODIALISE CRONICA"
+    "group": "931",
+    "class": "9311",
+    "code": "6270",
+    "description": "NEFROLOGIA - HEMODIALISE CRONICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6289",
-    "descricao": "NEFROLOGIA - DIALISE PERITONEAL AMBULATORIAL CONTINUA( CAPD)"
+    "group": "931",
+    "class": "9311",
+    "code": "6289",
+    "description": "NEFROLOGIA - DIALISE PERITONEAL AMBULATORIAL CONTINUA( CAPD)"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6297",
-    "descricao": "NEFROLOGIA - INSTALACAO DE CATETER PERMANENTE PARA DIALISE  PERITONEAL"
+    "group": "931",
+    "class": "9311",
+    "code": "6297",
+    "description": "NEFROLOGIA - INSTALACAO DE CATETER PERMANENTE PARA DIALISE  PERITONEAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6300",
-    "descricao": "NEFROLOGIA - RETIRADA DE CATETER TENCKHOFF"
+    "group": "931",
+    "class": "9311",
+    "code": "6300",
+    "description": "NEFROLOGIA - RETIRADA DE CATETER TENCKHOFF"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6319",
-    "descricao": "NEFROLOGIA - TRANSPLANTE RENAL"
+    "group": "931",
+    "class": "9311",
+    "code": "6319",
+    "description": "NEFROLOGIA - TRANSPLANTE RENAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6327",
-    "descricao": "NEFROLOGIA - TRANSPLANTE RENAL - PUNCAO ASPIRATIVA RENAL  PARA DIAGNOSTICO DE REJEICAO"
+    "group": "931",
+    "class": "9311",
+    "code": "6327",
+    "description": "NEFROLOGIA - TRANSPLANTE RENAL - PUNCAO ASPIRATIVA RENAL  PARA DIAGNOSTICO DE REJEICAO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6335",
-    "descricao": "ANESTESIOLOGIA - ANESTESIA PARA BLOQUEIOS NAO CONVENCIONAIS"
+    "group": "931",
+    "class": "9311",
+    "code": "6335",
+    "description": "ANESTESIOLOGIA - ANESTESIA PARA BLOQUEIOS NAO CONVENCIONAIS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6343",
-    "descricao": "ANESTESIOLOGIA - ANESTESIA PARA EXAMES RADIOLOGICOS E ULTRA - SONOGRAFICOS - MEDICOS"
+    "group": "931",
+    "class": "9311",
+    "code": "6343",
+    "description": "ANESTESIOLOGIA - ANESTESIA PARA EXAMES RADIOLOGICOS E ULTRA - SONOGRAFICOS - MEDICOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6351",
-    "descricao": "NUTRICAO PARENTERAL E ENTERAL - PROCEDIMENTO CLINICOS /   CIRURGICOS EM PACIENTES INTERNADOS."
+    "group": "931",
+    "class": "9311",
+    "code": "6351",
+    "description": "NUTRICAO PARENTERAL E ENTERAL - PROCEDIMENTO CLINICOS /   CIRURGICOS EM PACIENTES INTERNADOS."
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6360",
-    "descricao": "ALERGOLOGIA - APLICACAO DE HIPOSSENSIBILIZANTE"
+    "group": "931",
+    "class": "9311",
+    "code": "6360",
+    "description": "ALERGOLOGIA - APLICACAO DE HIPOSSENSIBILIZANTE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6378",
-    "descricao": "ALERGOLOGIA - TRATAMENTO PARA RECUPERACAO DO ASMATICO"
+    "group": "931",
+    "class": "9311",
+    "code": "6378",
+    "description": "ALERGOLOGIA - TRATAMENTO PARA RECUPERACAO DO ASMATICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6386",
-    "descricao": "ALERGOLOGIA - HIPOSSENSIBILIZACAO ESPECIFICA"
+    "group": "931",
+    "class": "9311",
+    "code": "6386",
+    "description": "ALERGOLOGIA - HIPOSSENSIBILIZACAO ESPECIFICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6394",
-    "descricao": "ALERGOLOGIA - HIPOSSENSIBILIZACAO INESPECIFICA"
+    "group": "931",
+    "class": "9311",
+    "code": "6394",
+    "description": "ALERGOLOGIA - HIPOSSENSIBILIZACAO INESPECIFICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6408",
-    "descricao": "ALERGOLOGIA - HIPOSSENSIBILIZACAO COM PRODUTOS AUTOGENOS"
+    "group": "931",
+    "class": "9311",
+    "code": "6408",
+    "description": "ALERGOLOGIA - HIPOSSENSIBILIZACAO COM PRODUTOS AUTOGENOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6416",
-    "descricao": "ALERGOLOGIA - PROVAS IMUNO-ALERGICAS BACTERIANAS"
+    "group": "931",
+    "class": "9311",
+    "code": "6416",
+    "description": "ALERGOLOGIA - PROVAS IMUNO-ALERGICAS BACTERIANAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6424",
-    "descricao": "ALERGOLOGIA - PROVAS IMUNO-ALERGICAS PARA FUNGOS"
+    "group": "931",
+    "class": "9311",
+    "code": "6424",
+    "description": "ALERGOLOGIA - PROVAS IMUNO-ALERGICAS PARA FUNGOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6432",
-    "descricao": "ALERGOLOGIA - PROVAS DE PROVOCACAO"
+    "group": "931",
+    "class": "9311",
+    "code": "6432",
+    "description": "ALERGOLOGIA - PROVAS DE PROVOCACAO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6440",
-    "descricao": "ALERGOLOGIA - PROVAS DE PRAUSNITZ-KUSTNER"
+    "group": "931",
+    "class": "9311",
+    "code": "6440",
+    "description": "ALERGOLOGIA - PROVAS DE PRAUSNITZ-KUSTNER"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6459",
-    "descricao": "ALERGOLOGIA - TESTES CUTANEOS DE LEITURA IMEDIATA"
+    "group": "931",
+    "class": "9311",
+    "code": "6459",
+    "description": "ALERGOLOGIA - TESTES CUTANEOS DE LEITURA IMEDIATA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6467",
-    "descricao": "ALERGOLOGIA - TESTES DE CONTATO"
+    "group": "931",
+    "class": "9311",
+    "code": "6467",
+    "description": "ALERGOLOGIA - TESTES DE CONTATO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6475",
-    "descricao": "ALERGOLOGIA - TESTES DE CONTATO COM FOTOSSENSIBILIZACAO"
+    "group": "931",
+    "class": "9311",
+    "code": "6475",
+    "description": "ALERGOLOGIA - TESTES DE CONTATO COM FOTOSSENSIBILIZACAO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6483",
-    "descricao": "ALERGOLOGIA - TESTES IMUNO - ALERGICOS \" IN VITRO \""
+    "group": "931",
+    "class": "9311",
+    "code": "6483",
+    "description": "ALERGOLOGIA - TESTES IMUNO - ALERGICOS \" IN VITRO \""
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6491",
-    "descricao": "CARDIOLOGIA - ELETROCARDIOGRAMA - ECG"
+    "group": "931",
+    "class": "9311",
+    "code": "6491",
+    "description": "CARDIOLOGIA - ELETROCARDIOGRAMA - ECG"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6505",
-    "descricao": "CARDIOLOGIA - TESTE ERGOMETRICO (TE) EM BICICLETA OU EM  ES-TEIRA"
+    "group": "931",
+    "class": "9311",
+    "code": "6505",
+    "description": "CARDIOLOGIA - TESTE ERGOMETRICO (TE) EM BICICLETA OU EM  ES-TEIRA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6513",
-    "descricao": "CARDIOLOGIA - MONITORIZACAO ELETROCARDIOGRAFICA   PROGRAMADACOM TRANSCRICAO NAO CONTINUA"
+    "group": "931",
+    "class": "9311",
+    "code": "6513",
+    "description": "CARDIOLOGIA - MONITORIZACAO ELETROCARDIOGRAFICA   PROGRAMADACOM TRANSCRICAO NAO CONTINUA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6521",
-    "descricao": "CARDIOLOGIA - ELETROCARDIOGRAFIA DINAMICA SISTEMA HOLTER"
+    "group": "931",
+    "class": "9311",
+    "code": "6521",
+    "description": "CARDIOLOGIA - ELETROCARDIOGRAFIA DINAMICA SISTEMA HOLTER"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6530",
-    "descricao": "CARDIOLOGIA - ECOCARDIOGRAMA UNIDIMENSIONAL"
+    "group": "931",
+    "class": "9311",
+    "code": "6530",
+    "description": "CARDIOLOGIA - ECOCARDIOGRAMA UNIDIMENSIONAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6548",
-    "descricao": "CARDIOLOGIA - ECOCARDIOGRAMA BIDIMENSIONAL"
+    "group": "931",
+    "class": "9311",
+    "code": "6548",
+    "description": "CARDIOLOGIA - ECOCARDIOGRAMA BIDIMENSIONAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6556",
-    "descricao": "CARDIOLOGIA - ECOCARDIOGRAMA BIDIMENSIONAL COM DOPPLER"
+    "group": "931",
+    "class": "9311",
+    "code": "6556",
+    "description": "CARDIOLOGIA - ECOCARDIOGRAMA BIDIMENSIONAL COM DOPPLER"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6564",
-    "descricao": "CARDIOLOGIA - ECOCARDIOGRAMA BIDIMENSIONAL COM MAPEAMENTO DEFLUXO A CORES"
+    "group": "931",
+    "class": "9311",
+    "code": "6564",
+    "description": "CARDIOLOGIA - ECOCARDIOGRAMA BIDIMENSIONAL COM MAPEAMENTO DEFLUXO A CORES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6572",
-    "descricao": "CARDIOLOGIA - ECODOPPLER DE ESFORCO OU STRESS FARMACOLOGICO"
+    "group": "931",
+    "class": "9311",
+    "code": "6572",
+    "description": "CARDIOLOGIA - ECODOPPLER DE ESFORCO OU STRESS FARMACOLOGICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6580",
-    "descricao": "CARDIOLOGIA - ECODOPPLER DE CAROTIDAS"
+    "group": "931",
+    "class": "9311",
+    "code": "6580",
+    "description": "CARDIOLOGIA - ECODOPPLER DE CAROTIDAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6599",
-    "descricao": "CARDIOLOGIA - ECODOPPLER VERTEBRAL OU VASCULAR PERIFERICO"
+    "group": "931",
+    "class": "9311",
+    "code": "6599",
+    "description": "CARDIOLOGIA - ECODOPPLER VERTEBRAL OU VASCULAR PERIFERICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6602",
-    "descricao": "CARDIOLOGIA - ECODOPPLER DE CAROTIDAS, MAPEAMENTO DE FLUXO ACORES"
+    "group": "931",
+    "class": "9311",
+    "code": "6602",
+    "description": "CARDIOLOGIA - ECODOPPLER DE CAROTIDAS, MAPEAMENTO DE FLUXO ACORES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6610",
-    "descricao": "CARDIOLOGIA - ECODOPPLER FETAL"
+    "group": "931",
+    "class": "9311",
+    "code": "6610",
+    "description": "CARDIOLOGIA - ECODOPPLER FETAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6629",
-    "descricao": "CARDIOLOGIA - ECODOPPLER FETAL, MAPEAMENTO DE FLUXO A CORES"
+    "group": "931",
+    "class": "9311",
+    "code": "6629",
+    "description": "CARDIOLOGIA - ECODOPPLER FETAL, MAPEAMENTO DE FLUXO A CORES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6637",
-    "descricao": "CARDIOLOGIA - ECODOPPLER TRANSESOFAGICO"
+    "group": "931",
+    "class": "9311",
+    "code": "6637",
+    "description": "CARDIOLOGIA - ECODOPPLER TRANSESOFAGICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6645",
-    "descricao": "CARDIOLOGIA - ECODOPPLER TRANSOPERATORIO EPICARDICO"
+    "group": "931",
+    "class": "9311",
+    "code": "6645",
+    "description": "CARDIOLOGIA - ECODOPPLER TRANSOPERATORIO EPICARDICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6653",
-    "descricao": "CARDIOLOGIA - ECODOPPLER TRANSOPERATORIO ESOFAGICO"
+    "group": "931",
+    "class": "9311",
+    "code": "6653",
+    "description": "CARDIOLOGIA - ECODOPPLER TRANSOPERATORIO ESOFAGICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6661",
-    "descricao": "CARDIOLOGIA - FONOMECANOCARDIOGRAFIA EM PAPEL FOTOGRAFICO OUEM INSCRICAO DIRETA"
+    "group": "931",
+    "class": "9311",
+    "code": "6661",
+    "description": "CARDIOLOGIA - FONOMECANOCARDIOGRAFIA EM PAPEL FOTOGRAFICO OUEM INSCRICAO DIRETA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6670",
-    "descricao": "CARDIOLOGIA - VECTOCARDIOGRAMA EM PAPEL FOTOGRAFICO"
+    "group": "931",
+    "class": "9311",
+    "code": "6670",
+    "description": "CARDIOLOGIA - VECTOCARDIOGRAMA EM PAPEL FOTOGRAFICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6688",
-    "descricao": "CARDIOLOGIA - CARDIOVERSAO ELETRICA ELETIVA (AVALIACAO  CLI-NICA, ELETROCARDIOGRAFICA PARA DESFIBRILACAO )"
+    "group": "931",
+    "class": "9311",
+    "code": "6688",
+    "description": "CARDIOLOGIA - CARDIOVERSAO ELETRICA ELETIVA (AVALIACAO  CLI-NICA, ELETROCARDIOGRAFICA PARA DESFIBRILACAO )"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6696",
-    "descricao": "CARDIOLOGIA - MARCA - PASSO TEMPORARIO A BEIRA DO LEITO."
+    "group": "931",
+    "class": "9311",
+    "code": "6696",
+    "description": "CARDIOLOGIA - MARCA - PASSO TEMPORARIO A BEIRA DO LEITO."
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6700",
-    "descricao": "CARDIOLOGIA - MONITORIZACAO PRE OPERATORIA EM CIRURGIA GERAL"
+    "group": "931",
+    "class": "9311",
+    "code": "6700",
+    "description": "CARDIOLOGIA - MONITORIZACAO PRE OPERATORIA EM CIRURGIA GERAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6718",
-    "descricao": "CARDIOLOGIA - MONITORIZACAO DE PRESSAO ARTERIAL"
+    "group": "931",
+    "class": "9311",
+    "code": "6718",
+    "description": "CARDIOLOGIA - MONITORIZACAO DE PRESSAO ARTERIAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6726",
-    "descricao": "CARDIOLOGIA - CARDIO-ESTIMULACAO TRANSESOFAGICA (CETE) TERA-PEUTICA OU DIAGNOSTICA"
+    "group": "931",
+    "class": "9311",
+    "code": "6726",
+    "description": "CARDIOLOGIA - CARDIO-ESTIMULACAO TRANSESOFAGICA (CETE) TERA-PEUTICA OU DIAGNOSTICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6734",
-    "descricao": "EXAME ANATOMO PATOLOGICO PRE OPERATORIO"
+    "group": "931",
+    "class": "9311",
+    "code": "6734",
+    "description": "EXAME ANATOMO PATOLOGICO PRE OPERATORIO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6742",
-    "descricao": "EXAME ANATOMO PATOLOGICO POR ORGAO - BIOPSIA OU BIOPSIA ASPIRATIVA"
+    "group": "931",
+    "class": "9311",
+    "code": "6742",
+    "description": "EXAME ANATOMO PATOLOGICO POR ORGAO - BIOPSIA OU BIOPSIA ASPIRATIVA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6750",
-    "descricao": "EXAME CITOPATOLOGICO ONCOTICO DE LIQUIDOS ( ASCITICO,  PLEU-RAL, URINA, ESCARRO, ETC.)"
+    "group": "931",
+    "class": "9311",
+    "code": "6750",
+    "description": "EXAME CITOPATOLOGICO ONCOTICO DE LIQUIDOS ( ASCITICO,  PLEU-RAL, URINA, ESCARRO, ETC.)"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6769",
-    "descricao": "EXAME CITOPATOLOGICO CERVICO - VAGINAL ONCOTICO E MICROFLORA"
+    "group": "931",
+    "class": "9311",
+    "code": "6769",
+    "description": "EXAME CITOPATOLOGICO CERVICO - VAGINAL ONCOTICO E MICROFLORA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6777",
-    "descricao": "EXAME CITOPATOLOGICO HORMONAL SERIADO"
+    "group": "931",
+    "class": "9311",
+    "code": "6777",
+    "description": "EXAME CITOPATOLOGICO HORMONAL SERIADO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6785",
-    "descricao": "NECROPSIA DE ADULTO E CRIANCA"
+    "group": "931",
+    "class": "9311",
+    "code": "6785",
+    "description": "NECROPSIA DE ADULTO E CRIANCA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6793",
-    "descricao": "NECROPSIA DE FETO"
+    "group": "931",
+    "class": "9311",
+    "code": "6793",
+    "description": "NECROPSIA DE FETO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6807",
-    "descricao": "ANATOMIA PATOLOGICA E CITOPATOLOGIA - REVISAO DE LAMINAS"
+    "group": "931",
+    "class": "9311",
+    "code": "6807",
+    "description": "ANATOMIA PATOLOGICA E CITOPATOLOGIA - REVISAO DE LAMINAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6815",
-    "descricao": "EXAME CITOPATOLOGICO HORMONAL ISOLADO"
+    "group": "931",
+    "class": "9311",
+    "code": "6815",
+    "description": "EXAME CITOPATOLOGICO HORMONAL ISOLADO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6823",
-    "descricao": "ANATOMIA PATOLOGICA E CITOPATOLOGIA - IMUNOPEROXIDASE  (POR-ANTICORPO PRIMARIO)"
+    "group": "931",
+    "class": "9311",
+    "code": "6823",
+    "description": "ANATOMIA PATOLOGICA E CITOPATOLOGIA - IMUNOPEROXIDASE  (POR-ANTICORPO PRIMARIO)"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6831",
-    "descricao": "ATO DE COLETA DE PUNCAO ASPIRATIVA POR AGULHA FINA, DE ESTRUTURAS CUTANEAS"
+    "group": "931",
+    "class": "9311",
+    "code": "6831",
+    "description": "ATO DE COLETA DE PUNCAO ASPIRATIVA POR AGULHA FINA, DE ESTRUTURAS CUTANEAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6840",
-    "descricao": "ATO DA COLETA PUNCAO BIOPSIA ASPIRATIVA, POR AGULHA FINA, DEORGAO OU ESTRUTURAS CUTANEAS"
+    "group": "931",
+    "class": "9311",
+    "code": "6840",
+    "description": "ATO DA COLETA PUNCAO BIOPSIA ASPIRATIVA, POR AGULHA FINA, DEORGAO OU ESTRUTURAS CUTANEAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6858",
-    "descricao": "ATO DA COLETA PUNCAO BIOPSIA ASPIRATIVA, POR AGULHA FINA, DEESTRUTURA PROFUNDA INTRAVITARIA (TORAX, ABDOMINAL, OSSO)"
+    "group": "931",
+    "class": "9311",
+    "code": "6858",
+    "description": "ATO DA COLETA PUNCAO BIOPSIA ASPIRATIVA, POR AGULHA FINA, DEESTRUTURA PROFUNDA INTRAVITARIA (TORAX, ABDOMINAL, OSSO)"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6866",
-    "descricao": "ANATOMIA PATOLOGICA E CITOPATOLOGIA - HIBRIDIZACAO MOLECULAR"
+    "group": "931",
+    "class": "9311",
+    "code": "6866",
+    "description": "ANATOMIA PATOLOGICA E CITOPATOLOGIA - HIBRIDIZACAO MOLECULAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6874",
-    "descricao": "ELETROENCEFALOGRAMA EM VIGILIA (SEM FOTO ESTIMULACAO)"
+    "group": "931",
+    "class": "9311",
+    "code": "6874",
+    "description": "ELETROENCEFALOGRAMA EM VIGILIA (SEM FOTO ESTIMULACAO)"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6882",
-    "descricao": "ELETROENCEFALOGRAMA EM VIGILIA (COM FOTO ESTIMULACAO)"
+    "group": "931",
+    "class": "9311",
+    "code": "6882",
+    "description": "ELETROENCEFALOGRAMA EM VIGILIA (COM FOTO ESTIMULACAO)"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6890",
-    "descricao": "ELETROENCEFALOGRAMA COM COMPRESSAO CAROTIDEA"
+    "group": "931",
+    "class": "9311",
+    "code": "6890",
+    "description": "ELETROENCEFALOGRAMA COM COMPRESSAO CAROTIDEA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6904",
-    "descricao": "ELETROENCEFALOGRAMA ESFENOIDAL OU NASO-FARINGEO"
+    "group": "931",
+    "class": "9311",
+    "code": "6904",
+    "description": "ELETROENCEFALOGRAMA ESFENOIDAL OU NASO-FARINGEO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6912",
-    "descricao": "ELETROENCEFALOGRAMA EM SONO E VIGILIA"
+    "group": "931",
+    "class": "9311",
+    "code": "6912",
+    "description": "ELETROENCEFALOGRAMA EM SONO E VIGILIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6920",
-    "descricao": "ECOENCEFALOGRAMA"
+    "group": "931",
+    "class": "9311",
+    "code": "6920",
+    "description": "ECOENCEFALOGRAMA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6939",
-    "descricao": "ELECTRENCEFALOGRAFIA E NEUROFISIOLOGIA CLINICA  -  POTENCIALEVOCADO VISUAL"
+    "group": "931",
+    "class": "9311",
+    "code": "6939",
+    "description": "ELECTRENCEFALOGRAFIA E NEUROFISIOLOGIA CLINICA  -  POTENCIALEVOCADO VISUAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6971",
-    "descricao": "POLISSONOGRAFIA"
+    "group": "931",
+    "class": "9311",
+    "code": "6971",
+    "description": "POLISSONOGRAFIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "6980",
-    "descricao": "ELETRONEUROMIOGRAFIA"
+    "group": "931",
+    "class": "9311",
+    "code": "6980",
+    "description": "ELETRONEUROMIOGRAFIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7005",
-    "descricao": "ELETROENCEFALOGRAMA PROLONGADO"
+    "group": "931",
+    "class": "9311",
+    "code": "7005",
+    "description": "ELETROENCEFALOGRAMA PROLONGADO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7013",
-    "descricao": "MAPEAMENTO CEREBRAL COM POTENCIAL EVOCADO"
+    "group": "931",
+    "class": "9311",
+    "code": "7013",
+    "description": "MAPEAMENTO CEREBRAL COM POTENCIAL EVOCADO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7021",
-    "descricao": "MAPEAMENTO CEREBRAL COM ELETROENCEFALOGRAMA"
+    "group": "931",
+    "class": "9311",
+    "code": "7021",
+    "description": "MAPEAMENTO CEREBRAL COM ELETROENCEFALOGRAMA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7030",
-    "descricao": "ENDOSCOPIA DIGESTIVA DIAGNOSTICA  -  COLANGIOPANCREATOGRAFIARETROGRADA"
+    "group": "931",
+    "class": "9311",
+    "code": "7030",
+    "description": "ENDOSCOPIA DIGESTIVA DIAGNOSTICA  -  COLANGIOPANCREATOGRAFIARETROGRADA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7048",
-    "descricao": "ENDOSCOPIA DIGESTIVA DIAGNOSTICA - COLONOSCOPIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7048",
+    "description": "ENDOSCOPIA DIGESTIVA DIAGNOSTICA - COLONOSCOPIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7056",
-    "descricao": "ENDOSCOPIA DIGESTIVA ALTA - DIAGNOSTICA"
+    "group": "931",
+    "class": "9311",
+    "code": "7056",
+    "description": "ENDOSCOPIA DIGESTIVA ALTA - DIAGNOSTICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7064",
-    "descricao": "ENDOSCOPIA DIGESTIVA DIAGNOSTICA - LAPAROSCOPIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7064",
+    "description": "ENDOSCOPIA DIGESTIVA DIAGNOSTICA - LAPAROSCOPIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7072",
-    "descricao": "ENDOSCOPIA DIGESTIVA DIAGNOSTICA - RETOSSIGMOIDOSCOPIA  RIGIDA / FLEXIVEL"
+    "group": "931",
+    "class": "9311",
+    "code": "7072",
+    "description": "ENDOSCOPIA DIGESTIVA DIAGNOSTICA - RETOSSIGMOIDOSCOPIA  RIGIDA / FLEXIVEL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7080",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - COLOCACAO DE PROTESE COLEDOCIANA POR VIA ENDOSCOPICA"
+    "group": "931",
+    "class": "9311",
+    "code": "7080",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - COLOCACAO DE PROTESE COLEDOCIANA POR VIA ENDOSCOPICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7099",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - DILATACAO ESOFAGO COM OGIVATIPO EDER PUESTOW"
+    "group": "931",
+    "class": "9311",
+    "code": "7099",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - DILATACAO ESOFAGO COM OGIVATIPO EDER PUESTOW"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7102",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - DILATACAO ESOFAGO COM BALAOPNEUMATICO"
+    "group": "931",
+    "class": "9311",
+    "code": "7102",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - DILATACAO ESOFAGO COM BALAOPNEUMATICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7110",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - DILATACAO ESOFAGO COM VELAS"
+    "group": "931",
+    "class": "9311",
+    "code": "7110",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - DILATACAO ESOFAGO COM VELAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7129",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - ESCLEROSE VARIZES  ESOFAGEANAS"
+    "group": "931",
+    "class": "9311",
+    "code": "7129",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - ESCLEROSE VARIZES  ESOFAGEANAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7137",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - INTRODUCAO  ENDOSCOPICA  DEPROTESE ESOFAGEANA"
+    "group": "931",
+    "class": "9311",
+    "code": "7137",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - INTRODUCAO  ENDOSCOPICA  DEPROTESE ESOFAGEANA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7145",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - POLIPECTOMIA DE ESOFAGO, ESTOMAGO OU DUODENO"
+    "group": "931",
+    "class": "9311",
+    "code": "7145",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - POLIPECTOMIA DE ESOFAGO, ESTOMAGO OU DUODENO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7153",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - PAPILOTOMIA ENDOSCOPICA RE-TIRADA DE CALCULOS COLEDOCIANOS OU DRENAGEM BILIAR"
+    "group": "931",
+    "class": "9311",
+    "code": "7153",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - PAPILOTOMIA ENDOSCOPICA RE-TIRADA DE CALCULOS COLEDOCIANOS OU DRENAGEM BILIAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7161",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - POLIPECTOMIA DE COLON"
+    "group": "931",
+    "class": "9311",
+    "code": "7161",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - POLIPECTOMIA DE COLON"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7170",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - RETIRADA DE CORPO  ESTRANHODO ESOFAGO, ESTOMAGO OU DUODENO"
+    "group": "931",
+    "class": "9311",
+    "code": "7170",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - RETIRADA DE CORPO  ESTRANHODO ESOFAGO, ESTOMAGO OU DUODENO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7188",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - DIVERTUCULECTOMIA DO ESOFA-GO"
+    "group": "931",
+    "class": "9311",
+    "code": "7188",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - DIVERTUCULECTOMIA DO ESOFA-GO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7196",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - GASTROSTOMIA ENDOSCOPICA"
+    "group": "931",
+    "class": "9311",
+    "code": "7196",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - GASTROSTOMIA ENDOSCOPICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7200",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - PASSAGEM DE SONDA POR ENDOSCOPIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7200",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - PASSAGEM DE SONDA POR ENDOSCOPIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7218",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - BIOPSIA / CITOLOGIA (ENDOS-COPIA ALTA OU BAIXA)"
+    "group": "931",
+    "class": "9311",
+    "code": "7218",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - BIOPSIA / CITOLOGIA (ENDOS-COPIA ALTA OU BAIXA)"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7226",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - ESVAZIAMENTO LIQUIDO ASCITICO POR LAPAROSCOPIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7226",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - ESVAZIAMENTO LIQUIDO ASCITICO POR LAPAROSCOPIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7234",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - LISE DE BRIDAS POR LAPAROS-COPIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7234",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - LISE DE BRIDAS POR LAPAROS-COPIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7242",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - HEMOSTASIA POR LAPAROSCOPIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7242",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - HEMOSTASIA POR LAPAROSCOPIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7250",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - DRENAGEM CAVITARIA POR LAPAROSCOPIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7250",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - DRENAGEM CAVITARIA POR LAPAROSCOPIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7269",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - BIOPSIA POR LAPAROSCOPIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7269",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - BIOPSIA POR LAPAROSCOPIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7277",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - RETIRADA DE CORPO  ESTRANHODO COLON"
+    "group": "931",
+    "class": "9311",
+    "code": "7277",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - RETIRADA DE CORPO  ESTRANHODO COLON"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7285",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - HEMOSTASIA DO COLON"
+    "group": "931",
+    "class": "9311",
+    "code": "7285",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - HEMOSTASIA DO COLON"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7293",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - DESCOMPRESSAO COLONICA  PORCOLONOSCOPIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7293",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - DESCOMPRESSAO COLONICA  PORCOLONOSCOPIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7307",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - TAMPONAMENTO DE VARIZES ESOFAGIANAS"
+    "group": "931",
+    "class": "9311",
+    "code": "7307",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - TAMPONAMENTO DE VARIZES ESOFAGIANAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7315",
-    "descricao": "ENDOSCOPIA DIGESTIVA CIRURGICA - HEMOSTASIA EM ESOFAGO, ESTOMAGO OU DUODENO (PATOLOGIA NAO VARICOSA)"
+    "group": "931",
+    "class": "9311",
+    "code": "7315",
+    "description": "ENDOSCOPIA DIGESTIVA CIRURGICA - HEMOSTASIA EM ESOFAGO, ESTOMAGO OU DUODENO (PATOLOGIA NAO VARICOSA)"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7323",
-    "descricao": "LARINGOSCOPIA DIRETA PARA DIAGNOSTICO, COLHEITA DE  MATERIALE/OU BIOPSIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7323",
+    "description": "LARINGOSCOPIA DIRETA PARA DIAGNOSTICO, COLHEITA DE  MATERIALE/OU BIOPSIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7331",
-    "descricao": "LARINGOSCOPIA DIRETA COM RETIRADA DE CORPO ESTRANHO"
+    "group": "931",
+    "class": "9311",
+    "code": "7331",
+    "description": "LARINGOSCOPIA DIRETA COM RETIRADA DE CORPO ESTRANHO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7340",
-    "descricao": "LARINGOSCOPIA DIRETA COM EXERESE DE POLIPO / NODULO / PAPILOMA"
+    "group": "931",
+    "class": "9311",
+    "code": "7340",
+    "description": "LARINGOSCOPIA DIRETA COM EXERESE DE POLIPO / NODULO / PAPILOMA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7358",
-    "descricao": "LARINGOSCOPIA DIRETA COM MICROSCOPIA PARA EXERESE DE POLIPO/NODULO"
+    "group": "931",
+    "class": "9311",
+    "code": "7358",
+    "description": "LARINGOSCOPIA DIRETA COM MICROSCOPIA PARA EXERESE DE POLIPO/NODULO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7366",
-    "descricao": "LARINGOSCOPIA DIRETA COM MICROSCOPIA - EXERESE DE PAPILOMA"
+    "group": "931",
+    "class": "9311",
+    "code": "7366",
+    "description": "LARINGOSCOPIA DIRETA COM MICROSCOPIA - EXERESE DE PAPILOMA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7374",
-    "descricao": "LARINGOSCOPIA COM LASER PARA EXERESE DE PAPILOMA / POLIPO  /NODULO / TUMOR"
+    "group": "931",
+    "class": "9311",
+    "code": "7374",
+    "description": "LARINGOSCOPIA COM LASER PARA EXERESE DE PAPILOMA / POLIPO  /NODULO / TUMOR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7382",
-    "descricao": "LARINGOSCOPIA DIRETA COM DILATACAO PARA ESTENOSE"
+    "group": "931",
+    "class": "9311",
+    "code": "7382",
+    "description": "LARINGOSCOPIA DIRETA COM DILATACAO PARA ESTENOSE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7390",
-    "descricao": "TRAQUEOSCOPIA PARA  DIAGNOSTICO,  COLHEITA  MATERIAL  E / OUBIOPSIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7390",
+    "description": "TRAQUEOSCOPIA PARA  DIAGNOSTICO,  COLHEITA  MATERIAL  E / OUBIOPSIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7404",
-    "descricao": "TRAQUEOSCOPIA COM RETIRADA DE CORPO ESTRANHO"
+    "group": "931",
+    "class": "9311",
+    "code": "7404",
+    "description": "TRAQUEOSCOPIA COM RETIRADA DE CORPO ESTRANHO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7412",
-    "descricao": "TRAQUEOSCOPIA COM RETIRADA DE PAPILOMA"
+    "group": "931",
+    "class": "9311",
+    "code": "7412",
+    "description": "TRAQUEOSCOPIA COM RETIRADA DE PAPILOMA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7420",
-    "descricao": "TRAQUEOSCOPIA COM DILATACAO PARA ESTENOSE"
+    "group": "931",
+    "class": "9311",
+    "code": "7420",
+    "description": "TRAQUEOSCOPIA COM DILATACAO PARA ESTENOSE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7439",
-    "descricao": "BRONCOSCOPIA RIGIDA PARA DIAGNOSTICO, COLHEITA DE MATERIAL E/OU BIOPSIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7439",
+    "description": "BRONCOSCOPIA RIGIDA PARA DIAGNOSTICO, COLHEITA DE MATERIAL E/OU BIOPSIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7447",
-    "descricao": "BRONCOSCOPIA RIGIDA COM RETIRADA DE CORPO ESTRANHO"
+    "group": "931",
+    "class": "9311",
+    "code": "7447",
+    "description": "BRONCOSCOPIA RIGIDA COM RETIRADA DE CORPO ESTRANHO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7455",
-    "descricao": "BRONCOSCOPIA RIGIDA COM RETIRADA DE PAPILOMA"
+    "group": "931",
+    "class": "9311",
+    "code": "7455",
+    "description": "BRONCOSCOPIA RIGIDA COM RETIRADA DE PAPILOMA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7463",
-    "descricao": "BRONCOSCOPIA FLEXIVEL COM BIOPSIA TRANSBRONQUICA"
+    "group": "931",
+    "class": "9311",
+    "code": "7463",
+    "description": "BRONCOSCOPIA FLEXIVEL COM BIOPSIA TRANSBRONQUICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7471",
-    "descricao": "BRONCOSCOPIA RIGIDA COM DILATACAO PARA ESTENOSE"
+    "group": "931",
+    "class": "9311",
+    "code": "7471",
+    "description": "BRONCOSCOPIA RIGIDA COM DILATACAO PARA ESTENOSE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7480",
-    "descricao": "BRONCOGRAFIA POR HEMITORAX"
+    "group": "931",
+    "class": "9311",
+    "code": "7480",
+    "description": "BRONCOGRAFIA POR HEMITORAX"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7498",
-    "descricao": "BRONCOSCOPIA FLEXIVEL PARA DIAGNOSTICO, COLHEITA DE MATERIALE/OU BIOPSIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7498",
+    "description": "BRONCOSCOPIA FLEXIVEL PARA DIAGNOSTICO, COLHEITA DE MATERIALE/OU BIOPSIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7501",
-    "descricao": "BRONCOSCOPIA FLEXIVEL PARA RETIRADA DE CORPO ESTRANHO"
+    "group": "931",
+    "class": "9311",
+    "code": "7501",
+    "description": "BRONCOSCOPIA FLEXIVEL PARA RETIRADA DE CORPO ESTRANHO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7510",
-    "descricao": "BRONCOSCOPIA FLEXIVEL COM LAVADO BRONCOALVEOLAR"
+    "group": "931",
+    "class": "9311",
+    "code": "7510",
+    "description": "BRONCOSCOPIA FLEXIVEL COM LAVADO BRONCOALVEOLAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7528",
-    "descricao": "LARINGOSCOPIA FLEXIVEL COM EXERESE ENDOSCOPICA DE TUMOR"
+    "group": "931",
+    "class": "9311",
+    "code": "7528",
+    "description": "LARINGOSCOPIA FLEXIVEL COM EXERESE ENDOSCOPICA DE TUMOR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7536",
-    "descricao": "EXAME FISIATRICO - CRONAXIMETRIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7536",
+    "description": "EXAME FISIATRICO - CRONAXIMETRIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7544",
-    "descricao": "EXAME FISIATRICO - CURVA I/T"
+    "group": "931",
+    "class": "9311",
+    "code": "7544",
+    "description": "EXAME FISIATRICO - CURVA I/T"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7552",
-    "descricao": "EXAME FISIATRICO - ELETRODIAGNOSTICO"
+    "group": "931",
+    "class": "9311",
+    "code": "7552",
+    "description": "EXAME FISIATRICO - ELETRODIAGNOSTICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7560",
-    "descricao": "EXAME FISIATRICO - EXAME MUSCULAR"
+    "group": "931",
+    "class": "9311",
+    "code": "7560",
+    "description": "EXAME FISIATRICO - EXAME MUSCULAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7579",
-    "descricao": "EXAME FISIATRICO - TESTE DE HEALD"
+    "group": "931",
+    "class": "9311",
+    "code": "7579",
+    "description": "EXAME FISIATRICO - TESTE DE HEALD"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7587",
-    "descricao": "EXAME FISIATRICO - PESQUISA ELETRONEUROMIOGRAFICA"
+    "group": "931",
+    "class": "9311",
+    "code": "7587",
+    "description": "EXAME FISIATRICO - PESQUISA ELETRONEUROMIOGRAFICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7595",
-    "descricao": "EXAME FISIATRICO - POTENCIAL EVOCADO AUDITIVO"
+    "group": "931",
+    "class": "9311",
+    "code": "7595",
+    "description": "EXAME FISIATRICO - POTENCIAL EVOCADO AUDITIVO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7609",
-    "descricao": "EXAME FISIATRICO - POTENCIAL SOMATO-SENSITIVO"
+    "group": "931",
+    "class": "9311",
+    "code": "7609",
+    "description": "EXAME FISIATRICO - POTENCIAL SOMATO-SENSITIVO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7617",
-    "descricao": "EXAME FISIATRICO - POTENCIAL EVOCADO VISUAL"
+    "group": "931",
+    "class": "9311",
+    "code": "7617",
+    "description": "EXAME FISIATRICO - POTENCIAL EVOCADO VISUAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7625",
-    "descricao": "EXAME FISIATRICO - BIOFEEDBACK COM EMG"
+    "group": "931",
+    "class": "9311",
+    "code": "7625",
+    "description": "EXAME FISIATRICO - BIOFEEDBACK COM EMG"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7633",
-    "descricao": "TRATAMENTO DE ATAXIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7633",
+    "description": "TRATAMENTO DE ATAXIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7641",
-    "descricao": "TRATAMENTO DE DISTROFIA SIMPATICO - REFLEXO"
+    "group": "931",
+    "class": "9311",
+    "code": "7641",
+    "description": "TRATAMENTO DE DISTROFIA SIMPATICO - REFLEXO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7650",
-    "descricao": "TRATAMENTO DE HEMIPLEGIA E HEMIPARESIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7650",
+    "description": "TRATAMENTO DE HEMIPLEGIA E HEMIPARESIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7668",
-    "descricao": "TRATAMENTO DE LESAO NERVOSA PERIFERICA AFETANDO  MAIS  DE UMNERVO COM ALTERACAO SENSITIVA OU MOTORA"
+    "group": "931",
+    "class": "9311",
+    "code": "7668",
+    "description": "TRATAMENTO DE LESAO NERVOSA PERIFERICA AFETANDO  MAIS  DE UMNERVO COM ALTERACAO SENSITIVA OU MOTORA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7676",
-    "descricao": "TRATAMENTO DE LESAO NERVOSA PERIFERICA AFETANDO UM NERVO COMALTERACAO SENSITIVA OU MOTORA"
+    "group": "931",
+    "class": "9311",
+    "code": "7676",
+    "description": "TRATAMENTO DE LESAO NERVOSA PERIFERICA AFETANDO UM NERVO COMALTERACAO SENSITIVA OU MOTORA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7684",
-    "descricao": "TRATAMENTO DE MIOPATIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7684",
+    "description": "TRATAMENTO DE MIOPATIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7692",
-    "descricao": "TRATAMENTO DE MONOPLEGIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7692",
+    "description": "TRATAMENTO DE MONOPLEGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7706",
-    "descricao": "TRATAMENTO DE PARAPLEGIA OU PARAPARESIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7706",
+    "description": "TRATAMENTO DE PARAPLEGIA OU PARAPARESIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7714",
-    "descricao": "TRATAMENTO DE PARALISIA CEREBRAL (TRATAMENTO MOTOR)"
+    "group": "931",
+    "class": "9311",
+    "code": "7714",
+    "description": "TRATAMENTO DE PARALISIA CEREBRAL (TRATAMENTO MOTOR)"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7722",
-    "descricao": "ASSISTENCIA FISIATRICA - TRATAMENTO DE PATOLOGIA NEUROLOGICACOM SEQUELA"
+    "group": "931",
+    "class": "9311",
+    "code": "7722",
+    "description": "ASSISTENCIA FISIATRICA - TRATAMENTO DE PATOLOGIA NEUROLOGICACOM SEQUELA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7730",
-    "descricao": "TRATAMENTO DE PARKINSON"
+    "group": "931",
+    "class": "9311",
+    "code": "7730",
+    "description": "TRATAMENTO DE PARKINSON"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7749",
-    "descricao": "TRATAMENTO DE QUADRIPLEGIA OU QUADRIPARESIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7749",
+    "description": "TRATAMENTO DE QUADRIPLEGIA OU QUADRIPARESIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7757",
-    "descricao": "TRATAMENTO DE RETARDO DO DESENVOLVIMENTO PSICO - MOTOR (TRA-TAMENTO GLOBAL / MOTOR)"
+    "group": "931",
+    "class": "9311",
+    "code": "7757",
+    "description": "TRATAMENTO DE RETARDO DO DESENVOLVIMENTO PSICO - MOTOR (TRA-TAMENTO GLOBAL / MOTOR)"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7765",
-    "descricao": "TRATAMENTO DE DISTURBIO CIRCULATORIO ARTERIO-VENOSO E LINFA-TICO"
+    "group": "931",
+    "class": "9311",
+    "code": "7765",
+    "description": "TRATAMENTO DE DISTURBIO CIRCULATORIO ARTERIO-VENOSO E LINFA-TICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7773",
-    "descricao": "ASSISTENCIA FISIATRICA RESPIRATORIA  EM  PACIENTE  INTERNADOCOM VENTILACAO MECANICA"
+    "group": "931",
+    "class": "9311",
+    "code": "7773",
+    "description": "ASSISTENCIA FISIATRICA RESPIRATORIA  EM  PACIENTE  INTERNADOCOM VENTILACAO MECANICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7781",
-    "descricao": "ASSISTENCIA FISIATRICA - RESPIRATORIA DOENTE CLINICO INTERNADO"
+    "group": "931",
+    "class": "9311",
+    "code": "7781",
+    "description": "ASSISTENCIA FISIATRICA - RESPIRATORIA DOENTE CLINICO INTERNADO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7790",
-    "descricao": "ASSISTENCIA FISIATRICA - RESPIRATORIA PRE  E  POS-OPERATORIOCONDICOES CIRURGICAS"
+    "group": "931",
+    "class": "9311",
+    "code": "7790",
+    "description": "ASSISTENCIA FISIATRICA - RESPIRATORIA PRE  E  POS-OPERATORIOCONDICOES CIRURGICAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7803",
-    "descricao": "TRATAMENTO DE DOENCAS PULMONARES ATENDIDAS EM AMBULATORIO"
+    "group": "931",
+    "class": "9311",
+    "code": "7803",
+    "description": "TRATAMENTO DE DOENCAS PULMONARES ATENDIDAS EM AMBULATORIO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7811",
-    "descricao": "TRATAMENTO DE PACIENTE COM D.P.O.C. EM ATENDIMENTO  AMBULATORIAL NECESSITANDO REDUCAO E REABILITACAO RESPIRATORIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7811",
+    "description": "TRATAMENTO DE PACIENTE COM D.P.O.C. EM ATENDIMENTO  AMBULATORIAL NECESSITANDO REDUCAO E REABILITACAO RESPIRATORIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7820",
-    "descricao": "TRATAMENTO DE ALTERACAO ORDEM REUMATICA AFETANDO UM OU  MAISMEMBROS"
+    "group": "931",
+    "class": "9311",
+    "code": "7820",
+    "description": "TRATAMENTO DE ALTERACAO ORDEM REUMATICA AFETANDO UM OU  MAISMEMBROS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7838",
-    "descricao": "TRATAMENTO DE ALTERACAO DEGENERATIVA OU INFLAMATORIA AFETAN-DO UM OU MAIS SEGMENTOS DA COLUNA VERTEBRAL"
+    "group": "931",
+    "class": "9311",
+    "code": "7838",
+    "description": "TRATAMENTO DE ALTERACAO DEGENERATIVA OU INFLAMATORIA AFETAN-DO UM OU MAIS SEGMENTOS DA COLUNA VERTEBRAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7846",
-    "descricao": "TRATAMENTO DE ALTERACAO DEGENERATIVA OU INFLAMATORIA AFETAN-DO SEGMENTOS DA COLUNA VERTEBRAL E MEMBROS"
+    "group": "931",
+    "class": "9311",
+    "code": "7846",
+    "description": "TRATAMENTO DE ALTERACAO DEGENERATIVA OU INFLAMATORIA AFETAN-DO SEGMENTOS DA COLUNA VERTEBRAL E MEMBROS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7854",
-    "descricao": "TRATAMENTO - AMPUTACAO UNILATERAL  OU  BILATERAL (PREPARACAODO COTO)"
+    "group": "931",
+    "class": "9311",
+    "code": "7854",
+    "description": "TRATAMENTO - AMPUTACAO UNILATERAL  OU  BILATERAL (PREPARACAODO COTO)"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7862",
-    "descricao": "TRATAMENTO DE CONTUSOES"
+    "group": "931",
+    "class": "9311",
+    "code": "7862",
+    "description": "TRATAMENTO DE CONTUSOES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7870",
-    "descricao": "TRATAMENTO DE DESVIO POSTURAL DA COLUNA VERTEBRAL"
+    "group": "931",
+    "class": "9311",
+    "code": "7870",
+    "description": "TRATAMENTO DE DESVIO POSTURAL DA COLUNA VERTEBRAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7889",
-    "descricao": "TRATAMENTO DE ENTORSES"
+    "group": "931",
+    "class": "9311",
+    "code": "7889",
+    "description": "TRATAMENTO DE ENTORSES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7897",
-    "descricao": "TRATAMENTO DE TRAUMATISMO NOS TENDOES"
+    "group": "931",
+    "class": "9311",
+    "code": "7897",
+    "description": "TRATAMENTO DE TRAUMATISMO NOS TENDOES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7900",
-    "descricao": "TRATAMENTO DE SEQUELA DE TRAUMATISMO TORAXICO OU ABDOMINAL"
+    "group": "931",
+    "class": "9311",
+    "code": "7900",
+    "description": "TRATAMENTO DE SEQUELA DE TRAUMATISMO TORAXICO OU ABDOMINAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7919",
-    "descricao": "TRATAMENTO DE QUEIMADURA AFETANDO MAIS DE UMA REGIAO"
+    "group": "931",
+    "class": "9311",
+    "code": "7919",
+    "description": "TRATAMENTO DE QUEIMADURA AFETANDO MAIS DE UMA REGIAO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7927",
-    "descricao": "TRATAMENTO FISIATRICO DE PATOLOGIA ORTOPEDICA QUE  AFETA  UMMEMBRO OU MAIS"
+    "group": "931",
+    "class": "9311",
+    "code": "7927",
+    "description": "TRATAMENTO FISIATRICO DE PATOLOGIA ORTOPEDICA QUE  AFETA  UMMEMBRO OU MAIS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7935",
-    "descricao": "TRATAMENTO - AMPUTACAO UNILATERAL OU  BILATERAL (TREINAMENTOPROTETICO)"
+    "group": "931",
+    "class": "9311",
+    "code": "7935",
+    "description": "TRATAMENTO - AMPUTACAO UNILATERAL OU  BILATERAL (TREINAMENTOPROTETICO)"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7943",
-    "descricao": "ASSISTENCIA FISIATRICA - PACIENTE HIPO OU AGENESIA DE MEMBRO"
+    "group": "931",
+    "class": "9311",
+    "code": "7943",
+    "description": "ASSISTENCIA FISIATRICA - PACIENTE HIPO OU AGENESIA DE MEMBRO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7951",
-    "descricao": "TRATAMENTO DE PACIENTE COM DOENCA ISQUEMICA DO CORACAO"
+    "group": "931",
+    "class": "9311",
+    "code": "7951",
+    "description": "TRATAMENTO DE PACIENTE COM DOENCA ISQUEMICA DO CORACAO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7960",
-    "descricao": "TRATAMENTO DE PACIENTE - POS-OPERATORIO DE CIRURGIA CARDIACA"
+    "group": "931",
+    "class": "9311",
+    "code": "7960",
+    "description": "TRATAMENTO DE PACIENTE - POS-OPERATORIO DE CIRURGIA CARDIACA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7978",
-    "descricao": "TRATAMENTO DE PACIENTE PORTADOR DE CARDIOPATIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7978",
+    "description": "TRATAMENTO DE PACIENTE PORTADOR DE CARDIOPATIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7986",
-    "descricao": "TRATAMENTO DE PACIENTE SEM DOENCA  CORONARIANA  CLINICAMENTEMANIFESTADA"
+    "group": "931",
+    "class": "9311",
+    "code": "7986",
+    "description": "TRATAMENTO DE PACIENTE SEM DOENCA  CORONARIANA  CLINICAMENTEMANIFESTADA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "7994",
-    "descricao": "TRATAMENTO DE PACIENTE COM DOENCA  DERMATOLOGICA  SENSIVEL AACTINOTERAPIA"
+    "group": "931",
+    "class": "9311",
+    "code": "7994",
+    "description": "TRATAMENTO DE PACIENTE COM DOENCA  DERMATOLOGICA  SENSIVEL AACTINOTERAPIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8001",
-    "descricao": "CONFECCAO DE PROTESE ORTOPEDICA"
+    "group": "931",
+    "class": "9311",
+    "code": "8001",
+    "description": "CONFECCAO DE PROTESE ORTOPEDICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8010",
-    "descricao": "BLOQUEIO FENOLICO DE PONTOS MOTORES"
+    "group": "931",
+    "class": "9311",
+    "code": "8010",
+    "description": "BLOQUEIO FENOLICO DE PONTOS MOTORES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8028",
-    "descricao": "BLOQUEIO ANESTESICO SIMPATICO"
+    "group": "931",
+    "class": "9311",
+    "code": "8028",
+    "description": "BLOQUEIO ANESTESICO SIMPATICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8036",
-    "descricao": "TRATAMENTO - INFILTRACAO ARTICULAR OU TECIDOS MOLES"
+    "group": "931",
+    "class": "9311",
+    "code": "8036",
+    "description": "TRATAMENTO - INFILTRACAO ARTICULAR OU TECIDOS MOLES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8044",
-    "descricao": "TRATAMENTO DE DOENCAS UROLOGICAS"
+    "group": "931",
+    "class": "9311",
+    "code": "8044",
+    "description": "TRATAMENTO DE DOENCAS UROLOGICAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8052",
-    "descricao": "TRATAMENTO DE PROCESSOS INFLAMATORIOS PELVICOS"
+    "group": "931",
+    "class": "9311",
+    "code": "8052",
+    "description": "TRATAMENTO DE PROCESSOS INFLAMATORIOS PELVICOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8060",
-    "descricao": "ATENDIMENTO FISIATRICO - PRE E POS-PARTO"
+    "group": "931",
+    "class": "9311",
+    "code": "8060",
+    "description": "ATENDIMENTO FISIATRICO - PRE E POS-PARTO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8079",
-    "descricao": "TRATAMENTO DE SINUSITES"
+    "group": "931",
+    "class": "9311",
+    "code": "8079",
+    "description": "TRATAMENTO DE SINUSITES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8087",
-    "descricao": "EXAME GENETICO - CARIOTIPO SIMPLES OU COM  BANDAS ( SANGUE /MEDULA )"
+    "group": "931",
+    "class": "9311",
+    "code": "8087",
+    "description": "EXAME GENETICO - CARIOTIPO SIMPLES OU COM  BANDAS ( SANGUE /MEDULA )"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8095",
-    "descricao": "EXAME GENETICO - CARIOTIPO COM BANDAS (LIQUIDO AMNIOTICO, PELE, EMBRIONARIO OU FETAL)"
+    "group": "931",
+    "class": "9311",
+    "code": "8095",
+    "description": "EXAME GENETICO - CARIOTIPO COM BANDAS (LIQUIDO AMNIOTICO, PELE, EMBRIONARIO OU FETAL)"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8109",
-    "descricao": "EXAME GENETICO  -  CROMATINA  SEXUAL (SALIVA, URINA, LIQUIDOAMINIOTICO )"
+    "group": "931",
+    "class": "9311",
+    "code": "8109",
+    "description": "EXAME GENETICO  -  CROMATINA  SEXUAL (SALIVA, URINA, LIQUIDOAMINIOTICO )"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8117",
-    "descricao": "EXAME GENETICO - DERMATOGLIFO"
+    "group": "931",
+    "class": "9311",
+    "code": "8117",
+    "description": "EXAME GENETICO - DERMATOGLIFO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8125",
-    "descricao": "HEMOTERAPIA - PROCESSAMENTO - UNIDADE DE CONCENTRADO DE HEMACIAS / HEMACIAS LAVADAS"
+    "group": "931",
+    "class": "9311",
+    "code": "8125",
+    "description": "HEMOTERAPIA - PROCESSAMENTO - UNIDADE DE CONCENTRADO DE HEMACIAS / HEMACIAS LAVADAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8133",
-    "descricao": "HEMOTERAPIA - PROCESSAMENTO - UNIDADE DE CONCENTRADO DE LEU-COCITO"
+    "group": "931",
+    "class": "9311",
+    "code": "8133",
+    "description": "HEMOTERAPIA - PROCESSAMENTO - UNIDADE DE CONCENTRADO DE LEU-COCITO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8141",
-    "descricao": "HEMOTERAPIA - PROCESSAMENTO - UNIDADE DE CONCENTRADO DE  PLAQUETAS"
+    "group": "931",
+    "class": "9311",
+    "code": "8141",
+    "description": "HEMOTERAPIA - PROCESSAMENTO - UNIDADE DE CONCENTRADO DE  PLAQUETAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8150",
-    "descricao": "HEMOTERAPIA - PROCESSAMENTO - UNIDADE DE CRIOPRECIPITADO  DEFATOR ANTI-HEMOFILICO"
+    "group": "931",
+    "class": "9311",
+    "code": "8150",
+    "description": "HEMOTERAPIA - PROCESSAMENTO - UNIDADE DE CRIOPRECIPITADO  DEFATOR ANTI-HEMOFILICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8168",
-    "descricao": "HEMOTERAPIA - PROCESSAMENTO - UNIDADE PLASMA"
+    "group": "931",
+    "class": "9311",
+    "code": "8168",
+    "description": "HEMOTERAPIA - PROCESSAMENTO - UNIDADE PLASMA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8176",
-    "descricao": "HEMOTERAPIA - PROCESSAMENTO DE SANGUE TOTAL"
+    "group": "931",
+    "class": "9311",
+    "code": "8176",
+    "description": "HEMOTERAPIA - PROCESSAMENTO DE SANGUE TOTAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8184",
-    "descricao": "HEMOTERAPIA - PLASMAFERESE TERAPEUTICA"
+    "group": "931",
+    "class": "9311",
+    "code": "8184",
+    "description": "HEMOTERAPIA - PLASMAFERESE TERAPEUTICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8192",
-    "descricao": "HEMOTERAPIA - SANGRIA TERAPEUTICA"
+    "group": "931",
+    "class": "9311",
+    "code": "8192",
+    "description": "HEMOTERAPIA - SANGRIA TERAPEUTICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8206",
-    "descricao": "TRATAMENTO - EXSANGUINEO TRANSFUSAO"
+    "group": "931",
+    "class": "9311",
+    "code": "8206",
+    "description": "TRATAMENTO - EXSANGUINEO TRANSFUSAO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8214",
-    "descricao": "TRATAMENTO - TRANFUSAO FETAL INTRAUTERINA"
+    "group": "931",
+    "class": "9311",
+    "code": "8214",
+    "description": "TRATAMENTO - TRANFUSAO FETAL INTRAUTERINA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8222",
-    "descricao": "EXAME ANTIGENO  AUSTRALIA ( HBSAG ) HA POR UNIDADE DE SANGUETOTAL"
+    "group": "931",
+    "class": "9311",
+    "code": "8222",
+    "description": "EXAME ANTIGENO  AUSTRALIA ( HBSAG ) HA POR UNIDADE DE SANGUETOTAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8230",
-    "descricao": "EXAME ANTIGENO AUSTRALIA ( HBSAG ) - COMPONENTE HEMOTERAPICO"
+    "group": "931",
+    "class": "9311",
+    "code": "8230",
+    "description": "EXAME ANTIGENO AUSTRALIA ( HBSAG ) - COMPONENTE HEMOTERAPICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8249",
-    "descricao": "EXAME ANTIGENO AUSTRALIA ( HBSAG ) RIE OU EIE POR UNIDADE DESANGUE TOTAL"
+    "group": "931",
+    "class": "9311",
+    "code": "8249",
+    "description": "EXAME ANTIGENO AUSTRALIA ( HBSAG ) RIE OU EIE POR UNIDADE DESANGUE TOTAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8257",
-    "descricao": "EXAME ANTIGENO AUSTRALIA ( HBSAG ) RIE OU EIE POR COMPONENTEHEMOTERAPICO"
+    "group": "931",
+    "class": "9311",
+    "code": "8257",
+    "description": "EXAME ANTIGENO AUSTRALIA ( HBSAG ) RIE OU EIE POR COMPONENTEHEMOTERAPICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8265",
-    "descricao": "EXAME CHAGAS HA POR UNIDADE DE SANGUE TOTAL"
+    "group": "931",
+    "class": "9311",
+    "code": "8265",
+    "description": "EXAME CHAGAS HA POR UNIDADE DE SANGUE TOTAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8273",
-    "descricao": "EXAME CHAGAS HA POR COMPONENTE HEMOTERAPICO"
+    "group": "931",
+    "class": "9311",
+    "code": "8273",
+    "description": "EXAME CHAGAS HA POR COMPONENTE HEMOTERAPICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8281",
-    "descricao": "EXAME CHAGAS IFI POR UNIDADE DE SANGUE TOTAL"
+    "group": "931",
+    "class": "9311",
+    "code": "8281",
+    "description": "EXAME CHAGAS IFI POR UNIDADE DE SANGUE TOTAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8290",
-    "descricao": "EXAME CHAGAS IFI POR COMPONENTE HEMOTERAPICO"
+    "group": "931",
+    "class": "9311",
+    "code": "8290",
+    "description": "EXAME CHAGAS IFI POR COMPONENTE HEMOTERAPICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8303",
-    "descricao": "EXAME CHAGAS IFI, HA E RFC - REACOES SOROLOGICAS POR UNIDADEDE SANGUE TOTAL"
+    "group": "931",
+    "class": "9311",
+    "code": "8303",
+    "description": "EXAME CHAGAS IFI, HA E RFC - REACOES SOROLOGICAS POR UNIDADEDE SANGUE TOTAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8311",
-    "descricao": "EXAME CHAGAS IFI,HA E RFC - REACOES SOROLOGICAS POR COMPONENTES HEMOTERAPICOS"
+    "group": "931",
+    "class": "9311",
+    "code": "8311",
+    "description": "EXAME CHAGAS IFI,HA E RFC - REACOES SOROLOGICAS POR COMPONENTES HEMOTERAPICOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8320",
-    "descricao": "EXAME CHAGAS RFC ( MACHADO GUERREIRO ) POR UNIDADE DE SANGUETOTAL"
+    "group": "931",
+    "class": "9311",
+    "code": "8320",
+    "description": "EXAME CHAGAS RFC ( MACHADO GUERREIRO ) POR UNIDADE DE SANGUETOTAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8338",
-    "descricao": "EXAME CHAGAS RFC ( MACHADO GUERREIRO ) POR COMPONENTE HEMOTERAPICO"
+    "group": "931",
+    "class": "9311",
+    "code": "8338",
+    "description": "EXAME CHAGAS RFC ( MACHADO GUERREIRO ) POR COMPONENTE HEMOTERAPICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8346",
-    "descricao": "EXAME ELETROFORESE DE HEMOGLOBINA -  UNIDADE DE SANGUE TOTAL"
+    "group": "931",
+    "class": "9311",
+    "code": "8346",
+    "description": "EXAME ELETROFORESE DE HEMOGLOBINA -  UNIDADE DE SANGUE TOTAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8354",
-    "descricao": "EXAME ELETROFORESE DE HEMOGLOBINA -  COMPONENTE HEMOTERAPICO"
+    "group": "931",
+    "class": "9311",
+    "code": "8354",
+    "description": "EXAME ELETROFORESE DE HEMOGLOBINA -  COMPONENTE HEMOTERAPICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8362",
-    "descricao": "EXAME GRUPO SANGUINEO ABO E RH"
+    "group": "931",
+    "class": "9311",
+    "code": "8362",
+    "description": "EXAME GRUPO SANGUINEO ABO E RH"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8370",
-    "descricao": "EXAME MALARIA - IFI POR UNIDADE DE SANGUE TOTAL"
+    "group": "931",
+    "class": "9311",
+    "code": "8370",
+    "description": "EXAME MALARIA - IFI POR UNIDADE DE SANGUE TOTAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8389",
-    "descricao": "EXAME MALARIA - IFI POR COMPONENTE HEMOTERAPICO"
+    "group": "931",
+    "class": "9311",
+    "code": "8389",
+    "description": "EXAME MALARIA - IFI POR COMPONENTE HEMOTERAPICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8397",
-    "descricao": "PESQUISA DE ANTI-CORPOS SERICOS (IRREGULARES)"
+    "group": "931",
+    "class": "9311",
+    "code": "8397",
+    "description": "PESQUISA DE ANTI-CORPOS SERICOS (IRREGULARES)"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8400",
-    "descricao": "PESQUISA DE ANTI - HBC POR UNIDADE DE SANGUE TOTAL"
+    "group": "931",
+    "class": "9311",
+    "code": "8400",
+    "description": "PESQUISA DE ANTI - HBC POR UNIDADE DE SANGUE TOTAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8419",
-    "descricao": "EXAME PESQUISA DE ANTI - HBC POR COMPONENTE HEMOTERAPICO"
+    "group": "931",
+    "class": "9311",
+    "code": "8419",
+    "description": "EXAME PESQUISA DE ANTI - HBC POR COMPONENTE HEMOTERAPICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8427",
-    "descricao": "PESQUISA DE ANTI - HIV - EIE POR UNIDADE DE SANGUE TOTAL"
+    "group": "931",
+    "class": "9311",
+    "code": "8427",
+    "description": "PESQUISA DE ANTI - HIV - EIE POR UNIDADE DE SANGUE TOTAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8435",
-    "descricao": "PESQUISA DE ANTI - HIV POR COMPONENTE HEMOTERAPICO"
+    "group": "931",
+    "class": "9311",
+    "code": "8435",
+    "description": "PESQUISA DE ANTI - HIV POR COMPONENTE HEMOTERAPICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8443",
-    "descricao": "PROVA DE COMPATIBILIDADE PRE-TRANSFUSIONAL COMPLETA"
+    "group": "931",
+    "class": "9311",
+    "code": "8443",
+    "description": "PROVA DE COMPATIBILIDADE PRE-TRANSFUSIONAL COMPLETA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8451",
-    "descricao": "EXAME SIFILIS - FTA - ABS POR UNIDADE DE SANGUE TOTAL"
+    "group": "931",
+    "class": "9311",
+    "code": "8451",
+    "description": "EXAME SIFILIS - FTA - ABS POR UNIDADE DE SANGUE TOTAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8460",
-    "descricao": "EXAME SIFILIS - FTA - ABS POR COMPONENTE HEMOTERAPICO"
+    "group": "931",
+    "class": "9311",
+    "code": "8460",
+    "description": "EXAME SIFILIS - FTA - ABS POR COMPONENTE HEMOTERAPICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8478",
-    "descricao": "EXAME SIFILIS - HA POR UNIDADE DE SANGUE TOTAL"
+    "group": "931",
+    "class": "9311",
+    "code": "8478",
+    "description": "EXAME SIFILIS - HA POR UNIDADE DE SANGUE TOTAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8486",
-    "descricao": "EXAME SIFILIS - HA POR COMPONENTE HEMOTERAPICO"
+    "group": "931",
+    "class": "9311",
+    "code": "8486",
+    "description": "EXAME SIFILIS - HA POR COMPONENTE HEMOTERAPICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8494",
-    "descricao": "EXAME SIFILIS - VDRL POR UNIDADE DE SANGUE TOTAL"
+    "group": "931",
+    "class": "9311",
+    "code": "8494",
+    "description": "EXAME SIFILIS - VDRL POR UNIDADE DE SANGUE TOTAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8508",
-    "descricao": "EXAME SIFILIS - VDRL POR COMPONENTE HEMOTERAPICO"
+    "group": "931",
+    "class": "9311",
+    "code": "8508",
+    "description": "EXAME SIFILIS - VDRL POR COMPONENTE HEMOTERAPICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8516",
-    "descricao": "EXAME SIFILIS - VDRL - HA E FTA - ABS POR UNIDADE DE  SANGUETOTAL"
+    "group": "931",
+    "class": "9311",
+    "code": "8516",
+    "description": "EXAME SIFILIS - VDRL - HA E FTA - ABS POR UNIDADE DE  SANGUETOTAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8524",
-    "descricao": "EXAME SIFILIS - VDRL - HA E FTA - ABS POR COMPONENTE HEMOTE-RAPICO"
+    "group": "931",
+    "class": "9311",
+    "code": "8524",
+    "description": "EXAME SIFILIS - VDRL - HA E FTA - ABS POR COMPONENTE HEMOTE-RAPICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8532",
-    "descricao": "HEMOTERAPIA - TESTE DE COOMBS DIRETO"
+    "group": "931",
+    "class": "9311",
+    "code": "8532",
+    "description": "HEMOTERAPIA - TESTE DE COOMBS DIRETO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8540",
-    "descricao": "HEMOTERAPIA - TESTE DE COOMBS INDIRETO"
+    "group": "931",
+    "class": "9311",
+    "code": "8540",
+    "description": "HEMOTERAPIA - TESTE DE COOMBS INDIRETO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8559",
-    "descricao": "HEMOTERAPIA - TRANSAMINASE PIRUVICA - TGP OU ALT POR UNIDADETOTAL DE SANGUE"
+    "group": "931",
+    "class": "9311",
+    "code": "8559",
+    "description": "HEMOTERAPIA - TRANSAMINASE PIRUVICA - TGP OU ALT POR UNIDADETOTAL DE SANGUE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8567",
-    "descricao": "HEMOTERAPIA - TRANSAMINASE PIRUVICA - TGP OU ALT - COMPONEN-TE HEMOTERAPICO"
+    "group": "931",
+    "class": "9311",
+    "code": "8567",
+    "description": "HEMOTERAPIA - TRANSAMINASE PIRUVICA - TGP OU ALT - COMPONEN-TE HEMOTERAPICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8575",
-    "descricao": "TESTE CHAGAS E EIE POR UNIDADE DE SANGUE TOTAL"
+    "group": "931",
+    "class": "9311",
+    "code": "8575",
+    "description": "TESTE CHAGAS E EIE POR UNIDADE DE SANGUE TOTAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8583",
-    "descricao": "TESTE CHAGAS E EIE POR COMPONENTE HEMOTERAPICO"
+    "group": "931",
+    "class": "9311",
+    "code": "8583",
+    "description": "TESTE CHAGAS E EIE POR COMPONENTE HEMOTERAPICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8591",
-    "descricao": "HEMOTERAPIA - PESQUISA DE ANTI - HCV POR UNIDADE  DE  SANGUETOTAL"
+    "group": "931",
+    "class": "9311",
+    "code": "8591",
+    "description": "HEMOTERAPIA - PESQUISA DE ANTI - HCV POR UNIDADE  DE  SANGUETOTAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8605",
-    "descricao": "HEMOTERAPIA - PESQUISA DE ANTI - HCV POR COMPONENTE HEMOTERAPICO"
+    "group": "931",
+    "class": "9311",
+    "code": "8605",
+    "description": "HEMOTERAPIA - PESQUISA DE ANTI - HCV POR COMPONENTE HEMOTERAPICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8613",
-    "descricao": "HEMOTERAPIA - PESQUISA DE ANTI - HTLV-I + HTLV-II ( DETERMI-NACAO CONJUNTA ) POR UNIDADE DE SANGUE TOTAL"
+    "group": "931",
+    "class": "9311",
+    "code": "8613",
+    "description": "HEMOTERAPIA - PESQUISA DE ANTI - HTLV-I + HTLV-II ( DETERMI-NACAO CONJUNTA ) POR UNIDADE DE SANGUE TOTAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8621",
-    "descricao": "HEMOTERAPIA - PESQUISA DE ANTI - HTLV-I POR COMPONENTE HEMO-TERAPICO"
+    "group": "931",
+    "class": "9311",
+    "code": "8621",
+    "description": "HEMOTERAPIA - PESQUISA DE ANTI - HTLV-I POR COMPONENTE HEMO-TERAPICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8630",
-    "descricao": "TESTE TAXA DE DELEUCOTIZACAO, POR FILTRACAO, POR COMPONENTE"
+    "group": "931",
+    "class": "9311",
+    "code": "8630",
+    "description": "TESTE TAXA DE DELEUCOTIZACAO, POR FILTRACAO, POR COMPONENTE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8648",
-    "descricao": "TESTE BIOPSIA POR AGULHA DE MEDULA OSSEA"
+    "group": "931",
+    "class": "9311",
+    "code": "8648",
+    "description": "TESTE BIOPSIA POR AGULHA DE MEDULA OSSEA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8923",
-    "descricao": "PATOLOGIA CLINICA - BIOQUIMICA"
+    "group": "931",
+    "class": "9311",
+    "code": "8923",
+    "description": "PATOLOGIA CLINICA - BIOQUIMICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8931",
-    "descricao": "PATOLOGIA CLINICA - ESPERMA"
+    "group": "931",
+    "class": "9311",
+    "code": "8931",
+    "description": "PATOLOGIA CLINICA - ESPERMA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8940",
-    "descricao": "PATOLOGIA CLINICA - FEZES"
+    "group": "931",
+    "class": "9311",
+    "code": "8940",
+    "description": "PATOLOGIA CLINICA - FEZES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8958",
-    "descricao": "PATOLOGIA CLINICA - HEMATOLOGIA"
+    "group": "931",
+    "class": "9311",
+    "code": "8958",
+    "description": "PATOLOGIA CLINICA - HEMATOLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8966",
-    "descricao": "PATOLOGIA CLINICA - HORMONIO"
+    "group": "931",
+    "class": "9311",
+    "code": "8966",
+    "description": "PATOLOGIA CLINICA - HORMONIO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8974",
-    "descricao": "PATOLOGIA CLINICA - IMUNOLOGIA"
+    "group": "931",
+    "class": "9311",
+    "code": "8974",
+    "description": "PATOLOGIA CLINICA - IMUNOLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8982",
-    "descricao": "PATOLOGIA CLINICA - LIQUIDO AMNIOTICO"
+    "group": "931",
+    "class": "9311",
+    "code": "8982",
+    "description": "PATOLOGIA CLINICA - LIQUIDO AMNIOTICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "8990",
-    "descricao": "PATOLOGIA CLINICA - LIQUIDO SINOVIAL / DERRAMES"
+    "group": "931",
+    "class": "9311",
+    "code": "8990",
+    "description": "PATOLOGIA CLINICA - LIQUIDO SINOVIAL / DERRAMES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9008",
-    "descricao": "PATOLOGIA CLINICA - LIQUIDO CEFALORRAQUIANO ( LIQUOR )"
+    "group": "931",
+    "class": "9311",
+    "code": "9008",
+    "description": "PATOLOGIA CLINICA - LIQUIDO CEFALORRAQUIANO ( LIQUOR )"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9016",
-    "descricao": "PATOLOGIA CLINICA - MICROBIOLOGIA"
+    "group": "931",
+    "class": "9311",
+    "code": "9016",
+    "description": "PATOLOGIA CLINICA - MICROBIOLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9024",
-    "descricao": "PATOLOGIA CLINICA - SUCO GASTRICO"
+    "group": "931",
+    "class": "9311",
+    "code": "9024",
+    "description": "PATOLOGIA CLINICA - SUCO GASTRICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9032",
-    "descricao": "PATOLOGIA CLINICA - TUBAGEM DUODENAL"
+    "group": "931",
+    "class": "9311",
+    "code": "9032",
+    "description": "PATOLOGIA CLINICA - TUBAGEM DUODENAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9040",
-    "descricao": "PATOLOGIA CLINICA - URINA"
+    "group": "931",
+    "class": "9311",
+    "code": "9040",
+    "description": "PATOLOGIA CLINICA - URINA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9059",
-    "descricao": "PATOLOGIA CLINICA - OCUPACIONAL"
+    "group": "931",
+    "class": "9311",
+    "code": "9059",
+    "description": "PATOLOGIA CLINICA - OCUPACIONAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9067",
-    "descricao": "TISIOPNEUMOLOGIA - COMPLACENCIA PULMONAR"
+    "group": "931",
+    "class": "9311",
+    "code": "9067",
+    "description": "TISIOPNEUMOLOGIA - COMPLACENCIA PULMONAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9075",
-    "descricao": "TISIOPNEUMOLOGIA - CURVA DE FLUXO - VOLUME - ESTUDOS DOS FLUXOS"
+    "group": "931",
+    "class": "9311",
+    "code": "9075",
+    "description": "TISIOPNEUMOLOGIA - CURVA DE FLUXO - VOLUME - ESTUDOS DOS FLUXOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9083",
-    "descricao": "TISIOPNEUMOLOGIA - DETERMINACAO DA MECANICA VENTILATORIA -  VENTILACAO VOLUNTARIA MAXIMA"
+    "group": "931",
+    "class": "9311",
+    "code": "9083",
+    "description": "TISIOPNEUMOLOGIA - DETERMINACAO DA MECANICA VENTILATORIA -  VENTILACAO VOLUNTARIA MAXIMA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9091",
-    "descricao": "TISIOPNEUMOLOGIA - DETERMINACAO DAS PRESSOES RESPIRATORIAS  MAXIMAS"
+    "group": "931",
+    "class": "9311",
+    "code": "9091",
+    "description": "TISIOPNEUMOLOGIA - DETERMINACAO DAS PRESSOES RESPIRATORIAS  MAXIMAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9105",
-    "descricao": "TISIOPNEUMOLOGIA - ESPIROGRAFIA COM DETERMINACAO DO VOLUME  RESIDUAL"
+    "group": "931",
+    "class": "9311",
+    "code": "9105",
+    "description": "TISIOPNEUMOLOGIA - ESPIROGRAFIA COM DETERMINACAO DO VOLUME  RESIDUAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9113",
-    "descricao": "TISIOPNEUMOLOGIA - ESPIROGRAFIA SIMPLES - CAPACIDADE VITAL  LENTA"
+    "group": "931",
+    "class": "9311",
+    "code": "9113",
+    "description": "TISIOPNEUMOLOGIA - ESPIROGRAFIA SIMPLES - CAPACIDADE VITAL  LENTA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9121",
-    "descricao": "TISIOPNEUMOLOGIA - ESPIROMETRIA - VOLUMES EXPIRATORIOS FORCADOS"
+    "group": "931",
+    "class": "9311",
+    "code": "9121",
+    "description": "TISIOPNEUMOLOGIA - ESPIROMETRIA - VOLUMES EXPIRATORIOS FORCADOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9130",
-    "descricao": "TISIOPNEUMOLOGIA - ESPIROMETRIA APOS BRONCODILATADOR"
+    "group": "931",
+    "class": "9311",
+    "code": "9130",
+    "description": "TISIOPNEUMOLOGIA - ESPIROMETRIA APOS BRONCODILATADOR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9148",
-    "descricao": "TISIOPNEUMOLOGIA - GASOMETRIA ARTERIAL APOS 02 A 100%"
+    "group": "931",
+    "class": "9311",
+    "code": "9148",
+    "description": "TISIOPNEUMOLOGIA - GASOMETRIA ARTERIAL APOS 02 A 100%"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9156",
-    "descricao": "TISIOPNEUMOLOGIA - GASOMETRIA ARTERIAL EM EXERCICIO"
+    "group": "931",
+    "class": "9311",
+    "code": "9156",
+    "description": "TISIOPNEUMOLOGIA - GASOMETRIA ARTERIAL EM EXERCICIO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9164",
-    "descricao": "TISIOPNEUMOLOGIA - GASOMETRIA ARTERIAL DE REPOUSO"
+    "group": "931",
+    "class": "9311",
+    "code": "9164",
+    "description": "TISIOPNEUMOLOGIA - GASOMETRIA ARTERIAL DE REPOUSO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9172",
-    "descricao": "TISIOPNEUMOLOGIA - MEDIDA DA DIFUSAO DO MONOXIDO DE CARBONO"
+    "group": "931",
+    "class": "9311",
+    "code": "9172",
+    "description": "TISIOPNEUMOLOGIA - MEDIDA DA DIFUSAO DO MONOXIDO DE CARBONO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9180",
-    "descricao": "TISIOPNEUMOLOGIA - MEDIDA DE PICO DE FLUXO EXPIRATORIO"
+    "group": "931",
+    "class": "9311",
+    "code": "9180",
+    "description": "TISIOPNEUMOLOGIA - MEDIDA DE PICO DE FLUXO EXPIRATORIO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9199",
-    "descricao": "TISIOPNEUMOLOGIA - MEDIDA SERIADA POR 3 SEMANAS DO PICO DE  FLUXO EXPIRATORIO"
+    "group": "931",
+    "class": "9311",
+    "code": "9199",
+    "description": "TISIOPNEUMOLOGIA - MEDIDA SERIADA POR 3 SEMANAS DO PICO DE  FLUXO EXPIRATORIO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9202",
-    "descricao": "TISIOPNEUMOLOGIA - NEBULIZACAO SIMPLES"
+    "group": "931",
+    "class": "9311",
+    "code": "9202",
+    "description": "TISIOPNEUMOLOGIA - NEBULIZACAO SIMPLES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9210",
-    "descricao": "TISIOPNEUMOLOGIA - NEBULIZACAO SIMPLES COM BRONCODILATADOR"
+    "group": "931",
+    "class": "9311",
+    "code": "9210",
+    "description": "TISIOPNEUMOLOGIA - NEBULIZACAO SIMPLES COM BRONCODILATADOR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9229",
-    "descricao": "TISIOPNEUMOLOGIA - NEBULIZACAO ULTRA - SONICA"
+    "group": "931",
+    "class": "9311",
+    "code": "9229",
+    "description": "TISIOPNEUMOLOGIA - NEBULIZACAO ULTRA - SONICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9237",
-    "descricao": "TISIOPNEUMOLOGIA - OXIMETRIA NAO INVASIVA"
+    "group": "931",
+    "class": "9311",
+    "code": "9237",
+    "description": "TISIOPNEUMOLOGIA - OXIMETRIA NAO INVASIVA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9245",
-    "descricao": "TISIOPNEUMOLOGIA - POLISSONOGRAFIA COM DETERMINACAO  DAS  VARIAVEIS VENTILATORIAS, OXIMETRIA E ECG"
+    "group": "931",
+    "class": "9311",
+    "code": "9245",
+    "description": "TISIOPNEUMOLOGIA - POLISSONOGRAFIA COM DETERMINACAO  DAS  VARIAVEIS VENTILATORIAS, OXIMETRIA E ECG"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9253",
-    "descricao": "TISIOPNEUMOLOGIA - PROVA VENTILATORIA COMPLETA COM  BRONCODILATADOR ( 6 + 3 + 7 + 8 + 2 )"
+    "group": "931",
+    "class": "9311",
+    "code": "9253",
+    "description": "TISIOPNEUMOLOGIA - PROVA VENTILATORIA COMPLETA COM  BRONCODILATADOR ( 6 + 3 + 7 + 8 + 2 )"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9261",
-    "descricao": "TISIOPNEUMOLOGIA - PROVA VENTILATORIA COMPLETA SEM  BRONCODILATADOR ( 6 + 3 + 7 + 2 )"
+    "group": "931",
+    "class": "9311",
+    "code": "9261",
+    "description": "TISIOPNEUMOLOGIA - PROVA VENTILATORIA COMPLETA SEM  BRONCODILATADOR ( 6 + 3 + 7 + 2 )"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9270",
-    "descricao": "TISIOPNEUMOLOGIA - REGULACAO VENTILATORIA - 1 )  MEDIDA  DA VENTILACAO E DO PADRAO VENTILATORIO"
+    "group": "931",
+    "class": "9311",
+    "code": "9270",
+    "description": "TISIOPNEUMOLOGIA - REGULACAO VENTILATORIA - 1 )  MEDIDA  DA VENTILACAO E DO PADRAO VENTILATORIO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9288",
-    "descricao": "TISIOPNEUMOLOGIA - REGULACAO VENTILATORIA - 2 ) DETERMINACAODA PRESSAO DE OCLUSAO"
+    "group": "931",
+    "class": "9311",
+    "code": "9288",
+    "description": "TISIOPNEUMOLOGIA - REGULACAO VENTILATORIA - 2 ) DETERMINACAODA PRESSAO DE OCLUSAO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9296",
-    "descricao": "TISIOPNEUMOLOGIA - REGULACAO VENTILATORIA - 3 )  RESPOSTA A HIPOXIA E HIPERCAPNIA"
+    "group": "931",
+    "class": "9311",
+    "code": "9296",
+    "description": "TISIOPNEUMOLOGIA - REGULACAO VENTILATORIA - 3 )  RESPOSTA A HIPOXIA E HIPERCAPNIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9300",
-    "descricao": "TISIOPNEUMOLOGIA - RESISTENCIA DAS VIAS AEREAS"
+    "group": "931",
+    "class": "9311",
+    "code": "9300",
+    "description": "TISIOPNEUMOLOGIA - RESISTENCIA DAS VIAS AEREAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9318",
-    "descricao": "TISIOPNEUMOLOGIA - TESTE DE BRONCOPROVOCACAO"
+    "group": "931",
+    "class": "9311",
+    "code": "9318",
+    "description": "TISIOPNEUMOLOGIA - TESTE DE BRONCOPROVOCACAO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9326",
-    "descricao": "TISIOPNEUMOLOGIA - TESTE CARDIOPULMONAR DE EXERCICIO 1) ESTAGIO I MEDIDAS VENTILATORIAS, PA, FC, OXIMETRIA, DISPNEIA"
+    "group": "931",
+    "class": "9311",
+    "code": "9326",
+    "description": "TISIOPNEUMOLOGIA - TESTE CARDIOPULMONAR DE EXERCICIO 1) ESTAGIO I MEDIDAS VENTILATORIAS, PA, FC, OXIMETRIA, DISPNEIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9334",
-    "descricao": "TISIOPNEUMOLOGIA - TESTE CARDIOPULMONAR DE EXERCICIO"
+    "group": "931",
+    "class": "9311",
+    "code": "9334",
+    "description": "TISIOPNEUMOLOGIA - TESTE CARDIOPULMONAR DE EXERCICIO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9342",
-    "descricao": "QUIMIOTERAPIA DO CANCER - TRATAMENTO EM PACIENTE INTERNADOS"
+    "group": "931",
+    "class": "9311",
+    "code": "9342",
+    "description": "QUIMIOTERAPIA DO CANCER - TRATAMENTO EM PACIENTE INTERNADOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9350",
-    "descricao": "QUIMIOTERAPIA DO CANCER - TRATAMENTO PACIENTE DE AMBULATORIO"
+    "group": "931",
+    "class": "9311",
+    "code": "9350",
+    "description": "QUIMIOTERAPIA DO CANCER - TRATAMENTO PACIENTE DE AMBULATORIO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9369",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - CARDIOVASCULAR"
+    "group": "931",
+    "class": "9311",
+    "code": "9369",
+    "description": "MEDICINA NUCLEAR - IN VIVO - CARDIOVASCULAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9377",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - DIGESTIVO"
+    "group": "931",
+    "class": "9311",
+    "code": "9377",
+    "description": "MEDICINA NUCLEAR - IN VIVO - DIGESTIVO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9385",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - ENDOCRINO"
+    "group": "931",
+    "class": "9311",
+    "code": "9385",
+    "description": "MEDICINA NUCLEAR - IN VIVO - ENDOCRINO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9393",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - GENITURINARIO"
+    "group": "931",
+    "class": "9311",
+    "code": "9393",
+    "description": "MEDICINA NUCLEAR - IN VIVO - GENITURINARIO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9407",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - HEMATOLOGICO"
+    "group": "931",
+    "class": "9311",
+    "code": "9407",
+    "description": "MEDICINA NUCLEAR - IN VIVO - HEMATOLOGICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9415",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - MUSCULO ESQUELETICO"
+    "group": "931",
+    "class": "9311",
+    "code": "9415",
+    "description": "MEDICINA NUCLEAR - IN VIVO - MUSCULO ESQUELETICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9423",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - NERVOSO"
+    "group": "931",
+    "class": "9311",
+    "code": "9423",
+    "description": "MEDICINA NUCLEAR - IN VIVO - NERVOSO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9431",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - ONCOLOGIA / INFECTOLOGIA"
+    "group": "931",
+    "class": "9311",
+    "code": "9431",
+    "description": "MEDICINA NUCLEAR - IN VIVO - ONCOLOGIA / INFECTOLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9440",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - RESPIRATORIO"
+    "group": "931",
+    "class": "9311",
+    "code": "9440",
+    "description": "MEDICINA NUCLEAR - IN VIVO - RESPIRATORIO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9458",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - TRATAMENTO DE HIPERTIROIDISMO"
+    "group": "931",
+    "class": "9311",
+    "code": "9458",
+    "description": "MEDICINA NUCLEAR - IN VIVO - TRATAMENTO DE HIPERTIROIDISMO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9466",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - TRATAMENTO DO CÂNCER DA TIREOI-DE"
+    "group": "931",
+    "class": "9311",
+    "code": "9466",
+    "description": "MEDICINA NUCLEAR - IN VIVO - TRATAMENTO DO CÂNCER DA TIREOI-DE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9474",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - TRATAMENTO DA POLICITEMIA VERA"
+    "group": "931",
+    "class": "9311",
+    "code": "9474",
+    "description": "MEDICINA NUCLEAR - IN VIVO - TRATAMENTO DA POLICITEMIA VERA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9482",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - TRATAMENTO DE METASTASE  OSSEA ( ESTRONCIO )"
+    "group": "931",
+    "class": "9311",
+    "code": "9482",
+    "description": "MEDICINA NUCLEAR - IN VIVO - TRATAMENTO DE METASTASE  OSSEA ( ESTRONCIO )"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9490",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - DACRIOCISTOGRAFIA"
+    "group": "931",
+    "class": "9311",
+    "code": "9490",
+    "description": "MEDICINA NUCLEAR - IN VIVO - DACRIOCISTOGRAFIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9504",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - ESTUDO DO \" SHUNT \" DE LE VEEN"
+    "group": "931",
+    "class": "9311",
+    "code": "9504",
+    "description": "MEDICINA NUCLEAR - IN VIVO - ESTUDO DO \" SHUNT \" DE LE VEEN"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9512",
-    "descricao": "MEDICINA  NUCLEAR -  IN VIVO - IMUNO CINTILOGRAFIA ( ANTICORPOS MONOCLONAIS )"
+    "group": "931",
+    "class": "9311",
+    "code": "9512",
+    "description": "MEDICINA  NUCLEAR -  IN VIVO - IMUNO CINTILOGRAFIA ( ANTICORPOS MONOCLONAIS )"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9520",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - CINTILOGRAFIA COM MIBG ( METAIODOBEZILGUANIDINA )"
+    "group": "931",
+    "class": "9311",
+    "code": "9520",
+    "description": "MEDICINA NUCLEAR - IN VIVO - CINTILOGRAFIA COM MIBG ( METAIODOBEZILGUANIDINA )"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9539",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - DENSIOMETRIA OSSEA DUO ENERGETICA ( SEGMENTO )"
+    "group": "931",
+    "class": "9311",
+    "code": "9539",
+    "description": "MEDICINA NUCLEAR - IN VIVO - DENSIOMETRIA OSSEA DUO ENERGETICA ( SEGMENTO )"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9547",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - DENSIOMETRIA DUO  ENERGETICA   ( CORPO INTEIRO )"
+    "group": "931",
+    "class": "9311",
+    "code": "9547",
+    "description": "MEDICINA NUCLEAR - IN VIVO - DENSIOMETRIA DUO  ENERGETICA   ( CORPO INTEIRO )"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9555",
-    "descricao": "MEDICINA NUCLEAR - IN VITRO - RADIOIMUNOENSAIO"
+    "group": "931",
+    "class": "9311",
+    "code": "9555",
+    "description": "MEDICINA NUCLEAR - IN VITRO - RADIOIMUNOENSAIO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9563",
-    "descricao": "RADIODIAGNOSTICO - CRANIO E FACE"
+    "group": "931",
+    "class": "9311",
+    "code": "9563",
+    "description": "RADIODIAGNOSTICO - CRANIO E FACE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9571",
-    "descricao": "RADIODIAGNOSTICO - COLUNA VERTEBRAL"
+    "group": "931",
+    "class": "9311",
+    "code": "9571",
+    "description": "RADIODIAGNOSTICO - COLUNA VERTEBRAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9580",
-    "descricao": "RADIODIAGNOSTICO - ESQUELETO TORACICO E MEMBROS SUPERIORES"
+    "group": "931",
+    "class": "9311",
+    "code": "9580",
+    "description": "RADIODIAGNOSTICO - ESQUELETO TORACICO E MEMBROS SUPERIORES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9598",
-    "descricao": "RADIODIAGNOSTICO - BACIA E MEMBROS INFERIORES"
+    "group": "931",
+    "class": "9311",
+    "code": "9598",
+    "description": "RADIODIAGNOSTICO - BACIA E MEMBROS INFERIORES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9601",
-    "descricao": "RADIODIAGNOSTICO - ORGAOS INTERNOS DO TORAX"
+    "group": "931",
+    "class": "9311",
+    "code": "9601",
+    "description": "RADIODIAGNOSTICO - ORGAOS INTERNOS DO TORAX"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9610",
-    "descricao": "RADIODIAGNOSTICO - APARELHO DIGESTIVO"
+    "group": "931",
+    "class": "9311",
+    "code": "9610",
+    "description": "RADIODIAGNOSTICO - APARELHO DIGESTIVO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9628",
-    "descricao": "RADIODIAGNOSTICO - APARELHO GENITURINARIO"
+    "group": "931",
+    "class": "9311",
+    "code": "9628",
+    "description": "RADIODIAGNOSTICO - APARELHO GENITURINARIO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9636",
-    "descricao": "RADIODIAGNOSTICO - ABDOMEN SIMPLES - A. P."
+    "group": "931",
+    "class": "9311",
+    "code": "9636",
+    "description": "RADIODIAGNOSTICO - ABDOMEN SIMPLES - A. P."
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9644",
-    "descricao": "RADIODIAGNOSTICO - ABDOMEN - A. P. - LAT OU LOCALIZADA"
+    "group": "931",
+    "class": "9311",
+    "code": "9644",
+    "description": "RADIODIAGNOSTICO - ABDOMEN - A. P. - LAT OU LOCALIZADA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9652",
-    "descricao": "RADIODIAGNOSTICO - ABDOMEN AGUDO"
+    "group": "931",
+    "class": "9311",
+    "code": "9652",
+    "description": "RADIODIAGNOSTICO - ABDOMEN AGUDO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9660",
-    "descricao": "RADIODIAGNOSTICO - PLANIGRAFIA DE OSSO"
+    "group": "931",
+    "class": "9311",
+    "code": "9660",
+    "description": "RADIODIAGNOSTICO - PLANIGRAFIA DE OSSO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9679",
-    "descricao": "RADIODIAGNOSTICO - MAMOGRAFIA"
+    "group": "931",
+    "class": "9311",
+    "code": "9679",
+    "description": "RADIODIAGNOSTICO - MAMOGRAFIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9687",
-    "descricao": "RADIODIAGNOSTICO - LOCALIZACAO TRIDIMENSIONAL DE CORPO ESTRANHO NO GLOBO OCULAR"
+    "group": "931",
+    "class": "9311",
+    "code": "9687",
+    "description": "RADIODIAGNOSTICO - LOCALIZACAO TRIDIMENSIONAL DE CORPO ESTRANHO NO GLOBO OCULAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9733",
-    "descricao": "RADIODIAGNOSTICO - XEROMAMOGRAFIA"
+    "group": "931",
+    "class": "9311",
+    "code": "9733",
+    "description": "RADIODIAGNOSTICO - XEROMAMOGRAFIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9750",
-    "descricao": "RADIODIAGNOSTICO - DENSITOMETRIA OSSEA"
+    "group": "931",
+    "class": "9311",
+    "code": "9750",
+    "description": "RADIODIAGNOSTICO - DENSITOMETRIA OSSEA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9768",
-    "descricao": "RADIODIAGNOSTICO - ESQUELETO( INCIDENCIAS BASICAS DE CRANIO,COLUNA, BACIA E MEMBROS )"
+    "group": "931",
+    "class": "9311",
+    "code": "9768",
+    "description": "RADIODIAGNOSTICO - ESQUELETO( INCIDENCIAS BASICAS DE CRANIO,COLUNA, BACIA E MEMBROS )"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9776",
-    "descricao": "RADIODIAGNOSTICO - BRONCOGRAFIA UNILATERAL"
+    "group": "931",
+    "class": "9311",
+    "code": "9776",
+    "description": "RADIODIAGNOSTICO - BRONCOGRAFIA UNILATERAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9784",
-    "descricao": "RADIODIAGNOSTICO - LARINGOGRAFIA"
+    "group": "931",
+    "class": "9311",
+    "code": "9784",
+    "description": "RADIODIAGNOSTICO - LARINGOGRAFIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9792",
-    "descricao": "RADIODIAGNOSTICO - PNEUMOPERITONIO"
+    "group": "931",
+    "class": "9311",
+    "code": "9792",
+    "description": "RADIODIAGNOSTICO - PNEUMOPERITONIO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9806",
-    "descricao": "RADIODIAGNOSTICO - DUCTOGRAFIA"
+    "group": "931",
+    "class": "9311",
+    "code": "9806",
+    "description": "RADIODIAGNOSTICO - DUCTOGRAFIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9814",
-    "descricao": "RADIODIAGNOSTICO - SIALOGRAFIA"
+    "group": "931",
+    "class": "9311",
+    "code": "9814",
+    "description": "RADIODIAGNOSTICO - SIALOGRAFIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9822",
-    "descricao": "RADIODIAGNOSTICO - HISTEROSSALPINGOGRAFIA"
+    "group": "931",
+    "class": "9311",
+    "code": "9822",
+    "description": "RADIODIAGNOSTICO - HISTEROSSALPINGOGRAFIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9830",
-    "descricao": "RADIODIAGNOSTICO - PNEUMOPELVIGRAFIA"
+    "group": "931",
+    "class": "9311",
+    "code": "9830",
+    "description": "RADIODIAGNOSTICO - PNEUMOPELVIGRAFIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9849",
-    "descricao": "RADIODIAGNOSTICO - ARTROGRAFIA"
+    "group": "931",
+    "class": "9311",
+    "code": "9849",
+    "description": "RADIODIAGNOSTICO - ARTROGRAFIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9857",
-    "descricao": "RADIODIAGNOSTICO - FLEBOGRAFIA INTRA - OSSEA"
+    "group": "931",
+    "class": "9311",
+    "code": "9857",
+    "description": "RADIODIAGNOSTICO - FLEBOGRAFIA INTRA - OSSEA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9865",
-    "descricao": "RADIODIAGNOSTICO - FISTULOGRAFIA"
+    "group": "931",
+    "class": "9311",
+    "code": "9865",
+    "description": "RADIODIAGNOSTICO - FISTULOGRAFIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9873",
-    "descricao": "RADIODIAGNOSTICO - COLANGIOGRAFIA TRANSCUTANEA"
+    "group": "931",
+    "class": "9311",
+    "code": "9873",
+    "description": "RADIODIAGNOSTICO - COLANGIOGRAFIA TRANSCUTANEA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9881",
-    "descricao": "RADIODIAGNOSTICO - COLANGIOGRAFIA RETROGRADA"
+    "group": "931",
+    "class": "9311",
+    "code": "9881",
+    "description": "RADIODIAGNOSTICO - COLANGIOGRAFIA RETROGRADA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "9890",
-    "descricao": "RADIODIAGNOSTICO - DACRIOCISTOGRAFIA"
+    "group": "931",
+    "class": "9311",
+    "code": "9890",
+    "description": "RADIODIAGNOSTICO - DACRIOCISTOGRAFIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10057",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - TRATAMENTO COM MIBG"
+    "group": "931",
+    "class": "9311",
+    "code": "10057",
+    "description": "MEDICINA NUCLEAR - IN VIVO - TRATAMENTO COM MIBG"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10065",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - DENSITOMETRIA OSSEA DUO ENERGE TICO P/ COLUNA LOMBAR E 1/3 PROXIMAL DO FEMUR OU SEGMENTOS"
+    "group": "931",
+    "class": "9311",
+    "code": "10065",
+    "description": "MEDICINA NUCLEAR - IN VIVO - DENSITOMETRIA OSSEA DUO ENERGE TICO P/ COLUNA LOMBAR E 1/3 PROXIMAL DO FEMUR OU SEGMENTOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10073",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - DENSITOMETRIA OSSEA PROTESE  FEMUR"
+    "group": "931",
+    "class": "9311",
+    "code": "10073",
+    "description": "MEDICINA NUCLEAR - IN VIVO - DENSITOMETRIA OSSEA PROTESE  FEMUR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10081",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - MORFOMETRIA DIGITAL /  COLUNA  LOMBAR"
+    "group": "931",
+    "class": "9311",
+    "code": "10081",
+    "description": "MEDICINA NUCLEAR - IN VIVO - MORFOMETRIA DIGITAL /  COLUNA  LOMBAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10090",
-    "descricao": "MEDICINA NUCLEAR - IN VIVO - MORFOMETRIA DIGITAL / FUMUR PROXIMAL"
+    "group": "931",
+    "class": "9311",
+    "code": "10090",
+    "description": "MEDICINA NUCLEAR - IN VIVO - MORFOMETRIA DIGITAL / FUMUR PROXIMAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10189",
-    "descricao": "EXAME ULTRA - SONOGRAFICO"
+    "group": "931",
+    "class": "9311",
+    "code": "10189",
+    "description": "EXAME ULTRA - SONOGRAFICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10227",
-    "descricao": "RADIODIAGNOSTICO - NEURO - RADIOLOGIA"
+    "group": "931",
+    "class": "9311",
+    "code": "10227",
+    "description": "RADIODIAGNOSTICO - NEURO - RADIOLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10235",
-    "descricao": "RADIODIAGNOSTICO - ANGIOGRAFIA"
+    "group": "931",
+    "class": "9311",
+    "code": "10235",
+    "description": "RADIODIAGNOSTICO - ANGIOGRAFIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10243",
-    "descricao": "RADIODIAGNOSTICO - EMBOLIZACAO ARTERIAL DE HEMORRAGIA  DIGESTIVA"
+    "group": "931",
+    "class": "9311",
+    "code": "10243",
+    "description": "RADIODIAGNOSTICO - EMBOLIZACAO ARTERIAL DE HEMORRAGIA  DIGESTIVA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10251",
-    "descricao": "RADIODIAGNOSTICO - EMBOLIZACAO / ESCLEROSE VARIZES  ESOFAGIANAS"
+    "group": "931",
+    "class": "9311",
+    "code": "10251",
+    "description": "RADIODIAGNOSTICO - EMBOLIZACAO / ESCLEROSE VARIZES  ESOFAGIANAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10260",
-    "descricao": "RADIODIAGNOSTICO - QUIMIOTERAPIA INTRA - ARTERIAL REGIONAL"
+    "group": "931",
+    "class": "9311",
+    "code": "10260",
+    "description": "RADIODIAGNOSTICO - QUIMIOTERAPIA INTRA - ARTERIAL REGIONAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10278",
-    "descricao": "RADIODIAGNOSTICO - BIOPSIA PERCUTANEA ORIENTADA POR CT US OU RX"
+    "group": "931",
+    "class": "9311",
+    "code": "10278",
+    "description": "RADIODIAGNOSTICO - BIOPSIA PERCUTANEA ORIENTADA POR CT US OU RX"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10286",
-    "descricao": "RADIODIAGNOSTICO - EMBOLIZACAO DE TUMOR APARELHO DIGESTIVO"
+    "group": "931",
+    "class": "9311",
+    "code": "10286",
+    "description": "RADIODIAGNOSTICO - EMBOLIZACAO DE TUMOR APARELHO DIGESTIVO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10294",
-    "descricao": "RADIODIAGNOSTICO - EMBOLIZACAO DE FISTULA OU MAL - FORMACAO A V"
+    "group": "931",
+    "class": "9311",
+    "code": "10294",
+    "description": "RADIODIAGNOSTICO - EMBOLIZACAO DE FISTULA OU MAL - FORMACAO A V"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10308",
-    "descricao": "RADIODIAGNOSTICO - DRENAGEM DE COLECOES VISCERAIS OU  CAVITARIAS POR CATETERISMO PERCUTANEO"
+    "group": "931",
+    "class": "9311",
+    "code": "10308",
+    "description": "RADIODIAGNOSTICO - DRENAGEM DE COLECOES VISCERAIS OU  CAVITARIAS POR CATETERISMO PERCUTANEO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10316",
-    "descricao": "RADIODIAGNOSTICO - DRENAGEM BILIAR PERCUTANEA EXTERNA"
+    "group": "931",
+    "class": "9311",
+    "code": "10316",
+    "description": "RADIODIAGNOSTICO - DRENAGEM BILIAR PERCUTANEA EXTERNA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10324",
-    "descricao": "RADIODIAGNOSTICO - DRENAGEM BILIAR PERCUTANEA INTERNA -   EXTERNA"
+    "group": "931",
+    "class": "9311",
+    "code": "10324",
+    "description": "RADIODIAGNOSTICO - DRENAGEM BILIAR PERCUTANEA INTERNA -   EXTERNA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10332",
-    "descricao": "RADIODIAGNOSTICO - COLOCACAO DE PROTESE BILIAR"
+    "group": "931",
+    "class": "9311",
+    "code": "10332",
+    "description": "RADIODIAGNOSTICO - COLOCACAO DE PROTESE BILIAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10340",
-    "descricao": "RADIODIAGNOSTICO - RETIRADA PERCUTANEA DE CALCULOS BILIARES RESIDUAIS"
+    "group": "931",
+    "class": "9311",
+    "code": "10340",
+    "description": "RADIODIAGNOSTICO - RETIRADA PERCUTANEA DE CALCULOS BILIARES RESIDUAIS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10359",
-    "descricao": "RADIODIAGNOSTICO - ESPLENECTOMIA POR EMBOLIZACAO PERCUTANEA"
+    "group": "931",
+    "class": "9311",
+    "code": "10359",
+    "description": "RADIODIAGNOSTICO - ESPLENECTOMIA POR EMBOLIZACAO PERCUTANEA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10367",
-    "descricao": "RADIODIAGNOSTICO - TRATAMENTO ISQUEMIA POR INF. INFRA - ARTERIAL"
+    "group": "931",
+    "class": "9311",
+    "code": "10367",
+    "description": "RADIODIAGNOSTICO - TRATAMENTO ISQUEMIA POR INF. INFRA - ARTERIAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10375",
-    "descricao": "RADIODIAGNOSTICO - TRATAMENTO ISQUEMIA OU SANGRAMENTO   GENITAL POS EMBOLIZACAO ARTERIAL REGIONAL"
+    "group": "931",
+    "class": "9311",
+    "code": "10375",
+    "description": "RADIODIAGNOSTICO - TRATAMENTO ISQUEMIA OU SANGRAMENTO   GENITAL POS EMBOLIZACAO ARTERIAL REGIONAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10383",
-    "descricao": "RADIODIAGNOSTICO - EMBOLIZACAO DE TUMORES DOS RINS, SUPRA - RENAIS OU BEXIGA"
+    "group": "931",
+    "class": "9311",
+    "code": "10383",
+    "description": "RADIODIAGNOSTICO - EMBOLIZACAO DE TUMORES DOS RINS, SUPRA - RENAIS OU BEXIGA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10391",
-    "descricao": "RADIODIAGNOSTICO - QUIMIOTERAPIA ARTERIAL REGIONAL POR  CATETERISMO PERCUTANEO"
+    "group": "931",
+    "class": "9311",
+    "code": "10391",
+    "description": "RADIODIAGNOSTICO - QUIMIOTERAPIA ARTERIAL REGIONAL POR  CATETERISMO PERCUTANEO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10405",
-    "descricao": "RADIODIAGNOSTICO - PIELOGRAFIA ANTEROGRADA PERCUTANEA"
+    "group": "931",
+    "class": "9311",
+    "code": "10405",
+    "description": "RADIODIAGNOSTICO - PIELOGRAFIA ANTEROGRADA PERCUTANEA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10413",
-    "descricao": "RADIODIAGNOSTICO - NEFROSTOMIA PERCUTANEA"
+    "group": "931",
+    "class": "9311",
+    "code": "10413",
+    "description": "RADIODIAGNOSTICO - NEFROSTOMIA PERCUTANEA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10421",
-    "descricao": "RADIODIAGNOSTICO - COLOCACAO PERCUTANEA PROTESE PIELO - VESICAL"
+    "group": "931",
+    "class": "9311",
+    "code": "10421",
+    "description": "RADIODIAGNOSTICO - COLOCACAO PERCUTANEA PROTESE PIELO - VESICAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10430",
-    "descricao": "RADIODIAGNOSTICO - NEFRECTOMIA POR EMBOLIZACAO PERCUTANEA BILATERAL"
+    "group": "931",
+    "class": "9311",
+    "code": "10430",
+    "description": "RADIODIAGNOSTICO - NEFRECTOMIA POR EMBOLIZACAO PERCUTANEA BILATERAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10464",
-    "descricao": "RADIODIAGNOSTICO - TRATAMENTO DA VARICOCELE POR EMBOLIZACAO OU ESCLEROSE PERCUTANEA"
+    "group": "931",
+    "class": "9311",
+    "code": "10464",
+    "description": "RADIODIAGNOSTICO - TRATAMENTO DA VARICOCELE POR EMBOLIZACAO OU ESCLEROSE PERCUTANEA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10472",
-    "descricao": "RADIODIAGNOSTICO - PUNCAO DE CISTO RENAL"
+    "group": "931",
+    "class": "9311",
+    "code": "10472",
+    "description": "RADIODIAGNOSTICO - PUNCAO DE CISTO RENAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10480",
-    "descricao": "RADIODIAGNOSTICO - DRENAGEM DE COLECOES NO APARELHO URO - GENITAL"
+    "group": "931",
+    "class": "9311",
+    "code": "10480",
+    "description": "RADIODIAGNOSTICO - DRENAGEM DE COLECOES NO APARELHO URO - GENITAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10499",
-    "descricao": "RADIODIAGNOSTICO - RETIRADA PERCUTANEA DE CALCULOS"
+    "group": "931",
+    "class": "9311",
+    "code": "10499",
+    "description": "RADIODIAGNOSTICO - RETIRADA PERCUTANEA DE CALCULOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10502",
-    "descricao": "RADIODIAGNOSTICO - ANGIOPLASTIA TRANSLUMINAL"
+    "group": "931",
+    "class": "9311",
+    "code": "10502",
+    "description": "RADIODIAGNOSTICO - ANGIOPLASTIA TRANSLUMINAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10510",
-    "descricao": "RADIODIAGNOSTICO - RETIRADA PERCUTANEA DE CORPO ESTRANHO"
+    "group": "931",
+    "class": "9311",
+    "code": "10510",
+    "description": "RADIODIAGNOSTICO - RETIRADA PERCUTANEA DE CORPO ESTRANHO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10529",
-    "descricao": "RADIODIAGNOSTICO - INFUSAO SELETIVA INTRA - MUSCULAR DE ENZIMAS TROMBOLITICAS"
+    "group": "931",
+    "class": "9311",
+    "code": "10529",
+    "description": "RADIODIAGNOSTICO - INFUSAO SELETIVA INTRA - MUSCULAR DE ENZIMAS TROMBOLITICAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10537",
-    "descricao": "RADIODIAGNOSTICO - EMBOLIZACAO PERCUTANEA DE FISTULAS E MAL - FORMACOES ARTERIOVENOSAS PERIFERICAS"
+    "group": "931",
+    "class": "9311",
+    "code": "10537",
+    "description": "RADIODIAGNOSTICO - EMBOLIZACAO PERCUTANEA DE FISTULAS E MAL - FORMACOES ARTERIOVENOSAS PERIFERICAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10553",
-    "descricao": "RADIODIAGNOSTICO - TRATAMENTO DA EPISTAXE POR EMBOLIZACAO"
+    "group": "931",
+    "class": "9311",
+    "code": "10553",
+    "description": "RADIODIAGNOSTICO - TRATAMENTO DA EPISTAXE POR EMBOLIZACAO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10561",
-    "descricao": "RADIODIAGNOSTICO - EMBOLIZACAO DE TUMORES CABECA E PESCOCO"
+    "group": "931",
+    "class": "9311",
+    "code": "10561",
+    "description": "RADIODIAGNOSTICO - EMBOLIZACAO DE TUMORES CABECA E PESCOCO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10570",
-    "descricao": "RADIODIAGNOSTICO - TRATAMENTO FISTULA CAROTIDA - CAVERNOSA  POR COLOCACAO PERCUTANEA DE BALAO"
+    "group": "931",
+    "class": "9311",
+    "code": "10570",
+    "description": "RADIODIAGNOSTICO - TRATAMENTO FISTULA CAROTIDA - CAVERNOSA  POR COLOCACAO PERCUTANEA DE BALAO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10588",
-    "descricao": "RADIODIAGNOSTICO - EMBOLIZACAO TUMORES OSSEOS E MUSCULARES"
+    "group": "931",
+    "class": "9311",
+    "code": "10588",
+    "description": "RADIODIAGNOSTICO - EMBOLIZACAO TUMORES OSSEOS E MUSCULARES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10596",
-    "descricao": "RADIODIAGNOSTICO - DRENAGEM PERCUTANEA DE COLECOES MUSCULO -ESQUELETICAS"
+    "group": "931",
+    "class": "9311",
+    "code": "10596",
+    "description": "RADIODIAGNOSTICO - DRENAGEM PERCUTANEA DE COLECOES MUSCULO -ESQUELETICAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10600",
-    "descricao": "RADIODIAGNOSTICO - TRATAMENTO DE HEMOPTISE POR EMBOLIZACAO  PERCUTANEA"
+    "group": "931",
+    "class": "9311",
+    "code": "10600",
+    "description": "RADIODIAGNOSTICO - TRATAMENTO DE HEMOPTISE POR EMBOLIZACAO  PERCUTANEA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10618",
-    "descricao": "RADIODIAGNOSTICO - DRENAGEM PERCUTANEA DE COLECOES NO TORAX"
+    "group": "931",
+    "class": "9311",
+    "code": "10618",
+    "description": "RADIODIAGNOSTICO - DRENAGEM PERCUTANEA DE COLECOES NO TORAX"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10626",
-    "descricao": "RADIODIAGNOSTICO - PUNCAO PERCUTANEA DE ORGAOS, CAVIDADES OU ESPACOS ANATOMICOS PROFUNDOS ORIENTADOS POR US, RX, CT, RM"
+    "group": "931",
+    "class": "9311",
+    "code": "10626",
+    "description": "RADIODIAGNOSTICO - PUNCAO PERCUTANEA DE ORGAOS, CAVIDADES OU ESPACOS ANATOMICOS PROFUNDOS ORIENTADOS POR US, RX, CT, RM"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10634",
-    "descricao": "RADIODIAGNOSTICO - PUNCAO DE COLECOES SUPERFICIAIS ORIENTADOPOR US OU CT"
+    "group": "931",
+    "class": "9311",
+    "code": "10634",
+    "description": "RADIODIAGNOSTICO - PUNCAO DE COLECOES SUPERFICIAIS ORIENTADOPOR US OU CT"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10642",
-    "descricao": "RADIODIAGNOSTICO - EMBOLIZACAO PERCUTANEA PARA TRATAMENTO DAIMPOTENCIA SEXUAL"
+    "group": "931",
+    "class": "9311",
+    "code": "10642",
+    "description": "RADIODIAGNOSTICO - EMBOLIZACAO PERCUTANEA PARA TRATAMENTO DAIMPOTENCIA SEXUAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10650",
-    "descricao": "DILATACAO PERCUTANEA ESTENOSE BILIAR ANASTOMOSE  BILIO-DIGESTIVO, ESTENOSE URETAL, PROSTATA E ESTENOSE DO TUBO DIGESTIVO"
+    "group": "931",
+    "class": "9311",
+    "code": "10650",
+    "description": "DILATACAO PERCUTANEA ESTENOSE BILIAR ANASTOMOSE  BILIO-DIGESTIVO, ESTENOSE URETAL, PROSTATA E ESTENOSE DO TUBO DIGESTIVO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10669",
-    "descricao": "QUIMIOEMBOLIZACAO ARTERIAL OU VENOSA DE ORGAO"
+    "group": "931",
+    "class": "9311",
+    "code": "10669",
+    "description": "QUIMIOEMBOLIZACAO ARTERIAL OU VENOSA DE ORGAO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10677",
-    "descricao": "ATERECTOMIA PERCUTANEA"
+    "group": "931",
+    "class": "9311",
+    "code": "10677",
+    "description": "ATERECTOMIA PERCUTANEA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10685",
-    "descricao": "COLOCACAO PERCUTANEA DE FILTRO DA VEIA CAVA"
+    "group": "931",
+    "class": "9311",
+    "code": "10685",
+    "description": "COLOCACAO PERCUTANEA DE FILTRO DA VEIA CAVA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10693",
-    "descricao": "COLOCACAO PERCUTANEA DE PROTESE VASCULAR"
+    "group": "931",
+    "class": "9311",
+    "code": "10693",
+    "description": "COLOCACAO PERCUTANEA DE PROTESE VASCULAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10707",
-    "descricao": "COLOCACAO TRANSCATETER DE PROTESE ESOFAGICA"
+    "group": "931",
+    "class": "9311",
+    "code": "10707",
+    "description": "COLOCACAO TRANSCATETER DE PROTESE ESOFAGICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10715",
-    "descricao": "COLOCACAO TRANSCATETER DE PROTESE BRONQUICA OU TRAQUEAL"
+    "group": "931",
+    "class": "9311",
+    "code": "10715",
+    "description": "COLOCACAO TRANSCATETER DE PROTESE BRONQUICA OU TRAQUEAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10723",
-    "descricao": "EMBOLIZACAO PERCUTANEA DE ANGIOMAS CEREBRAIS E MEDULARES"
+    "group": "931",
+    "class": "9311",
+    "code": "10723",
+    "description": "EMBOLIZACAO PERCUTANEA DE ANGIOMAS CEREBRAIS E MEDULARES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10731",
-    "descricao": "EMBOLIZACAO PERCUTANEA DE ANEURISMA CEREBRAL"
+    "group": "931",
+    "class": "9311",
+    "code": "10731",
+    "description": "EMBOLIZACAO PERCUTANEA DE ANEURISMA CEREBRAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10740",
-    "descricao": "EXAME POR TOMOGRAFIA COMPUTADORIZADA"
+    "group": "931",
+    "class": "9311",
+    "code": "10740",
+    "description": "EXAME POR TOMOGRAFIA COMPUTADORIZADA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10758",
-    "descricao": "TERAPIA CLINICA - MEGAVOLTAGEM ( ACELERADOR,  COBALTO,   ELETRONS )"
+    "group": "931",
+    "class": "9311",
+    "code": "10758",
+    "description": "TERAPIA CLINICA - MEGAVOLTAGEM ( ACELERADOR,  COBALTO,   ELETRONS )"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10766",
-    "descricao": "BETATERAPIA"
+    "group": "931",
+    "class": "9311",
+    "code": "10766",
+    "description": "BETATERAPIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10774",
-    "descricao": "CESIOTERAPIA"
+    "group": "931",
+    "class": "9311",
+    "code": "10774",
+    "description": "CESIOTERAPIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10782",
-    "descricao": "COBALTOTERAPIA"
+    "group": "931",
+    "class": "9311",
+    "code": "10782",
+    "description": "COBALTOTERAPIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10790",
-    "descricao": "ELETRONTERAPIA"
+    "group": "931",
+    "class": "9311",
+    "code": "10790",
+    "description": "ELETRONTERAPIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10804",
-    "descricao": "ROENTGENTERAPIA ATE 400KV"
+    "group": "931",
+    "class": "9311",
+    "code": "10804",
+    "description": "ROENTGENTERAPIA ATE 400KV"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10812",
-    "descricao": "IRRADIACAO COM CAMPO ALARGADO"
+    "group": "931",
+    "class": "9311",
+    "code": "10812",
+    "description": "IRRADIACAO COM CAMPO ALARGADO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10820",
-    "descricao": "MOLDAGEM EM UTERO"
+    "group": "931",
+    "class": "9311",
+    "code": "10820",
+    "description": "MOLDAGEM EM UTERO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10839",
-    "descricao": "MOLDAGEM OU IMPLANTE EM PELE"
+    "group": "931",
+    "class": "9311",
+    "code": "10839",
+    "description": "MOLDAGEM OU IMPLANTE EM PELE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10847",
-    "descricao": "MOLDAGEM OU IMPLANTE EM MUCOSA"
+    "group": "931",
+    "class": "9311",
+    "code": "10847",
+    "description": "MOLDAGEM OU IMPLANTE EM MUCOSA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10855",
-    "descricao": "RADIOIMPANTE / RADIOMOLDAGEM COM FIO IRIDIUM"
+    "group": "931",
+    "class": "9311",
+    "code": "10855",
+    "description": "RADIOIMPANTE / RADIOMOLDAGEM COM FIO IRIDIUM"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10863",
-    "descricao": "EXAME DE RESSONANCIA MAGNETICA"
+    "group": "931",
+    "class": "9311",
+    "code": "10863",
+    "description": "EXAME DE RESSONANCIA MAGNETICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10871",
-    "descricao": "PROPEDEUTICA VASCULAR INSTRUMENTAL"
+    "group": "931",
+    "class": "9311",
+    "code": "10871",
+    "description": "PROPEDEUTICA VASCULAR INSTRUMENTAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10880",
-    "descricao": "TERAPEUTICA MEDICA"
+    "group": "931",
+    "class": "9311",
+    "code": "10880",
+    "description": "TERAPEUTICA MEDICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10898",
-    "descricao": "CIRURGIA VENOSA"
+    "group": "931",
+    "class": "9311",
+    "code": "10898",
+    "description": "CIRURGIA VENOSA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10901",
-    "descricao": "CIRURGIA ARTERIAL"
+    "group": "931",
+    "class": "9311",
+    "code": "10901",
+    "description": "CIRURGIA ARTERIAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10910",
-    "descricao": "CIRURGIA DO LINFATICO"
+    "group": "931",
+    "class": "9311",
+    "code": "10910",
+    "description": "CIRURGIA DO LINFATICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10928",
-    "descricao": "CIRURGIA SOBRE FISTULAS ARTERIO VENOSAS ADQUIRIDAS / CONGENITAS"
+    "group": "931",
+    "class": "9311",
+    "code": "10928",
+    "description": "CIRURGIA SOBRE FISTULAS ARTERIO VENOSAS ADQUIRIDAS / CONGENITAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10936",
-    "descricao": "CIRURGIA VASCULAR DE URGENCIA - AMPUTACAO"
+    "group": "931",
+    "class": "9311",
+    "code": "10936",
+    "description": "CIRURGIA VASCULAR DE URGENCIA - AMPUTACAO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10944",
-    "descricao": "ANGIOGRAFIA INTERVENCIONISTA"
+    "group": "931",
+    "class": "9311",
+    "code": "10944",
+    "description": "ANGIOGRAFIA INTERVENCIONISTA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10952",
-    "descricao": "CIRURGIA CARDIACA / HEMODINAMICA"
+    "group": "931",
+    "class": "9311",
+    "code": "10952",
+    "description": "CIRURGIA CARDIACA / HEMODINAMICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10960",
-    "descricao": "HEMODINAMICA - PROCEDIMENTOS DIAGNOSTICOS"
+    "group": "931",
+    "class": "9311",
+    "code": "10960",
+    "description": "HEMODINAMICA - PROCEDIMENTOS DIAGNOSTICOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10979",
-    "descricao": "HEMODINAMICA - PROCEDIMENTOS TERAPEUTICOS"
+    "group": "931",
+    "class": "9311",
+    "code": "10979",
+    "description": "HEMODINAMICA - PROCEDIMENTOS TERAPEUTICOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10987",
-    "descricao": "CIRURGIA DE CABECA E PESCOCO - LABIO"
+    "group": "931",
+    "class": "9311",
+    "code": "10987",
+    "description": "CIRURGIA DE CABECA E PESCOCO - LABIO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "10995",
-    "descricao": "CIRURGIA DE CABECA E PESCOCO - BOCA"
+    "group": "931",
+    "class": "9311",
+    "code": "10995",
+    "description": "CIRURGIA DE CABECA E PESCOCO - BOCA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11002",
-    "descricao": "CIRURGIA DE CABECA E PESCOCO - LINGUA"
+    "group": "931",
+    "class": "9311",
+    "code": "11002",
+    "description": "CIRURGIA DE CABECA E PESCOCO - LINGUA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11010",
-    "descricao": "CIRURGIA DE CABECA E PESCOCO - GLANDULAS SALIVARES"
+    "group": "931",
+    "class": "9311",
+    "code": "11010",
+    "description": "CIRURGIA DE CABECA E PESCOCO - GLANDULAS SALIVARES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11029",
-    "descricao": "CIRURGIA DE CABECA E PESCOCO - FARINGE"
+    "group": "931",
+    "class": "9311",
+    "code": "11029",
+    "description": "CIRURGIA DE CABECA E PESCOCO - FARINGE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11037",
-    "descricao": "CIRURGIA DE CABECA E PESCOCO - LARINGE"
+    "group": "931",
+    "class": "9311",
+    "code": "11037",
+    "description": "CIRURGIA DE CABECA E PESCOCO - LARINGE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11045",
-    "descricao": "CIRURGIA DE CABECA E PESCOCO - PALPEBRA / CAVIDADE ORBITARIAE OLHOS"
+    "group": "931",
+    "class": "9311",
+    "code": "11045",
+    "description": "CIRURGIA DE CABECA E PESCOCO - PALPEBRA / CAVIDADE ORBITARIAE OLHOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11053",
-    "descricao": "CIRURGIA DE CABECA E PESCOCO - PIRAMIDE NASAL"
+    "group": "931",
+    "class": "9311",
+    "code": "11053",
+    "description": "CIRURGIA DE CABECA E PESCOCO - PIRAMIDE NASAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11061",
-    "descricao": "CIRURGIA DE CABECA E PESCOCO - PAVILHAO AURICULAR"
+    "group": "931",
+    "class": "9311",
+    "code": "11061",
+    "description": "CIRURGIA DE CABECA E PESCOCO - PAVILHAO AURICULAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11070",
-    "descricao": "CIRURGIA DE CABECA E PESCOCO - SEIOS PARANASAIS"
+    "group": "931",
+    "class": "9311",
+    "code": "11070",
+    "description": "CIRURGIA DE CABECA E PESCOCO - SEIOS PARANASAIS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11088",
-    "descricao": "CIRURGIA DE CABECA E PESCOCO - MANDIBULA"
+    "group": "931",
+    "class": "9311",
+    "code": "11088",
+    "description": "CIRURGIA DE CABECA E PESCOCO - MANDIBULA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11096",
-    "descricao": "CIRURGIA DE CABECA E PESCOCO - ESVAZIAMENTO CERVICAL"
+    "group": "931",
+    "class": "9311",
+    "code": "11096",
+    "description": "CIRURGIA DE CABECA E PESCOCO - ESVAZIAMENTO CERVICAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11100",
-    "descricao": "DERMATOLOGIA CLINICO / CIRURGICA - DIAGNOSE"
+    "group": "931",
+    "class": "9311",
+    "code": "11100",
+    "description": "DERMATOLOGIA CLINICO / CIRURGICA - DIAGNOSE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11118",
-    "descricao": "DERMATOLOGIA CLINICO / CIRURGICA - TERAPIA"
+    "group": "931",
+    "class": "9311",
+    "code": "11118",
+    "description": "DERMATOLOGIA CLINICO / CIRURGICA - TERAPIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11126",
-    "descricao": "DERMATOLOGIA CLINICO / CIRURGICA - CIRURGIA"
+    "group": "931",
+    "class": "9311",
+    "code": "11126",
+    "description": "DERMATOLOGIA CLINICO / CIRURGICA - CIRURGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11134",
-    "descricao": "CIRURGIA APARELHO DIGESTIVO - ESOFAGO"
+    "group": "931",
+    "class": "9311",
+    "code": "11134",
+    "description": "CIRURGIA APARELHO DIGESTIVO - ESOFAGO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11142",
-    "descricao": "CIRURGIA APARELHO DIGESTIVO - ESTOMAGO"
+    "group": "931",
+    "class": "9311",
+    "code": "11142",
+    "description": "CIRURGIA APARELHO DIGESTIVO - ESTOMAGO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11150",
-    "descricao": "CIRURGIA APARELHO DIGESTIVO - INTESTINOS"
+    "group": "931",
+    "class": "9311",
+    "code": "11150",
+    "description": "CIRURGIA APARELHO DIGESTIVO - INTESTINOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11169",
-    "descricao": "CIRURGIA APARELHO DIGESTIVO, ORGAOS ANEXOS E  PAREDE  ABDOMINAL - ANUS"
+    "group": "931",
+    "class": "9311",
+    "code": "11169",
+    "description": "CIRURGIA APARELHO DIGESTIVO, ORGAOS ANEXOS E  PAREDE  ABDOMINAL - ANUS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11177",
-    "descricao": "CIRURGIA APARELHO DIGESTIVO E ORGAOS ANEXOS - FIGADO E VIAS BILIARES"
+    "group": "931",
+    "class": "9311",
+    "code": "11177",
+    "description": "CIRURGIA APARELHO DIGESTIVO E ORGAOS ANEXOS - FIGADO E VIAS BILIARES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11185",
-    "descricao": "CIRURGIA APARELHO DIGESTIVO E ORGAOS ANEXOS - PANCREAS"
+    "group": "931",
+    "class": "9311",
+    "code": "11185",
+    "description": "CIRURGIA APARELHO DIGESTIVO E ORGAOS ANEXOS - PANCREAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11193",
-    "descricao": "CIRURGIA APARELHO DIGESTIVO E ORGAOS ANEXOS - BACO"
+    "group": "931",
+    "class": "9311",
+    "code": "11193",
+    "description": "CIRURGIA APARELHO DIGESTIVO E ORGAOS ANEXOS - BACO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11207",
-    "descricao": "CIRURGIA APARELHO DIGESTIVO E PAREDE ABDOMINAL - ABDOMEM_/  PAREDE E CAVIDADE"
+    "group": "931",
+    "class": "9311",
+    "code": "11207",
+    "description": "CIRURGIA APARELHO DIGESTIVO E PAREDE ABDOMINAL - ABDOMEM_/  PAREDE E CAVIDADE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11215",
-    "descricao": "CIRURGIA ENDOCRINOLOGICA - PARATIREOIDES"
+    "group": "931",
+    "class": "9311",
+    "code": "11215",
+    "description": "CIRURGIA ENDOCRINOLOGICA - PARATIREOIDES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11223",
-    "descricao": "CIRURGIA ENDOCRINOLOGICA - SUPRA RENAL"
+    "group": "931",
+    "class": "9311",
+    "code": "11223",
+    "description": "CIRURGIA ENDOCRINOLOGICA - SUPRA RENAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11231",
-    "descricao": "CIRURGIA ENDOCRINOLOGICA - TIMO"
+    "group": "931",
+    "class": "9311",
+    "code": "11231",
+    "description": "CIRURGIA ENDOCRINOLOGICA - TIMO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11240",
-    "descricao": "CIRURGIA ENDOCRINOLOGICA - TIREOIDE"
+    "group": "931",
+    "class": "9311",
+    "code": "11240",
+    "description": "CIRURGIA ENDOCRINOLOGICA - TIREOIDE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11258",
-    "descricao": "GINECOLOGIA E OBSTETRICIA - DIAGNOSE"
+    "group": "931",
+    "class": "9311",
+    "code": "11258",
+    "description": "GINECOLOGIA E OBSTETRICIA - DIAGNOSE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11266",
-    "descricao": "GINECOLOGIA E OBSTETRICIA - TERAPIA AMBULATORIAL"
+    "group": "931",
+    "class": "9311",
+    "code": "11266",
+    "description": "GINECOLOGIA E OBSTETRICIA - TERAPIA AMBULATORIAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11274",
-    "descricao": "CIRURGIA GINECOLOGICA - VULVA"
+    "group": "931",
+    "class": "9311",
+    "code": "11274",
+    "description": "CIRURGIA GINECOLOGICA - VULVA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11282",
-    "descricao": "CIRURGIA GINECOLOGICA - VAGINA"
+    "group": "931",
+    "class": "9311",
+    "code": "11282",
+    "description": "CIRURGIA GINECOLOGICA - VAGINA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11290",
-    "descricao": "CIRURGIA GINECOLOGICA - UTERO"
+    "group": "931",
+    "class": "9311",
+    "code": "11290",
+    "description": "CIRURGIA GINECOLOGICA - UTERO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11304",
-    "descricao": "CIRURGIA GINECOLOGICA - OVARIOS"
+    "group": "931",
+    "class": "9311",
+    "code": "11304",
+    "description": "CIRURGIA GINECOLOGICA - OVARIOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11312",
-    "descricao": "CIRURGIA GINECOLOGICA - TROMPAS"
+    "group": "931",
+    "class": "9311",
+    "code": "11312",
+    "description": "CIRURGIA GINECOLOGICA - TROMPAS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11320",
-    "descricao": "CIRURGIA OBSTETRICA - PARTO"
+    "group": "931",
+    "class": "9311",
+    "code": "11320",
+    "description": "CIRURGIA OBSTETRICA - PARTO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11339",
-    "descricao": "CIRURGIA OBSTETRICA - MAMA"
+    "group": "931",
+    "class": "9311",
+    "code": "11339",
+    "description": "CIRURGIA OBSTETRICA - MAMA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11347",
-    "descricao": "TRANSPLANTE CUTANEO COM MICROANASTOMOSE VASCULAR"
+    "group": "931",
+    "class": "9311",
+    "code": "11347",
+    "description": "TRANSPLANTE CUTANEO COM MICROANASTOMOSE VASCULAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11355",
-    "descricao": "TRANSPLANTE MUSCULAR COM MICROANASTOMOSE VASCULAR"
+    "group": "931",
+    "class": "9311",
+    "code": "11355",
+    "description": "TRANSPLANTE MUSCULAR COM MICROANASTOMOSE VASCULAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11363",
-    "descricao": "TRANSPLANTE MUSCULO - CUTANEO COM MICROANASTOMOSE VASCULAR"
+    "group": "931",
+    "class": "9311",
+    "code": "11363",
+    "description": "TRANSPLANTE MUSCULO - CUTANEO COM MICROANASTOMOSE VASCULAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11371",
-    "descricao": "TRANSPLANTE OSSEO VASCULARIZADO E TRANSPLANTE OSTEOMUSCULO -CUTANEO VASCULARIZADO COM MICROANASTOMOSE VASCULAR"
+    "group": "931",
+    "class": "9311",
+    "code": "11371",
+    "description": "TRANSPLANTE OSSEO VASCULARIZADO E TRANSPLANTE OSTEOMUSCULO -CUTANEO VASCULARIZADO COM MICROANASTOMOSE VASCULAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11380",
-    "descricao": "MICROCIRURGIA NAS GRANDES RECONSTRUCOES DE CABECA, PESCOCO ENAS PERDAS DE SUBSTANCIAS COM MICROANASTOMOSE VASCULAR"
+    "group": "931",
+    "class": "9311",
+    "code": "11380",
+    "description": "MICROCIRURGIA NAS GRANDES RECONSTRUCOES DE CABECA, PESCOCO ENAS PERDAS DE SUBSTANCIAS COM MICROANASTOMOSE VASCULAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11398",
-    "descricao": "MICROCIRURGIA ABALACAO DE TUMORES AO NIVEL DOS MEMBROS  COM MICROANATOMOSE VASCULAR"
+    "group": "931",
+    "class": "9311",
+    "code": "11398",
+    "description": "MICROCIRURGIA ABALACAO DE TUMORES AO NIVEL DOS MEMBROS  COM MICROANATOMOSE VASCULAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11401",
-    "descricao": "MICROCIRURGIA DOS NERVOS PERIFERICOS"
+    "group": "931",
+    "class": "9311",
+    "code": "11401",
+    "description": "MICROCIRURGIA DOS NERVOS PERIFERICOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11410",
-    "descricao": "REIMPLANTE E REVASCULARIZACAO DOS MEMBROS"
+    "group": "931",
+    "class": "9311",
+    "code": "11410",
+    "description": "REIMPLANTE E REVASCULARIZACAO DOS MEMBROS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11428",
-    "descricao": "TRANSPLANTE DE DEDOS DO PE PARA A MAO"
+    "group": "931",
+    "class": "9311",
+    "code": "11428",
+    "description": "TRANSPLANTE DE DEDOS DO PE PARA A MAO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11436",
-    "descricao": "AUTOTRANSPLANTE DE TESTICULO"
+    "group": "931",
+    "class": "9311",
+    "code": "11436",
+    "description": "AUTOTRANSPLANTE DE TESTICULO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11444",
-    "descricao": "RECANALIZACAO DOS DUCTUS DEFERENTES"
+    "group": "931",
+    "class": "9311",
+    "code": "11444",
+    "description": "RECANALIZACAO DOS DUCTUS DEFERENTES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11452",
-    "descricao": "REIMPLANTE DO PENIS"
+    "group": "931",
+    "class": "9311",
+    "code": "11452",
+    "description": "REIMPLANTE DO PENIS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11460",
-    "descricao": "REVASCULARIZACAO DOS CORPOS CAVERNOSOS"
+    "group": "931",
+    "class": "9311",
+    "code": "11460",
+    "description": "REVASCULARIZACAO DOS CORPOS CAVERNOSOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11479",
-    "descricao": "CIRURGIA DA MAMA"
+    "group": "931",
+    "class": "9311",
+    "code": "11479",
+    "description": "CIRURGIA DA MAMA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11487",
-    "descricao": "CIRURGIA DA MAO - PELE, TECIDO CUTANEO E FASCIA"
+    "group": "931",
+    "class": "9311",
+    "code": "11487",
+    "description": "CIRURGIA DA MAO - PELE, TECIDO CUTANEO E FASCIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11495",
-    "descricao": "CIRURGIA DA MAO - SISTEMA OSTEO ARTICULAR"
+    "group": "931",
+    "class": "9311",
+    "code": "11495",
+    "description": "CIRURGIA DA MAO - SISTEMA OSTEO ARTICULAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11509",
-    "descricao": "CIRURGIA DA MAO - SISTEMA MUSCULO TENDINOSO"
+    "group": "931",
+    "class": "9311",
+    "code": "11509",
+    "description": "CIRURGIA DA MAO - SISTEMA MUSCULO TENDINOSO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11517",
-    "descricao": "CIRURGIA DA MAO - SISTEMA NERVO PERIFERICO"
+    "group": "931",
+    "class": "9311",
+    "code": "11517",
+    "description": "CIRURGIA DA MAO - SISTEMA NERVO PERIFERICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11525",
-    "descricao": "CIRURGIA DA MAO - DEFORMIDADE CONGENITA"
+    "group": "931",
+    "class": "9311",
+    "code": "11525",
+    "description": "CIRURGIA DA MAO - DEFORMIDADE CONGENITA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11533",
-    "descricao": "CIRURGIA DA MAO - REIMPLANTE, REVASCULARIZACAO E TRANSPLANTE"
+    "group": "931",
+    "class": "9311",
+    "code": "11533",
+    "description": "CIRURGIA DA MAO - REIMPLANTE, REVASCULARIZACAO E TRANSPLANTE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11541",
-    "descricao": "NEUROCIRURGIA - CRANIO"
+    "group": "931",
+    "class": "9311",
+    "code": "11541",
+    "description": "NEUROCIRURGIA - CRANIO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11550",
-    "descricao": "NEUROCIRURGIA - PESCOCO"
+    "group": "931",
+    "class": "9311",
+    "code": "11550",
+    "description": "NEUROCIRURGIA - PESCOCO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11568",
-    "descricao": "NEUROCIRURGIA - COLUNA VERTEBRAL"
+    "group": "931",
+    "class": "9311",
+    "code": "11568",
+    "description": "NEUROCIRURGIA - COLUNA VERTEBRAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11576",
-    "descricao": "NEUROCIRURGIA - NERVOS"
+    "group": "931",
+    "class": "9311",
+    "code": "11576",
+    "description": "NEUROCIRURGIA - NERVOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11584",
-    "descricao": "NEUROCIRURGIA - SISTEMA SIMPATICO"
+    "group": "931",
+    "class": "9311",
+    "code": "11584",
+    "description": "NEUROCIRURGIA - SISTEMA SIMPATICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11592",
-    "descricao": "OFTALMOLOGIA - DIAGNOSE"
+    "group": "931",
+    "class": "9311",
+    "code": "11592",
+    "description": "OFTALMOLOGIA - DIAGNOSE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11606",
-    "descricao": "OFTALMOLOGIA - TERAPIA"
+    "group": "931",
+    "class": "9311",
+    "code": "11606",
+    "description": "OFTALMOLOGIA - TERAPIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11614",
-    "descricao": "OFTALMOLOGIA - CONJUNTIVA"
+    "group": "931",
+    "class": "9311",
+    "code": "11614",
+    "description": "OFTALMOLOGIA - CONJUNTIVA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11622",
-    "descricao": "OFTALMOLOGIA - CORNEA"
+    "group": "931",
+    "class": "9311",
+    "code": "11622",
+    "description": "OFTALMOLOGIA - CORNEA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11630",
-    "descricao": "OFTALMOLOGIA - CAMARA ANTERIOR"
+    "group": "931",
+    "class": "9311",
+    "code": "11630",
+    "description": "OFTALMOLOGIA - CAMARA ANTERIOR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11649",
-    "descricao": "OFTALMOLOGIA - CRISTALINO"
+    "group": "931",
+    "class": "9311",
+    "code": "11649",
+    "description": "OFTALMOLOGIA - CRISTALINO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11657",
-    "descricao": "OFTALMOLOGIA - CORPO VITREO"
+    "group": "931",
+    "class": "9311",
+    "code": "11657",
+    "description": "OFTALMOLOGIA - CORPO VITREO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11665",
-    "descricao": "OFTALMOLOGIA - ESCLERA"
+    "group": "931",
+    "class": "9311",
+    "code": "11665",
+    "description": "OFTALMOLOGIA - ESCLERA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11673",
-    "descricao": "OFTALMOLOGIA - BULBO OCULAR"
+    "group": "931",
+    "class": "9311",
+    "code": "11673",
+    "description": "OFTALMOLOGIA - BULBO OCULAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11681",
-    "descricao": "OFTALMOLOGIA - IRIS E CORPO CILIAR"
+    "group": "931",
+    "class": "9311",
+    "code": "11681",
+    "description": "OFTALMOLOGIA - IRIS E CORPO CILIAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11690",
-    "descricao": "OFTALMOLOGIA - MUSCULOS"
+    "group": "931",
+    "class": "9311",
+    "code": "11690",
+    "description": "OFTALMOLOGIA - MUSCULOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11703",
-    "descricao": "OFTALMOLOGIA - ORBITA"
+    "group": "931",
+    "class": "9311",
+    "code": "11703",
+    "description": "OFTALMOLOGIA - ORBITA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11711",
-    "descricao": "OFTALMOLOGIA - PALPEBRA"
+    "group": "931",
+    "class": "9311",
+    "code": "11711",
+    "description": "OFTALMOLOGIA - PALPEBRA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11720",
-    "descricao": "OFTALMOLOGIA - RETINA"
+    "group": "931",
+    "class": "9311",
+    "code": "11720",
+    "description": "OFTALMOLOGIA - RETINA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11738",
-    "descricao": "OFTALMOLOGIA - VIAS LACRIMAIS"
+    "group": "931",
+    "class": "9311",
+    "code": "11738",
+    "description": "OFTALMOLOGIA - VIAS LACRIMAIS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11746",
-    "descricao": "OTORRINOLARINGOLOGIA - DIAGNOSE"
+    "group": "931",
+    "class": "9311",
+    "code": "11746",
+    "description": "OTORRINOLARINGOLOGIA - DIAGNOSE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11754",
-    "descricao": "OTORRINOLARINGOLOGIA - OUVIDO EXTERNO"
+    "group": "931",
+    "class": "9311",
+    "code": "11754",
+    "description": "OTORRINOLARINGOLOGIA - OUVIDO EXTERNO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11762",
-    "descricao": "OTORRINOLARINGOLOGIA - OUVIDO MEDIO"
+    "group": "931",
+    "class": "9311",
+    "code": "11762",
+    "description": "OTORRINOLARINGOLOGIA - OUVIDO MEDIO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11770",
-    "descricao": "OTORRINOLARINGOLOGIA - OUVIDO INTERNO"
+    "group": "931",
+    "class": "9311",
+    "code": "11770",
+    "description": "OTORRINOLARINGOLOGIA - OUVIDO INTERNO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11789",
-    "descricao": "OTORRINOLARINGOLOGIA - NARIZ"
+    "group": "931",
+    "class": "9311",
+    "code": "11789",
+    "description": "OTORRINOLARINGOLOGIA - NARIZ"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11797",
-    "descricao": "OTORRINOLARINGOLOGIA - SEIOS PARANASAIS"
+    "group": "931",
+    "class": "9311",
+    "code": "11797",
+    "description": "OTORRINOLARINGOLOGIA - SEIOS PARANASAIS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11800",
-    "descricao": "OTORRINOLARINGOLOGIA - FARINGE"
+    "group": "931",
+    "class": "9311",
+    "code": "11800",
+    "description": "OTORRINOLARINGOLOGIA - FARINGE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11819",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - COLUNA VERTEBRAL"
+    "group": "931",
+    "class": "9311",
+    "code": "11819",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - COLUNA VERTEBRAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11827",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - TORAX"
+    "group": "931",
+    "class": "9311",
+    "code": "11827",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - TORAX"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11835",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - CINTURA ESCAPULAR"
+    "group": "931",
+    "class": "9311",
+    "code": "11835",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - CINTURA ESCAPULAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11843",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - ARTICULACAO ESCAPULO - UMERAL"
+    "group": "931",
+    "class": "9311",
+    "code": "11843",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - ARTICULACAO ESCAPULO - UMERAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11851",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - BRACO ( UMERO )"
+    "group": "931",
+    "class": "9311",
+    "code": "11851",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - BRACO ( UMERO )"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11860",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - ARTICULACAO DO COTOVELO"
+    "group": "931",
+    "class": "9311",
+    "code": "11860",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - ARTICULACAO DO COTOVELO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11878",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - ANTEBRACO"
+    "group": "931",
+    "class": "9311",
+    "code": "11878",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - ANTEBRACO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11886",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - PUNHO"
+    "group": "931",
+    "class": "9311",
+    "code": "11886",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - PUNHO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11894",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - MAO"
+    "group": "931",
+    "class": "9311",
+    "code": "11894",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - MAO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11908",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - CINTURA PELVICA"
+    "group": "931",
+    "class": "9311",
+    "code": "11908",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - CINTURA PELVICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11916",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - ARTICULACAO COXO FEMURAL"
+    "group": "931",
+    "class": "9311",
+    "code": "11916",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - ARTICULACAO COXO FEMURAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11924",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - COXA - FEMUR"
+    "group": "931",
+    "class": "9311",
+    "code": "11924",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - COXA - FEMUR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11932",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - ARTICULACAO DO JOELHO"
+    "group": "931",
+    "class": "9311",
+    "code": "11932",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - ARTICULACAO DO JOELHO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11940",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - PERNA"
+    "group": "931",
+    "class": "9311",
+    "code": "11940",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - PERNA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11959",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - ARTICULACAO DO TORNOZELO"
+    "group": "931",
+    "class": "9311",
+    "code": "11959",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - ARTICULACAO DO TORNOZELO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11967",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - PE"
+    "group": "931",
+    "class": "9311",
+    "code": "11967",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - PE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11975",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - MUSCULOS"
+    "group": "931",
+    "class": "9311",
+    "code": "11975",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - MUSCULOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11983",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - TENDOES, BURSAS E SINOVIA"
+    "group": "931",
+    "class": "9311",
+    "code": "11983",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - TENDOES, BURSAS E SINOVIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "11991",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - CORPO ESTRANHO INTRA - ARTICULAR/ MUSCULAR/ OSSEO  OU SUBCUTANEO"
+    "group": "931",
+    "class": "9311",
+    "code": "11991",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - CORPO ESTRANHO INTRA - ARTICULAR/ MUSCULAR/ OSSEO  OU SUBCUTANEO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12009",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - TRACAO - TRANSESQUELETICA, CUTA-NEA, FEMORAL E INSTALACAO DE HALO CRANIANO"
+    "group": "931",
+    "class": "9311",
+    "code": "12009",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - TRACAO - TRANSESQUELETICA, CUTA-NEA, FEMORAL E INSTALACAO DE HALO CRANIANO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12017",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - RETIRADA DE MATERIAL DE SINTESE"
+    "group": "931",
+    "class": "9311",
+    "code": "12017",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - RETIRADA DE MATERIAL DE SINTESE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12025",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - TUMORES OSSEOS"
+    "group": "931",
+    "class": "9311",
+    "code": "12025",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - TUMORES OSSEOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12033",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - IMOBILIZACAO PROVISORIA -  TALA GESSADA"
+    "group": "931",
+    "class": "9311",
+    "code": "12033",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - IMOBILIZACAO PROVISORIA -  TALA GESSADA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12041",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - APARELHOS GESSADOS"
+    "group": "931",
+    "class": "9311",
+    "code": "12041",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - APARELHOS GESSADOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12050",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - BIOPSIA COM AGULHA ( PUNCAO )"
+    "group": "931",
+    "class": "9311",
+    "code": "12050",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - BIOPSIA COM AGULHA ( PUNCAO )"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12068",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - ENXERTO EM PSEUDOARTROSES"
+    "group": "931",
+    "class": "9311",
+    "code": "12068",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - ENXERTO EM PSEUDOARTROSES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12076",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - INFILTRACAO OU PUNCAO ARTICULAR"
+    "group": "931",
+    "class": "9311",
+    "code": "12076",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - INFILTRACAO OU PUNCAO ARTICULAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12084",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - ARTROSCOPIA PARA DIAGNOSTICO"
+    "group": "931",
+    "class": "9311",
+    "code": "12084",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - ARTROSCOPIA PARA DIAGNOSTICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12092",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - ARTROSCOPIA PARA CIRURGIA"
+    "group": "931",
+    "class": "9311",
+    "code": "12092",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - ARTROSCOPIA PARA CIRURGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12106",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - RETIRADA DE ENXERTO OSSEO"
+    "group": "931",
+    "class": "9311",
+    "code": "12106",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - RETIRADA DE ENXERTO OSSEO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12114",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - IMOBILIZACAO NAO GESSADA"
+    "group": "931",
+    "class": "9311",
+    "code": "12114",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - IMOBILIZACAO NAO GESSADA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12122",
-    "descricao": "ORTOPEDIA E TRAUMATOLOGIA - MANIPULACAO ARTICULAR SOB ANESTESIA GERAL"
+    "group": "931",
+    "class": "9311",
+    "code": "12122",
+    "description": "ORTOPEDIA E TRAUMATOLOGIA - MANIPULACAO ARTICULAR SOB ANESTESIA GERAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12130",
-    "descricao": "CIRURGIA PEDIATRICA - TRATO DIGESTIVO"
+    "group": "931",
+    "class": "9311",
+    "code": "12130",
+    "description": "CIRURGIA PEDIATRICA - TRATO DIGESTIVO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12149",
-    "descricao": "CIRURGIA PEDIATRICA - TRATO UROGENITAL"
+    "group": "931",
+    "class": "9311",
+    "code": "12149",
+    "description": "CIRURGIA PEDIATRICA - TRATO UROGENITAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12157",
-    "descricao": "CIRURGIA PEDIATRICA - TORAX"
+    "group": "931",
+    "class": "9311",
+    "code": "12157",
+    "description": "CIRURGIA PEDIATRICA - TORAX"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12165",
-    "descricao": "CIRURGIA PEDIATRICA - ONCOLOGIA"
+    "group": "931",
+    "class": "9311",
+    "code": "12165",
+    "description": "CIRURGIA PEDIATRICA - ONCOLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12173",
-    "descricao": "CIRURGIA PEDIATRICA - PAREDE, PELE, TECIDO SUBCUTANEO"
+    "group": "931",
+    "class": "9311",
+    "code": "12173",
+    "description": "CIRURGIA PEDIATRICA - PAREDE, PELE, TECIDO SUBCUTANEO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12181",
-    "descricao": "CIRURGIA PEDIATRICA - DISSECACAO DE VEIA COLOCACAO CATETER  CENTRAL NPP OU QT"
+    "group": "931",
+    "class": "9311",
+    "code": "12181",
+    "description": "CIRURGIA PEDIATRICA - DISSECACAO DE VEIA COLOCACAO CATETER  CENTRAL NPP OU QT"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12190",
-    "descricao": "CIRURGIA PLASTICA - PELE E TECIDO SUBCUTANEO"
+    "group": "931",
+    "class": "9311",
+    "code": "12190",
+    "description": "CIRURGIA PLASTICA - PELE E TECIDO SUBCUTANEO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12203",
-    "descricao": "CIRURGIA PLASTICA - CAVIDADE ORAL"
+    "group": "931",
+    "class": "9311",
+    "code": "12203",
+    "description": "CIRURGIA PLASTICA - CAVIDADE ORAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12211",
-    "descricao": "CIRURGIA PEDIATRICA - COURO CABELUDO"
+    "group": "931",
+    "class": "9311",
+    "code": "12211",
+    "description": "CIRURGIA PEDIATRICA - COURO CABELUDO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12220",
-    "descricao": "CIRURGIA PLASTICA - FACE"
+    "group": "931",
+    "class": "9311",
+    "code": "12220",
+    "description": "CIRURGIA PLASTICA - FACE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12238",
-    "descricao": "CIRURGIA PLASTICA - GENITALIA MASCULINA"
+    "group": "931",
+    "class": "9311",
+    "code": "12238",
+    "description": "CIRURGIA PLASTICA - GENITALIA MASCULINA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12246",
-    "descricao": "CIRURGIA PLASTICA - GENITALIA FEMININA"
+    "group": "931",
+    "class": "9311",
+    "code": "12246",
+    "description": "CIRURGIA PLASTICA - GENITALIA FEMININA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12254",
-    "descricao": "CIRURGIA PLASTICA - LABIOS"
+    "group": "931",
+    "class": "9311",
+    "code": "12254",
+    "description": "CIRURGIA PLASTICA - LABIOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12262",
-    "descricao": "CIRURGIA PLASTICA - MEMBROS - BRACO, ANTEBRACO, COXA E PERNA"
+    "group": "931",
+    "class": "9311",
+    "code": "12262",
+    "description": "CIRURGIA PLASTICA - MEMBROS - BRACO, ANTEBRACO, COXA E PERNA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12270",
-    "descricao": "CIRURGIA PLASTICA - MAO"
+    "group": "931",
+    "class": "9311",
+    "code": "12270",
+    "description": "CIRURGIA PLASTICA - MAO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12289",
-    "descricao": "CIRURGIA PLASTICA - NARIZ"
+    "group": "931",
+    "class": "9311",
+    "code": "12289",
+    "description": "CIRURGIA PLASTICA - NARIZ"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12297",
-    "descricao": "CIRURGIA PLASTICA - PALPEBRA E CAVIDADE ORBITARIA"
+    "group": "931",
+    "class": "9311",
+    "code": "12297",
+    "description": "CIRURGIA PLASTICA - PALPEBRA E CAVIDADE ORBITARIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12300",
-    "descricao": "CIRURGIA PLASTICA - PAVILHAO AURICULAR"
+    "group": "931",
+    "class": "9311",
+    "code": "12300",
+    "description": "CIRURGIA PLASTICA - PAVILHAO AURICULAR"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12319",
-    "descricao": "CIRURGIA PLASTICA - PE"
+    "group": "931",
+    "class": "9311",
+    "code": "12319",
+    "description": "CIRURGIA PLASTICA - PE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12327",
-    "descricao": "CIRURGIA PLASTICA - PESCOCO"
+    "group": "931",
+    "class": "9311",
+    "code": "12327",
+    "description": "CIRURGIA PLASTICA - PESCOCO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12335",
-    "descricao": "CIRURGIA PLASTICA - TORAX E ABDOMEM"
+    "group": "931",
+    "class": "9311",
+    "code": "12335",
+    "description": "CIRURGIA PLASTICA - TORAX E ABDOMEM"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12343",
-    "descricao": "CIRURGIA PLASTICA - FACE ( CIRURGIA REPARADORA E FUNCIONAL )"
+    "group": "931",
+    "class": "9311",
+    "code": "12343",
+    "description": "CIRURGIA PLASTICA - FACE ( CIRURGIA REPARADORA E FUNCIONAL )"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12351",
-    "descricao": "CIRURGIA PLASTICA - FACE ( SEQUELA DE TRAUMA )"
+    "group": "931",
+    "class": "9311",
+    "code": "12351",
+    "description": "CIRURGIA PLASTICA - FACE ( SEQUELA DE TRAUMA )"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12360",
-    "descricao": "CIRURGIA PLASTICA - QUEIMADURA"
+    "group": "931",
+    "class": "9311",
+    "code": "12360",
+    "description": "CIRURGIA PLASTICA - QUEIMADURA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12378",
-    "descricao": "CIRURGIA TORACICA - PULMAO"
+    "group": "931",
+    "class": "9311",
+    "code": "12378",
+    "description": "CIRURGIA TORACICA - PULMAO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12386",
-    "descricao": "CIRURGIA TORACICA - PLEURA"
+    "group": "931",
+    "class": "9311",
+    "code": "12386",
+    "description": "CIRURGIA TORACICA - PLEURA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12394",
-    "descricao": "CIRURGIA TORACICA - TRAQUEIA"
+    "group": "931",
+    "class": "9311",
+    "code": "12394",
+    "description": "CIRURGIA TORACICA - TRAQUEIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12408",
-    "descricao": "CIRURGIA TORACICA - BRONQUIOS"
+    "group": "931",
+    "class": "9311",
+    "code": "12408",
+    "description": "CIRURGIA TORACICA - BRONQUIOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12416",
-    "descricao": "CIRURGIA TORACICA - MEDIASTINO"
+    "group": "931",
+    "class": "9311",
+    "code": "12416",
+    "description": "CIRURGIA TORACICA - MEDIASTINO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12424",
-    "descricao": "CIRURGIA TORACICA - PAREDE TORACICA"
+    "group": "931",
+    "class": "9311",
+    "code": "12424",
+    "description": "CIRURGIA TORACICA - PAREDE TORACICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12432",
-    "descricao": "UROLOGIA - DIAGNOSE"
+    "group": "931",
+    "class": "9311",
+    "code": "12432",
+    "description": "UROLOGIA - DIAGNOSE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12440",
-    "descricao": "UROLOGIA - RIM E BACINETE"
+    "group": "931",
+    "class": "9311",
+    "code": "12440",
+    "description": "UROLOGIA - RIM E BACINETE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12459",
-    "descricao": "UROLOGIA - URETER"
+    "group": "931",
+    "class": "9311",
+    "code": "12459",
+    "description": "UROLOGIA - URETER"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12467",
-    "descricao": "UROLOGIA - BEXIGA"
+    "group": "931",
+    "class": "9311",
+    "code": "12467",
+    "description": "UROLOGIA - BEXIGA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12475",
-    "descricao": "UROLOGIA - URETRA"
+    "group": "931",
+    "class": "9311",
+    "code": "12475",
+    "description": "UROLOGIA - URETRA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12483",
-    "descricao": "UROLOGIA - PROSTATA E VESICULA SEMINAL"
+    "group": "931",
+    "class": "9311",
+    "code": "12483",
+    "description": "UROLOGIA - PROSTATA E VESICULA SEMINAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12491",
-    "descricao": "UROLOGIA - BOLSA ESCROTAL"
+    "group": "931",
+    "class": "9311",
+    "code": "12491",
+    "description": "UROLOGIA - BOLSA ESCROTAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12505",
-    "descricao": "UROLOGIA - TESTICULO"
+    "group": "931",
+    "class": "9311",
+    "code": "12505",
+    "description": "UROLOGIA - TESTICULO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12513",
-    "descricao": "UROLOGIA - EPIDIDIMO"
+    "group": "931",
+    "class": "9311",
+    "code": "12513",
+    "description": "UROLOGIA - EPIDIDIMO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12521",
-    "descricao": "UROLOGIA - CORDAO ESPERMATICO"
+    "group": "931",
+    "class": "9311",
+    "code": "12521",
+    "description": "UROLOGIA - CORDAO ESPERMATICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12530",
-    "descricao": "UROLOGIA - PENIS"
+    "group": "931",
+    "class": "9311",
+    "code": "12530",
+    "description": "UROLOGIA - PENIS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12548",
-    "descricao": "UROLOGIA - LINFATICOS"
+    "group": "931",
+    "class": "9311",
+    "code": "12548",
+    "description": "UROLOGIA - LINFATICOS"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12572",
-    "descricao": "PSICOLOGIA - TERAPIA"
+    "group": "931",
+    "class": "9311",
+    "code": "12572",
+    "description": "PSICOLOGIA - TERAPIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "12920",
-    "descricao": "ASSISTENCIA MEDICA - HOSPITALAR / DOMICILIAR COMPLEMENTAR DESAUDE / CONVÊNIO"
+    "group": "931",
+    "class": "9311",
+    "code": "12920",
+    "description": "ASSISTENCIA MEDICA - HOSPITALAR / DOMICILIAR COMPLEMENTAR DESAUDE / CONVÊNIO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "13889",
-    "descricao": "TERAPIA - ACUPUNTURA"
+    "group": "931",
+    "class": "9311",
+    "code": "13889",
+    "description": "TERAPIA - ACUPUNTURA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "14052",
-    "descricao": "REMOCAO DE ENFERMO / UTI MOVEL"
+    "group": "931",
+    "class": "9311",
+    "code": "14052",
+    "description": "REMOCAO DE ENFERMO / UTI MOVEL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "14060",
-    "descricao": "TERAPIA - PSIQUIATRIA"
+    "group": "931",
+    "class": "9311",
+    "code": "14060",
+    "description": "TERAPIA - PSIQUIATRIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "14273",
-    "descricao": "ESTERILIZACAO - REPROCESSAMENTO DE ARTIGO / INSTRUMENTO  ME-DICO CIRURGICO"
+    "group": "931",
+    "class": "9311",
+    "code": "14273",
+    "description": "ESTERILIZACAO - REPROCESSAMENTO DE ARTIGO / INSTRUMENTO  ME-DICO CIRURGICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "14338",
-    "descricao": "ATENDIMENTO MEDICO EM UTI NEONATAL / PEDIATRICA / ADULTO"
+    "group": "931",
+    "class": "9311",
+    "code": "14338",
+    "description": "ATENDIMENTO MEDICO EM UTI NEONATAL / PEDIATRICA / ADULTO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "14583",
-    "descricao": "PSICOLOGIA - APLICADA"
+    "group": "931",
+    "class": "9311",
+    "code": "14583",
+    "description": "PSICOLOGIA - APLICADA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "15121",
-    "descricao": "DOSIMETRIA PESSOAL"
+    "group": "931",
+    "class": "9311",
+    "code": "15121",
+    "description": "DOSIMETRIA PESSOAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "15237",
-    "descricao": "ESTERILIZACAO"
+    "group": "931",
+    "class": "9311",
+    "code": "15237",
+    "description": "ESTERILIZACAO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "16268",
-    "descricao": "ASSISTENCIA NEONATAL"
+    "group": "931",
+    "class": "9311",
+    "code": "16268",
+    "description": "ASSISTENCIA NEONATAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "16543",
-    "descricao": "PRONTO ATENDIMENTO / INTERNACAO"
+    "group": "931",
+    "class": "9311",
+    "code": "16543",
+    "description": "PRONTO ATENDIMENTO / INTERNACAO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "16586",
-    "descricao": "TRATAMENTO DEPENDENCIA QUIMICA"
+    "group": "931",
+    "class": "9311",
+    "code": "16586",
+    "description": "TRATAMENTO DEPENDENCIA QUIMICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "16608",
-    "descricao": "OFTALMOLOGIA / DIAGNOSE - CERATOSCOPIA COMPUTADORIZADA"
+    "group": "931",
+    "class": "9311",
+    "code": "16608",
+    "description": "OFTALMOLOGIA / DIAGNOSE - CERATOSCOPIA COMPUTADORIZADA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "16616",
-    "descricao": "OFTALMOLOGIA / DIAGNOSE - CAMPIMETRIA COMPUTADORIZADA"
+    "group": "931",
+    "class": "9311",
+    "code": "16616",
+    "description": "OFTALMOLOGIA / DIAGNOSE - CAMPIMETRIA COMPUTADORIZADA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "16624",
-    "descricao": "OFTALMOLOGIA / CRISTALINO - CAPSULOTOMIA YAG OU CIRURGICA"
+    "group": "931",
+    "class": "9311",
+    "code": "16624",
+    "description": "OFTALMOLOGIA / CRISTALINO - CAPSULOTOMIA YAG OU CIRURGICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "16632",
-    "descricao": "OFTALMOLOGIA - LASER ARGONICO"
+    "group": "931",
+    "class": "9311",
+    "code": "16632",
+    "description": "OFTALMOLOGIA - LASER ARGONICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "16640",
-    "descricao": "OFTALMOLOGIA - ECOGRAFIA / ECOBIOMETRIA"
+    "group": "931",
+    "class": "9311",
+    "code": "16640",
+    "description": "OFTALMOLOGIA - ECOGRAFIA / ECOBIOMETRIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "16659",
-    "descricao": "OFTALMOLOGIA / DIAGNOSE - MAPEAMENTO DE RETINA"
+    "group": "931",
+    "class": "9311",
+    "code": "16659",
+    "description": "OFTALMOLOGIA / DIAGNOSE - MAPEAMENTO DE RETINA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "16667",
-    "descricao": "OFTALMOLOGIA / DIAGNOSE - PAQUIMETRIA"
+    "group": "931",
+    "class": "9311",
+    "code": "16667",
+    "description": "OFTALMOLOGIA / DIAGNOSE - PAQUIMETRIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "16969",
-    "descricao": "LABORATORIO - ANALISE ANIMAL / VEGETAL"
+    "group": "931",
+    "class": "9311",
+    "code": "16969",
+    "description": "LABORATORIO - ANALISE ANIMAL / VEGETAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "17850",
-    "descricao": "ESTUDOS E PROJETOS - SAUDE"
+    "group": "931",
+    "class": "9311",
+    "code": "17850",
+    "description": "ESTUDOS E PROJETOS - SAUDE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "17892",
-    "descricao": "RADIOLOGIA ODONTOLOGICA"
+    "group": "931",
+    "class": "9311",
+    "code": "17892",
+    "description": "RADIOLOGIA ODONTOLOGICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "18252",
-    "descricao": "RADIOLOGIA GERAL"
+    "group": "931",
+    "class": "9311",
+    "code": "18252",
+    "description": "RADIOLOGIA GERAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "18350",
-    "descricao": "ENFERMAGEM"
+    "group": "931",
+    "class": "9311",
+    "code": "18350",
+    "description": "ENFERMAGEM"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "18767",
-    "descricao": "ANALISE ECOTOXICOLOGICA"
+    "group": "931",
+    "class": "9311",
+    "code": "18767",
+    "description": "ANALISE ECOTOXICOLOGICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "18864",
-    "descricao": "ONCOLOGIA CLINICA"
+    "group": "931",
+    "class": "9311",
+    "code": "18864",
+    "description": "ONCOLOGIA CLINICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "18899",
-    "descricao": "PSICOMOTRICISTA - CONSULTA / TERAPIA"
+    "group": "931",
+    "class": "9311",
+    "code": "18899",
+    "description": "PSICOMOTRICISTA - CONSULTA / TERAPIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "18970",
-    "descricao": "LABORATORIO PROTESE ODONTOLOGICA"
+    "group": "931",
+    "class": "9311",
+    "code": "18970",
+    "description": "LABORATORIO PROTESE ODONTOLOGICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "19020",
-    "descricao": "LABORATORIO - ANALISE MICROBIOLOGICA"
+    "group": "931",
+    "class": "9311",
+    "code": "19020",
+    "description": "LABORATORIO - ANALISE MICROBIOLOGICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "19089",
-    "descricao": "INSPECAO RADIOLOGICA - MEDICA / ODONTOLOGICA"
+    "group": "931",
+    "class": "9311",
+    "code": "19089",
+    "description": "INSPECAO RADIOLOGICA - MEDICA / ODONTOLOGICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "19968",
-    "descricao": "TERAPIA - OCUPACIONAL"
+    "group": "931",
+    "class": "9311",
+    "code": "19968",
+    "description": "TERAPIA - OCUPACIONAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "20176",
-    "descricao": "OXIGENOTERAPIA HIPERBARICA"
+    "group": "931",
+    "class": "9311",
+    "code": "20176",
+    "description": "OXIGENOTERAPIA HIPERBARICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "20184",
-    "descricao": "EXAME DE SANGUE"
+    "group": "931",
+    "class": "9311",
+    "code": "20184",
+    "description": "EXAME DE SANGUE"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "20281",
-    "descricao": "NUTRICIONISTA"
+    "group": "931",
+    "class": "9311",
+    "code": "20281",
+    "description": "NUTRICIONISTA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "20400",
-    "descricao": "MIELOGRAMA"
+    "group": "931",
+    "class": "9311",
+    "code": "20400",
+    "description": "MIELOGRAMA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "20540",
-    "descricao": "EXAME DNA"
+    "group": "931",
+    "class": "9311",
+    "code": "20540",
+    "description": "EXAME DNA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "20842",
-    "descricao": "BAIXA HOSPITALAR - TRATAMENTO"
+    "group": "931",
+    "class": "9311",
+    "code": "20842",
+    "description": "BAIXA HOSPITALAR - TRATAMENTO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "20850",
-    "descricao": "PROCEDIMENTO AMBULATORIAL - SUTURA"
+    "group": "931",
+    "class": "9311",
+    "code": "20850",
+    "description": "PROCEDIMENTO AMBULATORIAL - SUTURA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "20974",
-    "descricao": "CINTILOGRAFIA"
+    "group": "931",
+    "class": "9311",
+    "code": "20974",
+    "description": "CINTILOGRAFIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "21130",
-    "descricao": "EXAME ECOGRAFIA"
+    "group": "931",
+    "class": "9311",
+    "code": "21130",
+    "description": "EXAME ECOGRAFIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "21296",
-    "descricao": "TRATAMENTO CALCULO RENAL"
+    "group": "931",
+    "class": "9311",
+    "code": "21296",
+    "description": "TRATAMENTO CALCULO RENAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "21547",
-    "descricao": "EXAME CITOLOGIA ONCOTICA"
+    "group": "931",
+    "class": "9311",
+    "code": "21547",
+    "description": "EXAME CITOLOGIA ONCOTICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "21555",
-    "descricao": "EXAME FOSFATASE ACIDA TOTAL"
+    "group": "931",
+    "class": "9311",
+    "code": "21555",
+    "description": "EXAME FOSFATASE ACIDA TOTAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "21563",
-    "descricao": "EXAME FOSFATASE ACIDA PROSTATICA"
+    "group": "931",
+    "class": "9311",
+    "code": "21563",
+    "description": "EXAME FOSFATASE ACIDA PROSTATICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "21571",
-    "descricao": "EXAME COLESTEROL TOTAL/FRACOES"
+    "group": "931",
+    "class": "9311",
+    "code": "21571",
+    "description": "EXAME COLESTEROL TOTAL/FRACOES"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "21580",
-    "descricao": "EXAME UREIA"
+    "group": "931",
+    "class": "9311",
+    "code": "21580",
+    "description": "EXAME UREIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "21598",
-    "descricao": "EXAME CREATININA"
+    "group": "931",
+    "class": "9311",
+    "code": "21598",
+    "description": "EXAME CREATININA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "21601",
-    "descricao": "EXAME ACIDO URICO"
+    "group": "931",
+    "class": "9311",
+    "code": "21601",
+    "description": "EXAME ACIDO URICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "22373",
-    "descricao": "EXAME MEDICO PERIODICO"
+    "group": "931",
+    "class": "9311",
+    "code": "22373",
+    "description": "EXAME MEDICO PERIODICO"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "22683",
-    "descricao": "EXAME EMISSAO OTOACUSTICA"
+    "group": "931",
+    "class": "9311",
+    "code": "22683",
+    "description": "EXAME EMISSAO OTOACUSTICA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "24430",
-    "descricao": "CONSULTA MEDICA CIRURGIAO GERAL"
+    "group": "931",
+    "class": "9311",
+    "code": "24430",
+    "description": "CONSULTA MEDICA CIRURGIAO GERAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "24449",
-    "descricao": "CONSULTA MÉDICA - PROCTOLOGIA"
+    "group": "931",
+    "class": "9311",
+    "code": "24449",
+    "description": "CONSULTA MÉDICA - PROCTOLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "25070",
-    "descricao": "ANALISE MICROSCOPIA ELETRONICA DE VARREDURA E ESPECTROSCOPIA DE RAIOS X"
+    "group": "931",
+    "class": "9311",
+    "code": "25070",
+    "description": "ANALISE MICROSCOPIA ELETRONICA DE VARREDURA E ESPECTROSCOPIA DE RAIOS X"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "25496",
-    "descricao": "EXAME AORTOGRAFIA"
+    "group": "931",
+    "class": "9311",
+    "code": "25496",
+    "description": "EXAME AORTOGRAFIA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "25747",
-    "descricao": "EXAME RENAL"
+    "group": "931",
+    "class": "9311",
+    "code": "25747",
+    "description": "EXAME RENAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "25801",
-    "descricao": "GERENCIAMENTO DE PLASMA EXCEDENTE DE USO TRANSFUSIONAL"
+    "group": "931",
+    "class": "9311",
+    "code": "25801",
+    "description": "GERENCIAMENTO DE PLASMA EXCEDENTE DE USO TRANSFUSIONAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "25836",
-    "descricao": "RADIOGRAFIA OBTIDA ATRAVES DE RAIOS GAMA"
+    "group": "931",
+    "class": "9311",
+    "code": "25836",
+    "description": "RADIOGRAFIA OBTIDA ATRAVES DE RAIOS GAMA"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "27871",
-    "descricao": "TESTE RT-PCR (VIRUS SARS-COV-19)"
+    "group": "931",
+    "class": "9311",
+    "code": "27871",
+    "description": "TESTE RT-PCR (VIRUS SARS-COV-19)"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "27987",
-    "descricao": "ENDOSCOPIA DIGESTIVA DIAGNÓSTICA - MANOMETRIA ANORRETAL"
+    "group": "931",
+    "class": "9311",
+    "code": "27987",
+    "description": "ENDOSCOPIA DIGESTIVA DIAGNÓSTICA - MANOMETRIA ANORRETAL"
   },
   {
-    "grupo": "931",
-    "classe": "9311",
-    "codigo": "30000",
-    "descricao": "MONITORACAO NEUROFISIOLOGICA INTRAOPERATORIA"
+    "group": "931",
+    "class": "9311",
+    "code": "30000",
+    "description": "MONITORACAO NEUROFISIOLOGICA INTRAOPERATORIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "5541",
-    "descricao": "ORTOPEDIA"
+    "group": "931",
+    "class": "9312",
+    "code": "5541",
+    "description": "ORTOPEDIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "5550",
-    "descricao": "RADIOLOGIA OSSEA"
+    "group": "931",
+    "class": "9312",
+    "code": "5550",
+    "description": "RADIOLOGIA OSSEA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "5908",
-    "descricao": "SERVICO ODONTOLOGICO"
+    "group": "931",
+    "class": "9312",
+    "code": "5908",
+    "description": "SERVICO ODONTOLOGICO"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "5916",
-    "descricao": "CONSULTA MEDICA - CLINICA GERAL"
+    "group": "931",
+    "class": "9312",
+    "code": "5916",
+    "description": "CONSULTA MEDICA - CLINICA GERAL"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "5940",
-    "descricao": "CONSULTA MEDICA - OTORRINOLARINGOLOGIA ( OUVIDO )"
+    "group": "931",
+    "class": "9312",
+    "code": "5940",
+    "description": "CONSULTA MEDICA - OTORRINOLARINGOLOGIA ( OUVIDO )"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "5959",
-    "descricao": "CONSULTA MEDICA - FONOAUDIOLOGIA"
+    "group": "931",
+    "class": "9312",
+    "code": "5959",
+    "description": "CONSULTA MEDICA - FONOAUDIOLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "6068",
-    "descricao": "CONSULTA MEDICA - CARDIOLOGIA / ANGIOLOGIA"
+    "group": "931",
+    "class": "9312",
+    "code": "6068",
+    "description": "CONSULTA MEDICA - CARDIOLOGIA / ANGIOLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "6076",
-    "descricao": "CONSULTA MEDICA - ENDOCRINOLOGIA"
+    "group": "931",
+    "class": "9312",
+    "code": "6076",
+    "description": "CONSULTA MEDICA - ENDOCRINOLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "6084",
-    "descricao": "CONSULTA MEDICA - GASTROENTEROLOGIA"
+    "group": "931",
+    "class": "9312",
+    "code": "6084",
+    "description": "CONSULTA MEDICA - GASTROENTEROLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "6092",
-    "descricao": "CONSULTA MEDICA - GERIATRIA / GERONTOLOGIA"
+    "group": "931",
+    "class": "9312",
+    "code": "6092",
+    "description": "CONSULTA MEDICA - GERIATRIA / GERONTOLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "6106",
-    "descricao": "CONSULTA MEDICA - HEPATOLOGIA"
+    "group": "931",
+    "class": "9312",
+    "code": "6106",
+    "description": "CONSULTA MEDICA - HEPATOLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "6114",
-    "descricao": "CONSULTA MEDICA - HEMATOLOGIA"
+    "group": "931",
+    "class": "9312",
+    "code": "6114",
+    "description": "CONSULTA MEDICA - HEMATOLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "6122",
-    "descricao": "CONSULTA MEDICA - INFECTOLOGIA"
+    "group": "931",
+    "class": "9312",
+    "code": "6122",
+    "description": "CONSULTA MEDICA - INFECTOLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "6130",
-    "descricao": "CONSULTA MEDICA - NEUROLOGIA"
+    "group": "931",
+    "class": "9312",
+    "code": "6130",
+    "description": "CONSULTA MEDICA - NEUROLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "6149",
-    "descricao": "CONSULTA MEDICA - PEDIATRIA"
+    "group": "931",
+    "class": "9312",
+    "code": "6149",
+    "description": "CONSULTA MEDICA - PEDIATRIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "6157",
-    "descricao": "CONSULTA MEDICA - PNEUMOLOGIA"
+    "group": "931",
+    "class": "9312",
+    "code": "6157",
+    "description": "CONSULTA MEDICA - PNEUMOLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "6165",
-    "descricao": "CONSULTA MEDICA - PSIQUIATRIA"
+    "group": "931",
+    "class": "9312",
+    "code": "6165",
+    "description": "CONSULTA MEDICA - PSIQUIATRIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "6173",
-    "descricao": "CONSULTA MEDICA - REUMATOLOGIA"
+    "group": "931",
+    "class": "9312",
+    "code": "6173",
+    "description": "CONSULTA MEDICA - REUMATOLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "6181",
-    "descricao": "CONSULTA MEDICA - NEFROLOGIA"
+    "group": "931",
+    "class": "9312",
+    "code": "6181",
+    "description": "CONSULTA MEDICA - NEFROLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "12564",
-    "descricao": "CONSULTA MEDICA - PSICOLOGIA"
+    "group": "931",
+    "class": "9312",
+    "code": "12564",
+    "description": "CONSULTA MEDICA - PSICOLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "13870",
-    "descricao": "CONSULTA MEDICA - ACUPUNTURA"
+    "group": "931",
+    "class": "9312",
+    "code": "13870",
+    "description": "CONSULTA MEDICA - ACUPUNTURA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "13951",
-    "descricao": "CONSULTA MEDICA - GINECOLOGIA / OBSTETRICIA"
+    "group": "931",
+    "class": "9312",
+    "code": "13951",
+    "description": "CONSULTA MEDICA - GINECOLOGIA / OBSTETRICIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "13978",
-    "descricao": "CONSULTA MEDICA - ORTOPEDIA"
+    "group": "931",
+    "class": "9312",
+    "code": "13978",
+    "description": "CONSULTA MEDICA - ORTOPEDIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "16594",
-    "descricao": "CONSULTA MEDICA - OFTALMOLOGIA"
+    "group": "931",
+    "class": "9312",
+    "code": "16594",
+    "description": "CONSULTA MEDICA - OFTALMOLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "17477",
-    "descricao": "CONSULTA MEDICA - HOMEOPATIA"
+    "group": "931",
+    "class": "9312",
+    "code": "17477",
+    "description": "CONSULTA MEDICA - HOMEOPATIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "19844",
-    "descricao": "CIRURGIA VASCULAR"
+    "group": "931",
+    "class": "9312",
+    "code": "19844",
+    "description": "CIRURGIA VASCULAR"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "24422",
-    "descricao": "CONSULTA MEDICA UROLOGIA"
+    "group": "931",
+    "class": "9312",
+    "code": "24422",
+    "description": "CONSULTA MEDICA UROLOGIA"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "25046",
-    "descricao": "SERVICO AUXILIAR DE LABORATORIO / ODONTOLOGO"
+    "group": "931",
+    "class": "9312",
+    "code": "25046",
+    "description": "SERVICO AUXILIAR DE LABORATORIO / ODONTOLOGO"
   },
   {
-    "grupo": "931",
-    "classe": "9312",
-    "codigo": "25348",
-    "descricao": "EXAME UROLOGICO"
+    "group": "931",
+    "class": "9312",
+    "code": "25348",
+    "description": "EXAME UROLOGICO"
   },
   {
-    "grupo": "931",
-    "classe": "9319",
-    "codigo": "5568",
-    "descricao": "FISIOTERAPIA / MASSOTERAPIA"
+    "group": "931",
+    "class": "9319",
+    "code": "5568",
+    "description": "FISIOTERAPIA / MASSOTERAPIA"
   },
   {
-    "grupo": "931",
-    "classe": "9319",
-    "codigo": "8800",
-    "descricao": "MEDICINA / ENGENHARIA TRABALHO - PLANEJAMENTO / CONTROLE"
+    "group": "931",
+    "class": "9319",
+    "code": "8800",
+    "description": "MEDICINA / ENGENHARIA TRABALHO - PLANEJAMENTO / CONTROLE"
   },
   {
-    "grupo": "931",
-    "classe": "9319",
-    "codigo": "8818",
-    "descricao": "MEDICINA TRABALHO - PERICIA SERVICO MEDICO / ENGENHARIA"
+    "group": "931",
+    "class": "9319",
+    "code": "8818",
+    "description": "MEDICINA TRABALHO - PERICIA SERVICO MEDICO / ENGENHARIA"
   },
   {
-    "grupo": "931",
-    "classe": "9319",
-    "codigo": "19852",
-    "descricao": "TRATAMENTO VARIZES"
+    "group": "931",
+    "class": "9319",
+    "code": "19852",
+    "description": "TRATAMENTO VARIZES"
   },
   {
-    "grupo": "931",
-    "classe": "9319",
-    "codigo": "21229",
-    "descricao": "PRE / POS-PROTETIZACAO"
+    "group": "931",
+    "class": "9319",
+    "code": "21229",
+    "description": "PRE / POS-PROTETIZACAO"
   },
   {
-    "grupo": "931",
-    "classe": "9319",
-    "codigo": "25364",
-    "descricao": "SERVICO DE VACINACAO"
+    "group": "931",
+    "class": "9319",
+    "code": "25364",
+    "description": "SERVICO DE VACINACAO"
   }
 ]

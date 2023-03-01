@@ -1,86 +1,86 @@
 [
   {
-    "grupo": "822",
-    "classe": "'-7",
-    "codigo": "680",
-    "descricao": "AUDITORIA EM AREA CONTABIL"
+    "group": "822",
+    "class": "'-7",
+    "code": "680",
+    "description": "AUDITORIA EM AREA CONTABIL"
   },
   {
-    "grupo": "822",
-    "classe": "'-7",
-    "codigo": "698",
-    "descricao": "AUDITORIA EM AREA FISCAL"
+    "group": "822",
+    "class": "'-7",
+    "code": "698",
+    "description": "AUDITORIA EM AREA FISCAL"
   },
   {
-    "grupo": "822",
-    "classe": "'-7",
-    "codigo": "701",
-    "descricao": "AUDITORIA EM AREA TRIBUTARIA"
+    "group": "822",
+    "class": "'-7",
+    "code": "701",
+    "description": "AUDITORIA EM AREA TRIBUTARIA"
   },
   {
-    "grupo": "822",
-    "classe": "'-7",
-    "codigo": "710",
-    "descricao": "AUDITORIA EM AREA DE PROJETOS"
+    "group": "822",
+    "class": "'-7",
+    "code": "710",
+    "description": "AUDITORIA EM AREA DE PROJETOS"
   },
   {
-    "grupo": "822",
-    "classe": "'-7",
-    "codigo": "728",
-    "descricao": "AUDITORIA EM AREA DE ADMINISTRACAO"
+    "group": "822",
+    "class": "'-7",
+    "code": "728",
+    "description": "AUDITORIA EM AREA DE ADMINISTRACAO"
   },
   {
-    "grupo": "822",
-    "classe": "'-7",
-    "codigo": "736",
-    "descricao": "AUDITORIA EM AREA DE PROCESSAMENTO DE DADOS"
+    "group": "822",
+    "class": "'-7",
+    "code": "736",
+    "description": "AUDITORIA EM AREA DE PROCESSAMENTO DE DADOS"
   },
   {
-    "grupo": "822",
-    "classe": "'-7",
-    "codigo": "4529",
-    "descricao": "AUDITORIA EM AREA INDUSTRIAL / COMERCIAL"
+    "group": "822",
+    "class": "'-7",
+    "code": "4529",
+    "description": "AUDITORIA EM AREA INDUSTRIAL / COMERCIAL"
   },
   {
-    "grupo": "822",
-    "classe": "'-7",
-    "codigo": "8737",
-    "descricao": "AUDITORIA TECNICA EM PROCEDIMENTOS - AREA MEDICA"
+    "group": "822",
+    "class": "'-7",
+    "code": "8737",
+    "description": "AUDITORIA TECNICA EM PROCEDIMENTOS - AREA MEDICA"
   },
   {
-    "grupo": "822",
-    "classe": "'-7",
-    "codigo": "8745",
-    "descricao": "AUDITORIA FINANCEIRA EM AREA MEDICA"
+    "group": "822",
+    "class": "'-7",
+    "code": "8745",
+    "description": "AUDITORIA FINANCEIRA EM AREA MEDICA"
   },
   {
-    "grupo": "822",
-    "classe": "'-7",
-    "codigo": "8753",
-    "descricao": "AUDITORIA TECNICA DE PROCEDIMENTOS - ODONTOLOGIA"
+    "group": "822",
+    "class": "'-7",
+    "code": "8753",
+    "description": "AUDITORIA TECNICA DE PROCEDIMENTOS - ODONTOLOGIA"
   },
   {
-    "grupo": "822",
-    "classe": "'-7",
-    "codigo": "8761",
-    "descricao": "AUDITORIA FINANCEIRA EM AREA ODONTOLOGICA"
+    "group": "822",
+    "class": "'-7",
+    "code": "8761",
+    "description": "AUDITORIA FINANCEIRA EM AREA ODONTOLOGICA"
   },
   {
-    "grupo": "822",
-    "classe": "'-7",
-    "codigo": "17230",
-    "descricao": "AUDITORIA - ATUARIAL"
+    "group": "822",
+    "class": "'-7",
+    "code": "17230",
+    "description": "AUDITORIA - ATUARIAL"
   },
   {
-    "grupo": "822",
-    "classe": "'-7",
-    "codigo": "19771",
-    "descricao": "COBRANCA / INFORMACAO CADASTRAL (CONSULTA, INCLUSAO E BAIXA)NOS SERVICOS DE PROTECAO AO CREDITO"
+    "group": "822",
+    "class": "'-7",
+    "code": "19771",
+    "description": "COBRANCA / INFORMACAO CADASTRAL (CONSULTA, INCLUSAO E BAIXA)NOS SERVICOS DE PROTECAO AO CREDITO"
   },
   {
-    "grupo": "822",
-    "classe": "8221",
-    "codigo": "19623",
-    "descricao": "AUDITORIA AREA FINANCEIRA"
+    "group": "822",
+    "class": "8221",
+    "code": "19623",
+    "description": "AUDITORIA AREA FINANCEIRA"
   }
 ]

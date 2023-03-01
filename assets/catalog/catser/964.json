@@ -1,98 +1,98 @@
 [
   {
-    "grupo": "964",
-    "classe": "'-7",
-    "codigo": "12718",
-    "descricao": "REPRODUCAO EM GESSO DE OBRA DE ARTE"
+    "group": "964",
+    "class": "'-7",
+    "code": "12718",
+    "description": "REPRODUCAO EM GESSO DE OBRA DE ARTE"
   },
   {
-    "grupo": "964",
-    "classe": "'-7",
-    "codigo": "13358",
-    "descricao": "RECUPERACAO OBRA RARA - LIVRO / DOCUMENTO"
+    "group": "964",
+    "class": "'-7",
+    "code": "13358",
+    "description": "RECUPERACAO OBRA RARA - LIVRO / DOCUMENTO"
   },
   {
-    "grupo": "964",
-    "classe": "'-7",
-    "codigo": "13366",
-    "descricao": "RECUPERACAO OBRA DE ARTE - QUADRO / PINTURA"
+    "group": "964",
+    "class": "'-7",
+    "code": "13366",
+    "description": "RECUPERACAO OBRA DE ARTE - QUADRO / PINTURA"
   },
   {
-    "grupo": "964",
-    "classe": "'-7",
-    "codigo": "13374",
-    "descricao": "RECUPERACAO OBRA DE ARTE - ESCULTURA"
+    "group": "964",
+    "class": "'-7",
+    "code": "13374",
+    "description": "RECUPERACAO OBRA DE ARTE - ESCULTURA"
   },
   {
-    "grupo": "964",
-    "classe": "'-7",
-    "codigo": "15083",
-    "descricao": "CONSERVACAO ACERVO HISTORICO-CULTURAL"
+    "group": "964",
+    "class": "'-7",
+    "code": "15083",
+    "description": "CONSERVACAO ACERVO HISTORICO-CULTURAL"
   },
   {
-    "grupo": "964",
-    "classe": "'-7",
-    "codigo": "15229",
-    "descricao": "MUSEOLOGIA / MUSEOLOGO"
+    "group": "964",
+    "class": "'-7",
+    "code": "15229",
+    "description": "MUSEOLOGIA / MUSEOLOGO"
   },
   {
-    "grupo": "964",
-    "classe": "'-7",
-    "codigo": "17434",
-    "descricao": "AVALIACAO / COMERCIALIZACAO / DIVULGACAO - OBRA DE ARTE"
+    "group": "964",
+    "class": "'-7",
+    "code": "17434",
+    "description": "AVALIACAO / COMERCIALIZACAO / DIVULGACAO - OBRA DE ARTE"
   },
   {
-    "grupo": "964",
-    "classe": "'-7",
-    "codigo": "17752",
-    "descricao": "INVENTARIO / CATALOGACAO - ACERVO MUSEOLOGICO"
+    "group": "964",
+    "class": "'-7",
+    "code": "17752",
+    "description": "INVENTARIO / CATALOGACAO - ACERVO MUSEOLOGICO"
   },
   {
-    "grupo": "964",
-    "classe": "'-7",
-    "codigo": "20087",
-    "descricao": "RECUPERACAO OBRA DE ARTE - TECIDO"
+    "group": "964",
+    "class": "'-7",
+    "code": "20087",
+    "description": "RECUPERACAO OBRA DE ARTE - TECIDO"
   },
   {
-    "grupo": "964",
-    "classe": "9641",
-    "codigo": "14028",
-    "descricao": "RECUPERACAO MONUMENTO HISTORICO / EDIFICACAO ANTIGA"
+    "group": "964",
+    "class": "9641",
+    "code": "14028",
+    "description": "RECUPERACAO MONUMENTO HISTORICO / EDIFICACAO ANTIGA"
   },
   {
-    "grupo": "964",
-    "classe": "9641",
-    "codigo": "16349",
-    "descricao": "SISTEMATIZACAO E DOCUMENTACAO - SITIO ARQUEOLOGICO"
+    "group": "964",
+    "class": "9641",
+    "code": "16349",
+    "description": "SISTEMATIZACAO E DOCUMENTACAO - SITIO ARQUEOLOGICO"
   },
   {
-    "grupo": "964",
-    "classe": "9641",
-    "codigo": "16357",
-    "descricao": "ANALISE E AVALIACAO - SITIO ARQUEOLOGICO"
+    "group": "964",
+    "class": "9641",
+    "code": "16357",
+    "description": "ANALISE E AVALIACAO - SITIO ARQUEOLOGICO"
   },
   {
-    "grupo": "964",
-    "classe": "9641",
-    "codigo": "16365",
-    "descricao": "ESCAVACOES ARQUEOLOGICAS"
+    "group": "964",
+    "class": "9641",
+    "code": "16365",
+    "description": "ESCAVACOES ARQUEOLOGICAS"
   },
   {
-    "grupo": "964",
-    "classe": "9641",
-    "codigo": "16934",
-    "descricao": "AVALIADOR OBRA RARA"
+    "group": "964",
+    "class": "9641",
+    "code": "16934",
+    "description": "AVALIADOR OBRA RARA"
   },
   {
-    "grupo": "964",
-    "classe": "9641",
-    "codigo": "16950",
-    "descricao": "ARTESANATO - BARRO / CERAMICA / MADEIRA / PORCELANA"
+    "group": "964",
+    "class": "9641",
+    "code": "16950",
+    "description": "ARTESANATO - BARRO / CERAMICA / MADEIRA / PORCELANA"
   },
   {
-    "grupo": "964",
-    "classe": "9641",
-    "codigo": "22969",
-    "descricao": "RESTAURAÇÃO/ CONSERVACAO E PRESERVACAO DE PATRIMONIO HISTORICO"
+    "group": "964",
+    "class": "9641",
+    "code": "22969",
+    "description": "RESTAURAÇÃO/ CONSERVACAO E PRESERVACAO DE PATRIMONIO HISTORICO"
   }
 ]

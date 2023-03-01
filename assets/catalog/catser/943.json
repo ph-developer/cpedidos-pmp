@@ -1,14 +1,14 @@
 [
   {
-    "grupo": "943",
-    "classe": "'-7",
-    "codigo": "3417",
-    "descricao": "DESINSETIZACAO / DESRATIZACAO / DEDETIZACAO"
+    "group": "943",
+    "class": "'-7",
+    "code": "3417",
+    "description": "DESINSETIZACAO / DESRATIZACAO / DEDETIZACAO"
   },
   {
-    "grupo": "943",
-    "classe": "'-7",
-    "codigo": "14150",
-    "descricao": "TRATAMENTO DE AGUA PARA CONSUMO HUMANO / INDUSTRIAL"
+    "group": "943",
+    "class": "'-7",
+    "code": "14150",
+    "description": "TRATAMENTO DE AGUA PARA CONSUMO HUMANO / INDUSTRIAL"
   }
 ]

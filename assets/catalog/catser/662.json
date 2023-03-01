@@ -1,14 +1,14 @@
 [
   {
-    "grupo": "662",
-    "classe": "'-7",
-    "codigo": "25208",
-    "descricao": "TRANSPORTE AEREO - CARGAS / ENCOMENDAS"
+    "group": "662",
+    "class": "'-7",
+    "code": "25208",
+    "description": "TRANSPORTE AEREO - CARGAS / ENCOMENDAS"
   },
   {
-    "grupo": "662",
-    "classe": "'-7",
-    "codigo": "25844",
-    "descricao": "TRANSPORTE AEROVIARIO VALORES"
+    "group": "662",
+    "class": "'-7",
+    "code": "25844",
+    "description": "TRANSPORTE AEROVIARIO VALORES"
   }
 ]

@@ -1,50 +1,50 @@
 [
   {
-    "grupo": "153",
-    "classe": "1531",
-    "codigo": "26891",
-    "descricao": "OUTSOURCING DE IMPRESSAO - SEM FRANQUIA - PÁGINAS IMPRESSAS CLICK A4 MONOCROMATICA SEM PAPEL"
+    "group": "153",
+    "class": "1531",
+    "code": "26891",
+    "description": "OUTSOURCING DE IMPRESSAO - SEM FRANQUIA - PÁGINAS IMPRESSAS CLICK A4 MONOCROMATICA SEM PAPEL"
   },
   {
-    "grupo": "153",
-    "classe": "1531",
-    "codigo": "26905",
-    "descricao": "OUTSOURCING DE IMPRESSAO - SEM FRANQUIA - PÁGINAS IMPRESSAS CLICK A4 MONOCROMATICA COM PAPEL"
+    "group": "153",
+    "class": "1531",
+    "code": "26905",
+    "description": "OUTSOURCING DE IMPRESSAO - SEM FRANQUIA - PÁGINAS IMPRESSAS CLICK A4 MONOCROMATICA COM PAPEL"
   },
   {
-    "grupo": "153",
-    "classe": "1531",
-    "codigo": "26913",
-    "descricao": "OUTSOURCING DE IMPRESSAO - SEM FRANQUIA - PÁGINAS IMPRESSAS CLICK A3 MONOCROMATICA SEM PAPEL"
+    "group": "153",
+    "class": "1531",
+    "code": "26913",
+    "description": "OUTSOURCING DE IMPRESSAO - SEM FRANQUIA - PÁGINAS IMPRESSAS CLICK A3 MONOCROMATICA SEM PAPEL"
   },
   {
-    "grupo": "153",
-    "classe": "1531",
-    "codigo": "26921",
-    "descricao": "OUTSOURCING DE IMPRESSAO - SEM FRANQUIA - PÁGINAS IMPRESSAS CLICK A3 MONOCROMATICA COM PAPEL"
+    "group": "153",
+    "class": "1531",
+    "code": "26921",
+    "description": "OUTSOURCING DE IMPRESSAO - SEM FRANQUIA - PÁGINAS IMPRESSAS CLICK A3 MONOCROMATICA COM PAPEL"
   },
   {
-    "grupo": "153",
-    "classe": "1531",
-    "codigo": "26930",
-    "descricao": "OUTSOURCING DE IMPRESSAO - SEM FRANQUIA - PÁGINAS IMPRESSAS CLICK A4 POLICROMATICA SEM PAPEL"
+    "group": "153",
+    "class": "1531",
+    "code": "26930",
+    "description": "OUTSOURCING DE IMPRESSAO - SEM FRANQUIA - PÁGINAS IMPRESSAS CLICK A4 POLICROMATICA SEM PAPEL"
   },
   {
-    "grupo": "153",
-    "classe": "1531",
-    "codigo": "26948",
-    "descricao": "OUTSOURCING DE IMPRESSAO - SEM FRANQUIA - PÁGINAS IMPRESSAS CLICK A4 POLICROMATICA COM PAPEL"
+    "group": "153",
+    "class": "1531",
+    "code": "26948",
+    "description": "OUTSOURCING DE IMPRESSAO - SEM FRANQUIA - PÁGINAS IMPRESSAS CLICK A4 POLICROMATICA COM PAPEL"
   },
   {
-    "grupo": "153",
-    "classe": "1531",
-    "codigo": "26956",
-    "descricao": "OUTSOURCING DE IMPRESSAO - SEM FRANQUIA - PÁGINAS IMPRESSAS CLICK A3 POLICROMATICA SEM PAPEL"
+    "group": "153",
+    "class": "1531",
+    "code": "26956",
+    "description": "OUTSOURCING DE IMPRESSAO - SEM FRANQUIA - PÁGINAS IMPRESSAS CLICK A3 POLICROMATICA SEM PAPEL"
   },
   {
-    "grupo": "153",
-    "classe": "1531",
-    "codigo": "26964",
-    "descricao": "OUTSOURCING DE IMPRESSAO - SEM FRANQUIA - PÁGINAS IMPRESSAS CLICK A3 POLICROMATICA COM PAPEL"
+    "group": "153",
+    "class": "1531",
+    "code": "26964",
+    "description": "OUTSOURCING DE IMPRESSAO - SEM FRANQUIA - PÁGINAS IMPRESSAS CLICK A3 POLICROMATICA COM PAPEL"
   }
 ]
