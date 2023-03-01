@@ -173,16 +173,6 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
                 onPressed: clearForm,
               ),
             ),
-            Padding(
-              padding: const EdgeInsets.all(8),
-              child: OutlineButton(
-                isEnabled: canPrint,
-                icon: Icons.print_rounded,
-                label: 'Imprimir',
-                type: ButtonType.primary,
-                onPressed: cubit.printReport,
-              ),
-            ),
             const Flexible(child: SizedBox()),
           ],
         );
