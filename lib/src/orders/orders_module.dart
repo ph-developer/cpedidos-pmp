@@ -18,7 +18,7 @@ import 'infra/services/report_service_impl.dart';
 import 'presentation/cubits/order_register_cubit.dart';
 import 'presentation/cubits/orders_report_cubit.dart';
 import 'presentation/pages/order_register_page.dart';
-import 'presentation/pages/orders_report_page.dart';
+// import 'presentation/pages/orders_report_page.dart';
 
 class OrdersModule extends Module {
   @override
@@ -28,11 +28,11 @@ class OrdersModule extends Module {
           child: (_, __) => const OrderRegisterPage(),
           guards: [AuthGuard()],
         ),
-        ChildRoute(
-          '/relatorio',
-          child: (_, __) => const OrdersReportPage(),
-          guards: [AuthGuard()],
-        ),
+        // ChildRoute(
+        //   '/relatorio',
+        //   child: (_, __) => const OrdersReportPage(),
+        //   guards: [AuthGuard()],
+        // ),
         RedirectRoute('/', to: '/cadastro'),
       ];
 

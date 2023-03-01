@@ -168,14 +168,14 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
               ),
               Row(
                 children: [
-                  IconButton(
-                    icon: const Icon(Icons.bar_chart_rounded),
-                    color: Theme.of(context).colorScheme.primary,
-                    onPressed: () =>
-                        Modular.to.pushReplacementNamed('/pedidos/relatorio'),
-                    tooltip: 'Relatório de Pedidos para Envio',
-                  ),
-                  const SizedBox(width: 8),
+                  // IconButton(
+                  //   icon: const Icon(Icons.bar_chart_rounded),
+                  //   color: Theme.of(context).colorScheme.primary,
+                  //   onPressed: () =>
+                  //       Modular.to.pushReplacementNamed('/pedidos/relatorio'),
+                  //   tooltip: 'Relatório de Pedidos para Envio',
+                  // ),
+                  // const SizedBox(width: 8),
                   LogoutButton(),
                 ],
               ),
