@@ -28,11 +28,7 @@ class OrderDatasourceImpl implements IOrderDatasource {
 
   @override
   Future<List<Order>> getAllOrdersBySendDate(String sendDate) async {
-    final ordersSnapshot = await _firebaseDatabase
-        .ref('orders')
-        .orderByChild('sendDate')
-        .equalTo(sendDate)
-        .get();
+    final ordersSnapshot = await _firebaseDatabase.ref('orders').get();
 
     if (!ordersSnapshot.exists) {
       throw const OrdersNotFound();
@@ -42,16 +38,12 @@ class OrderDatasourceImpl implements IOrderDatasource {
     final ordersMapList = List<Map<String, dynamic>>.from(ordersMap.values);
     final orders = ordersMapList.map(OrderDTO.fromMap).toList();
 
-    return orders;
+    return orders.where((order) => order.sendDate == sendDate).toList();
   }
 
   @override
   Future<List<Order>> getAllOrdersByArrivalDate(String arrivalDate) async {
-    final ordersSnapshot = await _firebaseDatabase
-        .ref('orders')
-        .orderByChild('arrivalDate')
-        .equalTo(arrivalDate)
-        .get();
+    final ordersSnapshot = await _firebaseDatabase.ref('orders').get();
 
     if (!ordersSnapshot.exists) {
       throw const OrdersNotFound();
@@ -61,7 +53,7 @@ class OrderDatasourceImpl implements IOrderDatasource {
     final ordersMapList = List<Map<String, dynamic>>.from(ordersMap.values);
     final orders = ordersMapList.map(OrderDTO.fromMap).toList();
 
-    return orders;
+    return orders.where((order) => order.arrivalDate == arrivalDate).toList();
   }
 
   @override
