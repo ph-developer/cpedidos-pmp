@@ -5,6 +5,7 @@ import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 import 'auth/auth_module.dart';
+import 'catalog/catalog_module.dart';
 import 'orders/orders_module.dart';
 import 'shared/config/theme/theme_config.dart';
 import 'shared/services/error_service.dart';
@@ -15,6 +16,7 @@ class AppModule extends Module {
   List<ModularRoute> get routes => [
         ModuleRoute('/auth', module: AuthModule()),
         ModuleRoute('/pedidos', module: OrdersModule()),
+        ModuleRoute('/catalogo', module: CatalogModule()),
         RedirectRoute('/', to: '/auth'),
       ];
 
@@ -35,6 +37,7 @@ class AppModule extends Module {
   List<Module> get imports => [
         AuthModule(),
         OrdersModule(),
+        CatalogModule(),
       ];
 }
 
