@@ -11,6 +11,9 @@ abstract class IOrderRepository {
   AsyncResult<List<Order>, OrdersFailure> getAllOrdersBySendDate(
     String sendDate,
   );
+  AsyncResult<List<Order>, OrdersFailure> getAllOrdersByArrivalDate(
+    String arrivalDate,
+  );
   AsyncResult<Order, OrdersFailure> saveOrder(Order order);
   AsyncResult<Unit, OrdersFailure> deleteOrder(String type, String number);
 }
