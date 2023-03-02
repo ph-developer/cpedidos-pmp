@@ -36,9 +36,12 @@ class OrderDatasourceImpl implements IOrderDatasource {
 
     final ordersMap = ordersSnapshot.value! as Map<String, dynamic>;
     final ordersMapList = List<Map<String, dynamic>>.from(ordersMap.values);
-    final orders = ordersMapList.map(OrderDTO.fromMap).toList();
+    final orders = ordersMapList
+        .where((orderMap) => orderMap['sendDate'] == sendDate)
+        .map(OrderDTO.fromMap)
+        .toList();
 
-    return orders.where((order) => order.sendDate == sendDate).toList();
+    return orders;
   }
 
   @override
@@ -51,9 +54,12 @@ class OrderDatasourceImpl implements IOrderDatasource {
 
     final ordersMap = ordersSnapshot.value! as Map<String, dynamic>;
     final ordersMapList = List<Map<String, dynamic>>.from(ordersMap.values);
-    final orders = ordersMapList.map(OrderDTO.fromMap).toList();
+    final orders = ordersMapList
+        .where((orderMap) => orderMap['arrivalDate'] == arrivalDate)
+        .map(OrderDTO.fromMap)
+        .toList();
 
-    return orders.where((order) => order.arrivalDate == arrivalDate).toList();
+    return orders;
   }
 
   @override

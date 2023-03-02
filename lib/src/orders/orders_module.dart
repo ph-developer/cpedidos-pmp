@@ -12,7 +12,6 @@ import 'external/datasources/order_datasource_impl.dart';
 import 'infra/datasources/order_datasource.dart';
 import 'infra/repositories/order_repository_impl.dart';
 import 'presentation/cubits/order_register_cubit.dart';
-import 'presentation/cubits/orders_report_cubit.dart';
 import 'presentation/cubits/orders_search_cubit.dart';
 import 'presentation/pages/order_register_page.dart';
 import 'presentation/pages/orders_search_page.dart';
@@ -72,10 +71,6 @@ class OrdersModule extends Module {
         //! Presentation
         Bind.factory<OrderRegisterCubit>(
           (i) => OrderRegisterCubit(i(), i(), i()),
-          export: true,
-        ),
-        Bind.factory<OrdersReportCubit>(
-          (i) => OrdersReportCubit(i()),
           export: true,
         ),
         Bind.factory<OrdersSearchCubit>(
