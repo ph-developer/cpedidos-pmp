@@ -21,7 +21,7 @@ void main() {
   const tOrder = Order(
     number: 'number',
     type: 'type',
-    arrivalDate: 'arrivalDate',
+    arrivalDate: '01/03/2023',
     secretary: 'secretary',
     project: 'project',
     description: 'description',
