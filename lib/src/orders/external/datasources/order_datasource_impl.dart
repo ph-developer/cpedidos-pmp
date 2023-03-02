@@ -1,4 +1,4 @@
-import 'package:firebase_database/firebase_database.dart';
+import 'package:cloud_firestore/cloud_firestore.dart' hide Order;
 
 import '../../domain/entities/order.dart';
 import '../../domain/errors/failures.dart';
@@ -6,21 +6,22 @@ import '../../infra/datasources/order_datasource.dart';
 import '../dtos/order_dto.dart';
 
 class OrderDatasourceImpl implements IOrderDatasource {
-  final FirebaseDatabase _firebaseDatabase;
+  final FirebaseFirestore _firebaseFirestore;
 
-  OrderDatasourceImpl(this._firebaseDatabase);
+  OrderDatasourceImpl(this._firebaseFirestore);
 
   @override
   Future<Order> getOrderByTypeAndNumber(String type, String number) async {
     final orderId = '${type}_$number';
-    final orderRef = _firebaseDatabase.ref('orders/$orderId');
-    final orderSnapshot = await orderRef.get();
+    final ordersCollection = _firebaseFirestore.collection('orders');
+    final orderDoc = ordersCollection.doc(orderId);
+    final orderSnapshot = await orderDoc.get();
 
     if (!orderSnapshot.exists) {
       throw const OrderNotFound();
     }
 
-    final orderMap = orderSnapshot.value! as Map<String, dynamic>;
+    final orderMap = orderSnapshot.data()!;
     final order = OrderDTO.fromMap(orderMap);
 
     return order;
@@ -28,16 +29,17 @@ class OrderDatasourceImpl implements IOrderDatasource {
 
   @override
   Future<List<Order>> getAllOrdersBySendDate(String sendDate) async {
-    final ordersSnapshot = await _firebaseDatabase.ref('orders').get();
+    final ordersCollection = _firebaseFirestore.collection('orders');
+    final query = ordersCollection.where('sendDate', isEqualTo: sendDate);
+    final ordersSnapshot = await query.get();
 
-    if (!ordersSnapshot.exists) {
+    if (ordersSnapshot.docs.isEmpty) {
       throw const OrdersNotFound();
     }
 
-    final ordersMap = ordersSnapshot.value! as Map<String, dynamic>;
-    final ordersMapList = List<Map<String, dynamic>>.from(ordersMap.values);
-    final orders = ordersMapList
-        .where((orderMap) => orderMap['sendDate'] == sendDate)
+    final ordersMap = ordersSnapshot.docs;
+    final orders = ordersMap
+        .map((orderSnapshot) => orderSnapshot.data())
         .map(OrderDTO.fromMap)
         .toList();
 
@@ -46,16 +48,17 @@ class OrderDatasourceImpl implements IOrderDatasource {
 
   @override
   Future<List<Order>> getAllOrdersByArrivalDate(String arrivalDate) async {
-    final ordersSnapshot = await _firebaseDatabase.ref('orders').get();
+    final ordersCollection = _firebaseFirestore.collection('orders');
+    final query = ordersCollection.where('arrivalDate', isEqualTo: arrivalDate);
+    final ordersSnapshot = await query.get();
 
-    if (!ordersSnapshot.exists) {
+    if (ordersSnapshot.docs.isEmpty) {
       throw const OrdersNotFound();
     }
 
-    final ordersMap = ordersSnapshot.value! as Map<String, dynamic>;
-    final ordersMapList = List<Map<String, dynamic>>.from(ordersMap.values);
-    final orders = ordersMapList
-        .where((orderMap) => orderMap['arrivalDate'] == arrivalDate)
+    final ordersMap = ordersSnapshot.docs;
+    final orders = ordersMap
+        .map((orderSnapshot) => orderSnapshot.data())
         .map(OrderDTO.fromMap)
         .toList();
 
@@ -65,9 +68,10 @@ class OrderDatasourceImpl implements IOrderDatasource {
   @override
   Future<Order> saveOrder(Order order) async {
     final orderId = '${order.type}_${order.number}';
-    final orderRef = _firebaseDatabase.ref('orders/$orderId');
+    final ordersCollection = _firebaseFirestore.collection('orders');
+    final orderDoc = ordersCollection.doc(orderId);
 
-    await orderRef.set(order.toMap());
+    await orderDoc.set(order.toMap());
 
     return order;
   }
@@ -75,9 +79,10 @@ class OrderDatasourceImpl implements IOrderDatasource {
   @override
   Future<bool> deleteOrder(String type, String number) async {
     final orderId = '${type}_$number';
-    final orderRef = _firebaseDatabase.ref('orders/$orderId');
+    final ordersCollection = _firebaseFirestore.collection('orders');
+    final orderDoc = ordersCollection.doc(orderId);
 
-    await orderRef.remove();
+    await orderDoc.delete();
 
     return true;
   }

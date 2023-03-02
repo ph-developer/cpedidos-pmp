@@ -1,9 +1,10 @@
 // coverage:ignore-file
 
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_modular/flutter_modular.dart';
+
 import 'auth/auth_module.dart';
 import 'orders/orders_module.dart';
 import 'shared/config/theme/theme_config.dart';
@@ -23,8 +24,8 @@ class AppModule extends Module {
         Bind.factory<FirebaseAuth>(
           (i) => FirebaseAuth.instance,
         ),
-        Bind.factory<FirebaseDatabase>(
-          (i) => FirebaseDatabase.instance,
+        Bind.factory<FirebaseFirestore>(
+          (i) => FirebaseFirestore.instance,
         ),
         Bind.factory<IErrorService>(
           (i) => ErrorServiceImpl(),
