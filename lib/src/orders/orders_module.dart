@@ -3,22 +3,18 @@
 import 'package:flutter_modular/flutter_modular.dart';
 import '../auth/presentation/guards/auth_guard.dart';
 import 'domain/repositories/order_repository.dart';
-import 'domain/services/report_service.dart';
 import 'domain/usecases/delete_order.dart';
+import 'domain/usecases/get_all_orders_by_arrival_date.dart';
 import 'domain/usecases/get_all_orders_by_send_date.dart';
 import 'domain/usecases/get_order_by_type_and_number.dart';
-import 'domain/usecases/print_orders_report.dart';
 import 'domain/usecases/save_order.dart';
 import 'external/datasources/order_datasource_impl.dart';
-import 'external/drivers/printer_driver_impl.dart';
 import 'infra/datasources/order_datasource.dart';
-import 'infra/drivers/printer_driver.dart';
 import 'infra/repositories/order_repository_impl.dart';
-import 'infra/services/report_service_impl.dart';
 import 'presentation/cubits/order_register_cubit.dart';
-import 'presentation/cubits/orders_report_cubit.dart';
+import 'presentation/cubits/orders_search_cubit.dart';
 import 'presentation/pages/order_register_page.dart';
-// import 'presentation/pages/orders_report_page.dart';
+import 'presentation/pages/orders_search_page.dart';
 
 class OrdersModule extends Module {
   @override
@@ -28,11 +24,11 @@ class OrdersModule extends Module {
           child: (_, __) => const OrderRegisterPage(),
           guards: [AuthGuard()],
         ),
-        // ChildRoute(
-        //   '/relatorio',
-        //   child: (_, __) => const OrdersReportPage(),
-        //   guards: [AuthGuard()],
-        // ),
+        ChildRoute(
+          '/busca',
+          child: (_, __) => const OrdersSearchPage(),
+          guards: [AuthGuard()],
+        ),
         RedirectRoute('/', to: '/cadastro'),
       ];
 
@@ -43,18 +39,10 @@ class OrdersModule extends Module {
           (i) => OrderDatasourceImpl(i()),
           export: true,
         ),
-        Bind.factory<IPrinterDriver>(
-          (i) => PrinterDriverImpl(),
-          export: true,
-        ),
 
         //! Infra
         Bind.factory<IOrderRepository>(
           (i) => OrderRepositoryImpl(i(), i()),
-          export: true,
-        ),
-        Bind.factory<IReportService>(
-          (i) => ReportServiceImpl(i(), i()),
           export: true,
         ),
 
@@ -67,6 +55,10 @@ class OrdersModule extends Module {
           (i) => GetAllOrdersBySendDate(i()),
           export: true,
         ),
+        Bind.factory<IGetAllOrdersByArrivalDate>(
+          (i) => GetAllOrdersByArrivalDate(i()),
+          export: true,
+        ),
         Bind.factory<IGetOrderByTypeAndNumber>(
           (i) => GetOrderByTypeAndNumber(i()),
           export: true,
@@ -75,18 +67,14 @@ class OrdersModule extends Module {
           (i) => SaveOrder(i()),
           export: true,
         ),
-        Bind.factory<IPrintOrdersReport>(
-          (i) => PrintOrdersReport(i()),
-          export: true,
-        ),
 
         //! Presentation
         Bind.factory<OrderRegisterCubit>(
           (i) => OrderRegisterCubit(i(), i(), i()),
           export: true,
         ),
-        Bind.factory<OrdersReportCubit>(
-          (i) => OrdersReportCubit(i(), i()),
+        Bind.factory<OrdersSearchCubit>(
+          (i) => OrdersSearchCubit(i(), i()),
           export: true,
         ),
       ];

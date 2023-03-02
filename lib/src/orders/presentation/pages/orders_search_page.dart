@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 
@@ -7,22 +6,24 @@ import '../../../auth/presentation/widgets/logout_button.dart';
 import '../../../shared/helpers/input_formatters.dart';
 import '../../../shared/managers/snackbar_manager.dart';
 import '../../../shared/widgets/buttons/outline_button.dart';
+import '../../../shared/widgets/inputs/select_input.dart';
 import '../../../shared/widgets/inputs/text_input.dart';
-import '../cubits/orders_report_cubit.dart';
-import '../cubits/orders_report_state.dart';
+import '../cubits/orders_search_cubit.dart';
+import '../cubits/orders_search_state.dart';
 
-class OrdersReportPage extends StatefulWidget {
-  const OrdersReportPage({Key? key}) : super(key: key);
+class OrdersSearchPage extends StatefulWidget {
+  const OrdersSearchPage({Key? key}) : super(key: key);
 
   @override
-  State<OrdersReportPage> createState() => _OrdersReportPageState();
+  State<OrdersSearchPage> createState() => _OrdersSearchPageState();
 }
 
-class _OrdersReportPageState extends State<OrdersReportPage> {
-  final cubit = Modular.get<OrdersReportCubit>();
+class _OrdersSearchPageState extends State<OrdersSearchPage> {
+  final cubit = Modular.get<OrdersSearchCubit>();
 
-  final sendDateEC = TextEditingController();
-  final sendDateFocus = FocusNode();
+  final searchTypeEC = TextEditingController(text: 'sendDate');
+  final queryEC = TextEditingController();
+  final queryFocus = FocusNode();
 
   @override
   void initState() {
@@ -32,33 +33,43 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
 
   @override
   void dispose() {
-    sendDateEC.dispose();
+    searchTypeEC.dispose();
+    queryEC.dispose();
     super.dispose();
   }
 
   void initSearchForm() {
-    var lastSendDate = '';
+    var lastSearchType = 'sendDate';
+    var lastQuery = '';
 
     Future<void> onChange() async {
-      if (sendDateEC.text.isEmpty) {
-        await cubit.reset();
-      } else if (lastSendDate != sendDateEC.text) {
+      if (searchTypeEC.text.isEmpty || queryEC.text.isEmpty) {
+        if (searchTypeEC.text == 'sendDate') {
+          await cubit.reset();
+        } else {
+          await cubit.setDirty();
+        }
+      } else if (searchTypeEC.text != lastSearchType ||
+          queryEC.text != lastQuery) {
         await cubit.setDirty();
       }
-      lastSendDate = sendDateEC.text;
+      lastSearchType = searchTypeEC.text;
+      lastQuery = queryEC.text;
     }
 
-    sendDateEC.addListener(onChange);
+    searchTypeEC.addListener(onChange);
+    queryEC.addListener(onChange);
   }
 
   void clearForm() {
-    sendDateEC.text = '';
-    sendDateFocus.requestFocus();
+    searchTypeEC.text = 'sendDate';
+    queryEC.text = '';
+    queryFocus.requestFocus();
   }
 
   @override
   Widget build(BuildContext context) {
-    return BlocListener<OrdersReportCubit, OrdersReportState>(
+    return BlocListener<OrdersSearchCubit, OrdersSearchState>(
       bloc: cubit,
       listener: (context, state) {
         if (state is FailureState) {
@@ -68,7 +79,7 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
       child: Scaffold(
         appBar: AppBar(
           leading: Icon(
-            Icons.bar_chart_rounded,
+            Icons.manage_search_rounded,
             color: Theme.of(context).colorScheme.primary,
             weight: 2,
           ),
@@ -76,7 +87,7 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
               Text(
-                'Relatório de Pedidos para Envio',
+                'Busca de Pedidos',
                 style: TextStyle(
                   color: Theme.of(context).colorScheme.primary,
                   fontWeight: FontWeight.bold,
@@ -119,7 +130,7 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
   }
 
   Widget _buildSearchFormRow(BuildContext context) {
-    return BlocBuilder<OrdersReportCubit, OrdersReportState>(
+    return BlocBuilder<OrdersSearchCubit, OrdersSearchState>(
       bloc: cubit,
       builder: (context, state) {
         final isEnabled = state is! LoadingState;
@@ -128,22 +139,40 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
             (state is DirtyState ||
                 state is LoadedState ||
                 state is FailureState);
-        final canPrint =
-            isEnabled && state is LoadedState && state.orders.isNotEmpty;
+
+        final queryLabel = searchTypeEC.text == 'sendDate'
+            ? 'Data de Envio ao Financeiro'
+            : 'Data de Chegada';
 
         return Row(
           children: [
             Flexible(
               child: Padding(
                 padding: const EdgeInsets.all(8),
+                child: SelectInput(
+                  controller: searchTypeEC,
+                  label: 'Buscar Por',
+                  items: const {
+                    'sendDate': 'Data de Envio ao Financeiro',
+                    'arrivalDate': 'Data de Chegada',
+                  },
+                ),
+              ),
+            ),
+            Flexible(
+              child: Padding(
+                padding: const EdgeInsets.all(8),
                 child: TextInput(
                   isEnabled: isEnabled,
-                  focusNode: sendDateFocus,
-                  controller: sendDateEC,
-                  label: 'Data de Envio ao Financeiro',
+                  focusNode: queryFocus,
+                  controller: queryEC,
+                  label: queryLabel,
                   formatters: [InputFormatters.date],
                   autofocus: true,
-                  onSubmitted: (_) => cubit.search(sendDateEC.text),
+                  onSubmitted: (_) => cubit.search(
+                    searchTypeEC.text,
+                    queryEC.text,
+                  ),
                   suffixIcon: isBusy
                       ? Transform.scale(
                           scale: 0.5,
@@ -160,7 +189,7 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
                 icon: Icons.search_rounded,
                 label: 'Buscar',
                 type: ButtonType.success,
-                onPressed: () => cubit.search(sendDateEC.text),
+                onPressed: () => cubit.search(searchTypeEC.text, queryEC.text),
               ),
             ),
             Padding(
@@ -173,16 +202,6 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
                 onPressed: clearForm,
               ),
             ),
-            Padding(
-              padding: const EdgeInsets.all(8),
-              child: OutlineButton(
-                isEnabled: canPrint,
-                icon: Icons.print_rounded,
-                label: 'Imprimir',
-                type: ButtonType.primary,
-                onPressed: cubit.printReport,
-              ),
-            ),
             const Flexible(child: SizedBox()),
           ],
         );
@@ -193,15 +212,19 @@ class _OrdersReportPageState extends State<OrdersReportPage> {
   Widget _buildDataTableRow(BuildContext context) {
     return Padding(
       padding: const EdgeInsets.all(8),
-      child: BlocBuilder<OrdersReportCubit, OrdersReportState>(
+      child: BlocBuilder<OrdersSearchCubit, OrdersSearchState>(
         bloc: cubit,
         builder: (context, state) {
           if (state is LoadedState) {
             if (state.orders.isEmpty) {
               return Row(
-                children: const [
+                children: [
                   Text(
-                    'Não foram encontrados pedidos enviados na data informada.',
+                    (searchTypeEC.text == 'sendDate')
+                        ? 'Não foram encontrados pedidos enviados na data '
+                            'informada.'
+                        : 'Não foram encontrados pedidos recebidos na data '
+                            'informada.',
                   ),
                 ],
               );

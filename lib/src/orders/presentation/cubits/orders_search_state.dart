@@ -3,24 +3,24 @@ import 'package:equatable/equatable.dart';
 import '../../domain/entities/order.dart';
 import '../../domain/errors/failures.dart';
 
-abstract class OrdersReportState extends Equatable {}
+abstract class OrdersSearchState extends Equatable {}
 
-class InitialState extends OrdersReportState {
+class InitialState extends OrdersSearchState {
   @override
   List<Object> get props => [];
 }
 
-class DirtyState extends OrdersReportState {
+class DirtyState extends OrdersSearchState {
   @override
   List<Object> get props => [];
 }
 
-class LoadingState extends OrdersReportState {
+class LoadingState extends OrdersSearchState {
   @override
   List<Object> get props => [];
 }
 
-class LoadedState extends OrdersReportState {
+class LoadedState extends OrdersSearchState {
   final List<Order> orders;
 
   LoadedState({required this.orders});
@@ -29,7 +29,7 @@ class LoadedState extends OrdersReportState {
   List<Object> get props => [orders];
 }
 
-class FailureState extends OrdersReportState {
+class FailureState extends OrdersSearchState {
   final OrdersFailure failure;
 
   FailureState({required this.failure});

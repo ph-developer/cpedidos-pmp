@@ -49,6 +49,24 @@ class OrderRepositoryImpl implements IOrderRepository {
   }
 
   @override
+  AsyncResult<List<Order>, OrdersFailure> getAllOrdersByArrivalDate(
+    String arrivalDate,
+  ) async {
+    try {
+      final orders = await _orderDatasource.getAllOrdersByArrivalDate(
+        arrivalDate,
+      );
+
+      return Success(orders);
+    } on OrdersFailure catch (failure) {
+      return Failure(failure);
+    } catch (exception, stackTrace) {
+      await _errorService.reportException(exception, stackTrace);
+      return const Failure(UnknownError());
+    }
+  }
+
+  @override
   AsyncResult<Order, OrdersFailure> saveOrder(Order order) async {
     try {
       final savedOrder = await _orderDatasource.saveOrder(order);
