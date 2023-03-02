@@ -7,7 +7,7 @@
 
 // import '../../mocks.dart';
 
-// void main() {
+void main() {
 //   late FirebaseDatabase mockFirebaseDatabase;
 //   late DatabaseReference mockDatabaseReference;
 //   late DataSnapshot mockDataSnapshot;
@@ -240,4 +240,4 @@
 //       },
 //     );
 //   });
-// }
+}
