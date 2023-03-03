@@ -68,7 +68,7 @@ class SaveOrder implements ISaveOrder {
 
     late DateTime arrivalDate;
     try {
-      arrivalDate = dateFormat.parse(order.arrivalDate);
+      arrivalDate = dateFormat.parseStrict(order.arrivalDate);
     } catch (e) {
       return const Failure(
         InvalidInput('O campo "data de chegada" não possui uma data válida.'),
@@ -78,7 +78,7 @@ class SaveOrder implements ISaveOrder {
     DateTime? sendDate;
     if (order.sendDate.isNotEmpty) {
       try {
-        sendDate = dateFormat.parse(order.sendDate);
+        sendDate = dateFormat.parseStrict(order.sendDate);
       } catch (e) {
         return const Failure(
           InvalidInput(
@@ -91,7 +91,7 @@ class SaveOrder implements ISaveOrder {
     DateTime? returnDate;
     if (order.returnDate.isNotEmpty) {
       try {
-        returnDate = dateFormat.parse(order.returnDate);
+        returnDate = dateFormat.parseStrict(order.returnDate);
       } catch (e) {
         return const Failure(
           InvalidInput(
