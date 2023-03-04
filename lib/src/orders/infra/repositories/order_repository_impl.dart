@@ -49,6 +49,24 @@ class OrderRepositoryImpl implements IOrderRepository {
   }
 
   @override
+  AsyncResult<List<Order>, OrdersFailure> getAllOrdersByArrivalDate(
+    String arrivalDate,
+  ) async {
+    try {
+      final orders = await _orderDatasource.getAllOrdersByArrivalDate(
+        arrivalDate,
+      );
+
+      return Success(orders);
+    } on OrdersFailure catch (failure) {
+      return Failure(failure);
+    } catch (exception, stackTrace) {
+      await _errorService.reportException(exception, stackTrace);
+      return const Failure(UnknownError());
+    }
+  }
+
+  @override
   AsyncResult<Order, OrdersFailure> saveOrder(Order order) async {
     try {
       final savedOrder = await _orderDatasource.saveOrder(order);
@@ -63,12 +81,9 @@ class OrderRepositoryImpl implements IOrderRepository {
   }
 
   @override
-  AsyncResult<Unit, OrdersFailure> deleteOrder(
-    String type,
-    String number,
-  ) async {
+  AsyncResult<Unit, OrdersFailure> deleteOrder(Order order) async {
     try {
-      await _orderDatasource.deleteOrder(type, number);
+      await _orderDatasource.deleteOrder(order);
 
       return const Success(unit);
     } on OrdersFailure catch (failure) {

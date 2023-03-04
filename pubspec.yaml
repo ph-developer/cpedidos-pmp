@@ -1,7 +1,7 @@
 name: cpedidos_pmp
 description: Controle de Pedidos da Prefeitura Municipal de Penápolis.
 publish_to: 'none'
-version: 1.2.2+0
+version: 1.5.0+0
 
 environment:
   sdk: '>=2.19.0 <3.0.0'
@@ -13,7 +13,8 @@ dependencies:
   equatable: ^2.0.5
   firebase_core: ^2.4.1
   firebase_auth: ^4.2.6
-  firebase_database: ^10.0.9
+  firebase_database: ^10.0.14
+  cloud_firestore: ^4.4.3
   mask: ^1.0.4
   email_validator: ^2.1.17
   bloc: ^8.1.1
@@ -22,8 +23,6 @@ dependencies:
   flutter_svg: ^2.0.1
   result_dart: ^1.0.5
   sentry_flutter: ^6.20.1
-  pdf: ^3.9.0
-  printing: ^5.10.1
   flutter_modular: ^5.0.3
   js: ^0.6.5
 

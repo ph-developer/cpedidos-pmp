@@ -10,14 +10,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 import 'package:result_dart/result_dart.dart';
 
-class MockSaveOrder extends Mock implements ISaveOrder {}
-
-class MockDeleteOrder extends Mock implements IDeleteOrder {}
-
-class MockGetOrderByTypeAndNumber extends Mock
-    implements IGetOrderByTypeAndNumber {}
-
-class MockOrdersFailure extends Mock implements OrdersFailure {}
+import '../../mocks.dart';
 
 void main() {
   late ISaveOrder mockSaveOrder;
@@ -186,7 +179,7 @@ void main() {
     blocTest<OrderRegisterCubit, OrderRegisterState>(
       'should emits [DeletingState, DeletedState] when save order successfull.',
       setUp: () {
-        when(() => mockDeleteOrder(tOrder.type, tOrder.number))
+        when(() => mockDeleteOrder(tOrder))
             .thenAnswer((_) async => const Success(unit));
       },
       build: () => OrderRegisterCubit(
@@ -204,7 +197,7 @@ void main() {
     blocTest<OrderRegisterCubit, OrderRegisterState>(
       'should emits [DeletingState, FailureState] when usecase return failure.',
       setUp: () {
-        when(() => mockDeleteOrder(tOrder.type, tOrder.number))
+        when(() => mockDeleteOrder(tOrder))
             .thenAnswer((_) async => Failure(tOrdersFailure));
       },
       build: () => OrderRegisterCubit(

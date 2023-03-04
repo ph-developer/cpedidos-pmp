@@ -1,28 +1,37 @@
+import 'package:cloud_firestore/cloud_firestore.dart' hide Order;
 import 'package:cpedidos_pmp/src/orders/domain/entities/order.dart';
 import 'package:cpedidos_pmp/src/orders/domain/errors/failures.dart';
 import 'package:cpedidos_pmp/src/orders/external/datasources/order_datasource_impl.dart';
-import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 
 import '../../mocks.dart';
 
 void main() {
-  late FirebaseDatabase mockFirebaseDatabase;
-  late DatabaseReference mockDatabaseReference;
-  late DataSnapshot mockDataSnapshot;
+  late FirebaseFirestore mockFirebaseFirestore;
+  late CollectionReference<Map<String, dynamic>> mockCollectionReference;
+  late DocumentReference<Map<String, dynamic>> mockDocumentReference;
+  late DocumentSnapshot<Map<String, dynamic>> mockDocumentSnapshot;
+  late Query<Map<String, dynamic>> mockQuery;
+  late QuerySnapshot<Map<String, dynamic>> mockQuerySnapshot;
+  late QueryDocumentSnapshot<Map<String, dynamic>> mockQueryDocumentSnapshot;
   late OrderDatasourceImpl datasource;
 
   setUp(() {
-    mockFirebaseDatabase = MockFirebaseDatabase();
-    mockDatabaseReference = MockDatabaseReference();
-    mockDataSnapshot = MockDataSnapshot();
-    datasource = OrderDatasourceImpl(mockFirebaseDatabase);
+    mockFirebaseFirestore = MockFirebaseFirestore();
+    mockCollectionReference = MockCollectionReference();
+    mockDocumentReference = MockDocumentReference();
+    mockDocumentSnapshot = MockDocumentSnapshot();
+    mockQuery = MockQuery();
+    mockQuerySnapshot = MockQuerySnapshot();
+    mockQueryDocumentSnapshot = MockQueryDocumentSnapshot();
+    datasource = OrderDatasourceImpl(mockFirebaseFirestore);
   });
 
   const tType = 'type';
   const tNumber = 'number';
   const tSendDate = 'sendDate';
+  const tArrivalDate = 'arrivalDate';
   const tOrder = Order(
     number: tNumber,
     type: tType,
@@ -47,11 +56,7 @@ void main() {
     'situation': 'situation',
     'notes': 'notes',
   });
-  final tOrdersMap = Map<String, dynamic>.from({
-    '${tType}_$tNumber': tOrderMap,
-  });
   const tOrderList = [tOrder];
-  final tOrdersEmptyMap = Map<String, dynamic>.from({});
   const tOrderEmptyList = <Order>[];
 
   group('getOrderByTypeAndNumber', () {
@@ -59,12 +64,14 @@ void main() {
       'should return an order when find order.',
       () async {
         // arrange
-        when(() => mockFirebaseDatabase.ref('orders/${tType}_$tNumber'))
-            .thenReturn(mockDatabaseReference);
-        when(() => mockDatabaseReference.get())
-            .thenAnswer((_) async => mockDataSnapshot);
-        when(() => mockDataSnapshot.exists).thenReturn(true);
-        when(() => mockDataSnapshot.value).thenReturn(tOrderMap);
+        when(() => mockFirebaseFirestore.collection('orders'))
+            .thenReturn(mockCollectionReference);
+        when(() => mockCollectionReference.doc('${tType}_$tNumber'))
+            .thenReturn(mockDocumentReference);
+        when(mockDocumentReference.get)
+            .thenAnswer((_) async => mockDocumentSnapshot);
+        when(() => mockDocumentSnapshot.exists).thenReturn(true);
+        when(() => mockDocumentSnapshot.data()).thenReturn(tOrderMap);
         // act
         final result = await datasource.getOrderByTypeAndNumber(tType, tNumber);
         // assert
@@ -76,11 +83,13 @@ void main() {
       'should throws an OrderNotFound failure when not find order.',
       () async {
         // arrange
-        when(() => mockFirebaseDatabase.ref('orders/${tType}_$tNumber'))
-            .thenReturn(mockDatabaseReference);
-        when(() => mockDatabaseReference.get())
-            .thenAnswer((_) async => mockDataSnapshot);
-        when(() => mockDataSnapshot.exists).thenReturn(false);
+        when(() => mockFirebaseFirestore.collection('orders'))
+            .thenReturn(mockCollectionReference);
+        when(() => mockCollectionReference.doc('${tType}_$tNumber'))
+            .thenReturn(mockDocumentReference);
+        when(mockDocumentReference.get)
+            .thenAnswer((_) async => mockDocumentSnapshot);
+        when(() => mockDocumentSnapshot.exists).thenReturn(false);
         // act
         final future = datasource.getOrderByTypeAndNumber(tType, tNumber);
         // assert
@@ -93,7 +102,7 @@ void main() {
       () async {
         // arrange
         final tException = Exception();
-        when(() => mockFirebaseDatabase.ref('orders/${tType}_$tNumber'))
+        when(() => mockFirebaseFirestore.collection('orders'))
             .thenThrow(tException);
         // act
         final future = datasource.getOrderByTypeAndNumber(tType, tNumber);
@@ -108,16 +117,15 @@ void main() {
       'should return a filled list when orders with sendDate param exists.',
       () async {
         // arrange
-        when(() => mockFirebaseDatabase.ref('orders'))
-            .thenReturn(mockDatabaseReference);
-        when(() => mockDatabaseReference.orderByChild('sendDate'))
-            .thenReturn(mockDatabaseReference);
-        when(() => mockDatabaseReference.equalTo(tSendDate))
-            .thenReturn(mockDatabaseReference);
-        when(() => mockDatabaseReference.get())
-            .thenAnswer((_) async => mockDataSnapshot);
-        when(() => mockDataSnapshot.exists).thenReturn(true);
-        when(() => mockDataSnapshot.value).thenReturn(tOrdersMap);
+        when(() => mockFirebaseFirestore.collection('orders'))
+            .thenReturn(mockCollectionReference);
+        when(
+          () => mockCollectionReference.where('sendDate', isEqualTo: tSendDate),
+        ).thenReturn(mockQuery);
+        when(mockQuery.get).thenAnswer((_) async => mockQuerySnapshot);
+        when(() => mockQuerySnapshot.docs)
+            .thenReturn([mockQueryDocumentSnapshot]);
+        when(() => mockQueryDocumentSnapshot.data()).thenReturn(tOrderMap);
         // act
         final result = await datasource.getAllOrdersBySendDate(tSendDate);
         // assert
@@ -129,16 +137,13 @@ void main() {
       'should return an empty list when orders with sendDate param not exists.',
       () async {
         // arrange
-        when(() => mockFirebaseDatabase.ref('orders'))
-            .thenReturn(mockDatabaseReference);
-        when(() => mockDatabaseReference.orderByChild('sendDate'))
-            .thenReturn(mockDatabaseReference);
-        when(() => mockDatabaseReference.equalTo(tSendDate))
-            .thenReturn(mockDatabaseReference);
-        when(() => mockDatabaseReference.get())
-            .thenAnswer((_) async => mockDataSnapshot);
-        when(() => mockDataSnapshot.exists).thenReturn(true);
-        when(() => mockDataSnapshot.value).thenReturn(tOrdersEmptyMap);
+        when(() => mockFirebaseFirestore.collection('orders'))
+            .thenReturn(mockCollectionReference);
+        when(
+          () => mockCollectionReference.where('sendDate', isEqualTo: tSendDate),
+        ).thenReturn(mockQuery);
+        when(mockQuery.get).thenAnswer((_) async => mockQuerySnapshot);
+        when(() => mockQuerySnapshot.docs).thenReturn([]);
         // act
         final result = await datasource.getAllOrdersBySendDate(tSendDate);
         // assert
@@ -147,22 +152,62 @@ void main() {
     );
 
     test(
-      'should throws an OrdersNotFound failure when snapshot not exists.',
+      'should rethrows an exception when occurs an unknown exception.',
       () async {
         // arrange
-        when(() => mockFirebaseDatabase.ref('orders'))
-            .thenReturn(mockDatabaseReference);
-        when(() => mockDatabaseReference.orderByChild('sendDate'))
-            .thenReturn(mockDatabaseReference);
-        when(() => mockDatabaseReference.equalTo(tSendDate))
-            .thenReturn(mockDatabaseReference);
-        when(() => mockDatabaseReference.get())
-            .thenAnswer((_) async => mockDataSnapshot);
-        when(() => mockDataSnapshot.exists).thenReturn(false);
+        final tException = Exception();
+        when(() => mockFirebaseFirestore.collection('orders'))
+            .thenThrow(tException);
         // act
         final future = datasource.getAllOrdersBySendDate(tSendDate);
         // assert
-        expect(future, throwsA(isA<OrdersNotFound>()));
+        expect(future, throwsA(equals(tException)));
+      },
+    );
+  });
+
+  group('getAllOrdersByArrivalDate', () {
+    test(
+      'should return a filled list when orders with sendDate param exists.',
+      () async {
+        // arrange
+        when(() => mockFirebaseFirestore.collection('orders'))
+            .thenReturn(mockCollectionReference);
+        when(
+          () => mockCollectionReference.where(
+            'arrivalDate',
+            isEqualTo: tArrivalDate,
+          ),
+        ).thenReturn(mockQuery);
+        when(mockQuery.get).thenAnswer((_) async => mockQuerySnapshot);
+        when(() => mockQuerySnapshot.docs)
+            .thenReturn([mockQueryDocumentSnapshot]);
+        when(() => mockQueryDocumentSnapshot.data()).thenReturn(tOrderMap);
+        // act
+        final result = await datasource.getAllOrdersByArrivalDate(tArrivalDate);
+        // assert
+        expect(result, equals(tOrderList));
+      },
+    );
+
+    test(
+      'should return an empty list when orders with sendDate param not exists.',
+      () async {
+        // arrange
+        when(() => mockFirebaseFirestore.collection('orders'))
+            .thenReturn(mockCollectionReference);
+        when(
+          () => mockCollectionReference.where(
+            'arrivalDate',
+            isEqualTo: tArrivalDate,
+          ),
+        ).thenReturn(mockQuery);
+        when(mockQuery.get).thenAnswer((_) async => mockQuerySnapshot);
+        when(() => mockQuerySnapshot.docs).thenReturn([]);
+        // act
+        final result = await datasource.getAllOrdersByArrivalDate(tArrivalDate);
+        // assert
+        expect(result, equals(tOrderEmptyList));
       },
     );
 
@@ -171,9 +216,10 @@ void main() {
       () async {
         // arrange
         final tException = Exception();
-        when(() => mockFirebaseDatabase.ref('orders')).thenThrow(tException);
+        when(() => mockFirebaseFirestore.collection('orders'))
+            .thenThrow(tException);
         // act
-        final future = datasource.getAllOrdersBySendDate(tSendDate);
+        final future = datasource.getAllOrdersByArrivalDate(tArrivalDate);
         // assert
         expect(future, throwsA(equals(tException)));
       },
@@ -185,9 +231,11 @@ void main() {
       'should return an order when save order.',
       () async {
         // arrange
-        when(() => mockFirebaseDatabase.ref('orders/${tType}_$tNumber'))
-            .thenReturn(mockDatabaseReference);
-        when(() => mockDatabaseReference.set(tOrderMap))
+        when(() => mockFirebaseFirestore.collection('orders'))
+            .thenReturn(mockCollectionReference);
+        when(() => mockCollectionReference.doc('${tType}_$tNumber'))
+            .thenReturn(mockDocumentReference);
+        when(() => mockDocumentReference.set(tOrderMap))
             .thenAnswer((_) async {});
         // act
         final result = await datasource.saveOrder(tOrder);
@@ -201,7 +249,7 @@ void main() {
       () async {
         // arrange
         final tException = Exception();
-        when(() => mockFirebaseDatabase.ref('orders/${tType}_$tNumber'))
+        when(() => mockFirebaseFirestore.collection('orders'))
             .thenThrow(tException);
         // act
         final future = datasource.saveOrder(tOrder);
@@ -216,11 +264,13 @@ void main() {
       'should return true when delete order.',
       () async {
         // arrange
-        when(() => mockFirebaseDatabase.ref('orders/${tType}_$tNumber'))
-            .thenReturn(mockDatabaseReference);
-        when(() => mockDatabaseReference.remove()).thenAnswer((_) async {});
+        when(() => mockFirebaseFirestore.collection('orders'))
+            .thenReturn(mockCollectionReference);
+        when(() => mockCollectionReference.doc('${tType}_$tNumber'))
+            .thenReturn(mockDocumentReference);
+        when(mockDocumentReference.delete).thenAnswer((_) async {});
         // act
-        final result = await datasource.deleteOrder(tType, tNumber);
+        final result = await datasource.deleteOrder(tOrder);
         // assert
         expect(result, isTrue);
       },
@@ -231,10 +281,10 @@ void main() {
       () async {
         // arrange
         final tException = Exception();
-        when(() => mockFirebaseDatabase.ref('orders/${tType}_$tNumber'))
+        when(() => mockFirebaseFirestore.collection('orders'))
             .thenThrow(tException);
         // act
-        final future = datasource.deleteOrder(tType, tNumber);
+        final future = datasource.deleteOrder(tOrder);
         // assert
         expect(future, throwsA(equals(tException)));
       },

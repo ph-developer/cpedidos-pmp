@@ -8,11 +8,9 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 import 'package:modular_test/modular_test.dart';
 
-class MockAuthCubit extends Mock implements AuthCubit {}
+import '../../mocks.dart';
 
-class MockModularRoute extends Mock implements ModularRoute {}
-
-class MockModule extends Module {
+class TestModule extends Module {
   @override
   List<Bind<Object>> get binds => [
         Bind.instance<AuthCubit>(MockAuthCubit()),
@@ -24,7 +22,7 @@ void main() {
   late GuestGuard guard;
 
   initModule(
-    MockModule(),
+    TestModule(),
     replaceBinds: [
       Bind.instance<AuthCubit>(mockAuthCubit),
     ],

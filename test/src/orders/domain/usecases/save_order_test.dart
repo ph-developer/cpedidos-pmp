@@ -21,10 +21,12 @@ void main() {
   const tOrder = Order(
     number: 'number',
     type: 'type',
-    arrivalDate: 'arrivalDate',
+    arrivalDate: '01/03/2023',
     secretary: 'secretary',
     project: 'project',
     description: 'description',
+    sendDate: '02/03/2023',
+    returnDate: '03/03/2023',
   );
 
   test(
