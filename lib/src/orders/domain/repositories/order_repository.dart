@@ -15,5 +15,5 @@ abstract class IOrderRepository {
     String arrivalDate,
   );
   AsyncResult<Order, OrdersFailure> saveOrder(Order order);
-  AsyncResult<Unit, OrdersFailure> deleteOrder(String type, String number);
+  AsyncResult<Unit, OrdersFailure> deleteOrder(Order order);
 }

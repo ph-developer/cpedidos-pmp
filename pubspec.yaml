@@ -13,6 +13,7 @@ dependencies:
   equatable: ^2.0.5
   firebase_core: ^2.4.1
   firebase_auth: ^4.2.6
+  firebase_database: ^10.0.14
   cloud_firestore: ^4.4.3
   mask: ^1.0.4
   email_validator: ^2.1.17

@@ -81,12 +81,9 @@ class OrderRepositoryImpl implements IOrderRepository {
   }
 
   @override
-  AsyncResult<Unit, OrdersFailure> deleteOrder(
-    String type,
-    String number,
-  ) async {
+  AsyncResult<Unit, OrdersFailure> deleteOrder(Order order) async {
     try {
-      await _orderDatasource.deleteOrder(type, number);
+      await _orderDatasource.deleteOrder(order);
 
       return const Success(unit);
     } on OrdersFailure catch (failure) {

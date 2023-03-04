@@ -9,6 +9,7 @@ import 'domain/usecases/get_all_orders_by_send_date.dart';
 import 'domain/usecases/get_order_by_type_and_number.dart';
 import 'domain/usecases/save_order.dart';
 import 'external/datasources/order_datasource_impl.dart';
+import 'external/decorators/order_archive_datasource_decorator.dart';
 import 'infra/datasources/order_datasource.dart';
 import 'infra/repositories/order_repository_impl.dart';
 import 'presentation/cubits/order_register_cubit.dart';
@@ -36,7 +37,10 @@ class OrdersModule extends Module {
   List<Bind> get binds => [
         //! External
         Bind.factory<IOrderDatasource>(
-          (i) => OrderDatasourceImpl(i()),
+          (i) => OrderArchiveDatasourceDecorator(
+            OrderDatasourceImpl(i()),
+            i(),
+          ),
           export: true,
         ),
 

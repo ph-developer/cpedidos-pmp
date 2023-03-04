@@ -1,4 +1,3 @@
-
 import '../../domain/entities/order.dart';
 
 extension OrderDTO on Order {
@@ -27,6 +26,7 @@ extension OrderDTO on Order {
       returnDate: map['returnDate'] ?? '',
       situation: map['situation'] ?? '',
       notes: map['notes'] ?? '',
+      isArchived: map['isArchived'] ?? false,
     );
   }
 }

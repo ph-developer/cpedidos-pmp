@@ -176,10 +176,10 @@ void main() {
       'should return an unit when delete with success.',
       () async {
         // arrange
-        when(() => mockOrderDatasource.deleteOrder(tType, tNumber))
+        when(() => mockOrderDatasource.deleteOrder(tOrder))
             .thenAnswer((_) async => true);
         // act
-        final result = await repository.deleteOrder(tType, tNumber);
+        final result = await repository.deleteOrder(tOrder);
         // assert
         expect(result.getOrNull(), equals(unit));
       },
@@ -189,10 +189,10 @@ void main() {
       'should return a known failure when datasource throws a known failure.',
       () async {
         // arrange
-        when(() => mockOrderDatasource.deleteOrder(tType, tNumber))
+        when(() => mockOrderDatasource.deleteOrder(tOrder))
             .thenThrow(tOrdersFailure);
         // act
-        final result = await repository.deleteOrder(tType, tNumber);
+        final result = await repository.deleteOrder(tOrder);
         // assert
         expect(result.exceptionOrNull(), equals(tOrdersFailure));
       },
@@ -203,12 +203,12 @@ void main() {
       () async {
         // arrange
         final tException = Exception('unknown');
-        when(() => mockOrderDatasource.deleteOrder(tType, tNumber))
+        when(() => mockOrderDatasource.deleteOrder(tOrder))
             .thenThrow(tException);
         when(() => mockErrorService.reportException(tException, any()))
             .thenAnswer((_) async {});
         // act
-        final result = await repository.deleteOrder(tType, tNumber);
+        final result = await repository.deleteOrder(tOrder);
         // assert
         verify(() => mockErrorService.reportException(tException, any()))
             .called(1);

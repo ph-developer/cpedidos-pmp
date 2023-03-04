@@ -77,8 +77,8 @@ class OrderDatasourceImpl implements IOrderDatasource {
   }
 
   @override
-  Future<bool> deleteOrder(String type, String number) async {
-    final orderId = '${type}_$number';
+  Future<bool> deleteOrder(Order order) async {
+    final orderId = '${order.type}_${order.number}';
     final ordersCollection = _firebaseFirestore.collection('orders');
     final orderDoc = ordersCollection.doc(orderId);
 

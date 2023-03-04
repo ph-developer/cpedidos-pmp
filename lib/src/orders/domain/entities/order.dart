@@ -11,6 +11,7 @@ class Order extends Equatable {
   final String returnDate;
   final String situation;
   final String notes;
+  final bool isArchived;
 
   const Order({
     required this.number,
@@ -23,6 +24,7 @@ class Order extends Equatable {
     this.returnDate = '',
     this.situation = '',
     this.notes = '',
+    this.isArchived = false,
   });
 
   @override
@@ -37,5 +39,6 @@ class Order extends Equatable {
         returnDate,
         situation,
         notes,
+        isArchived,
       ];
 }

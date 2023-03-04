@@ -5,5 +5,5 @@ abstract class IOrderDatasource {
   Future<List<Order>> getAllOrdersBySendDate(String sendDate);
   Future<List<Order>> getAllOrdersByArrivalDate(String arrivalDate);
   Future<Order> saveOrder(Order order);
-  Future<bool> deleteOrder(String type, String number);
+  Future<bool> deleteOrder(Order order);
 }
