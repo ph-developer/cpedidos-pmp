@@ -213,6 +213,9 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
             state is SavingState ||
             state is DeletingState;
 
+        final isArchived =
+            state is LoadedSuccessState && state.loadedOrder.isArchived;
+
         return Row(
           children: [
             Flexible(
@@ -250,7 +253,16 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
                 ),
               ),
             ),
-            const Flexible(child: SizedBox()),
+            Flexible(
+              child: Padding(
+                padding: const EdgeInsets.all(8),
+                child: isArchived
+                    ? const Text(
+                        'Este pedido está arquivado e não pode ser alterado.',
+                      )
+                    : const SizedBox.shrink(),
+              ),
+            ),
           ],
         );
       },
@@ -261,9 +273,10 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
     return BlocBuilder<OrderRegisterCubit, OrderRegisterState>(
       bloc: cubit,
       builder: (context, state) {
-        final isEnabled = state is LoadedSuccessState ||
-            state is LoadedEmptyState ||
-            state is FailureState;
+        final isEnabled =
+            (state is LoadedSuccessState && !state.loadedOrder.isArchived) ||
+                state is LoadedEmptyState ||
+                state is FailureState;
 
         return Column(
           children: [
@@ -383,19 +396,23 @@ class _OrderRegisterPageState extends State<OrderRegisterPage> {
     return BlocBuilder<OrderRegisterCubit, OrderRegisterState>(
       bloc: cubit,
       builder: (context, state) {
-        final isEnabled = state is LoadedSuccessState ||
+        final canSave =
+            (state is LoadedSuccessState && !state.loadedOrder.isArchived) ||
+                state is FailureState ||
+                state is LoadedEmptyState;
+        final canClear = state is LoadedSuccessState ||
+            state is FailureState ||
             state is LoadedEmptyState ||
-            state is FailureState;
-
-        final canClear = isEnabled || state is DirtyState;
-        final canDelete = isEnabled && state is LoadedSuccessState;
+            state is DirtyState;
+        final canDelete =
+            state is LoadedSuccessState && !state.loadedOrder.isArchived;
 
         return Row(
           children: [
             Padding(
               padding: const EdgeInsets.all(8),
               child: OutlineButton(
-                isEnabled: isEnabled,
+                isEnabled: canSave,
                 icon: Icons.save_outlined,
                 label: 'Salvar',
                 type: ButtonType.success,

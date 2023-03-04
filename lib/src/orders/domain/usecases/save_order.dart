@@ -16,6 +16,14 @@ class SaveOrder implements ISaveOrder {
 
   @override
   AsyncResult<Order, OrdersFailure> call(Order order) async {
+    if (order.isArchived) {
+      return const Failure(
+        InvalidInput(
+          'Este pedido está arquivado e não pode receber alterações.',
+        ),
+      );
+    }
+
     if (order.number.isEmpty) {
       return const Failure(
         InvalidInput('O campo "número" deve ser preenchido.'),

@@ -1,6 +1,5 @@
 import 'package:bloc_test/bloc_test.dart';
 import 'package:cpedidos_pmp/src/auth/domain/entities/logged_user.dart';
-import 'package:cpedidos_pmp/src/auth/domain/errors/failures.dart';
 import 'package:cpedidos_pmp/src/auth/domain/usecases/do_login.dart';
 import 'package:cpedidos_pmp/src/auth/domain/usecases/do_logout.dart';
 import 'package:cpedidos_pmp/src/auth/domain/usecases/get_current_user.dart';
@@ -10,13 +9,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 import 'package:result_dart/result_dart.dart';
 
-class MockGetCurrentUser extends Mock implements IGetCurrentUser {}
-
-class MockDoLogin extends Mock implements IDoLogin {}
-
-class MockDoLogout extends Mock implements IDoLogout {}
-
-class MockAuthFailure extends Mock implements AuthFailure {}
+import '../../mocks.dart';
 
 void main() {
   late IGetCurrentUser mockGetCurrentUser;

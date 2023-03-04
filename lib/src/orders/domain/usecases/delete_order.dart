@@ -1,10 +1,11 @@
 import 'package:result_dart/result_dart.dart';
 
+import '../entities/order.dart';
 import '../errors/failures.dart';
 import '../repositories/order_repository.dart';
 
 abstract class IDeleteOrder {
-  AsyncResult<Unit, OrdersFailure> call(String type, String number);
+  AsyncResult<Unit, OrdersFailure> call(Order order);
 }
 
 class DeleteOrder implements IDeleteOrder {
@@ -13,19 +14,27 @@ class DeleteOrder implements IDeleteOrder {
   DeleteOrder(this._orderRepository);
 
   @override
-  AsyncResult<Unit, OrdersFailure> call(String type, String number) async {
-    if (number.isEmpty) {
+  AsyncResult<Unit, OrdersFailure> call(Order order) async {
+    if (order.isArchived) {
+      return const Failure(
+        InvalidInput(
+          'Este pedido está arquivado e não pode receber alterações.',
+        ),
+      );
+    }
+
+    if (order.number.isEmpty) {
       return const Failure(
         InvalidInput('O campo "número" deve ser preenchido.'),
       );
     }
 
-    if (type.isEmpty) {
+    if (order.type.isEmpty) {
       return const Failure(
         InvalidInput('O campo "tipo" deve ser preenchido.'),
       );
     }
 
-    return _orderRepository.deleteOrder(type, number);
+    return _orderRepository.deleteOrder(order);
   }
 }

@@ -25,6 +25,8 @@ void main() {
     secretary: 'secretary',
     project: 'project',
     description: 'description',
+    sendDate: '02/03/2023',
+    returnDate: '03/03/2023',
   );
 
   test(
