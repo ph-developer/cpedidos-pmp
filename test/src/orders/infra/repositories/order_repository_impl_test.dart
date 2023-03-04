@@ -24,6 +24,7 @@ void main() {
   const tType = 'type';
   const tNumber = 'number';
   const tSendDate = 'sendDate';
+  const tArrivalDate = 'arrivalDate';
   const tOrder = Order(
     number: tNumber,
     type: tType,
@@ -118,6 +119,52 @@ void main() {
             .thenAnswer((_) async {});
         // act
         final result = await repository.getAllOrdersBySendDate(tSendDate);
+        // assert
+        verify(() => mockErrorService.reportException(tException, any()))
+            .called(1);
+        expect(result.exceptionOrNull(), isA<UnknownError>());
+      },
+    );
+  });
+
+  group('getAllOrdersByArrivalDate', () {
+    test(
+      'should return an order list on success.',
+      () async {
+        // arrange
+        when(() => mockOrderDatasource.getAllOrdersByArrivalDate(tArrivalDate))
+            .thenAnswer((_) async => tOrderList);
+        // act
+        final result = await repository.getAllOrdersByArrivalDate(tArrivalDate);
+        // assert
+        expect(result.getOrNull(), equals(tOrderList));
+      },
+    );
+
+    test(
+      'should return a known failure when datasource throws a known failure.',
+      () async {
+        // arrange
+        when(() => mockOrderDatasource.getAllOrdersByArrivalDate(tArrivalDate))
+            .thenThrow(tOrdersFailure);
+        // act
+        final result = await repository.getAllOrdersByArrivalDate(tArrivalDate);
+        // assert
+        expect(result.exceptionOrNull(), equals(tOrdersFailure));
+      },
+    );
+
+    test(
+      'should report exception and return a failure on unknown exception.',
+      () async {
+        // arrange
+        final tException = Exception('unknown');
+        when(() => mockOrderDatasource.getAllOrdersByArrivalDate(tArrivalDate))
+            .thenThrow(tException);
+        when(() => mockErrorService.reportException(tException, any()))
+            .thenAnswer((_) async {});
+        // act
+        final result = await repository.getAllOrdersByArrivalDate(tArrivalDate);
         // assert
         verify(() => mockErrorService.reportException(tException, any()))
             .called(1);
