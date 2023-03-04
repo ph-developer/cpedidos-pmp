@@ -9,7 +9,7 @@ class OrderArchiveDatasourceDecorator extends OrderDatasourceDecorator {
   final FirebaseDatabase _firebaseDatabase;
 
   OrderArchiveDatasourceDecorator(
-    super.orderDatasource,
+    super._decoratee,
     this._firebaseDatabase,
   );
 
