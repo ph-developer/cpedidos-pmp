@@ -1,7 +1,6 @@
 import 'package:bloc/bloc.dart';
 import 'package:result_dart/result_dart.dart';
 
-import '../../domain/errors/failures.dart';
 import '../../domain/usecases/get_all_orders_by_arrival_date.dart';
 import '../../domain/usecases/get_all_orders_by_send_date.dart';
 
@@ -41,11 +40,7 @@ class OrdersSearchCubit extends Cubit<OrdersSearchState> {
     await _getAllOrdersBySendDate(query).fold((orders) {
       emit(LoadedState(orders: orders));
     }, (failure) {
-      if (failure is OrdersNotFound) {
-        emit(LoadedState(orders: const []));
-      } else {
-        emit(FailureState(failure: failure));
-      }
+      emit(FailureState(failure: failure));
     });
   }
 
@@ -55,11 +50,7 @@ class OrdersSearchCubit extends Cubit<OrdersSearchState> {
     await _getAllOrdersByArrivalDate(query).fold((orders) {
       emit(LoadedState(orders: orders));
     }, (failure) {
-      if (failure is OrdersNotFound) {
-        emit(LoadedState(orders: const []));
-      } else {
-        emit(FailureState(failure: failure));
-      }
+      emit(FailureState(failure: failure));
     });
   }
 }

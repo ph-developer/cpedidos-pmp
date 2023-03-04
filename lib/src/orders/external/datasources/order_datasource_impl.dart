@@ -32,11 +32,6 @@ class OrderDatasourceImpl implements IOrderDatasource {
     final ordersCollection = _firebaseFirestore.collection('orders');
     final query = ordersCollection.where('sendDate', isEqualTo: sendDate);
     final ordersSnapshot = await query.get();
-
-    if (ordersSnapshot.docs.isEmpty) {
-      throw const OrdersNotFound();
-    }
-
     final ordersMap = ordersSnapshot.docs;
     final orders = ordersMap
         .map((orderSnapshot) => orderSnapshot.data())
@@ -51,11 +46,6 @@ class OrderDatasourceImpl implements IOrderDatasource {
     final ordersCollection = _firebaseFirestore.collection('orders');
     final query = ordersCollection.where('arrivalDate', isEqualTo: arrivalDate);
     final ordersSnapshot = await query.get();
-
-    if (ordersSnapshot.docs.isEmpty) {
-      throw const OrdersNotFound();
-    }
-
     final ordersMap = ordersSnapshot.docs;
     final orders = ordersMap
         .map((orderSnapshot) => orderSnapshot.data())
