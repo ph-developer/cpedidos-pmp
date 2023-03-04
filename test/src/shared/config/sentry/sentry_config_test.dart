@@ -2,11 +2,7 @@ import 'package:cpedidos_pmp/src/shared/config/sentry/sentry_config.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 
-abstract class Callable<T> {
-  void call([T? arg]) {}
-}
-
-class MockCallable<T> extends Mock implements Callable<T> {}
+import '../../mocks.dart';
 
 void main() {
   late Callable mockCallable;

@@ -10,14 +10,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 import 'package:result_dart/result_dart.dart';
 
-class MockSaveOrder extends Mock implements ISaveOrder {}
-
-class MockDeleteOrder extends Mock implements IDeleteOrder {}
-
-class MockGetOrderByTypeAndNumber extends Mock
-    implements IGetOrderByTypeAndNumber {}
-
-class MockOrdersFailure extends Mock implements OrdersFailure {}
+import '../../mocks.dart';
 
 void main() {
   late ISaveOrder mockSaveOrder;
