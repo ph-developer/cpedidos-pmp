@@ -1,38 +1,38 @@
 [
   {
-    "grupo": "963",
-    "classe": "'-7",
-    "codigo": "16101",
-    "descricao": "MODELO"
+    "group": "963",
+    "class": "'-7",
+    "code": "16101",
+    "description": "MODELO"
   },
   {
-    "grupo": "963",
-    "classe": "9631",
-    "codigo": "14664",
-    "descricao": "REGENCIA DE CORAL"
+    "group": "963",
+    "class": "9631",
+    "code": "14664",
+    "description": "REGENCIA DE CORAL"
   },
   {
-    "grupo": "963",
-    "classe": "9631",
-    "codigo": "15830",
-    "descricao": "APRESENTACAO ARTISTICA / MUSICAL / CANTO / CORAL"
+    "group": "963",
+    "class": "9631",
+    "code": "15830",
+    "description": "APRESENTACAO ARTISTICA / MUSICAL / CANTO / CORAL"
   },
   {
-    "grupo": "963",
-    "classe": "9632",
-    "codigo": "19976",
-    "descricao": "MUSICOTERAPIA"
+    "group": "963",
+    "class": "9632",
+    "code": "19976",
+    "description": "MUSICOTERAPIA"
   },
   {
-    "grupo": "963",
-    "classe": "9632",
-    "codigo": "20028",
-    "descricao": "COMPOSITOR"
+    "group": "963",
+    "class": "9632",
+    "code": "20028",
+    "description": "COMPOSITOR"
   },
   {
-    "grupo": "963",
-    "classe": "9632",
-    "codigo": "25674",
-    "descricao": "PRESTACAO DE SERVIÇOS ARTES PLASTICAS"
+    "group": "963",
+    "class": "9632",
+    "code": "25674",
+    "description": "PRESTACAO DE SERVIÇOS ARTES PLASTICAS"
   }
 ]

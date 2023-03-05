@@ -1,114 +1,114 @@
 [
   {
-    "grupo": "20",
-    "classe": "2010",
-    "padrao": "8183",
-    "codigo": "231051",
-    "descricao": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, DIÂMETRO:9 1/4 POL, PASSO:12 POL, DIÂMETRO FURO CENTRO:14 MM, APLICAÇÃO:MOTOR JOHNSON 25 HP ( SJ 25 RSD )"
+    "group": "20",
+    "class": "2010",
+    "standard": "8183",
+    "code": "231051",
+    "description": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, DIÂMETRO:9 1/4 POL, PASSO:12 POL, DIÂMETRO FURO CENTRO:14 MM, APLICAÇÃO:MOTOR JOHNSON 25 HP ( SJ 25 RSD )"
   },
   {
-    "grupo": "20",
-    "classe": "2010",
-    "padrao": "8183",
-    "codigo": "231052",
-    "descricao": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, DIÂMETRO:10 3/4 POL, PASSO:11 POL, DIÂMETRO FURO CENTRO:18 MM, APLICAÇÃO:MOTOR JOHNSON 40 HP ( SJ 40 RCLA )"
+    "group": "20",
+    "class": "2010",
+    "standard": "8183",
+    "code": "231052",
+    "description": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, DIÂMETRO:10 3/4 POL, PASSO:11 POL, DIÂMETRO FURO CENTRO:18 MM, APLICAÇÃO:MOTOR JOHNSON 40 HP ( SJ 40 RCLA )"
   },
   {
-    "grupo": "20",
-    "classe": "2010",
-    "padrao": "8183",
-    "codigo": "348133",
-    "descricao": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, APLICAÇÃO:MOTOR DE POPA YAMARA 25 HP"
+    "group": "20",
+    "class": "2010",
+    "standard": "8183",
+    "code": "348133",
+    "description": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, APLICAÇÃO:MOTOR DE POPA YAMARA 25 HP"
   },
   {
-    "grupo": "20",
-    "classe": "2010",
-    "padrao": "8183",
-    "codigo": "348374",
-    "descricao": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, APLICAÇÃO:MOTOR YAMAHA 40 HP"
+    "group": "20",
+    "class": "2010",
+    "standard": "8183",
+    "code": "348374",
+    "description": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, APLICAÇÃO:MOTOR YAMAHA 40 HP"
   },
   {
-    "grupo": "20",
-    "classe": "2010",
-    "padrao": "8183",
-    "codigo": "365619",
-    "descricao": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, APLICAÇÃO:MOTOR MARITIMO MWM 75 HP"
+    "group": "20",
+    "class": "2010",
+    "standard": "8183",
+    "code": "365619",
+    "description": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, APLICAÇÃO:MOTOR MARITIMO MWM 75 HP"
   },
   {
-    "grupo": "20",
-    "classe": "2010",
-    "padrao": "8183",
-    "codigo": "365621",
-    "descricao": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, APLICAÇÃO:MOTOR MARITIMO MWM 114 HP"
+    "group": "20",
+    "class": "2010",
+    "standard": "8183",
+    "code": "365621",
+    "description": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, APLICAÇÃO:MOTOR MARITIMO MWM 114 HP"
   },
   {
-    "grupo": "20",
-    "classe": "2010",
-    "padrao": "8183",
-    "codigo": "377019",
-    "descricao": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, APLICAÇÃO:RABETA VOLVO PENTA DP/D1 E DP-E, CARACTERÍSTICAS ADICIONAIS:TRASEIRA, ROTATÓRIA PARA DIREITA"
+    "group": "20",
+    "class": "2010",
+    "standard": "8183",
+    "code": "377019",
+    "description": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, APLICAÇÃO:RABETA VOLVO PENTA DP/D1 E DP-E, CARACTERÍSTICAS ADICIONAIS:TRASEIRA, ROTATÓRIA PARA DIREITA"
   },
   {
-    "grupo": "20",
-    "classe": "2010",
-    "padrao": "8183",
-    "codigo": "396600",
-    "descricao": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, DIÂMETRO:1/4 X 11 POL, APLICAÇÃO:MOTOR DE POPA YAMARA 15 HP"
+    "group": "20",
+    "class": "2010",
+    "standard": "8183",
+    "code": "396600",
+    "description": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, DIÂMETRO:1/4 X 11 POL, APLICAÇÃO:MOTOR DE POPA YAMARA 15 HP"
   },
   {
-    "grupo": "20",
-    "classe": "2010",
-    "padrao": "8183",
-    "codigo": "456804",
-    "descricao": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, APLICAÇÃO:MOTOR MERCURY 90 HP"
+    "group": "20",
+    "class": "2010",
+    "standard": "8183",
+    "code": "456804",
+    "description": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, APLICAÇÃO:MOTOR MERCURY 90 HP"
   },
   {
-    "grupo": "20",
-    "classe": "2010",
-    "padrao": "8183",
-    "codigo": "456806",
-    "descricao": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, APLICAÇÃO:MOTOR MERCURY 40 HP"
+    "group": "20",
+    "class": "2010",
+    "standard": "8183",
+    "code": "456806",
+    "description": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, APLICAÇÃO:MOTOR MERCURY 40 HP"
   },
   {
-    "grupo": "20",
-    "classe": "2010",
-    "padrao": "8183",
-    "codigo": "456807",
-    "descricao": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, APLICAÇÃO:MOTOR YAMAHA 75 HP"
+    "group": "20",
+    "class": "2010",
+    "standard": "8183",
+    "code": "456807",
+    "description": " HÉLICE EMBARCAÇÃO, MATERIAL:ALUMÍNIO, QUANTIDADE PÁS:3 UN, APLICAÇÃO:MOTOR YAMAHA 75 HP"
   },
   {
-    "grupo": "20",
-    "classe": "2040",
-    "padrao": "2485",
-    "codigo": "1309",
-    "descricao": " ÂNCORA, ANCORA"
+    "group": "20",
+    "class": "2040",
+    "standard": "2485",
+    "code": "1309",
+    "description": " ÂNCORA, ANCORA"
   },
   {
-    "grupo": "20",
-    "classe": "2040",
-    "padrao": "2486",
-    "codigo": "376639",
-    "descricao": " GRAMPO ANCORAGEM, MATERIAL:AÇO INOXIDÁVEL, COMPRIMENTO:44 MM, DIÂMETRO NOMINAL:13 MM, REFERÊNCIA:MORSA, COMPONENTES:PARAFUSO, APLICAÇÃO:EMBARCAÇÃO"
+    "group": "20",
+    "class": "2040",
+    "standard": "2486",
+    "code": "376639",
+    "description": " GRAMPO ANCORAGEM, MATERIAL:AÇO INOXIDÁVEL, COMPRIMENTO:44 MM, DIÂMETRO NOMINAL:13 MM, REFERÊNCIA:MORSA, COMPONENTES:PARAFUSO, APLICAÇÃO:EMBARCAÇÃO"
   },
   {
-    "grupo": "20",
-    "classe": "2090",
-    "padrao": "6048",
-    "codigo": "339733",
-    "descricao": " DEFENSA EMBARCAÇÃO, MATERIAL:SISAL, APLICAÇÃO:ATRACAÇÃO DE NAVIOS, REFERÊNCIA:PO 0000167, DIMENSÕES:30 X 109 CM"
+    "group": "20",
+    "class": "2090",
+    "standard": "6048",
+    "code": "339733",
+    "description": " DEFENSA EMBARCAÇÃO, MATERIAL:SISAL, APLICAÇÃO:ATRACAÇÃO DE NAVIOS, REFERÊNCIA:PO 0000167, DIMENSÕES:30 X 109 CM"
   },
   {
-    "grupo": "20",
-    "classe": "2090",
-    "padrao": "6048",
-    "codigo": "603918",
-    "descricao": " DEFENSA EMBARCAÇÃO, MATERIAL:PVC, REFERÊNCIA:60328, DIMENSÕES:16,25 X 57,50 CM, APLICAÇÃO:ATRACAÇÃO DE NAVIOS"
+    "group": "20",
+    "class": "2090",
+    "standard": "6048",
+    "code": "603918",
+    "description": " DEFENSA EMBARCAÇÃO, MATERIAL:PVC, REFERÊNCIA:60328, DIMENSÕES:16,25 X 57,50 CM, APLICAÇÃO:ATRACAÇÃO DE NAVIOS"
   },
   {
-    "grupo": "20",
-    "classe": "2090",
-    "padrao": "18469",
-    "codigo": "293826",
-    "descricao": " CROQUE TELESCÓPICO, MATERIAL:ALUMÍNIO, DIMENSÕES:1,50 X 3,00 M, CARACTERÍSTICAS ADICIONAIS:COM PONTEIRA EM NÁILON INQUEBRÁVEL, APLICAÇÃO:USO NÁUTICO"
+    "group": "20",
+    "class": "2090",
+    "standard": "18469",
+    "code": "293826",
+    "description": " CROQUE TELESCÓPICO, MATERIAL:ALUMÍNIO, DIMENSÕES:1,50 X 3,00 M, CARACTERÍSTICAS ADICIONAIS:COM PONTEIRA EM NÁILON INQUEBRÁVEL, APLICAÇÃO:USO NÁUTICO"
   }
 ]

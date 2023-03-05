@@ -1,26 +1,26 @@
 [
   {
-    "grupo": "642",
-    "classe": "'-7",
-    "codigo": "24953",
-    "descricao": "FORNECIMENTO PASSAGEM FERROVIARIA"
+    "group": "642",
+    "class": "'-7",
+    "code": "24953",
+    "description": "FORNECIMENTO PASSAGEM FERROVIARIA"
   },
   {
-    "grupo": "642",
-    "classe": "6421",
-    "codigo": "3344",
-    "descricao": "TRANSPORTE FERROVIARIO DE PESSOAL"
+    "group": "642",
+    "class": "6421",
+    "code": "3344",
+    "description": "TRANSPORTE FERROVIARIO DE PESSOAL"
   },
   {
-    "grupo": "642",
-    "classe": "6422",
-    "codigo": "3352",
-    "descricao": "TRANSPORTE FERROVIARIO DE CARGA"
+    "group": "642",
+    "class": "6422",
+    "code": "3352",
+    "description": "TRANSPORTE FERROVIARIO DE CARGA"
   },
   {
-    "grupo": "642",
-    "classe": "6422",
-    "codigo": "24856",
-    "descricao": "TRANSPORTE FERROVIARIO DE CARGA POR VAGAO TANQUE"
+    "group": "642",
+    "class": "6422",
+    "code": "24856",
+    "description": "TRANSPORTE FERROVIARIO DE CARGA POR VAGAO TANQUE"
   }
 ]

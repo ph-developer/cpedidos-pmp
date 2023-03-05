@@ -1,32 +1,32 @@
 [
   {
-    "grupo": "166",
-    "classe": "1661",
-    "codigo": "27103",
-    "descricao": "SERVICOS DE MANUTENCAO E REPARACAO DE COMPUTADORES E SEUS PERIFERICOS"
+    "group": "166",
+    "class": "1661",
+    "code": "27103",
+    "description": "SERVICOS DE MANUTENCAO E REPARACAO DE COMPUTADORES E SEUS PERIFERICOS"
   },
   {
-    "grupo": "166",
-    "classe": "1661",
-    "codigo": "27111",
-    "descricao": "SERVICOS DE INSTALACAO DE COMPUTADORES E SEUS PERIFERICOS"
+    "group": "166",
+    "class": "1661",
+    "code": "27111",
+    "description": "SERVICOS DE INSTALACAO DE COMPUTADORES E SEUS PERIFERICOS"
   },
   {
-    "grupo": "166",
-    "classe": "1661",
-    "codigo": "27120",
-    "descricao": "SERVICOS DE MANUTENCAO DE  EQUIPAMENTOS DE COMUNICACAO DE DADOS E COMUTACAO TELEFONICA"
+    "group": "166",
+    "class": "1661",
+    "code": "27120",
+    "description": "SERVICOS DE MANUTENCAO DE  EQUIPAMENTOS DE COMUNICACAO DE DADOS E COMUTACAO TELEFONICA"
   },
   {
-    "grupo": "166",
-    "classe": "1661",
-    "codigo": "27138",
-    "descricao": "SERVICOS DE MANUTENCAO DE IMPRESSORAS, COPIADORAS, PLOTTER E SCANNERS"
+    "group": "166",
+    "class": "1661",
+    "code": "27138",
+    "description": "SERVICOS DE MANUTENCAO DE IMPRESSORAS, COPIADORAS, PLOTTER E SCANNERS"
   },
   {
-    "grupo": "166",
-    "classe": "1661",
-    "codigo": "27740",
-    "descricao": "SERVICOS DE GARANTIA DE EQUIPAMENTOS DE TIC"
+    "group": "166",
+    "class": "1661",
+    "code": "27740",
+    "description": "SERVICOS DE GARANTIA DE EQUIPAMENTOS DE TIC"
   }
 ]

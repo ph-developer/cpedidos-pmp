@@ -1,32 +1,32 @@
 [
   {
-    "grupo": "961",
-    "classe": "'-7",
-    "codigo": "3778",
-    "descricao": "AUDIOVISUAL"
+    "group": "961",
+    "class": "'-7",
+    "code": "3778",
+    "description": "AUDIOVISUAL"
   },
   {
-    "grupo": "961",
-    "classe": "9611",
-    "codigo": "21431",
-    "descricao": "FONOGRAMA MUSICAL"
+    "group": "961",
+    "class": "9611",
+    "code": "21431",
+    "description": "FONOGRAMA MUSICAL"
   },
   {
-    "grupo": "961",
-    "classe": "9612",
-    "codigo": "15580",
-    "descricao": "PRODUCAO / VEICULACAO - PROGRAMA TELEDUCATIVO / DOCUMENTARIO/ ENTREVISTA / DEBATE"
+    "group": "961",
+    "class": "9612",
+    "code": "15580",
+    "description": "PRODUCAO / VEICULACAO - PROGRAMA TELEDUCATIVO / DOCUMENTARIO/ ENTREVISTA / DEBATE"
   },
   {
-    "grupo": "961",
-    "classe": "9614",
-    "codigo": "21482",
-    "descricao": "LABORATORIO CINEMATOGRAFICO"
+    "group": "961",
+    "class": "9614",
+    "code": "21482",
+    "description": "LABORATORIO CINEMATOGRAFICO"
   },
   {
-    "grupo": "961",
-    "classe": "9616",
-    "codigo": "20923",
-    "descricao": "RADIODIFUSAO"
+    "group": "961",
+    "class": "9616",
+    "code": "20923",
+    "description": "RADIODIFUSAO"
   }
 ]

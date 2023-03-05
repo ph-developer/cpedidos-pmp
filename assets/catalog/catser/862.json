@@ -1,26 +1,26 @@
 [
   {
-    "grupo": "862",
-    "classe": "'-7",
-    "codigo": "15776",
-    "descricao": "ARMAZEM ALFANDEGARIO"
+    "group": "862",
+    "class": "'-7",
+    "code": "15776",
+    "description": "ARMAZEM ALFANDEGARIO"
   },
   {
-    "grupo": "862",
-    "classe": "'-7",
-    "codigo": "24716",
-    "descricao": "SERVICOS EM POCOS DE PETROLEO"
+    "group": "862",
+    "class": "'-7",
+    "code": "24716",
+    "description": "SERVICOS EM POCOS DE PETROLEO"
   },
   {
-    "grupo": "862",
-    "classe": "8621",
-    "codigo": "21016",
-    "descricao": "BENEFICIAMENTO MINERAL"
+    "group": "862",
+    "class": "8621",
+    "code": "21016",
+    "description": "BENEFICIAMENTO MINERAL"
   },
   {
-    "grupo": "862",
-    "classe": "8621",
-    "codigo": "21024",
-    "descricao": "PRODUCAO MINERAIS PESADOS"
+    "group": "862",
+    "class": "8621",
+    "code": "21024",
+    "description": "PRODUCAO MINERAIS PESADOS"
   }
 ]

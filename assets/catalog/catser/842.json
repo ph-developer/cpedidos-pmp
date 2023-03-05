@@ -1,14 +1,14 @@
 [
   {
-    "grupo": "842",
-    "classe": "'-7",
-    "codigo": "14958",
-    "descricao": "INFORMATICA - INTERNET"
+    "group": "842",
+    "class": "'-7",
+    "code": "14958",
+    "description": "INFORMATICA - INTERNET"
   },
   {
-    "grupo": "842",
-    "classe": "8422",
-    "codigo": "21350",
-    "descricao": "PESQUISA - CONSULTA ON-LINE"
+    "group": "842",
+    "class": "8422",
+    "code": "21350",
+    "description": "PESQUISA - CONSULTA ON-LINE"
   }
 ]

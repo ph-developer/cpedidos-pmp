@@ -1,1508 +1,1508 @@
 [
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "965",
-    "descricao": "SONDAGENS TERRESTRES A PERCUSSAO / ROTATIVO"
+    "group": "871",
+    "class": "'-7",
+    "code": "965",
+    "description": "SONDAGENS TERRESTRES A PERCUSSAO / ROTATIVO"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "1996",
-    "descricao": "MANUTENCAO / INSTALACAO E MONTAGEM DE INSTRUMENTACAO DE CONTROLE"
+    "group": "871",
+    "class": "'-7",
+    "code": "1996",
+    "description": "MANUTENCAO / INSTALACAO E MONTAGEM DE INSTRUMENTACAO DE CONTROLE"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2275",
-    "descricao": "MANUTENCAO DE TURBINAS A VAPOR"
+    "group": "871",
+    "class": "'-7",
+    "code": "2275",
+    "description": "MANUTENCAO DE TURBINAS A VAPOR"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2283",
-    "descricao": "MANUTENCAO DE TURBINAS A GAS"
+    "group": "871",
+    "class": "'-7",
+    "code": "2283",
+    "description": "MANUTENCAO DE TURBINAS A GAS"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2291",
-    "descricao": "MANUTENCAO DE HIDROGERADORES"
+    "group": "871",
+    "class": "'-7",
+    "code": "2291",
+    "description": "MANUTENCAO DE HIDROGERADORES"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2305",
-    "descricao": "MANUTENCAO GERADOR - VAPOR / GASOLINA"
+    "group": "871",
+    "class": "'-7",
+    "code": "2305",
+    "description": "MANUTENCAO GERADOR - VAPOR / GASOLINA"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2321",
-    "descricao": "MANUTENCAO DE MOTORES A COMBUSTAO"
+    "group": "871",
+    "class": "'-7",
+    "code": "2321",
+    "description": "MANUTENCAO DE MOTORES A COMBUSTAO"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2330",
-    "descricao": "MANUTENCAO DE BOMBAS E MOTO-BOMBAS"
+    "group": "871",
+    "class": "'-7",
+    "code": "2330",
+    "description": "MANUTENCAO DE BOMBAS E MOTO-BOMBAS"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2348",
-    "descricao": "MANUTENCAO DE TROCADORES DE CALOR"
+    "group": "871",
+    "class": "'-7",
+    "code": "2348",
+    "description": "MANUTENCAO DE TROCADORES DE CALOR"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2356",
-    "descricao": "MANUTENCAO DE GRUPOS DIESEL GERADOR DE EMERGENCIA"
+    "group": "871",
+    "class": "'-7",
+    "code": "2356",
+    "description": "MANUTENCAO DE GRUPOS DIESEL GERADOR DE EMERGENCIA"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2364",
-    "descricao": "MANUTENCAO DE CALDEIRAS E ESTUFAS"
+    "group": "871",
+    "class": "'-7",
+    "code": "2364",
+    "description": "MANUTENCAO DE CALDEIRAS E ESTUFAS"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2372",
-    "descricao": "MANUTENCAO DE PONTES E PORTICOS ROLANTES"
+    "group": "871",
+    "class": "'-7",
+    "code": "2372",
+    "description": "MANUTENCAO DE PONTES E PORTICOS ROLANTES"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2380",
-    "descricao": "MANUTENCAO DE TALHAS E MONOVIAS"
+    "group": "871",
+    "class": "'-7",
+    "code": "2380",
+    "description": "MANUTENCAO DE TALHAS E MONOVIAS"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2399",
-    "descricao": "MANUTENCAO DE EQUIPAMENTOS HIDROMECANICOS"
+    "group": "871",
+    "class": "'-7",
+    "code": "2399",
+    "description": "MANUTENCAO DE EQUIPAMENTOS HIDROMECANICOS"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2402",
-    "descricao": "MANUTENCAO DE VALVULAS E ATUADORES"
+    "group": "871",
+    "class": "'-7",
+    "code": "2402",
+    "description": "MANUTENCAO DE VALVULAS E ATUADORES"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2410",
-    "descricao": "MANUTENCAO DE AGITADORES MECANICOS INDUSTRIAIS"
+    "group": "871",
+    "class": "'-7",
+    "code": "2410",
+    "description": "MANUTENCAO DE AGITADORES MECANICOS INDUSTRIAIS"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2429",
-    "descricao": "MANUTENCAO DE REDUTORES DE VELOCIDADE"
+    "group": "871",
+    "class": "'-7",
+    "code": "2429",
+    "description": "MANUTENCAO DE REDUTORES DE VELOCIDADE"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2437",
-    "descricao": "MANUTENCAO DE EQUIPAMENTOS DE BRITAGEM E MOAGEM"
+    "group": "871",
+    "class": "'-7",
+    "code": "2437",
+    "description": "MANUTENCAO DE EQUIPAMENTOS DE BRITAGEM E MOAGEM"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2445",
-    "descricao": "MANUTENCAO DE CORREIAS TRANSPORTADORAS"
+    "group": "871",
+    "class": "'-7",
+    "code": "2445",
+    "description": "MANUTENCAO DE CORREIAS TRANSPORTADORAS"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2453",
-    "descricao": "MANUTENCAO DE MAQUINAS PORTATEIS / OPERATRIZES"
+    "group": "871",
+    "class": "'-7",
+    "code": "2453",
+    "description": "MANUTENCAO DE MAQUINAS PORTATEIS / OPERATRIZES"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2461",
-    "descricao": "MANUTENCAO DE AUTOCLAVES"
+    "group": "871",
+    "class": "'-7",
+    "code": "2461",
+    "description": "MANUTENCAO DE AUTOCLAVES"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2470",
-    "descricao": "MANUTENCAO DE PRE - AQUECEDORES / AQUECEDORES"
+    "group": "871",
+    "class": "'-7",
+    "code": "2470",
+    "description": "MANUTENCAO DE PRE - AQUECEDORES / AQUECEDORES"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2488",
-    "descricao": "MANUTENCAO DE SEPARADORES DE SEDIMENTOS"
+    "group": "871",
+    "class": "'-7",
+    "code": "2488",
+    "description": "MANUTENCAO DE SEPARADORES DE SEDIMENTOS"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2496",
-    "descricao": "MANUTENCAO DE SILOS E CALHAS"
+    "group": "871",
+    "class": "'-7",
+    "code": "2496",
+    "description": "MANUTENCAO DE SILOS E CALHAS"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2500",
-    "descricao": "MANUTENCAO DE TANQUES E ESFERAS DE ARMAZENAMENTO"
+    "group": "871",
+    "class": "'-7",
+    "code": "2500",
+    "description": "MANUTENCAO DE TANQUES E ESFERAS DE ARMAZENAMENTO"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2518",
-    "descricao": "MANUTENCAO DE VASOS DE PRESSAO"
+    "group": "871",
+    "class": "'-7",
+    "code": "2518",
+    "description": "MANUTENCAO DE VASOS DE PRESSAO"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2526",
-    "descricao": "MANUTENCAO DE CONDUTOS FORCADOS"
+    "group": "871",
+    "class": "'-7",
+    "code": "2526",
+    "description": "MANUTENCAO DE CONDUTOS FORCADOS"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2534",
-    "descricao": "MANUTENCAO DE FORNOS E FORNALHAS"
+    "group": "871",
+    "class": "'-7",
+    "code": "2534",
+    "description": "MANUTENCAO DE FORNOS E FORNALHAS"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2542",
-    "descricao": "MANUTENCAO DE PENEIRAS INDUSTRIAIS"
+    "group": "871",
+    "class": "'-7",
+    "code": "2542",
+    "description": "MANUTENCAO DE PENEIRAS INDUSTRIAIS"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2569",
-    "descricao": "MANUTENCAO DE REATORES"
+    "group": "871",
+    "class": "'-7",
+    "code": "2569",
+    "description": "MANUTENCAO DE REATORES"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2577",
-    "descricao": "MANUTENCAO DE BARRAMENTOS"
+    "group": "871",
+    "class": "'-7",
+    "code": "2577",
+    "description": "MANUTENCAO DE BARRAMENTOS"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2585",
-    "descricao": "MANUTENCAO DE PAINEIS ELETRICOS"
+    "group": "871",
+    "class": "'-7",
+    "code": "2585",
+    "description": "MANUTENCAO DE PAINEIS ELETRICOS"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2615",
-    "descricao": "MANUTENCAO DE MOTORES ELETRICOS"
+    "group": "871",
+    "class": "'-7",
+    "code": "2615",
+    "description": "MANUTENCAO DE MOTORES ELETRICOS"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2623",
-    "descricao": "MANUTENCAO / REPARO - BATERIA"
+    "group": "871",
+    "class": "'-7",
+    "code": "2623",
+    "description": "MANUTENCAO / REPARO - BATERIA"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2631",
-    "descricao": "MANUTENCAO DE CAPACITORES"
+    "group": "871",
+    "class": "'-7",
+    "code": "2631",
+    "description": "MANUTENCAO DE CAPACITORES"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2640",
-    "descricao": "MANUTENCAO DE COMPENSADORES"
+    "group": "871",
+    "class": "'-7",
+    "code": "2640",
+    "description": "MANUTENCAO DE COMPENSADORES"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2720",
-    "descricao": "MANUTENCAO DE INSTRUMENTOS ELETRICOS"
+    "group": "871",
+    "class": "'-7",
+    "code": "2720",
+    "description": "MANUTENCAO DE INSTRUMENTOS ELETRICOS"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2739",
-    "descricao": "INSTALACAO/MANUTENCAO- EQUIPAMENTO ELETRONICO/ELETROMECANICO"
+    "group": "871",
+    "class": "'-7",
+    "code": "2739",
+    "description": "INSTALACAO/MANUTENCAO- EQUIPAMENTO ELETRONICO/ELETROMECANICO"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2747",
-    "descricao": "MANUTENCAO DE INSTRUMENTOS PNEUMATICOS"
+    "group": "871",
+    "class": "'-7",
+    "code": "2747",
+    "description": "MANUTENCAO DE INSTRUMENTOS PNEUMATICOS"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2755",
-    "descricao": "MANUTENCAO DE SISTEMAS DE TUBULACOES INDUSTRIAIS E CALDEIRA-RIA"
+    "group": "871",
+    "class": "'-7",
+    "code": "2755",
+    "description": "MANUTENCAO DE SISTEMAS DE TUBULACOES INDUSTRIAIS E CALDEIRA-RIA"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2763",
-    "descricao": "MANUTENCAO DE SISTEMAS DE PROTECAO CONTRA INCENDIO"
+    "group": "871",
+    "class": "'-7",
+    "code": "2763",
+    "description": "MANUTENCAO DE SISTEMAS DE PROTECAO CONTRA INCENDIO"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2771",
-    "descricao": "AR CONDICIONADO - MANUTENCAO DE SISTEMAS / LIMPEZA"
+    "group": "871",
+    "class": "'-7",
+    "code": "2771",
+    "description": "AR CONDICIONADO - MANUTENCAO DE SISTEMAS / LIMPEZA"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2780",
-    "descricao": "MANUTENCAO DE SISTEMAS DE VENTILACAO E EXAUSTOR"
+    "group": "871",
+    "class": "'-7",
+    "code": "2780",
+    "description": "MANUTENCAO DE SISTEMAS DE VENTILACAO E EXAUSTOR"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2798",
-    "descricao": "MANUTENCAO DE SISTEMAS DE AQUECIMENTO"
+    "group": "871",
+    "class": "'-7",
+    "code": "2798",
+    "description": "MANUTENCAO DE SISTEMAS DE AQUECIMENTO"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2801",
-    "descricao": "MANUTENCAO DE SISTEMAS DE REFRIGERACAO"
+    "group": "871",
+    "class": "'-7",
+    "code": "2801",
+    "description": "MANUTENCAO DE SISTEMAS DE REFRIGERACAO"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2810",
-    "descricao": "MANUTENCAO DE SISTEMAS DE SINALIZACAO FERROVIARIA"
+    "group": "871",
+    "class": "'-7",
+    "code": "2810",
+    "description": "MANUTENCAO DE SISTEMAS DE SINALIZACAO FERROVIARIA"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2852",
-    "descricao": "MANUTENCAO DE SUBESTACOES DE ENERGIA ELETRICA"
+    "group": "871",
+    "class": "'-7",
+    "code": "2852",
+    "description": "MANUTENCAO DE SUBESTACOES DE ENERGIA ELETRICA"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "2879",
-    "descricao": "MANUTENCAO DE LINHAS DE DISTRIBUICAO DE ENERGIA ELETRICA"
+    "group": "871",
+    "class": "'-7",
+    "code": "2879",
+    "description": "MANUTENCAO DE LINHAS DE DISTRIBUICAO DE ENERGIA ELETRICA"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "3166",
-    "descricao": "MANUTENCAO DE TURBINAS HIDRAULICAS / TERMELETRICAS"
+    "group": "871",
+    "class": "'-7",
+    "code": "3166",
+    "description": "MANUTENCAO DE TURBINAS HIDRAULICAS / TERMELETRICAS"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "3620",
-    "descricao": "MANUTENCAO E REPARO DE MAQUINAS DE ESCAVACAO E TERRAPLANAGEM"
+    "group": "871",
+    "class": "'-7",
+    "code": "3620",
+    "description": "MANUTENCAO E REPARO DE MAQUINAS DE ESCAVACAO E TERRAPLANAGEM"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "3638",
-    "descricao": "MANUTENCAO / REPARO - EQUIPAMENTO ELEVACAO  /  MOVIMENTACAO CARGA"
+    "group": "871",
+    "class": "'-7",
+    "code": "3638",
+    "description": "MANUTENCAO / REPARO - EQUIPAMENTO ELEVACAO  /  MOVIMENTACAO CARGA"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "3670",
-    "descricao": "MANUTENCAO DE EQUIPAMENTOS DE COZINHA INDUSTRIAL"
+    "group": "871",
+    "class": "'-7",
+    "code": "3670",
+    "description": "MANUTENCAO DE EQUIPAMENTOS DE COZINHA INDUSTRIAL"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "4723",
-    "descricao": "INSPECOES E TESTES EM MATERIAIS E EQUIPAMENTOS MECANICOS"
+    "group": "871",
+    "class": "'-7",
+    "code": "4723",
+    "description": "INSPECOES E TESTES EM MATERIAIS E EQUIPAMENTOS MECANICOS"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "4731",
-    "descricao": "INSPECOES E TESTES EM EQUIPAMENTOS MECANICOS EM OPERACAO"
+    "group": "871",
+    "class": "'-7",
+    "code": "4731",
+    "description": "INSPECOES E TESTES EM EQUIPAMENTOS MECANICOS EM OPERACAO"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "4782",
-    "descricao": "MANUTENCAO / INSTALACAO DE TRANSFORMADORES ATE 34,5KV"
+    "group": "871",
+    "class": "'-7",
+    "code": "4782",
+    "description": "MANUTENCAO / INSTALACAO DE TRANSFORMADORES ATE 34,5KV"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "4790",
-    "descricao": "MANUTENCAO / INSTALACAO DE TRANSFORMADORES ACIMA DE 34,5KV"
+    "group": "871",
+    "class": "'-7",
+    "code": "4790",
+    "description": "MANUTENCAO / INSTALACAO DE TRANSFORMADORES ACIMA DE 34,5KV"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "4804",
-    "descricao": "MANUTENCAO DE CHAVES SECCIONADORAS ATE 69KV"
+    "group": "871",
+    "class": "'-7",
+    "code": "4804",
+    "description": "MANUTENCAO DE CHAVES SECCIONADORAS ATE 69KV"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "4812",
-    "descricao": "MANUTENCAO DE CHAVES SECCIONADORAS ACIMA DE 69KV"
+    "group": "871",
+    "class": "'-7",
+    "code": "4812",
+    "description": "MANUTENCAO DE CHAVES SECCIONADORAS ACIMA DE 69KV"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "4820",
-    "descricao": "MANUTENCAO DE DISJUNTORES ATE 69KV"
+    "group": "871",
+    "class": "'-7",
+    "code": "4820",
+    "description": "MANUTENCAO DE DISJUNTORES ATE 69KV"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "4839",
-    "descricao": "MANUTENCAO DE DISJUNTORES ACIMA DE 69KV"
+    "group": "871",
+    "class": "'-7",
+    "code": "4839",
+    "description": "MANUTENCAO DE DISJUNTORES ACIMA DE 69KV"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "4847",
-    "descricao": "MANUTENCAO DE MEDIDORES RESIDENCIAIS DE ENERGIA ELETRICA"
+    "group": "871",
+    "class": "'-7",
+    "code": "4847",
+    "description": "MANUTENCAO DE MEDIDORES RESIDENCIAIS DE ENERGIA ELETRICA"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "4855",
-    "descricao": "MANUTENCAO DE MEDIDORES INDUSTRIAIS DE ENERGIA ELETRICA"
+    "group": "871",
+    "class": "'-7",
+    "code": "4855",
+    "description": "MANUTENCAO DE MEDIDORES INDUSTRIAIS DE ENERGIA ELETRICA"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "4871",
-    "descricao": "MANUTENCAO DE SUBESTACOES DE ENERGIA ELETRICA ATE 69KV"
+    "group": "871",
+    "class": "'-7",
+    "code": "4871",
+    "description": "MANUTENCAO DE SUBESTACOES DE ENERGIA ELETRICA ATE 69KV"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "4880",
-    "descricao": "MANUTENCAO DE SUBESTACOES DE ENERGIA ELETRICA ATE 138KV"
+    "group": "871",
+    "class": "'-7",
+    "code": "4880",
+    "description": "MANUTENCAO DE SUBESTACOES DE ENERGIA ELETRICA ATE 138KV"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "4898",
-    "descricao": "MANUTENCAO DE SUBESTACOES DE ENERGIA ELETRICA ATE 230KV"
+    "group": "871",
+    "class": "'-7",
+    "code": "4898",
+    "description": "MANUTENCAO DE SUBESTACOES DE ENERGIA ELETRICA ATE 230KV"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "4901",
-    "descricao": "MANUTENCAO DE SUBESTACOES DE ENERGIA ELETRICA ATE 500KV"
+    "group": "871",
+    "class": "'-7",
+    "code": "4901",
+    "description": "MANUTENCAO DE SUBESTACOES DE ENERGIA ELETRICA ATE 500KV"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "4910",
-    "descricao": "MANUTENCAO DE SUBESTACOES DE ENERGIA ELETRICA ACIMA DE 500KV"
+    "group": "871",
+    "class": "'-7",
+    "code": "4910",
+    "description": "MANUTENCAO DE SUBESTACOES DE ENERGIA ELETRICA ACIMA DE 500KV"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "4928",
-    "descricao": "MANUTENCAO DE SUBESTACOES DE ENERGIA ELETRICA BLINDADAS"
+    "group": "871",
+    "class": "'-7",
+    "code": "4928",
+    "description": "MANUTENCAO DE SUBESTACOES DE ENERGIA ELETRICA BLINDADAS"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "5657",
-    "descricao": "ENROLAMENTO DE CAMPO DE MOTOR ELETRICO"
+    "group": "871",
+    "class": "'-7",
+    "code": "5657",
+    "description": "ENROLAMENTO DE CAMPO DE MOTOR ELETRICO"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "20788",
-    "descricao": "CONFECCAO / INSTALACAO / MANUTENCAO - TANQUE TERMICO"
+    "group": "871",
+    "class": "'-7",
+    "code": "20788",
+    "description": "CONFECCAO / INSTALACAO / MANUTENCAO - TANQUE TERMICO"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "20796",
-    "descricao": "INSTALACAO / MANUTENCAO - CAMARA FRIA"
+    "group": "871",
+    "class": "'-7",
+    "code": "20796",
+    "description": "INSTALACAO / MANUTENCAO - CAMARA FRIA"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "21407",
-    "descricao": "MANUTENCAO SISTEMA COLETA A VACUO"
+    "group": "871",
+    "class": "'-7",
+    "code": "21407",
+    "description": "MANUTENCAO SISTEMA COLETA A VACUO"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "22012",
-    "descricao": "INSTALACAO / MANUTENCAO SUPORTE PROJECAO VISUAL"
+    "group": "871",
+    "class": "'-7",
+    "code": "22012",
+    "description": "INSTALACAO / MANUTENCAO SUPORTE PROJECAO VISUAL"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "22390",
-    "descricao": "MANUTENCAO E REPARO DE CILINDRO DE GAS"
+    "group": "871",
+    "class": "'-7",
+    "code": "22390",
+    "description": "MANUTENCAO E REPARO DE CILINDRO DE GAS"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "23094",
-    "descricao": "MANUTENCAO - EQUIPAMENTO CONTROLE ACESSO PESSOAL"
+    "group": "871",
+    "class": "'-7",
+    "code": "23094",
+    "description": "MANUTENCAO - EQUIPAMENTO CONTROLE ACESSO PESSOAL"
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "25178",
-    "descricao": "LIMPEZA EM APARELHO DE  ULTRASSOM COM USO DE DETERGENTE ENZIMATICO/DESOXIDANTE."
+    "group": "871",
+    "class": "'-7",
+    "code": "25178",
+    "description": "LIMPEZA EM APARELHO DE  ULTRASSOM COM USO DE DETERGENTE ENZIMATICO/DESOXIDANTE."
   },
   {
-    "grupo": "871",
-    "classe": "'-7",
-    "codigo": "27952",
-    "descricao": "MANUTENÇÃO / REPARO - MEDIDOR / SENSOR DE FLUXO - VAZÃO"
+    "group": "871",
+    "class": "'-7",
+    "code": "27952",
+    "description": "MANUTENÇÃO / REPARO - MEDIDOR / SENSOR DE FLUXO - VAZÃO"
   },
   {
-    "grupo": "871",
-    "classe": "8711",
-    "codigo": "1104",
-    "descricao": "GALVANIZACAO"
+    "group": "871",
+    "class": "8711",
+    "code": "1104",
+    "description": "GALVANIZACAO"
   },
   {
-    "grupo": "871",
-    "classe": "8711",
-    "codigo": "1112",
-    "descricao": "METALIZACAO / ANODIZACAO"
+    "group": "871",
+    "class": "8711",
+    "code": "1112",
+    "description": "METALIZACAO / ANODIZACAO"
   },
   {
-    "grupo": "871",
-    "classe": "8711",
-    "codigo": "1120",
-    "descricao": "CROMACAO"
+    "group": "871",
+    "class": "8711",
+    "code": "1120",
+    "description": "CROMACAO"
   },
   {
-    "grupo": "871",
-    "classe": "8711",
-    "codigo": "5592",
-    "descricao": "INSTALACAO / MANUTENCAO HIDROSSANITARIAS"
+    "group": "871",
+    "class": "8711",
+    "code": "5592",
+    "description": "INSTALACAO / MANUTENCAO HIDROSSANITARIAS"
   },
   {
-    "grupo": "871",
-    "classe": "8711",
-    "codigo": "22632",
-    "descricao": "MANUTENCAO BOMBA COMBUSTIVEL"
+    "group": "871",
+    "class": "8711",
+    "code": "22632",
+    "description": "MANUTENCAO BOMBA COMBUSTIVEL"
   },
   {
-    "grupo": "871",
-    "classe": "8711",
-    "codigo": "22659",
-    "descricao": "MANUTENCAO E REPARO EQUIPAGEM PASSADEIRAS ALUMINIO"
+    "group": "871",
+    "class": "8711",
+    "code": "22659",
+    "description": "MANUTENCAO E REPARO EQUIPAGEM PASSADEIRAS ALUMINIO"
   },
   {
-    "grupo": "871",
-    "classe": "8711",
-    "codigo": "25356",
-    "descricao": "SERVICO DE LANTERNAGEM E PINTURA"
+    "group": "871",
+    "class": "8711",
+    "code": "25356",
+    "description": "SERVICO DE LANTERNAGEM E PINTURA"
   },
   {
-    "grupo": "871",
-    "classe": "8712",
-    "codigo": "3450",
-    "descricao": "MANUTENCAO DE MAQUINAS DE ESCREVER"
+    "group": "871",
+    "class": "8712",
+    "code": "3450",
+    "description": "MANUTENCAO DE MAQUINAS DE ESCREVER"
   },
   {
-    "grupo": "871",
-    "classe": "8712",
-    "codigo": "3468",
-    "descricao": "MANUTENCAO DE MAQUINAS DE CALCULAR"
+    "group": "871",
+    "class": "8712",
+    "code": "3468",
+    "description": "MANUTENCAO DE MAQUINAS DE CALCULAR"
   },
   {
-    "grupo": "871",
-    "classe": "8712",
-    "codigo": "3476",
-    "descricao": "MANUTENCAO DE FAC-SIMILE"
+    "group": "871",
+    "class": "8712",
+    "code": "3476",
+    "description": "MANUTENCAO DE FAC-SIMILE"
   },
   {
-    "grupo": "871",
-    "classe": "8712",
-    "codigo": "3484",
-    "descricao": "MANUTENCAO DE TELEX"
+    "group": "871",
+    "class": "8712",
+    "code": "3484",
+    "description": "MANUTENCAO DE TELEX"
   },
   {
-    "grupo": "871",
-    "classe": "8712",
-    "codigo": "5827",
-    "descricao": "MANUTENCAO / REPARO MAQUINA COPIADORA/ DUPLICADORA"
+    "group": "871",
+    "class": "8712",
+    "code": "5827",
+    "description": "MANUTENCAO / REPARO MAQUINA COPIADORA/ DUPLICADORA"
   },
   {
-    "grupo": "871",
-    "classe": "8712",
-    "codigo": "6017",
-    "descricao": "MANUTENCAO EM MAQUINA DE ASSINAR"
+    "group": "871",
+    "class": "8712",
+    "code": "6017",
+    "description": "MANUTENCAO EM MAQUINA DE ASSINAR"
   },
   {
-    "grupo": "871",
-    "classe": "8712",
-    "codigo": "17248",
-    "descricao": "MANUTENCAO APARELHO TELEFONICO / CELULAR"
+    "group": "871",
+    "class": "8712",
+    "code": "17248",
+    "description": "MANUTENCAO APARELHO TELEFONICO / CELULAR"
   },
   {
-    "grupo": "871",
-    "classe": "8713",
-    "codigo": "1260",
-    "descricao": "INFORMATICA - MANUTENCAO/INSTALACAO SISTEMAS / PERIFERICOS"
+    "group": "871",
+    "class": "8713",
+    "code": "1260",
+    "description": "INFORMATICA - MANUTENCAO/INSTALACAO SISTEMAS / PERIFERICOS"
   },
   {
-    "grupo": "871",
-    "classe": "8713",
-    "codigo": "3530",
-    "descricao": "INFORMATICA - MANUTENCAO DE COMPUTADORES"
+    "group": "871",
+    "class": "8713",
+    "code": "3530",
+    "description": "INFORMATICA - MANUTENCAO DE COMPUTADORES"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "3565",
-    "descricao": "MANUTENCAO DE VEICULOS LEVES / PESADOS"
+    "group": "871",
+    "class": "8714",
+    "code": "3565",
+    "description": "MANUTENCAO DE VEICULOS LEVES / PESADOS"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "3573",
-    "descricao": "MANUTENCAO DE VEICULOS PESADOS"
+    "group": "871",
+    "class": "8714",
+    "code": "3573",
+    "description": "MANUTENCAO DE VEICULOS PESADOS"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "3646",
-    "descricao": "MANUTENCAO DE LOCOMOTIVAS"
+    "group": "871",
+    "class": "8714",
+    "code": "3646",
+    "description": "MANUTENCAO DE LOCOMOTIVAS"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "3654",
-    "descricao": "MANUTENCAO DE CARROS FERROVIARIOS E VAGOES"
+    "group": "871",
+    "class": "8714",
+    "code": "3654",
+    "description": "MANUTENCAO DE CARROS FERROVIARIOS E VAGOES"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "5843",
-    "descricao": "MANUTENCAO DE VEICULOS PESADOS - PARTE ELETRICA"
+    "group": "871",
+    "class": "8714",
+    "code": "5843",
+    "description": "MANUTENCAO DE VEICULOS PESADOS - PARTE ELETRICA"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "5851",
-    "descricao": "MANUTENCAO DE VEICULOS LEVES - PARTE ELETRICA"
+    "group": "871",
+    "class": "8714",
+    "code": "5851",
+    "description": "MANUTENCAO DE VEICULOS LEVES - PARTE ELETRICA"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "5860",
-    "descricao": "MANUTENCAO DE VEICULOS LEVES - PARTE MECANICA"
+    "group": "871",
+    "class": "8714",
+    "code": "5860",
+    "description": "MANUTENCAO DE VEICULOS LEVES - PARTE MECANICA"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "5878",
-    "descricao": "MANUTENCAO DE VEICULOS PESADOS - PARTE MECANICA"
+    "group": "871",
+    "class": "8714",
+    "code": "5878",
+    "description": "MANUTENCAO DE VEICULOS PESADOS - PARTE MECANICA"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "10146",
-    "descricao": "ALINHAMENTO EM VEICULO AUTOMOTIVO"
+    "group": "871",
+    "class": "8714",
+    "code": "10146",
+    "description": "ALINHAMENTO EM VEICULO AUTOMOTIVO"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "10154",
-    "descricao": "BALANCEAMENTO EM VEICULO AUTOMOTIVO"
+    "group": "871",
+    "class": "8714",
+    "code": "10154",
+    "description": "BALANCEAMENTO EM VEICULO AUTOMOTIVO"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "10162",
-    "descricao": "CAMBAGEM E CASTER EM VEICULO AUTOMOTIVO"
+    "group": "871",
+    "class": "8714",
+    "code": "10162",
+    "description": "CAMBAGEM E CASTER EM VEICULO AUTOMOTIVO"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "12580",
-    "descricao": "MANUTENCAO E REPARO EM SISTEMA ELETRICO DE MOTOCICLETA"
+    "group": "871",
+    "class": "8714",
+    "code": "12580",
+    "description": "MANUTENCAO E REPARO EM SISTEMA ELETRICO DE MOTOCICLETA"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "12599",
-    "descricao": "MANUTENCAO E REPARO EM SISTEMA MECANICO DE MOTOCICLETA"
+    "group": "871",
+    "class": "8714",
+    "code": "12599",
+    "description": "MANUTENCAO E REPARO EM SISTEMA MECANICO DE MOTOCICLETA"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "15253",
-    "descricao": "ASSISTENCIA TECNICA - VEICULO AUTOMOTIVO"
+    "group": "871",
+    "class": "8714",
+    "code": "15253",
+    "description": "ASSISTENCIA TECNICA - VEICULO AUTOMOTIVO"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "15393",
-    "descricao": "CONSERTO / MANUTENCAO AMORTECEDOR"
+    "group": "871",
+    "class": "8714",
+    "code": "15393",
+    "description": "CONSERTO / MANUTENCAO AMORTECEDOR"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "15520",
-    "descricao": "POSTO DE SERVICO (VEICULO) - FABRICACAO/INSTALACAO DE COMPO-NENTES"
+    "group": "871",
+    "class": "8714",
+    "code": "15520",
+    "description": "POSTO DE SERVICO (VEICULO) - FABRICACAO/INSTALACAO DE COMPO-NENTES"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "15997",
-    "descricao": "MANUTENCAO E REPARO - EIXO CARDAN"
+    "group": "871",
+    "class": "8714",
+    "code": "15997",
+    "description": "MANUTENCAO E REPARO - EIXO CARDAN"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "16098",
-    "descricao": "MANUTENCAO AERONAVE - AVIAO / HELICOPTERO / ULTRALEVE"
+    "group": "871",
+    "class": "8714",
+    "code": "16098",
+    "description": "MANUTENCAO AERONAVE - AVIAO / HELICOPTERO / ULTRALEVE"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "16187",
-    "descricao": "MANUTENCAO E REPARO - TRANSMISSAO AUTOMATICA"
+    "group": "871",
+    "class": "8714",
+    "code": "16187",
+    "description": "MANUTENCAO E REPARO - TRANSMISSAO AUTOMATICA"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "16306",
-    "descricao": "MANUTENCAO E REPARO - EMBARCACAO"
+    "group": "871",
+    "class": "8714",
+    "code": "16306",
+    "description": "MANUTENCAO E REPARO - EMBARCACAO"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "16381",
-    "descricao": "BALANCEAMENTO ELETRODINAMICO"
+    "group": "871",
+    "class": "8714",
+    "code": "16381",
+    "description": "BALANCEAMENTO ELETRODINAMICO"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "17078",
-    "descricao": "MANUTENCAO E REPARO - BARCO ALUMINIO"
+    "group": "871",
+    "class": "8714",
+    "code": "17078",
+    "description": "MANUTENCAO E REPARO - BARCO ALUMINIO"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "17400",
-    "descricao": "ADAPTACAO E TRANSFORMACAO VEICULOS -  AUTOMOTORES  / REBOCA-VEIS / ESPECIAIS"
+    "group": "871",
+    "class": "8714",
+    "code": "17400",
+    "description": "ADAPTACAO E TRANSFORMACAO VEICULOS -  AUTOMOTORES  / REBOCA-VEIS / ESPECIAIS"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "17442",
-    "descricao": "MANUTENCAO VEICULOS REBOCAVEIS"
+    "group": "871",
+    "class": "8714",
+    "code": "17442",
+    "description": "MANUTENCAO VEICULOS REBOCAVEIS"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "17957",
-    "descricao": "AUTOMATIZACAO DE PORTAO - INSTALACAO / MANUTENCAO"
+    "group": "871",
+    "class": "8714",
+    "code": "17957",
+    "description": "AUTOMATIZACAO DE PORTAO - INSTALACAO / MANUTENCAO"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "17965",
-    "descricao": "MANUTENCAO E REPARO - TACOGRAFO"
+    "group": "871",
+    "class": "8714",
+    "code": "17965",
+    "description": "MANUTENCAO E REPARO - TACOGRAFO"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "17973",
-    "descricao": "MANUTENCAO E REPARO - RODOAR"
+    "group": "871",
+    "class": "8714",
+    "code": "17973",
+    "description": "MANUTENCAO E REPARO - RODOAR"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "18163",
-    "descricao": "MANUTENCAO FREIO E EMBREAGEM - ELETROMAGNETICA / MECANICA  /PNEUMATICA"
+    "group": "871",
+    "class": "8714",
+    "code": "18163",
+    "description": "MANUTENCAO FREIO E EMBREAGEM - ELETROMAGNETICA / MECANICA  /PNEUMATICA"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "18201",
-    "descricao": "MANUTENCAO DE VEICULOS LEVES - SUSPENSAO"
+    "group": "871",
+    "class": "8714",
+    "code": "18201",
+    "description": "MANUTENCAO DE VEICULOS LEVES - SUSPENSAO"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "18210",
-    "descricao": "MANUTENCAO DE VEICULOS PESADOS - SUSPENSAO"
+    "group": "871",
+    "class": "8714",
+    "code": "18210",
+    "description": "MANUTENCAO DE VEICULOS PESADOS - SUSPENSAO"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "18562",
-    "descricao": "MANUTENCAO VEICULO AUTOMOTIVO - CHASSI"
+    "group": "871",
+    "class": "8714",
+    "code": "18562",
+    "description": "MANUTENCAO VEICULO AUTOMOTIVO - CHASSI"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "18619",
-    "descricao": "AR CONDICIONADO VEICULO - INSTALACAO / MONTAGEM / MANUTENCAO"
+    "group": "871",
+    "class": "8714",
+    "code": "18619",
+    "description": "AR CONDICIONADO VEICULO - INSTALACAO / MONTAGEM / MANUTENCAO"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "18678",
-    "descricao": "MANUTENCAO DE VEICULOS LEVES - INJECAO ELETRONICA"
+    "group": "871",
+    "class": "8714",
+    "code": "18678",
+    "description": "MANUTENCAO DE VEICULOS LEVES - INJECAO ELETRONICA"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "18937",
-    "descricao": "MANUTENCAO AERONAVE - TRANSFORMADOR / GERADOR"
+    "group": "871",
+    "class": "8714",
+    "code": "18937",
+    "description": "MANUTENCAO AERONAVE - TRANSFORMADOR / GERADOR"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "19402",
-    "descricao": "MANUTENCAO EMPILHADEIRA / PALETEIRA"
+    "group": "871",
+    "class": "8714",
+    "code": "19402",
+    "description": "MANUTENCAO EMPILHADEIRA / PALETEIRA"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "20303",
-    "descricao": "MANUTENCAO MAQUINA LAVAR - VEICULO AUTOMOTIVO"
+    "group": "871",
+    "class": "8714",
+    "code": "20303",
+    "description": "MANUTENCAO MAQUINA LAVAR - VEICULO AUTOMOTIVO"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "20311",
-    "descricao": "MANUTENÇÃO MACACO HIDRÁULICO / MECÂNICO / FUSO ESFERA"
+    "group": "871",
+    "class": "8714",
+    "code": "20311",
+    "description": "MANUTENÇÃO MACACO HIDRÁULICO / MECÂNICO / FUSO ESFERA"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "20320",
-    "descricao": "MANUTENCAO PROPULSOR GRAXA/OLEO"
+    "group": "871",
+    "class": "8714",
+    "code": "20320",
+    "description": "MANUTENCAO PROPULSOR GRAXA/OLEO"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "20338",
-    "descricao": "MANUTENCAO ELEVADOR HIDRAULICO/ELETRICO - VEICULO AUTOMOTIVO"
+    "group": "871",
+    "class": "8714",
+    "code": "20338",
+    "description": "MANUTENCAO ELEVADOR HIDRAULICO/ELETRICO - VEICULO AUTOMOTIVO"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "21776",
-    "descricao": "TROCA FILTRO - VEICULO AUTOMOTIVO"
+    "group": "871",
+    "class": "8714",
+    "code": "21776",
+    "description": "TROCA FILTRO - VEICULO AUTOMOTIVO"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "22853",
-    "descricao": "REMOCAO / INSTALACAO / REPARO - CAIXA MARCHA"
+    "group": "871",
+    "class": "8714",
+    "code": "22853",
+    "description": "REMOCAO / INSTALACAO / REPARO - CAIXA MARCHA"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "25216",
-    "descricao": "SERVICO REVISAO AUTOMOTIVA"
+    "group": "871",
+    "class": "8714",
+    "code": "25216",
+    "description": "SERVICO REVISAO AUTOMOTIVA"
   },
   {
-    "grupo": "871",
-    "classe": "8714",
-    "codigo": "27790",
-    "descricao": "MANUTENCAO DE MATERIAL ROLANTE (RODAS E LARGATAS) - VEICULOS LEVE, PESADOS E MECANIZADOS"
+    "group": "871",
+    "class": "8714",
+    "code": "27790",
+    "description": "MANUTENCAO DE MATERIAL ROLANTE (RODAS E LARGATAS) - VEICULOS LEVE, PESADOS E MECANIZADOS"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "2178",
-    "descricao": "INSTALACAO E MONTAGEM PARA EQUIPAMENTOS DE PROCESSAMENTO DE DADOS"
+    "group": "871",
+    "class": "8715",
+    "code": "2178",
+    "description": "INSTALACAO E MONTAGEM PARA EQUIPAMENTOS DE PROCESSAMENTO DE DADOS"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "2313",
-    "descricao": "MANUTENCAO DE COMPRESSORES"
+    "group": "871",
+    "class": "8715",
+    "code": "2313",
+    "description": "MANUTENCAO DE COMPRESSORES"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "2658",
-    "descricao": "MANUTENCAO / INSTALACAO - NOBREAK"
+    "group": "871",
+    "class": "8715",
+    "code": "2658",
+    "description": "MANUTENCAO / INSTALACAO - NOBREAK"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "2666",
-    "descricao": "MANUTENCAO DE EQUIPAMENTOS DE COMUTACAO TELEFONICA"
+    "group": "871",
+    "class": "8715",
+    "code": "2666",
+    "description": "MANUTENCAO DE EQUIPAMENTOS DE COMUTACAO TELEFONICA"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "2674",
-    "descricao": "MANUTENCAO DE EQUIPAMENTOS DE COMUTACAO TELEGRAFICA"
+    "group": "871",
+    "class": "8715",
+    "code": "2674",
+    "description": "MANUTENCAO DE EQUIPAMENTOS DE COMUTACAO TELEGRAFICA"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "2682",
-    "descricao": "MANUTENCAO DE EQUIPAMENTOS DE TRANSMISSAO MULTIPLEX TELEFONICA"
+    "group": "871",
+    "class": "8715",
+    "code": "2682",
+    "description": "MANUTENCAO DE EQUIPAMENTOS DE TRANSMISSAO MULTIPLEX TELEFONICA"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "2690",
-    "descricao": "MANUTENCAO DE EQUIPAMENTOS DE TRANSMISSAO MULTIPLEX  TELEGRAFICA"
+    "group": "871",
+    "class": "8715",
+    "code": "2690",
+    "description": "MANUTENCAO DE EQUIPAMENTOS DE TRANSMISSAO MULTIPLEX  TELEGRAFICA"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "2712",
-    "descricao": "MANUTENCAO DE EQUIPAMENTOS DE COMUNICACAO DE DADOS"
+    "group": "871",
+    "class": "8715",
+    "code": "2712",
+    "description": "MANUTENCAO DE EQUIPAMENTOS DE COMUNICACAO DE DADOS"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "2968",
-    "descricao": "MANUTENCAO EM EQUIPAMENTO DE INJECAO EM TERMOPLASTICO"
+    "group": "871",
+    "class": "8715",
+    "code": "2968",
+    "description": "MANUTENCAO EM EQUIPAMENTO DE INJECAO EM TERMOPLASTICO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "2976",
-    "descricao": "MANUTENCAO EM EQUIPAMENTO DE INJECAO EM ZAMAK"
+    "group": "871",
+    "class": "8715",
+    "code": "2976",
+    "description": "MANUTENCAO EM EQUIPAMENTO DE INJECAO EM ZAMAK"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "2984",
-    "descricao": "MANUTENCAO EM EQUIPAMENTO DE MOLDAGEM EM RESINAS TERMOFIXAS"
+    "group": "871",
+    "class": "8715",
+    "code": "2984",
+    "description": "MANUTENCAO EM EQUIPAMENTO DE MOLDAGEM EM RESINAS TERMOFIXAS"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "2992",
-    "descricao": "MANUTENCAO EM EQUIPAMENTO DE MOLDAGEM EM FIBRA DE VIDRO"
+    "group": "871",
+    "class": "8715",
+    "code": "2992",
+    "description": "MANUTENCAO EM EQUIPAMENTO DE MOLDAGEM EM FIBRA DE VIDRO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "3000",
-    "descricao": "MANUTENCAO EM EQUIPAMENTO DE MOLDAGEM EM ELASTOMERO"
+    "group": "871",
+    "class": "8715",
+    "code": "3000",
+    "description": "MANUTENCAO EM EQUIPAMENTO DE MOLDAGEM EM ELASTOMERO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "3018",
-    "descricao": "MANUTENCAO EM EQUIPAMENTO DE EXTRUSAO EM ELASTOMERO"
+    "group": "871",
+    "class": "8715",
+    "code": "3018",
+    "description": "MANUTENCAO EM EQUIPAMENTO DE EXTRUSAO EM ELASTOMERO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "3026",
-    "descricao": "MANUTENCAO DE FORJAS"
+    "group": "871",
+    "class": "8715",
+    "code": "3026",
+    "description": "MANUTENCAO DE FORJAS"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "3034",
-    "descricao": "MANUTENCAO EM EQUIPAMENTO DE FUNDICAO EM FERRO FUNDIDO"
+    "group": "871",
+    "class": "8715",
+    "code": "3034",
+    "description": "MANUTENCAO EM EQUIPAMENTO DE FUNDICAO EM FERRO FUNDIDO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "3042",
-    "descricao": "MANUTENCAO EM EQUIPAMENTO DE FUNDICAO EM ACO CARBONO"
+    "group": "871",
+    "class": "8715",
+    "code": "3042",
+    "description": "MANUTENCAO EM EQUIPAMENTO DE FUNDICAO EM ACO CARBONO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "3050",
-    "descricao": "MANUTENCAO EM EQUIPAMENTO DE FUNDICAO EM ACO INOX"
+    "group": "871",
+    "class": "8715",
+    "code": "3050",
+    "description": "MANUTENCAO EM EQUIPAMENTO DE FUNDICAO EM ACO INOX"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "3069",
-    "descricao": "MANUTENCAO EM EQUIPAMENTO DE FUNDICAO EM ALUMINIO"
+    "group": "871",
+    "class": "8715",
+    "code": "3069",
+    "description": "MANUTENCAO EM EQUIPAMENTO DE FUNDICAO EM ALUMINIO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "3077",
-    "descricao": "MANUTENCAO EM EQUIPAMENTO DE FUNDICAO EM COBRE"
+    "group": "871",
+    "class": "8715",
+    "code": "3077",
+    "description": "MANUTENCAO EM EQUIPAMENTO DE FUNDICAO EM COBRE"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "3085",
-    "descricao": "MANUTENCAO EM EQUIPAMENTO DE ESTAMPARIA EM METAL"
+    "group": "871",
+    "class": "8715",
+    "code": "3085",
+    "description": "MANUTENCAO EM EQUIPAMENTO DE ESTAMPARIA EM METAL"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "3093",
-    "descricao": "MANUTENCAO EM EQUIPAMENTO DE SERRALHARIA"
+    "group": "871",
+    "class": "8715",
+    "code": "3093",
+    "description": "MANUTENCAO EM EQUIPAMENTO DE SERRALHARIA"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "3107",
-    "descricao": "MANUTENCAO DE CALDEIRARIA"
+    "group": "871",
+    "class": "8715",
+    "code": "3107",
+    "description": "MANUTENCAO DE CALDEIRARIA"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "3115",
-    "descricao": "MANUTENCAO DE USINAGEM"
+    "group": "871",
+    "class": "8715",
+    "code": "3115",
+    "description": "MANUTENCAO DE USINAGEM"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "3123",
-    "descricao": "MANUTENCAO EM EQUIPAMENTO DE SOLDAGEM"
+    "group": "871",
+    "class": "8715",
+    "code": "3123",
+    "description": "MANUTENCAO EM EQUIPAMENTO DE SOLDAGEM"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "3492",
-    "descricao": "AR CONDICIONADO - MANUTENCAO DE APARELHOS DE PAREDE"
+    "group": "871",
+    "class": "8715",
+    "code": "3492",
+    "description": "AR CONDICIONADO - MANUTENCAO DE APARELHOS DE PAREDE"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "3506",
-    "descricao": "MANUTENCAO DE GELADEIRAS E BEBEDOUROS"
+    "group": "871",
+    "class": "8715",
+    "code": "3506",
+    "description": "MANUTENCAO DE GELADEIRAS E BEBEDOUROS"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "3514",
-    "descricao": "MANUTENCAO DE RELOGIOS DE PONTO"
+    "group": "871",
+    "class": "8715",
+    "code": "3514",
+    "description": "MANUTENCAO DE RELOGIOS DE PONTO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "3522",
-    "descricao": "MANUTENCAO DE EQUIPAMENTOS DE MICROFILMAGEM"
+    "group": "871",
+    "class": "8715",
+    "code": "3522",
+    "description": "MANUTENCAO DE EQUIPAMENTOS DE MICROFILMAGEM"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "4405",
-    "descricao": "LOCACAO / MANUTENCAO  DE EQUIPAMENTOS PERMANENTES"
+    "group": "871",
+    "class": "8715",
+    "code": "4405",
+    "description": "LOCACAO / MANUTENCAO  DE EQUIPAMENTOS PERMANENTES"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "5088",
-    "descricao": "MANUTENCAO DE USINAGEM ATE 5T"
+    "group": "871",
+    "class": "8715",
+    "code": "5088",
+    "description": "MANUTENCAO DE USINAGEM ATE 5T"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "5096",
-    "descricao": "MANUTENCAO DE USINAGEM ACIMA DE 5T"
+    "group": "871",
+    "class": "8715",
+    "code": "5096",
+    "description": "MANUTENCAO DE USINAGEM ACIMA DE 5T"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "5428",
-    "descricao": "MANUTENCAO APARELHOS MEDICOS - HOSPITALARES"
+    "group": "871",
+    "class": "8715",
+    "code": "5428",
+    "description": "MANUTENCAO APARELHOS MEDICOS - HOSPITALARES"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "5444",
-    "descricao": "MANUTENCAO DE ARQUIVOS FIXOS, GIRATORIOS OU MOVEIS"
+    "group": "871",
+    "class": "8715",
+    "code": "5444",
+    "description": "MANUTENCAO DE ARQUIVOS FIXOS, GIRATORIOS OU MOVEIS"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "5479",
-    "descricao": "MANUTENCAO - EQUIPAMENTOS GRAFICOS"
+    "group": "871",
+    "class": "8715",
+    "code": "5479",
+    "description": "MANUTENCAO - EQUIPAMENTOS GRAFICOS"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "5517",
-    "descricao": "MANUTENCAO E REPARO DE EQUIPAMENTO AUDIO / VISUAL"
+    "group": "871",
+    "class": "8715",
+    "code": "5517",
+    "description": "MANUTENCAO E REPARO DE EQUIPAMENTO AUDIO / VISUAL"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "5649",
-    "descricao": "ENROLAMENTO ( REBOBINAMENTO ) DE CAMPO DE GERADOR ELETRICO"
+    "group": "871",
+    "class": "8715",
+    "code": "5649",
+    "description": "ENROLAMENTO ( REBOBINAMENTO ) DE CAMPO DE GERADOR ELETRICO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "5665",
-    "descricao": "ENROLAMENTO DO ROTOR DO GERADOR ELETRICO"
+    "group": "871",
+    "class": "8715",
+    "code": "5665",
+    "description": "ENROLAMENTO DO ROTOR DO GERADOR ELETRICO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "5835",
-    "descricao": "MANUTENCAO EM PROJETOR DE IMAGEM"
+    "group": "871",
+    "class": "8715",
+    "code": "5835",
+    "description": "MANUTENCAO EM PROJETOR DE IMAGEM"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "5975",
-    "descricao": "MANUTENCAO EM MAQUINA FRANQUEADORA POSTAL"
+    "group": "871",
+    "class": "8715",
+    "code": "5975",
+    "description": "MANUTENCAO EM MAQUINA FRANQUEADORA POSTAL"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "5983",
-    "descricao": "MANUTENCAO EM MAQUINA DE CONTAR NOTAS E MOEDAS"
+    "group": "871",
+    "class": "8715",
+    "code": "5983",
+    "description": "MANUTENCAO EM MAQUINA DE CONTAR NOTAS E MOEDAS"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "5991",
-    "descricao": "MANUTENCAO EM MAQUINA FRAGMENTADORA DE PAPEL"
+    "group": "871",
+    "class": "8715",
+    "code": "5991",
+    "description": "MANUTENCAO EM MAQUINA FRAGMENTADORA DE PAPEL"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "6009",
-    "descricao": "MANUTENCAO EM MAQUINA AUTENTICADORA DE CHEQUE / DOCUMENTO"
+    "group": "871",
+    "class": "8715",
+    "code": "6009",
+    "description": "MANUTENCAO EM MAQUINA AUTENTICADORA DE CHEQUE / DOCUMENTO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "8869",
-    "descricao": "MANUTENCAO DE CARROSSEL TRANSPORTADOR DE BAGAGEM"
+    "group": "871",
+    "class": "8715",
+    "code": "8869",
+    "description": "MANUTENCAO DE CARROSSEL TRANSPORTADOR DE BAGAGEM"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "8877",
-    "descricao": "INSTALACAO E MONTAGEM DE CARROSSEL TRANSPORTADOR DE BAGAGEM"
+    "group": "871",
+    "class": "8715",
+    "code": "8877",
+    "description": "INSTALACAO E MONTAGEM DE CARROSSEL TRANSPORTADOR DE BAGAGEM"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "8893",
-    "descricao": "MANUTENCAO SISTEMA INFORMATIVO VOO - AEROPORTO"
+    "group": "871",
+    "class": "8715",
+    "code": "8893",
+    "description": "MANUTENCAO SISTEMA INFORMATIVO VOO - AEROPORTO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "8907",
-    "descricao": "INSTALACAO/ MANUTENCAO DE ESTEIRA TRANSPORTADORA E PALETEIRA"
+    "group": "871",
+    "class": "8715",
+    "code": "8907",
+    "description": "INSTALACAO/ MANUTENCAO DE ESTEIRA TRANSPORTADORA E PALETEIRA"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "8915",
-    "descricao": "MANUTENCAO SISTEMA DOCAGEM - AERONAVE"
+    "group": "871",
+    "class": "8715",
+    "code": "8915",
+    "description": "MANUTENCAO SISTEMA DOCAGEM - AERONAVE"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "9989",
-    "descricao": "MANUTENCAO E REPARO DE APARELHOS ELETRODOMESTICOS"
+    "group": "871",
+    "class": "8715",
+    "code": "9989",
+    "description": "MANUTENCAO E REPARO DE APARELHOS ELETRODOMESTICOS"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "10120",
-    "descricao": "MANUTENCAO EM MAQUINA DE PLASTIFICAR DOCUMENTOS"
+    "group": "871",
+    "class": "8715",
+    "code": "10120",
+    "description": "MANUTENCAO EM MAQUINA DE PLASTIFICAR DOCUMENTOS"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "12661",
-    "descricao": "MANUTENCAO E REPARO EM BALANCAS MECANICAS / ELETRONICAS"
+    "group": "871",
+    "class": "8715",
+    "code": "12661",
+    "description": "MANUTENCAO E REPARO EM BALANCAS MECANICAS / ELETRONICAS"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "12670",
-    "descricao": "MANUTENCAO E REPARO DE IMPLEMENTO AGRICOLA"
+    "group": "871",
+    "class": "8715",
+    "code": "12670",
+    "description": "MANUTENCAO E REPARO DE IMPLEMENTO AGRICOLA"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "12734",
-    "descricao": "MANUTENCAO DE EQUIPAMENTO DE CONFECCAO DE PLACA DE  CIRCUITOIMPRESSO"
+    "group": "871",
+    "class": "8715",
+    "code": "12734",
+    "description": "MANUTENCAO DE EQUIPAMENTO DE CONFECCAO DE PLACA DE  CIRCUITOIMPRESSO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "12742",
-    "descricao": "MANUTENCAO EM MICROSCOPIO OPTICO"
+    "group": "871",
+    "class": "8715",
+    "code": "12742",
+    "description": "MANUTENCAO EM MICROSCOPIO OPTICO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "12815",
-    "descricao": "MANUTENCAO E REPARO DE CILINDRO / PISTAO HIDRAULICO"
+    "group": "871",
+    "class": "8715",
+    "code": "12815",
+    "description": "MANUTENCAO E REPARO DE CILINDRO / PISTAO HIDRAULICO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "13048",
-    "descricao": "MANUTENCAO DE SECADORA INDUSTRIAL DE ROUPA"
+    "group": "871",
+    "class": "8715",
+    "code": "13048",
+    "description": "MANUTENCAO DE SECADORA INDUSTRIAL DE ROUPA"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "13056",
-    "descricao": "MANUTENCAO DE LAVADORA INDUSTRIAL DE ROUPA"
+    "group": "871",
+    "class": "8715",
+    "code": "13056",
+    "description": "MANUTENCAO DE LAVADORA INDUSTRIAL DE ROUPA"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "13064",
-    "descricao": "MANUTENCAO DE CENTRIFUGA DE SECAGEM INDUSTRIAL DE ROUPA"
+    "group": "871",
+    "class": "8715",
+    "code": "13064",
+    "description": "MANUTENCAO DE CENTRIFUGA DE SECAGEM INDUSTRIAL DE ROUPA"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "13072",
-    "descricao": "MANUTENCAO DE CALANDRA TIPO INDUSTRIAL"
+    "group": "871",
+    "class": "8715",
+    "code": "13072",
+    "description": "MANUTENCAO DE CALANDRA TIPO INDUSTRIAL"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "13528",
-    "descricao": "MANUTENCAO DE APARELHO OFTALMOLOGICO"
+    "group": "871",
+    "class": "8715",
+    "code": "13528",
+    "description": "MANUTENCAO DE APARELHO OFTALMOLOGICO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "13536",
-    "descricao": "MANUTENCAO / REPARO DE APARELHO OPTICO"
+    "group": "871",
+    "class": "8715",
+    "code": "13536",
+    "description": "MANUTENCAO / REPARO DE APARELHO OPTICO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "13773",
-    "descricao": "MANUTENCAO E REPARO DE EQUIPAMENTOS DE TOPOGRAFIA"
+    "group": "871",
+    "class": "8715",
+    "code": "13773",
+    "description": "MANUTENCAO E REPARO DE EQUIPAMENTOS DE TOPOGRAFIA"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "13994",
-    "descricao": "MANUTENCAO E REPARO DE EQUIPAMENTO AVIONICO"
+    "group": "871",
+    "class": "8715",
+    "code": "13994",
+    "description": "MANUTENCAO E REPARO DE EQUIPAMENTO AVIONICO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "14656",
-    "descricao": "MANUTENCAO DE EQUIPAMENTO - LIQUEFACAO / FABRICACAO DE GAS /PRODUCAO DE GAS"
+    "group": "871",
+    "class": "8715",
+    "code": "14656",
+    "description": "MANUTENCAO DE EQUIPAMENTO - LIQUEFACAO / FABRICACAO DE GAS /PRODUCAO DE GAS"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "15679",
-    "descricao": "MANUTENCAO DE MAQUINA PARA COMPACTACAO DE PRODUTO"
+    "group": "871",
+    "class": "8715",
+    "code": "15679",
+    "description": "MANUTENCAO DE MAQUINA PARA COMPACTACAO DE PRODUTO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "15709",
-    "descricao": "INSTALACAO / MONTAGEM / MANUTENCAO EQUIPAMENTO - IRRIGACAO /AGROINDUSTRIAIS"
+    "group": "871",
+    "class": "8715",
+    "code": "15709",
+    "description": "INSTALACAO / MONTAGEM / MANUTENCAO EQUIPAMENTO - IRRIGACAO /AGROINDUSTRIAIS"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "15792",
-    "descricao": "INSTALACAO / MANUTENCAO - EQUIPAMENTO ELETROELETRONICO"
+    "group": "871",
+    "class": "8715",
+    "code": "15792",
+    "description": "INSTALACAO / MANUTENCAO - EQUIPAMENTO ELETROELETRONICO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "15849",
-    "descricao": "MANUTENCAO E REPARO EM MAQUINA DE COSTURA"
+    "group": "871",
+    "class": "8715",
+    "code": "15849",
+    "description": "MANUTENCAO E REPARO EM MAQUINA DE COSTURA"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "15970",
-    "descricao": "MANUTENCAO / REPARO / REFORMA - MAQUINA PARA  FABRICACAO  DEPAPEL"
+    "group": "871",
+    "class": "8715",
+    "code": "15970",
+    "description": "MANUTENCAO / REPARO / REFORMA - MAQUINA PARA  FABRICACAO  DEPAPEL"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "15989",
-    "descricao": "MANUTENCAO E REPARO - ACOPLAMENTO / VARIADOR / FREIO  HIDRO-DINAMICO"
+    "group": "871",
+    "class": "8715",
+    "code": "15989",
+    "description": "MANUTENCAO E REPARO - ACOPLAMENTO / VARIADOR / FREIO  HIDRO-DINAMICO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "16047",
-    "descricao": "MANUTENCAO E REPARO DE AUDIOMETRO / IPEDANCIOMETRO"
+    "group": "871",
+    "class": "8715",
+    "code": "16047",
+    "description": "MANUTENCAO E REPARO DE AUDIOMETRO / IPEDANCIOMETRO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "16055",
-    "descricao": "MANUTENCAO E REPARO EM EQUIPAMENTO - USO MEDICO"
+    "group": "871",
+    "class": "8715",
+    "code": "16055",
+    "description": "MANUTENCAO E REPARO EM EQUIPAMENTO - USO MEDICO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "16144",
-    "descricao": "MANUTENCAO DE EQUIPAMENTO DE GAS - CENTRAL DE CONTROLE"
+    "group": "871",
+    "class": "8715",
+    "code": "16144",
+    "description": "MANUTENCAO DE EQUIPAMENTO DE GAS - CENTRAL DE CONTROLE"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "16284",
-    "descricao": "MANUTENCAO E REPARO EM EQUIPAMENTO DE CONDICIONAMENTO FISICO/ ERGOMETRICO"
+    "group": "871",
+    "class": "8715",
+    "code": "16284",
+    "description": "MANUTENCAO E REPARO EM EQUIPAMENTO DE CONDICIONAMENTO FISICO/ ERGOMETRICO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "16314",
-    "descricao": "INSTALACAO / MANUTENCAO / REPARO - EQUIPAMENTO LABORATORIO"
+    "group": "871",
+    "class": "8715",
+    "code": "16314",
+    "description": "INSTALACAO / MANUTENCAO / REPARO - EQUIPAMENTO LABORATORIO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "16322",
-    "descricao": "MANUTENCAO E REPARO - TERMOHIGROGRAFO"
+    "group": "871",
+    "class": "8715",
+    "code": "16322",
+    "description": "MANUTENCAO E REPARO - TERMOHIGROGRAFO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "16373",
-    "descricao": "MANUTENCAO E REPARO - TURBOALIMENTADOR"
+    "group": "871",
+    "class": "8715",
+    "code": "16373",
+    "description": "MANUTENCAO E REPARO - TURBOALIMENTADOR"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "16691",
-    "descricao": "INSPECAO E AVALIACAO DE MANUTENCAO - ELEVADOR / ESCADA ROLANTE"
+    "group": "871",
+    "class": "8715",
+    "code": "16691",
+    "description": "INSPECAO E AVALIACAO DE MANUTENCAO - ELEVADOR / ESCADA ROLANTE"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "17515",
-    "descricao": "MANUTENCAO DE EQUIPAMENTO OCEANOGRAFICO"
+    "group": "871",
+    "class": "8715",
+    "code": "17515",
+    "description": "MANUTENCAO DE EQUIPAMENTO OCEANOGRAFICO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "17523",
-    "descricao": "MANUTENCAO EQUIPAMENTO NAVEGACAO"
+    "group": "871",
+    "class": "8715",
+    "code": "17523",
+    "description": "MANUTENCAO EQUIPAMENTO NAVEGACAO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "17531",
-    "descricao": "ASSISTENCIA TECNICA / MANUTENCAO - EQUIPAMENTO FLUXO LAMINAR"
+    "group": "871",
+    "class": "8715",
+    "code": "17531",
+    "description": "ASSISTENCIA TECNICA / MANUTENCAO - EQUIPAMENTO FLUXO LAMINAR"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "17604",
-    "descricao": "MANUTENCAO RELOGIO DATADOR / NUMERADOR"
+    "group": "871",
+    "class": "8715",
+    "code": "17604",
+    "description": "MANUTENCAO RELOGIO DATADOR / NUMERADOR"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "17930",
-    "descricao": "MANUTENCAO E REPARO - MAQUINA / EQUIPAMENTO FOTOGRAFICO"
+    "group": "871",
+    "class": "8715",
+    "code": "17930",
+    "description": "MANUTENCAO E REPARO - MAQUINA / EQUIPAMENTO FOTOGRAFICO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "18066",
-    "descricao": "MANUTENCAO E REPARO - HELICE"
+    "group": "871",
+    "class": "8715",
+    "code": "18066",
+    "description": "MANUTENCAO E REPARO - HELICE"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "18660",
-    "descricao": "MANUTENCAO EQUIPAMENTO - DEDETIZACAO / PULVERIZACAO"
+    "group": "871",
+    "class": "8715",
+    "code": "18660",
+    "description": "MANUTENCAO EQUIPAMENTO - DEDETIZACAO / PULVERIZACAO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "18945",
-    "descricao": "MANUTENCAO E REPARO DE GUARDA-CHUVA / GUARDA-SOL"
+    "group": "871",
+    "class": "8715",
+    "code": "18945",
+    "description": "MANUTENCAO E REPARO DE GUARDA-CHUVA / GUARDA-SOL"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "19186",
-    "descricao": "MANUTENCAO EQUIPAMENTO EMBALAGEM"
+    "group": "871",
+    "class": "8715",
+    "code": "19186",
+    "description": "MANUTENCAO EQUIPAMENTO EMBALAGEM"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "19410",
-    "descricao": "INSTALACAO / MANUTENCAO - DISSOLUTOR"
+    "group": "871",
+    "class": "8715",
+    "code": "19410",
+    "description": "INSTALACAO / MANUTENCAO - DISSOLUTOR"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "19429",
-    "descricao": "INSTALACAO / MANUTENCAO - SISTEMA AR COMPRIMIDO"
+    "group": "871",
+    "class": "8715",
+    "code": "19429",
+    "description": "INSTALACAO / MANUTENCAO - SISTEMA AR COMPRIMIDO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "19747",
-    "descricao": "INSTALACAO / MANUTENCAO - ENERGIA SOLAR FOTOVOTAICA"
+    "group": "871",
+    "class": "8715",
+    "code": "19747",
+    "description": "INSTALACAO / MANUTENCAO - ENERGIA SOLAR FOTOVOTAICA"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "19810",
-    "descricao": "MANUTENCAO GERADOR ELETRICO"
+    "group": "871",
+    "class": "8715",
+    "code": "19810",
+    "description": "MANUTENCAO GERADOR ELETRICO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "20001",
-    "descricao": "MANUTENCAO / REPARO - PROCESSADORA FILME"
+    "group": "871",
+    "class": "8715",
+    "code": "20001",
+    "description": "MANUTENCAO / REPARO - PROCESSADORA FILME"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "20109",
-    "descricao": "MANUTENCAO MAQUINA AGRICOLA"
+    "group": "871",
+    "class": "8715",
+    "code": "20109",
+    "description": "MANUTENCAO MAQUINA AGRICOLA"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "20192",
-    "descricao": "MANUTENCAO / REPARO - EQUIPAMENTO BENEFICIAMENTO DE GRAO"
+    "group": "871",
+    "class": "8715",
+    "code": "20192",
+    "description": "MANUTENCAO / REPARO - EQUIPAMENTO BENEFICIAMENTO DE GRAO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "20265",
-    "descricao": "INSTALACAO / MANUTENCAO - EQUIPAMENTOS INDUSTRIAIS"
+    "group": "871",
+    "class": "8715",
+    "code": "20265",
+    "description": "INSTALACAO / MANUTENCAO - EQUIPAMENTOS INDUSTRIAIS"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "20532",
-    "descricao": "MANUTENCAO E REPARO EM EQUIPAMENTO - USO VETERINARIO"
+    "group": "871",
+    "class": "8715",
+    "code": "20532",
+    "description": "MANUTENCAO E REPARO EM EQUIPAMENTO - USO VETERINARIO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "21628",
-    "descricao": "MANUTENCAO FILTRO / PURIFICADOR AGUA"
+    "group": "871",
+    "class": "8715",
+    "code": "21628",
+    "description": "MANUTENCAO FILTRO / PURIFICADOR AGUA"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "22241",
-    "descricao": "MANUTENCAO E REPARO MAQUINA PROTOCOLIZADORA"
+    "group": "871",
+    "class": "8715",
+    "code": "22241",
+    "description": "MANUTENCAO E REPARO MAQUINA PROTOCOLIZADORA"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "22268",
-    "descricao": "MANUTENCAO MAQUINA LAVAR - CONCRETO"
+    "group": "871",
+    "class": "8715",
+    "code": "22268",
+    "description": "MANUTENCAO MAQUINA LAVAR - CONCRETO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "22314",
-    "descricao": "MANUTENCAO / REPARO ESTABILIZADOR VOLTAGEM"
+    "group": "871",
+    "class": "8715",
+    "code": "22314",
+    "description": "MANUTENCAO / REPARO ESTABILIZADOR VOLTAGEM"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "22454",
-    "descricao": "AR CONDICIONADO - MANUTENCAO SISTEMA CENTRAL"
+    "group": "871",
+    "class": "8715",
+    "code": "22454",
+    "description": "AR CONDICIONADO - MANUTENCAO SISTEMA CENTRAL"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "22489",
-    "descricao": "MANUTENCAO TELESCOPIO"
+    "group": "871",
+    "class": "8715",
+    "code": "22489",
+    "description": "MANUTENCAO TELESCOPIO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "22616",
-    "descricao": "MONTAGEM/DESMONTAGEM/MANUTENCAO-MAQUINA DE FRANQUEAR"
+    "group": "871",
+    "class": "8715",
+    "code": "22616",
+    "description": "MONTAGEM/DESMONTAGEM/MANUTENCAO-MAQUINA DE FRANQUEAR"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "22691",
-    "descricao": "MANUTENCAO / REPARO - EQUIPAMENTO INVERSOR DE FREQUENCIA"
+    "group": "871",
+    "class": "8715",
+    "code": "22691",
+    "description": "MANUTENCAO / REPARO - EQUIPAMENTO INVERSOR DE FREQUENCIA"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "22837",
-    "descricao": "MANUTENCAO SISTEMA TRATAMENTO D'AGUA - MAQUINA HEMODIALISE /SISTEMA CENTRAL DE VENTILAÇÃO"
+    "group": "871",
+    "class": "8715",
+    "code": "22837",
+    "description": "MANUTENCAO SISTEMA TRATAMENTO D'AGUA - MAQUINA HEMODIALISE /SISTEMA CENTRAL DE VENTILAÇÃO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "23035",
-    "descricao": "MANUTENCAO EM EQUIPAMENTO DE ABSORCAO ATOMICA"
+    "group": "871",
+    "class": "8715",
+    "code": "23035",
+    "description": "MANUTENCAO EM EQUIPAMENTO DE ABSORCAO ATOMICA"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "24520",
-    "descricao": "MANUTENCAO PISTA DUTO"
+    "group": "871",
+    "class": "8715",
+    "code": "24520",
+    "description": "MANUTENCAO PISTA DUTO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "24538",
-    "descricao": "MANUTENCAO INDUSTRIAL"
+    "group": "871",
+    "class": "8715",
+    "code": "24538",
+    "description": "MANUTENCAO INDUSTRIAL"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "24546",
-    "descricao": "MANUTENCAO EQUIPAMENTOS ESTATICOS"
+    "group": "871",
+    "class": "8715",
+    "code": "24546",
+    "description": "MANUTENCAO EQUIPAMENTOS ESTATICOS"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "24554",
-    "descricao": "MANUTENCAO EQUIPAMENTOS DINAMICOS"
+    "group": "871",
+    "class": "8715",
+    "code": "24554",
+    "description": "MANUTENCAO EQUIPAMENTOS DINAMICOS"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "24562",
-    "descricao": "MANUTENCAO - TROCA DE CATALIZADOR"
+    "group": "871",
+    "class": "8715",
+    "code": "24562",
+    "description": "MANUTENCAO - TROCA DE CATALIZADOR"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "24570",
-    "descricao": "MANUTENCAO - EQUIPAMENTOS DE POCOS"
+    "group": "871",
+    "class": "8715",
+    "code": "24570",
+    "description": "MANUTENCAO - EQUIPAMENTOS DE POCOS"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "24880",
-    "descricao": "MANUTENCAO BAFOMETRO - ETILOMETRO"
+    "group": "871",
+    "class": "8715",
+    "code": "24880",
+    "description": "MANUTENCAO BAFOMETRO - ETILOMETRO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "25267",
-    "descricao": "MANUTENCAO / REPARO MAQUINA GELO"
+    "group": "871",
+    "class": "8715",
+    "code": "25267",
+    "description": "MANUTENCAO / REPARO MAQUINA GELO"
   },
   {
-    "grupo": "871",
-    "classe": "8715",
-    "codigo": "27936",
-    "descricao": "MANUTENÇÃO / REPARO DE TANQUES E RESERVATÓRIOS FLEXÍVEIS DE COMBUSTÍVEL"
+    "group": "871",
+    "class": "8715",
+    "code": "27936",
+    "description": "MANUTENÇÃO / REPARO DE TANQUES E RESERVATÓRIOS FLEXÍVEIS DE COMBUSTÍVEL"
   }
 ]

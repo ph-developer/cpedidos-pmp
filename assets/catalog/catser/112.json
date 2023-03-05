@@ -1,14 +1,14 @@
 [
   {
-    "grupo": "112",
-    "classe": "1121",
-    "codigo": "25992",
-    "descricao": "MANUTENCAO DE SOFTWARE (CORRETIVA, PREVENTIVA, ADAPTATIVA)"
+    "group": "112",
+    "class": "1121",
+    "code": "25992",
+    "description": "MANUTENCAO DE SOFTWARE (CORRETIVA, PREVENTIVA, ADAPTATIVA)"
   },
   {
-    "grupo": "112",
-    "classe": "1121",
-    "codigo": "26000",
-    "descricao": "SUSTENTACAO DE SOFTWARE"
+    "group": "112",
+    "class": "1121",
+    "code": "26000",
+    "description": "SUSTENTACAO DE SOFTWARE"
   }
 ]

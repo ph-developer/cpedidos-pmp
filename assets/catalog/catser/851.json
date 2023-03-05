@@ -1,296 +1,296 @@
 [
   {
-    "grupo": "851",
-    "classe": "'-7",
-    "codigo": "4081",
-    "descricao": "PRESTACAO DE SERVICOS TEMPORARIOS"
+    "group": "851",
+    "class": "'-7",
+    "code": "4081",
+    "description": "PRESTACAO DE SERVICOS TEMPORARIOS"
   },
   {
-    "grupo": "851",
-    "classe": "'-7",
-    "codigo": "5274",
-    "descricao": "PODA DE ARVORES EM LINHAS DE DISTRIBUICAO DESENERGIZADAS"
+    "group": "851",
+    "class": "'-7",
+    "code": "5274",
+    "description": "PODA DE ARVORES EM LINHAS DE DISTRIBUICAO DESENERGIZADAS"
   },
   {
-    "grupo": "851",
-    "classe": "'-7",
-    "codigo": "5282",
-    "descricao": "PODA DE ARVORES EM LINHAS DE DISTRIBUICAO ENERGIZADAS"
+    "group": "851",
+    "class": "'-7",
+    "code": "5282",
+    "description": "PODA DE ARVORES EM LINHAS DE DISTRIBUICAO ENERGIZADAS"
   },
   {
-    "grupo": "851",
-    "classe": "'-7",
-    "codigo": "5355",
-    "descricao": "LEITURA MEDIDOR - ENERGIA ELETRICA"
+    "group": "851",
+    "class": "'-7",
+    "code": "5355",
+    "description": "LEITURA MEDIDOR - ENERGIA ELETRICA"
   },
   {
-    "grupo": "851",
-    "classe": "'-7",
-    "codigo": "10014",
-    "descricao": "RECRUTAMENTO E SELECAO DE PESSOAL / CONCURSO PUBLICO / VESTIBULAR"
+    "group": "851",
+    "class": "'-7",
+    "code": "10014",
+    "description": "RECRUTAMENTO E SELECAO DE PESSOAL / CONCURSO PUBLICO / VESTIBULAR"
   },
   {
-    "grupo": "851",
-    "classe": "'-7",
-    "codigo": "25518",
-    "descricao": "ADMINISTRACAO / GERENCIAMENTO-MANUTENCAO VEICULO AUTOMOTIVO"
+    "group": "851",
+    "class": "'-7",
+    "code": "25518",
+    "description": "ADMINISTRACAO / GERENCIAMENTO-MANUTENCAO VEICULO AUTOMOTIVO"
   },
   {
-    "grupo": "851",
-    "classe": "'-7",
-    "codigo": "25526",
-    "descricao": "SALVA-VIDAS"
+    "group": "851",
+    "class": "'-7",
+    "code": "25526",
+    "description": "SALVA-VIDAS"
   },
   {
-    "grupo": "851",
-    "classe": "'-7",
-    "codigo": "25666",
-    "descricao": "PRESTACAO DE SERVICOS DE CAMAREIRA"
+    "group": "851",
+    "class": "'-7",
+    "code": "25666",
+    "description": "PRESTACAO DE SERVICOS DE CAMAREIRA"
   },
   {
-    "grupo": "851",
-    "classe": "'-7",
-    "codigo": "25704",
-    "descricao": "ASSISTENCIA TECNICA PRODUCAO"
+    "group": "851",
+    "class": "'-7",
+    "code": "25704",
+    "description": "ASSISTENCIA TECNICA PRODUCAO"
   },
   {
-    "grupo": "851",
-    "classe": "'-7",
-    "codigo": "25712",
-    "descricao": "ARMADOR DE FERRAGEM"
+    "group": "851",
+    "class": "'-7",
+    "code": "25712",
+    "description": "ARMADOR DE FERRAGEM"
   },
   {
-    "grupo": "851",
-    "classe": "8511",
-    "codigo": "21385",
-    "descricao": "PESQUISA BOTANICA"
+    "group": "851",
+    "class": "8511",
+    "code": "21385",
+    "description": "PESQUISA BOTANICA"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "8729",
-    "descricao": "PRESTACAO DE SERVICOS DE PORTARIA / RECEPCAO"
+    "group": "851",
+    "class": "8512",
+    "code": "8729",
+    "description": "PRESTACAO DE SERVICOS DE PORTARIA / RECEPCAO"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "9962",
-    "descricao": "MANUTENCAO EM PISCINAS"
+    "group": "851",
+    "class": "8512",
+    "code": "9962",
+    "description": "MANUTENCAO EM PISCINAS"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "13382",
-    "descricao": "INSTRUTOR DE DIRECAO VEICULO AUTOMOTOR - AUTOMOVEL / VEICULOPESADO"
+    "group": "851",
+    "class": "8512",
+    "code": "13382",
+    "description": "INSTRUTOR DE DIRECAO VEICULO AUTOMOTOR - AUTOMOVEL / VEICULOPESADO"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "13390",
-    "descricao": "INSTRUTOR DE DIRECAO VEICULO AUTOMOTOR - MOTOCICLETA"
+    "group": "851",
+    "class": "8512",
+    "code": "13390",
+    "description": "INSTRUTOR DE DIRECAO VEICULO AUTOMOTOR - MOTOCICLETA"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "13439",
-    "descricao": "PRESTACAO DE SERVICOS DE ASCENSORISTA"
+    "group": "851",
+    "class": "8512",
+    "code": "13439",
+    "description": "PRESTACAO DE SERVICOS DE ASCENSORISTA"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "13447",
-    "descricao": "PRESTACAO DE SERVICOS DE TELEFONISTA"
+    "group": "851",
+    "class": "8512",
+    "code": "13447",
+    "description": "PRESTACAO DE SERVICOS DE TELEFONISTA"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "13730",
-    "descricao": "COORDENACAO / CONTROLE DE SERVICO PROJECAO (SLIDE-DESK)"
+    "group": "851",
+    "class": "8512",
+    "code": "13730",
+    "description": "COORDENACAO / CONTROLE DE SERVICO PROJECAO (SLIDE-DESK)"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "14346",
-    "descricao": "PRESTACAO DE SERVICOS DE GARAGISTA / MANOBRISTA"
+    "group": "851",
+    "class": "8512",
+    "code": "14346",
+    "description": "PRESTACAO DE SERVICOS DE GARAGISTA / MANOBRISTA"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "14354",
-    "descricao": "PRESTACAO DE SERVICOS DE ELETRICISTA"
+    "group": "851",
+    "class": "8512",
+    "code": "14354",
+    "description": "PRESTACAO DE SERVICOS DE ELETRICISTA"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "14931",
-    "descricao": "LEITURA MEDIDOR - HIDROMETRO"
+    "group": "851",
+    "class": "8512",
+    "code": "14931",
+    "description": "LEITURA MEDIDOR - HIDROMETRO"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "14940",
-    "descricao": "USINAGEM INDUSTRIAL"
+    "group": "851",
+    "class": "8512",
+    "code": "14940",
+    "description": "USINAGEM INDUSTRIAL"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "15008",
-    "descricao": "PRESTACAO DE SERVICOS DE MOTORISTA"
+    "group": "851",
+    "class": "8512",
+    "code": "15008",
+    "description": "PRESTACAO DE SERVICOS DE MOTORISTA"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "16497",
-    "descricao": "BARBEIRO / CABELEIREIRO / MAQUIADOR"
+    "group": "851",
+    "class": "8512",
+    "code": "16497",
+    "description": "BARBEIRO / CABELEIREIRO / MAQUIADOR"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "19399",
-    "descricao": "PRESTACAO DE SERVICOS DE COZINHEIRO"
+    "group": "851",
+    "class": "8512",
+    "code": "19399",
+    "description": "PRESTACAO DE SERVICOS DE COZINHEIRO"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "19461",
-    "descricao": "ENSAIOS NAO DESTRUTIVOS - SUPERVISAO"
+    "group": "851",
+    "class": "8512",
+    "code": "19461",
+    "description": "ENSAIOS NAO DESTRUTIVOS - SUPERVISAO"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "19534",
-    "descricao": "PRESTACAO DE SERVICOS DE OPERACAO DE MAQUINA AGRICOLA"
+    "group": "851",
+    "class": "8512",
+    "code": "19534",
+    "description": "PRESTACAO DE SERVICOS DE OPERACAO DE MAQUINA AGRICOLA"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "19542",
-    "descricao": "PRESTACAO DE SERVICOS DE LAVANDERIA"
+    "group": "851",
+    "class": "8512",
+    "code": "19542",
+    "description": "PRESTACAO DE SERVICOS DE LAVANDERIA"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "19585",
-    "descricao": "PODOLOGO / MANICURE / PEDICURE"
+    "group": "851",
+    "class": "8512",
+    "code": "19585",
+    "description": "PODOLOGO / MANICURE / PEDICURE"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "20451",
-    "descricao": "PRESTACAO DE SERVICOS DE FRENTISTA"
+    "group": "851",
+    "class": "8512",
+    "code": "20451",
+    "description": "PRESTACAO DE SERVICOS DE FRENTISTA"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "20656",
-    "descricao": "SEMINARIO / PALESTRA"
+    "group": "851",
+    "class": "8512",
+    "code": "20656",
+    "description": "SEMINARIO / PALESTRA"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "22152",
-    "descricao": "PRESTACAO DE SERVICOS DE BOMBEIRO HIDRAULICO"
+    "group": "851",
+    "class": "8512",
+    "code": "22152",
+    "description": "PRESTACAO DE SERVICOS DE BOMBEIRO HIDRAULICO"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "22160",
-    "descricao": "PRESTACAO DE SERVICOS DE PEDREIRO"
+    "group": "851",
+    "class": "8512",
+    "code": "22160",
+    "description": "PRESTACAO DE SERVICOS DE PEDREIRO"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "22187",
-    "descricao": "MONITORIA EXPOSICAO"
+    "group": "851",
+    "class": "8512",
+    "code": "22187",
+    "description": "MONITORIA EXPOSICAO"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "22403",
-    "descricao": "SERVICO PADEIRO"
+    "group": "851",
+    "class": "8512",
+    "code": "22403",
+    "description": "SERVICO PADEIRO"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "22411",
-    "descricao": "TORNEIRO MECANICO"
+    "group": "851",
+    "class": "8512",
+    "code": "22411",
+    "description": "TORNEIRO MECANICO"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "22420",
-    "descricao": "PRESTACAO DE SERVICOS DE ACOUGUEIRO"
+    "group": "851",
+    "class": "8512",
+    "code": "22420",
+    "description": "PRESTACAO DE SERVICOS DE ACOUGUEIRO"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "22446",
-    "descricao": "ASSISTENCIA EMERGENCIAL EM VIAGENS"
+    "group": "851",
+    "class": "8512",
+    "code": "22446",
+    "description": "ASSISTENCIA EMERGENCIAL EM VIAGENS"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "22861",
-    "descricao": "PRESTACAO SERVICO COPA / COZINHA"
+    "group": "851",
+    "class": "8512",
+    "code": "22861",
+    "description": "PRESTACAO SERVICO COPA / COZINHA"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "24236",
-    "descricao": "PRESTACAO DE SERVICO DE JARDINAGEM - CANTEIROS ORNAMENTAIS -44H SEMANAIS DIURNAS - 300 M2/MES"
+    "group": "851",
+    "class": "8512",
+    "code": "24236",
+    "description": "PRESTACAO DE SERVICO DE JARDINAGEM - CANTEIROS ORNAMENTAIS -44H SEMANAIS DIURNAS - 300 M2/MES"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "24244",
-    "descricao": "PRESTACAO DE SERVICO DE JARDINAGEM - CANTEIROS ORNAMENTAIS -44H SEMANAIS DIURNAS - OUTRA PRODUTIVIDADE"
+    "group": "851",
+    "class": "8512",
+    "code": "24244",
+    "description": "PRESTACAO DE SERVICO DE JARDINAGEM - CANTEIROS ORNAMENTAIS -44H SEMANAIS DIURNAS - OUTRA PRODUTIVIDADE"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "24252",
-    "descricao": "PRESTACAO DE SERVICO DE JARDINAGEM - CANTEIROS ORNAMENTAIS -OUTRAS NECESSIDADES - OUTRA PRODUTIVIDADE"
+    "group": "851",
+    "class": "8512",
+    "code": "24252",
+    "description": "PRESTACAO DE SERVICO DE JARDINAGEM - CANTEIROS ORNAMENTAIS -OUTRAS NECESSIDADES - OUTRA PRODUTIVIDADE"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "24260",
-    "descricao": "PRESTACAO DE SERVICO DE JARDINAGEM - GRAMADOS - 44H SEMANAISDIURNAS - 900 M2/MES"
+    "group": "851",
+    "class": "8512",
+    "code": "24260",
+    "description": "PRESTACAO DE SERVICO DE JARDINAGEM - GRAMADOS - 44H SEMANAISDIURNAS - 900 M2/MES"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "24279",
-    "descricao": "PRESTACAO DE SERVICO DE JARDINAGEM - GRAMADOS - 44H SEMANAISDIURNAS - OUTRA PRODUTIVIDADE"
+    "group": "851",
+    "class": "8512",
+    "code": "24279",
+    "description": "PRESTACAO DE SERVICO DE JARDINAGEM - GRAMADOS - 44H SEMANAISDIURNAS - OUTRA PRODUTIVIDADE"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "24287",
-    "descricao": "PRESTACAO DE SERVICO DE JARDINAGEM - GRAMADOS - OUTRAS NECESSIDADES - OUTRA PRODUTIVIDADE"
+    "group": "851",
+    "class": "8512",
+    "code": "24287",
+    "description": "PRESTACAO DE SERVICO DE JARDINAGEM - GRAMADOS - OUTRAS NECESSIDADES - OUTRA PRODUTIVIDADE"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "24295",
-    "descricao": "PRESTACAO DE SERVICO DE JARDINAGEM - ÁREAS BRUTAS - 44H SEMANAIS DIURNAS - 600 M2/MES"
+    "group": "851",
+    "class": "8512",
+    "code": "24295",
+    "description": "PRESTACAO DE SERVICO DE JARDINAGEM - ÁREAS BRUTAS - 44H SEMANAIS DIURNAS - 600 M2/MES"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "24309",
-    "descricao": "PRESTACAO DE SERVICO DE JARDINAGEM - AREAS BRUTAS - 44H SEMANAIS DIURNAS -OUTRA PRODUTIVIDADE"
+    "group": "851",
+    "class": "8512",
+    "code": "24309",
+    "description": "PRESTACAO DE SERVICO DE JARDINAGEM - AREAS BRUTAS - 44H SEMANAIS DIURNAS -OUTRA PRODUTIVIDADE"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "24317",
-    "descricao": "PRESTACAO DE SERVICO DE JARDINAGEM - AREAS BRUTAS - OUTRAS NECESSIDADES - OUTRA PRODUTIVIDADE"
+    "group": "851",
+    "class": "8512",
+    "code": "24317",
+    "description": "PRESTACAO DE SERVICO DE JARDINAGEM - AREAS BRUTAS - OUTRAS NECESSIDADES - OUTRA PRODUTIVIDADE"
   },
   {
-    "grupo": "851",
-    "classe": "8512",
-    "codigo": "24325",
-    "descricao": "PRESTACAO DE SERVICO DE JARDINAGEM - OUTROS SERVICOS - OUTRAPRODUTIVIDADE"
+    "group": "851",
+    "class": "8512",
+    "code": "24325",
+    "description": "PRESTACAO DE SERVICO DE JARDINAGEM - OUTROS SERVICOS - OUTRAPRODUTIVIDADE"
   }
 ]

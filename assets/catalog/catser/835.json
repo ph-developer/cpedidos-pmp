@@ -1,266 +1,266 @@
 [
   {
-    "grupo": "835",
-    "classe": "'-7",
-    "codigo": "957",
-    "descricao": "BATIMETRIA"
+    "group": "835",
+    "class": "'-7",
+    "code": "957",
+    "description": "BATIMETRIA"
   },
   {
-    "grupo": "835",
-    "classe": "'-7",
-    "codigo": "973",
-    "descricao": "SONDAGENS TERRESTRES ROTATIVAS"
+    "group": "835",
+    "class": "'-7",
+    "code": "973",
+    "description": "SONDAGENS TERRESTRES ROTATIVAS"
   },
   {
-    "grupo": "835",
-    "classe": "'-7",
-    "codigo": "981",
-    "descricao": "SONDAGENS SUBAQUATICAS"
+    "group": "835",
+    "class": "'-7",
+    "code": "981",
+    "description": "SONDAGENS SUBAQUATICAS"
   },
   {
-    "grupo": "835",
-    "classe": "'-7",
-    "codigo": "990",
-    "descricao": "ENSAIO GEOTECNICO"
+    "group": "835",
+    "class": "'-7",
+    "code": "990",
+    "description": "ENSAIO GEOTECNICO"
   },
   {
-    "grupo": "835",
-    "classe": "'-7",
-    "codigo": "1007",
-    "descricao": "MAPEAMENTO GEOLOGICO"
+    "group": "835",
+    "class": "'-7",
+    "code": "1007",
+    "description": "MAPEAMENTO GEOLOGICO"
   },
   {
-    "grupo": "835",
-    "classe": "'-7",
-    "codigo": "1015",
-    "descricao": "PESQUISA MINERAL"
+    "group": "835",
+    "class": "'-7",
+    "code": "1015",
+    "description": "PESQUISA MINERAL"
   },
   {
-    "grupo": "835",
-    "classe": "'-7",
-    "codigo": "1040",
-    "descricao": "SISMOLOGIA"
+    "group": "835",
+    "class": "'-7",
+    "code": "1040",
+    "description": "SISMOLOGIA"
   },
   {
-    "grupo": "835",
-    "classe": "'-7",
-    "codigo": "1058",
-    "descricao": "CONTROLE TECNOLOGICO DE CONCRETO"
+    "group": "835",
+    "class": "'-7",
+    "code": "1058",
+    "description": "CONTROLE TECNOLOGICO DE CONCRETO"
   },
   {
-    "grupo": "835",
-    "classe": "'-7",
-    "codigo": "1066",
-    "descricao": "CONTROLE TECNOLOGICO DE PAVIMENTACAO"
+    "group": "835",
+    "class": "'-7",
+    "code": "1066",
+    "description": "CONTROLE TECNOLOGICO DE PAVIMENTACAO"
   },
   {
-    "grupo": "835",
-    "classe": "'-7",
-    "codigo": "1074",
-    "descricao": "CONTROLE TECNOLOGICO DE MATERIAIS DE CONSTRUCAO"
+    "group": "835",
+    "class": "'-7",
+    "code": "1074",
+    "description": "CONTROLE TECNOLOGICO DE MATERIAIS DE CONSTRUCAO"
   },
   {
-    "grupo": "835",
-    "classe": "'-7",
-    "codigo": "16888",
-    "descricao": "PESQUISA E ESTUDO - GEOGRAFICO / RECURSOS NATURAIS /  MEIO -AMBIENTE"
+    "group": "835",
+    "class": "'-7",
+    "code": "16888",
+    "description": "PESQUISA E ESTUDO - GEOGRAFICO / RECURSOS NATURAIS /  MEIO -AMBIENTE"
   },
   {
-    "grupo": "835",
-    "classe": "'-7",
-    "codigo": "25119",
-    "descricao": "SERVICO DE CALCULO / DESENHO E MEMORIAL DESCRITIVO"
+    "group": "835",
+    "class": "'-7",
+    "code": "25119",
+    "description": "SERVICO DE CALCULO / DESENHO E MEMORIAL DESCRITIVO"
   },
   {
-    "grupo": "835",
-    "classe": "8351",
-    "codigo": "20613",
-    "descricao": "GEOPROCESSAMENTO"
+    "group": "835",
+    "class": "8351",
+    "code": "20613",
+    "description": "GEOPROCESSAMENTO"
   },
   {
-    "grupo": "835",
-    "classe": "8352",
-    "codigo": "21369",
-    "descricao": "ESTUDOS E PROJETOS DE TOPOGRAFIA"
+    "group": "835",
+    "class": "8352",
+    "code": "21369",
+    "description": "ESTUDOS E PROJETOS DE TOPOGRAFIA"
   },
   {
-    "grupo": "835",
-    "classe": "8353",
-    "codigo": "914",
-    "descricao": "TOPOGRAFIA DE FAIXAS"
+    "group": "835",
+    "class": "8353",
+    "code": "914",
+    "description": "TOPOGRAFIA DE FAIXAS"
   },
   {
-    "grupo": "835",
-    "classe": "8353",
-    "codigo": "922",
-    "descricao": "TOPOGRAFIA DE AREAS"
+    "group": "835",
+    "class": "8353",
+    "code": "922",
+    "description": "TOPOGRAFIA DE AREAS"
   },
   {
-    "grupo": "835",
-    "classe": "8354",
-    "codigo": "17264",
-    "descricao": "EXECUCAO SERVICO - GEODESICO / CARTOGRAFICO"
+    "group": "835",
+    "class": "8354",
+    "code": "17264",
+    "description": "EXECUCAO SERVICO - GEODESICO / CARTOGRAFICO"
   },
   {
-    "grupo": "835",
-    "classe": "8354",
-    "codigo": "21270",
-    "descricao": "EXECUCAO SERVICO - MAPEAMENTO CARTOGRAFICO"
+    "group": "835",
+    "class": "8354",
+    "code": "21270",
+    "description": "EXECUCAO SERVICO - MAPEAMENTO CARTOGRAFICO"
   },
   {
-    "grupo": "835",
-    "classe": "8355",
-    "codigo": "25810",
-    "descricao": "IMPLANTACAO / MANUTENCAO ESTACAO HIDROLOGICA"
+    "group": "835",
+    "class": "8355",
+    "code": "25810",
+    "description": "IMPLANTACAO / MANUTENCAO ESTACAO HIDROLOGICA"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "876",
-    "descricao": "PERICIA / LAUDO / AVALIACAO - TECNICA"
+    "group": "835",
+    "class": "8356",
+    "code": "876",
+    "description": "PERICIA / LAUDO / AVALIACAO - TECNICA"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "1163",
-    "descricao": "ENSAIOS MECANICOS"
+    "group": "835",
+    "class": "8356",
+    "code": "1163",
+    "description": "ENSAIOS MECANICOS"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "1171",
-    "descricao": "ENSAIO E ANALISES QUIMICAS"
+    "group": "835",
+    "class": "8356",
+    "code": "1171",
+    "description": "ENSAIO E ANALISES QUIMICAS"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "1180",
-    "descricao": "ENSAIOS ELETRICOS"
+    "group": "835",
+    "class": "8356",
+    "code": "1180",
+    "description": "ENSAIOS ELETRICOS"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "1198",
-    "descricao": "ENSAIOS ELETRONICOS"
+    "group": "835",
+    "class": "8356",
+    "code": "1198",
+    "description": "ENSAIOS ELETRONICOS"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "1201",
-    "descricao": "ENSAIOS METALURGICOS"
+    "group": "835",
+    "class": "8356",
+    "code": "1201",
+    "description": "ENSAIOS METALURGICOS"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "14524",
-    "descricao": "AVALIACAO RADIOMETRICA"
+    "group": "835",
+    "class": "8356",
+    "code": "14524",
+    "description": "AVALIACAO RADIOMETRICA"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "16276",
-    "descricao": "EXECUCAO DE TESTE DE ESTANQUEIDADE"
+    "group": "835",
+    "class": "8356",
+    "code": "16276",
+    "description": "EXECUCAO DE TESTE DE ESTANQUEIDADE"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "17094",
-    "descricao": "FABRICACAO / ANALISE - VACINAS"
+    "group": "835",
+    "class": "8356",
+    "code": "17094",
+    "description": "FABRICACAO / ANALISE - VACINAS"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "18830",
-    "descricao": "LABORATORIO - ANALISE QUIMICA"
+    "group": "835",
+    "class": "8356",
+    "code": "18830",
+    "description": "LABORATORIO - ANALISE QUIMICA"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "19062",
-    "descricao": "ANALISE - ALIMENTO / INSUMO"
+    "group": "835",
+    "class": "8356",
+    "code": "19062",
+    "description": "ANALISE - ALIMENTO / INSUMO"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "19070",
-    "descricao": "ANALISE - RADIOMETRICA / RADIOQUIMICA"
+    "group": "835",
+    "class": "8356",
+    "code": "19070",
+    "description": "ANALISE - RADIOMETRICA / RADIOQUIMICA"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "19100",
-    "descricao": "IRRADIACAO AMOSTRAS - TECNICAS DOSIMETRICAS"
+    "group": "835",
+    "class": "8356",
+    "code": "19100",
+    "description": "IRRADIACAO AMOSTRAS - TECNICAS DOSIMETRICAS"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "19127",
-    "descricao": "CONTROLE QUALIDADE - LABORATORIO"
+    "group": "835",
+    "class": "8356",
+    "code": "19127",
+    "description": "CONTROLE QUALIDADE - LABORATORIO"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "19143",
-    "descricao": "ANALISE FISICO - QUIMICA AGUA"
+    "group": "835",
+    "class": "8356",
+    "code": "19143",
+    "description": "ANALISE FISICO - QUIMICA AGUA"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "20095",
-    "descricao": "DEPURACAO MATERIA ORGANICA"
+    "group": "835",
+    "class": "8356",
+    "code": "20095",
+    "description": "DEPURACAO MATERIA ORGANICA"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "20729",
-    "descricao": "LABORATORIO - ANALISE TOXICOLOGICA"
+    "group": "835",
+    "class": "8356",
+    "code": "20729",
+    "description": "LABORATORIO - ANALISE TOXICOLOGICA"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "20737",
-    "descricao": "LABORATORIO - ANALISE BIOLOGICA / ANÁLISE IMUNOBIOLÓGICA /  MONITORAMENTO SANITÁRIO - GENÉTICO"
+    "group": "835",
+    "class": "8356",
+    "code": "20737",
+    "description": "LABORATORIO - ANALISE BIOLOGICA / ANÁLISE IMUNOBIOLÓGICA /  MONITORAMENTO SANITÁRIO - GENÉTICO"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "20745",
-    "descricao": "LABORATORIO - ANALISE CROMATOGRAFICA"
+    "group": "835",
+    "class": "8356",
+    "code": "20745",
+    "description": "LABORATORIO - ANALISE CROMATOGRAFICA"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "20753",
-    "descricao": "LABORATORIO - ANALISE FISICO-QUIMICA"
+    "group": "835",
+    "class": "8356",
+    "code": "20753",
+    "description": "LABORATORIO - ANALISE FISICO-QUIMICA"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "20761",
-    "descricao": "LABORATORIO - ANALISE TOXICIDADE"
+    "group": "835",
+    "class": "8356",
+    "code": "20761",
+    "description": "LABORATORIO - ANALISE TOXICIDADE"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "21245",
-    "descricao": "ANALISE POR ATIVACAO COM PARTICULAS CARREGADAS"
+    "group": "835",
+    "class": "8356",
+    "code": "21245",
+    "description": "ANALISE POR ATIVACAO COM PARTICULAS CARREGADAS"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "21717",
-    "descricao": "ENSAIO EQUIPAMENTO A GAS"
+    "group": "835",
+    "class": "8356",
+    "code": "21717",
+    "description": "ENSAIO EQUIPAMENTO A GAS"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "24937",
-    "descricao": "ESTUDOS E PROJETOS - FONTES ALTERNATIVAS DE ENERGIA ELETRICA"
+    "group": "835",
+    "class": "8356",
+    "code": "24937",
+    "description": "ESTUDOS E PROJETOS - FONTES ALTERNATIVAS DE ENERGIA ELETRICA"
   },
   {
-    "grupo": "835",
-    "classe": "8356",
-    "codigo": "25798",
-    "descricao": "EXAME GRAFOTECNICO"
+    "group": "835",
+    "class": "8356",
+    "code": "25798",
+    "description": "EXAME GRAFOTECNICO"
   }
 ]

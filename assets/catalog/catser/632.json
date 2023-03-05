@@ -1,38 +1,38 @@
 [
   {
-    "grupo": "632",
-    "classe": "'-7",
-    "codigo": "5320",
-    "descricao": "REFEICOES INDUSTRIAIS - PREPARO / DISTRIBUICAO"
+    "group": "632",
+    "class": "'-7",
+    "code": "5320",
+    "description": "REFEICOES INDUSTRIAIS - PREPARO / DISTRIBUICAO"
   },
   {
-    "grupo": "632",
-    "classe": "'-7",
-    "codigo": "12807",
-    "descricao": "BUFFET"
+    "group": "632",
+    "class": "'-7",
+    "code": "12807",
+    "description": "BUFFET"
   },
   {
-    "grupo": "632",
-    "classe": "6321",
-    "codigo": "3697",
-    "descricao": "FORNECIMENTO DE REFEICOES / LANCHES / SALGADOS / DOCES"
+    "group": "632",
+    "class": "6321",
+    "code": "3697",
+    "description": "FORNECIMENTO DE REFEICOES / LANCHES / SALGADOS / DOCES"
   },
   {
-    "grupo": "632",
-    "classe": "6321",
-    "codigo": "3700",
-    "descricao": "REFEICAO SISTEMA CONVENIO ( TIQUETE )"
+    "group": "632",
+    "class": "6321",
+    "code": "3700",
+    "description": "REFEICAO SISTEMA CONVENIO ( TIQUETE )"
   },
   {
-    "grupo": "632",
-    "classe": "6321",
-    "codigo": "15210",
-    "descricao": "CANTINA / BAR / LANCHONETE / REFEICAO RAPIDA / RESTAURANTE"
+    "group": "632",
+    "class": "6321",
+    "code": "15210",
+    "description": "CANTINA / BAR / LANCHONETE / REFEICAO RAPIDA / RESTAURANTE"
   },
   {
-    "grupo": "632",
-    "classe": "6329",
-    "codigo": "25500",
-    "descricao": "DISTRIBUICAO DE LEITE"
+    "group": "632",
+    "class": "6329",
+    "code": "25500",
+    "description": "DISTRIBUICAO DE LEITE"
   }
 ]

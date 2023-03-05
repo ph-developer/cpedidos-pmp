@@ -1,14 +1,14 @@
 [
   {
-    "grupo": "172",
-    "classe": "1721",
-    "codigo": "27324",
-    "descricao": "SERVICOS DE PESQUISA, ANALISE E DESENVOLVIMENTO EM TECNOLOGIA DA INFORMACAO E COMUNICACAO (TIC)"
+    "group": "172",
+    "class": "1721",
+    "code": "27324",
+    "description": "SERVICOS DE PESQUISA, ANALISE E DESENVOLVIMENTO EM TECNOLOGIA DA INFORMACAO E COMUNICACAO (TIC)"
   },
   {
-    "grupo": "172",
-    "classe": "1721",
-    "codigo": "27901",
-    "descricao": "SERVIÇO DE TIC DE CARÁTER SECRETO OU RESERVADO"
+    "group": "172",
+    "class": "1721",
+    "code": "27901",
+    "description": "SERVIÇO DE TIC DE CARÁTER SECRETO OU RESERVADO"
   }
 ]

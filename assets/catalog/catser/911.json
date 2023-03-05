@@ -1,20 +1,20 @@
 [
   {
-    "grupo": "911",
-    "classe": "'-7",
-    "codigo": "5380",
-    "descricao": "PRESTACAO DE SERVICOS DE APOIO ADMINISTRATIVO"
+    "group": "911",
+    "class": "'-7",
+    "code": "5380",
+    "description": "PRESTACAO DE SERVICOS DE APOIO ADMINISTRATIVO"
   },
   {
-    "grupo": "911",
-    "classe": "'-7",
-    "codigo": "17280",
-    "descricao": "ADMINISTRACAO PUBLICA"
+    "group": "911",
+    "class": "'-7",
+    "code": "17280",
+    "description": "ADMINISTRACAO PUBLICA"
   },
   {
-    "grupo": "911",
-    "classe": "'-7",
-    "codigo": "24384",
-    "descricao": "ELABORACAO DE MINUTA DE EDITAL PARA CONCURSO DE SELECAO DE  PROJETOS"
+    "group": "911",
+    "class": "'-7",
+    "code": "24384",
+    "description": "ELABORACAO DE MINUTA DE EDITAL PARA CONCURSO DE SELECAO DE  PROJETOS"
   }
 ]

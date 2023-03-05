@@ -1,142 +1,142 @@
 [
   {
-    "grupo": "13",
-    "classe": "1305",
-    "padrao": "11255",
-    "codigo": "402215",
-    "descricao": " PROJÉTIL NÃO LETAL, TIPO:PNEUMÁTICO, MATERIAL:ALUMÍNIO, PESO:16 G, CARGA:GÁS CARBÔNICO, CARACTERÍSTICAS ADICIONAIS:USADO EM RIFLES MODELO 72, DE DARDOS ANESTÉSICOS"
+    "group": "13",
+    "class": "1305",
+    "standard": "11255",
+    "code": "402215",
+    "description": " PROJÉTIL NÃO LETAL, TIPO:PNEUMÁTICO, MATERIAL:ALUMÍNIO, PESO:16 G, CARGA:GÁS CARBÔNICO, CARACTERÍSTICAS ADICIONAIS:USADO EM RIFLES MODELO 72, DE DARDOS ANESTÉSICOS"
   },
   {
-    "grupo": "13",
-    "classe": "1305",
-    "padrao": "11255",
-    "codigo": "486463",
-    "descricao": " PROJÉTIL NÃO LETAL, TIPO:CARGA MÚLTIPLA DE GÁS LACRIMOGÊNEO, MATERIAL:ALUMÍNIO, PESO:220 G, ALCANCE:90 M, CARACTERÍSTICAS ADICIONAIS:CALIBRE 37/40 MM"
+    "group": "13",
+    "class": "1305",
+    "standard": "11255",
+    "code": "486463",
+    "description": " PROJÉTIL NÃO LETAL, TIPO:CARGA MÚLTIPLA DE GÁS LACRIMOGÊNEO, MATERIAL:ALUMÍNIO, PESO:220 G, ALCANCE:90 M, CARACTERÍSTICAS ADICIONAIS:CALIBRE 37/40 MM"
   },
   {
-    "grupo": "13",
-    "classe": "1305",
-    "padrao": "15401",
-    "codigo": "240443",
-    "descricao": " MUNIÇÃO TREINAMENTO, MATERIAL CARTUCHO:COBRE, MATERIAL PROJÉTIL:PLÁSTICO, CARGA PROJÉTIL:TINTA, TIPO PÓLVORA:BASE DUPLA, SEM FUMAÇA, VELOCIDADE INICIAL PROJÉTIL:DE 360 A 490 PÉS POR SEGUNDO, CARACTERÍSTICAS ADICIONAIS:TINTA NÃO TÓXICA À BASE DE DETERGENTE, LAVÁVEL EM, APLICAÇÃO:PISTOLA MARCA TAURUS, MODELO PT92AF E SUBMETRALHA"
+    "group": "13",
+    "class": "1305",
+    "standard": "15401",
+    "code": "240443",
+    "description": " MUNIÇÃO TREINAMENTO, MATERIAL CARTUCHO:COBRE, MATERIAL PROJÉTIL:PLÁSTICO, CARGA PROJÉTIL:TINTA, TIPO PÓLVORA:BASE DUPLA, SEM FUMAÇA, VELOCIDADE INICIAL PROJÉTIL:DE 360 A 490 PÉS POR SEGUNDO, CARACTERÍSTICAS ADICIONAIS:TINTA NÃO TÓXICA À BASE DE DETERGENTE, LAVÁVEL EM, APLICAÇÃO:PISTOLA MARCA TAURUS, MODELO PT92AF E SUBMETRALHA"
   },
   {
-    "grupo": "13",
-    "classe": "1305",
-    "padrao": "15549",
-    "codigo": "242723",
-    "descricao": " PROJÉTIL MUNIÇÃO ARMA FOGO, MATERIAL:CHUMBO, CALIBRE:.38, TIPO:OGIVAL, PESO:158 G, APLICAÇÃO:REVÓLVER, CALIBRE .38 ESPECIAL"
+    "group": "13",
+    "class": "1305",
+    "standard": "15549",
+    "code": "242723",
+    "description": " PROJÉTIL MUNIÇÃO ARMA FOGO, MATERIAL:CHUMBO, CALIBRE:.38, TIPO:OGIVAL, PESO:158 G, APLICAÇÃO:REVÓLVER, CALIBRE .38 ESPECIAL"
   },
   {
-    "grupo": "13",
-    "classe": "1305",
-    "padrao": "15549",
-    "codigo": "242724",
-    "descricao": " PROJÉTIL MUNIÇÃO ARMA FOGO, MATERIAL:CHUMBO, CALIBRE:.40, TIPO:PONTA PLANA, PESO:160 G, APLICAÇÃO:PISTOLA S&W, CALIBRE .40"
+    "group": "13",
+    "class": "1305",
+    "standard": "15549",
+    "code": "242724",
+    "description": " PROJÉTIL MUNIÇÃO ARMA FOGO, MATERIAL:CHUMBO, CALIBRE:.40, TIPO:PONTA PLANA, PESO:160 G, APLICAÇÃO:PISTOLA S&W, CALIBRE .40"
   },
   {
-    "grupo": "13",
-    "classe": "1305",
-    "padrao": "15549",
-    "codigo": "291740",
-    "descricao": " PROJÉTIL MUNIÇÃO ARMA FOGO, MATERIAL:CHUMBO, CALIBRE:5.56 X 45 MM, TIPO:COMUM, PESO:55 GR, APLICAÇÃO:FUZIL E METRALHADORA"
+    "group": "13",
+    "class": "1305",
+    "standard": "15549",
+    "code": "291740",
+    "description": " PROJÉTIL MUNIÇÃO ARMA FOGO, MATERIAL:CHUMBO, CALIBRE:5.56 X 45 MM, TIPO:COMUM, PESO:55 GR, APLICAÇÃO:FUZIL E METRALHADORA"
   },
   {
-    "grupo": "13",
-    "classe": "1305",
-    "padrao": "15549",
-    "codigo": "359378",
-    "descricao": " PROJÉTIL MUNIÇÃO ARMA FOGO, MATERIAL:CHUMBO, CALIBRE:.40, TIPO:OGIVAL, PESO:180 GR"
+    "group": "13",
+    "class": "1305",
+    "standard": "15549",
+    "code": "359378",
+    "description": " PROJÉTIL MUNIÇÃO ARMA FOGO, MATERIAL:CHUMBO, CALIBRE:.40, TIPO:OGIVAL, PESO:180 GR"
   },
   {
-    "grupo": "13",
-    "classe": "1305",
-    "padrao": "15549",
-    "codigo": "480448",
-    "descricao": " PROJÉTIL MUNIÇÃO ARMA FOGO, MATERIAL:CHUMBO, CALIBRE:.40, TIPO:PONTA OCA, PESO:155 G, APLICAÇÃO:PISTOLA S&W, CALIBRE .40, CARACTERÍSTICAS ADICIONAIS:EXPANSIVA"
+    "group": "13",
+    "class": "1305",
+    "standard": "15549",
+    "code": "480448",
+    "description": " PROJÉTIL MUNIÇÃO ARMA FOGO, MATERIAL:CHUMBO, CALIBRE:.40, TIPO:PONTA OCA, PESO:155 G, APLICAÇÃO:PISTOLA S&W, CALIBRE .40, CARACTERÍSTICAS ADICIONAIS:EXPANSIVA"
   },
   {
-    "grupo": "13",
-    "classe": "1305",
-    "padrao": "15549",
-    "codigo": "486813",
-    "descricao": " PROJÉTIL MUNIÇÃO ARMA FOGO, MATERIAL:CHUMBO, CALIBRE:7,62 X 51, TIPO:COMUM, APLICAÇÃO:FUZIL"
+    "group": "13",
+    "class": "1305",
+    "standard": "15549",
+    "code": "486813",
+    "description": " PROJÉTIL MUNIÇÃO ARMA FOGO, MATERIAL:CHUMBO, CALIBRE:7,62 X 51, TIPO:COMUM, APLICAÇÃO:FUZIL"
   },
   {
-    "grupo": "13",
-    "classe": "1305",
-    "padrao": "16262",
-    "codigo": "150061",
-    "descricao": " PROJETIL E COMPONENTES MUNIÇÃO ATÉ 30MM, PROJETIL E COMPONENTES MUNIÇÃO ATÉ 30MM"
+    "group": "13",
+    "class": "1305",
+    "standard": "16262",
+    "code": "150061",
+    "description": " PROJETIL E COMPONENTES MUNIÇÃO ATÉ 30MM, PROJETIL E COMPONENTES MUNIÇÃO ATÉ 30MM"
   },
   {
-    "grupo": "13",
-    "classe": "1310",
-    "padrao": "16698",
-    "codigo": "191310",
-    "descricao": " MUNIÇÃO DE CALIBRE ACIMA DE 30 MM ATÉ 75 MM, MUNIÇÃO DE CALIBRE ACIMA DE 30 MM ATÉ 75"
+    "group": "13",
+    "class": "1310",
+    "standard": "16698",
+    "code": "191310",
+    "description": " MUNIÇÃO DE CALIBRE ACIMA DE 30 MM ATÉ 75 MM, MUNIÇÃO DE CALIBRE ACIMA DE 30 MM ATÉ 75"
   },
   {
-    "grupo": "13",
-    "classe": "1315",
-    "padrao": "7036",
-    "codigo": "602151",
-    "descricao": " ESPOLETAS DE SEGURANCA, TIPO:BOXER, PADRÃO:SMALL RIFLE 7 ¿\""
+    "group": "13",
+    "class": "1315",
+    "standard": "7036",
+    "code": "602151",
+    "description": " ESPOLETAS DE SEGURANCA, TIPO:BOXER, PADRÃO:SMALL RIFLE 7 ¿\""
   },
   {
-    "grupo": "13",
-    "classe": "1315",
-    "padrao": "7036",
-    "codigo": "602152",
-    "descricao": " ESPOLETAS DE SEGURANCA, TIPO:BOXER, PADRÃO:SMALL PISTOL MAGNUM 5 ¿\""
+    "group": "13",
+    "class": "1315",
+    "standard": "7036",
+    "code": "602152",
+    "description": " ESPOLETAS DE SEGURANCA, TIPO:BOXER, PADRÃO:SMALL PISTOL MAGNUM 5 ¿\""
   },
   {
-    "grupo": "13",
-    "classe": "1315",
-    "padrao": "16697",
-    "codigo": "467600",
-    "descricao": " MUNIÇÃO DE CALIBRE ACIMA DE 75 MM, TIPO:FESTIM, CALIBRE:105 MM, USO:ORBUS"
+    "group": "13",
+    "class": "1315",
+    "standard": "16697",
+    "code": "467600",
+    "description": " MUNIÇÃO DE CALIBRE ACIMA DE 75 MM, TIPO:FESTIM, CALIBRE:105 MM, USO:ORBUS"
   },
   {
-    "grupo": "13",
-    "classe": "1330",
-    "padrao": "8079",
-    "codigo": "304599",
-    "descricao": " GRANADA, MATERIAL CORPO:BORRACHA, TIPO:EFEITO MORAL, FORMATO:CILÍNDRICA, ACIONAMENTO:MANUAL, FUNCIONAMENTO:EXPLOSÃO, RETARDO:2,5 S, CARACTERÍSTICAS ADICIONAIS:DUPLO ESTÁGIO"
+    "group": "13",
+    "class": "1330",
+    "standard": "8079",
+    "code": "304599",
+    "description": " GRANADA, MATERIAL CORPO:BORRACHA, TIPO:EFEITO MORAL, FORMATO:CILÍNDRICA, ACIONAMENTO:MANUAL, FUNCIONAMENTO:EXPLOSÃO, RETARDO:2,5 S, CARACTERÍSTICAS ADICIONAIS:DUPLO ESTÁGIO"
   },
   {
-    "grupo": "13",
-    "classe": "1330",
-    "padrao": "12070",
-    "codigo": "127450",
-    "descricao": " SIMULACRO GRANADA, SIMULACRO GRANADA"
+    "group": "13",
+    "class": "1330",
+    "standard": "12070",
+    "code": "127450",
+    "description": " SIMULACRO GRANADA, SIMULACRO GRANADA"
   },
   {
-    "grupo": "13",
-    "classe": "1340",
-    "padrao": "8685",
-    "codigo": "106526",
-    "descricao": " PEÇAS/COMPONENTES - LANÇADOR MÚLTIPLO DE FOGUETE, LANCADOR MULTIPLO DE FOGUETE ( LM )"
+    "group": "13",
+    "class": "1340",
+    "standard": "8685",
+    "code": "106526",
+    "description": " PEÇAS/COMPONENTES - LANÇADOR MÚLTIPLO DE FOGUETE, LANCADOR MULTIPLO DE FOGUETE ( LM )"
   },
   {
-    "grupo": "13",
-    "classe": "1370",
-    "padrao": "7681",
-    "codigo": "388",
-    "descricao": " FOGOS DE ARTIFICIO, FOGOS DE ARTIFICIO"
+    "group": "13",
+    "class": "1370",
+    "standard": "7681",
+    "code": "388",
+    "description": " FOGOS DE ARTIFICIO, FOGOS DE ARTIFICIO"
   },
   {
-    "grupo": "13",
-    "classe": "1375",
-    "padrao": "5870",
-    "codigo": "100285",
-    "descricao": " CORDEL DETONANTE EXPLOSIVO, CORDEL DETONANTE DE EXPLOSIVO"
+    "group": "13",
+    "class": "1375",
+    "standard": "5870",
+    "code": "100285",
+    "description": " CORDEL DETONANTE EXPLOSIVO, CORDEL DETONANTE DE EXPLOSIVO"
   },
   {
-    "grupo": "13",
-    "classe": "1375",
-    "padrao": "7245",
-    "codigo": "100277",
-    "descricao": " EXPLOSIVO INDUSTRIAL/EXPLOSIVO DIVERSOS, EXPLOSIVO INDUSTRIAL ( DINAMITE )"
+    "group": "13",
+    "class": "1375",
+    "standard": "7245",
+    "code": "100277",
+    "description": " EXPLOSIVO INDUSTRIAL/EXPLOSIVO DIVERSOS, EXPLOSIVO INDUSTRIAL ( DINAMITE )"
   }
 ]

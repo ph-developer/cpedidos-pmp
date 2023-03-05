@@ -1,278 +1,278 @@
 [
   {
-    "grupo": "732",
-    "classe": "'-7",
-    "codigo": "4014",
-    "descricao": "LOCACAO DE VEICULOS - LEVES / PESADOS"
+    "group": "732",
+    "class": "'-7",
+    "code": "4014",
+    "description": "LOCACAO DE VEICULOS - LEVES / PESADOS"
   },
   {
-    "grupo": "732",
-    "classe": "'-7",
-    "codigo": "4030",
-    "descricao": "LOCACAO DE MAQUINAS DE ESCAVACAO / TERRAPLENAGEM / AGRICOLA"
+    "group": "732",
+    "class": "'-7",
+    "code": "4030",
+    "description": "LOCACAO DE MAQUINAS DE ESCAVACAO / TERRAPLENAGEM / AGRICOLA"
   },
   {
-    "grupo": "732",
-    "classe": "'-7",
-    "codigo": "4049",
-    "descricao": "LOCACAO EQUIPAMENTO ELEVACAO / MOVIMENTACAO DE CARGA"
+    "group": "732",
+    "class": "'-7",
+    "code": "4049",
+    "description": "LOCACAO EQUIPAMENTO ELEVACAO / MOVIMENTACAO DE CARGA"
   },
   {
-    "grupo": "732",
-    "classe": "'-7",
-    "codigo": "4057",
-    "descricao": "LOCACAO DE ANDAIMES"
+    "group": "732",
+    "class": "'-7",
+    "code": "4057",
+    "description": "LOCACAO DE ANDAIMES"
   },
   {
-    "grupo": "732",
-    "classe": "'-7",
-    "codigo": "4065",
-    "descricao": "LOCACAO DE EQUIPAMENTOS DE TELECOMUNICACOES"
+    "group": "732",
+    "class": "'-7",
+    "code": "4065",
+    "description": "LOCACAO DE EQUIPAMENTOS DE TELECOMUNICACOES"
   },
   {
-    "grupo": "732",
-    "classe": "'-7",
-    "codigo": "4189",
-    "descricao": "FRETAMENTO"
+    "group": "732",
+    "class": "'-7",
+    "code": "4189",
+    "description": "FRETAMENTO"
   },
   {
-    "grupo": "732",
-    "classe": "'-7",
-    "codigo": "14206",
-    "descricao": "LOCACAO DE EQUIPAMENTO DE LABORATORIO"
+    "group": "732",
+    "class": "'-7",
+    "code": "14206",
+    "description": "LOCACAO DE EQUIPAMENTO DE LABORATORIO"
   },
   {
-    "grupo": "732",
-    "classe": "'-7",
-    "codigo": "19720",
-    "descricao": "ARRENDAMENTO"
+    "group": "732",
+    "class": "'-7",
+    "code": "19720",
+    "description": "ARRENDAMENTO"
   },
   {
-    "grupo": "732",
-    "classe": "'-7",
-    "codigo": "22110",
-    "descricao": "LOCACAO EQUIPAMENTO / PRODUCAO GRAVACAO - ESPERA TELEFONICA"
+    "group": "732",
+    "class": "'-7",
+    "code": "22110",
+    "description": "LOCACAO EQUIPAMENTO / PRODUCAO GRAVACAO - ESPERA TELEFONICA"
   },
   {
-    "grupo": "732",
-    "classe": "'-7",
-    "codigo": "24414",
-    "descricao": "SERVICO DE LOCACAO DE MATERIAIS BLINDADOS EM GERAL"
+    "group": "732",
+    "class": "'-7",
+    "code": "24414",
+    "description": "SERVICO DE LOCACAO DE MATERIAIS BLINDADOS EM GERAL"
   },
   {
-    "grupo": "732",
-    "classe": "7321",
-    "codigo": "21750",
-    "descricao": "LOCACAO EQUIPAMENTO RADIOCOMUNICACAO"
+    "group": "732",
+    "class": "7321",
+    "code": "21750",
+    "description": "LOCACAO EQUIPAMENTO RADIOCOMUNICACAO"
   },
   {
-    "grupo": "732",
-    "classe": "7323",
-    "codigo": "17051",
-    "descricao": "LOCACAO DE LOUCAS / TALHERES / CRISTAIS"
+    "group": "732",
+    "class": "7323",
+    "code": "17051",
+    "description": "LOCACAO DE LOUCAS / TALHERES / CRISTAIS"
   },
   {
-    "grupo": "732",
-    "classe": "7323",
-    "codigo": "20877",
-    "descricao": "LOCACAO DE MOBILIARIO HOSPITALAR"
+    "group": "732",
+    "class": "7323",
+    "code": "20877",
+    "description": "LOCACAO DE MOBILIARIO HOSPITALAR"
   },
   {
-    "grupo": "732",
-    "classe": "7327",
-    "codigo": "4006",
-    "descricao": "LOCACAO DE COMPUTADORES / PERIFERICOS"
+    "group": "732",
+    "class": "7327",
+    "code": "4006",
+    "description": "LOCACAO DE COMPUTADORES / PERIFERICOS"
   },
   {
-    "grupo": "732",
-    "classe": "7327",
-    "codigo": "27677",
-    "descricao": "LOCACAO DE EQUIPAMENTO GRAFICO"
+    "group": "732",
+    "class": "7327",
+    "code": "27677",
+    "description": "LOCACAO DE EQUIPAMENTO GRAFICO"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "5401",
-    "descricao": "LOCACAO DE EQUIPAMENTO PARA TRATAMENTO DE OLEO ISOLANTE"
+    "group": "732",
+    "class": "7329",
+    "code": "5401",
+    "description": "LOCACAO DE EQUIPAMENTO PARA TRATAMENTO DE OLEO ISOLANTE"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "13099",
-    "descricao": "LOCACAO / MONTAGEM / DESMONTAGEM DE STANDS E PROJETOS EM FEIRAS E EXPOSICOES"
+    "group": "732",
+    "class": "7329",
+    "code": "13099",
+    "description": "LOCACAO / MONTAGEM / DESMONTAGEM DE STANDS E PROJETOS EM FEIRAS E EXPOSICOES"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "13765",
-    "descricao": "LOCACAO DE EQUIPAMENTO DE TOPOGRAFIA"
+    "group": "732",
+    "class": "7329",
+    "code": "13765",
+    "description": "LOCACAO DE EQUIPAMENTO DE TOPOGRAFIA"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "14303",
-    "descricao": "LOCACAO DE EQUIPAMENTO DE MICROFILMAGEM"
+    "group": "732",
+    "class": "7329",
+    "code": "14303",
+    "description": "LOCACAO DE EQUIPAMENTO DE MICROFILMAGEM"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "14680",
-    "descricao": "LOCACAO DE AERONAVE"
+    "group": "732",
+    "class": "7329",
+    "code": "14680",
+    "description": "LOCACAO DE AERONAVE"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "14699",
-    "descricao": "LOCACAO DE EMBARCACAO MARITIMA / FLUVIAL"
+    "group": "732",
+    "class": "7329",
+    "code": "14699",
+    "description": "LOCACAO DE EMBARCACAO MARITIMA / FLUVIAL"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "14788",
-    "descricao": "LOCACAO DE EQUIPAMENTOS PARA CONSUMO DE GASES"
+    "group": "732",
+    "class": "7329",
+    "code": "14788",
+    "description": "LOCACAO DE EQUIPAMENTOS PARA CONSUMO DE GASES"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "14818",
-    "descricao": "LOCACAO DE EQUIPAMENTO - ALARME"
+    "group": "732",
+    "class": "7329",
+    "code": "14818",
+    "description": "LOCACAO DE EQUIPAMENTO - ALARME"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "15350",
-    "descricao": "LOCACAO VHS / CD / DVD / LIVROS"
+    "group": "732",
+    "class": "7329",
+    "code": "15350",
+    "description": "LOCACAO VHS / CD / DVD / LIVROS"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "16110",
-    "descricao": "LOCACAO DE TANQUE CRIOGENICO"
+    "group": "732",
+    "class": "7329",
+    "code": "16110",
+    "description": "LOCACAO DE TANQUE CRIOGENICO"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "16128",
-    "descricao": "LOCACAO DE CILINDRO"
+    "group": "732",
+    "class": "7329",
+    "code": "16128",
+    "description": "LOCACAO DE CILINDRO"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "17612",
-    "descricao": "LOCACAO GUARITA / CABINE SANITARIA"
+    "group": "732",
+    "class": "7329",
+    "code": "17612",
+    "description": "LOCACAO GUARITA / CABINE SANITARIA"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "17876",
-    "descricao": "LOCACAO DE ROUPA / UNIFORME"
+    "group": "732",
+    "class": "7329",
+    "code": "17876",
+    "description": "LOCACAO DE ROUPA / UNIFORME"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "18236",
-    "descricao": "LOCACAO DE EQUIPAMENTO - ESPORTE / LAZER"
+    "group": "732",
+    "class": "7329",
+    "code": "18236",
+    "description": "LOCACAO DE EQUIPAMENTO - ESPORTE / LAZER"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "18554",
-    "descricao": "LOCACAO EQUIPAMENTO / COMPONENTE - ENDOSCOPIA INDUSTRIAL"
+    "group": "732",
+    "class": "7329",
+    "code": "18554",
+    "description": "LOCACAO EQUIPAMENTO / COMPONENTE - ENDOSCOPIA INDUSTRIAL"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "19151",
-    "descricao": "LOCACAO DE EQUIPAMENTO - CIRCUITO INTERNO / FECHADO TV"
+    "group": "732",
+    "class": "7329",
+    "code": "19151",
+    "description": "LOCACAO DE EQUIPAMENTO - CIRCUITO INTERNO / FECHADO TV"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "19828",
-    "descricao": "LOCACAO / MANUTENCAO - FERRAMENTA ELETRICA"
+    "group": "732",
+    "class": "7329",
+    "code": "19828",
+    "description": "LOCACAO / MANUTENCAO - FERRAMENTA ELETRICA"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "19836",
-    "descricao": "LOCACAO / MANUTENCAO - FERRAMENTA PNEUMATICA"
+    "group": "732",
+    "class": "7329",
+    "code": "19836",
+    "description": "LOCACAO / MANUTENCAO - FERRAMENTA PNEUMATICA"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "20460",
-    "descricao": "LOCACAO DE MESA / CADEIRA /MOBILIARIO DECORACAO INTERIOR"
+    "group": "732",
+    "class": "7329",
+    "code": "20460",
+    "description": "LOCACAO DE MESA / CADEIRA /MOBILIARIO DECORACAO INTERIOR"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "20648",
-    "descricao": "INSTALACAO / MANUTENCAO / LOCACAO MÁQUINAS AUTOMÁTICAS E SEMI-AUTOMÁTICAS (CAFÉ, CHÁ, ALGODÃO-DOCE E OUTRAS)"
+    "group": "732",
+    "class": "7329",
+    "code": "20648",
+    "description": "INSTALACAO / MANUTENCAO / LOCACAO MÁQUINAS AUTOMÁTICAS E SEMI-AUTOMÁTICAS (CAFÉ, CHÁ, ALGODÃO-DOCE E OUTRAS)"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "21164",
-    "descricao": "LOCACAO COBERTURA DESMONTAVEL"
+    "group": "732",
+    "class": "7329",
+    "code": "21164",
+    "description": "LOCACAO COBERTURA DESMONTAVEL"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "21520",
-    "descricao": "LOCACAO LABORATORIO INFORMATICA"
+    "group": "732",
+    "class": "7329",
+    "code": "21520",
+    "description": "LOCACAO LABORATORIO INFORMATICA"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "22047",
-    "descricao": "LOCACAO PLANTA ORNAMENTAL"
+    "group": "732",
+    "class": "7329",
+    "code": "22047",
+    "description": "LOCACAO PLANTA ORNAMENTAL"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "22721",
-    "descricao": "LOCACAO SALA / AUDITORIO"
+    "group": "732",
+    "class": "7329",
+    "code": "22721",
+    "description": "LOCACAO SALA / AUDITORIO"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "22888",
-    "descricao": "LOCACAO BENS MOVEIS"
+    "group": "732",
+    "class": "7329",
+    "code": "22888",
+    "description": "LOCACAO BENS MOVEIS"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "23116",
-    "descricao": "LOCACAO PRE-MOLDADOS DE CONCRETO"
+    "group": "732",
+    "class": "7329",
+    "code": "23116",
+    "description": "LOCACAO PRE-MOLDADOS DE CONCRETO"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "25089",
-    "descricao": "LOCACAO DE VEICULOS - LEVES / PESADOS / COM MOTORISTA"
+    "group": "732",
+    "class": "7329",
+    "code": "25089",
+    "description": "LOCACAO DE VEICULOS - LEVES / PESADOS / COM MOTORISTA"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "25461",
-    "descricao": "LOCACAO DE COMPRESSOR DE AR"
+    "group": "732",
+    "class": "7329",
+    "code": "25461",
+    "description": "LOCACAO DE COMPRESSOR DE AR"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "25488",
-    "descricao": "ALUGUEL DE EQUIPAMENTOS OPTICOS"
+    "group": "732",
+    "class": "7329",
+    "code": "25488",
+    "description": "ALUGUEL DE EQUIPAMENTOS OPTICOS"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "25640",
-    "descricao": "LOCACAO CONTEINER (CONTAINER)"
+    "group": "732",
+    "class": "7329",
+    "code": "25640",
+    "description": "LOCACAO CONTEINER (CONTAINER)"
   },
   {
-    "grupo": "732",
-    "classe": "7329",
-    "codigo": "25658",
-    "descricao": "LOCACAO DE ANIMAIS"
+    "group": "732",
+    "class": "7329",
+    "code": "25658",
+    "description": "LOCACAO DE ANIMAIS"
   }
 ]

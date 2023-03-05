@@ -1,14 +1,14 @@
 [
   {
-    "grupo": "622",
-    "classe": "'-7",
-    "codigo": "16454",
-    "descricao": "COMERCIALIZACAO DE PRODUTOS AGROPECUARIOS"
+    "group": "622",
+    "class": "'-7",
+    "code": "16454",
+    "description": "COMERCIALIZACAO DE PRODUTOS AGROPECUARIOS"
   },
   {
-    "grupo": "622",
-    "classe": "'-7",
-    "codigo": "16489",
-    "descricao": "COMERCIALIZACAO DE GRAO"
+    "group": "622",
+    "class": "'-7",
+    "code": "16489",
+    "description": "COMERCIALIZACAO DE GRAO"
   }
 ]

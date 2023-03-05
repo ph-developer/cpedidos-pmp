@@ -1,20 +1,20 @@
 [
   {
-    "grupo": "821",
-    "classe": "'-7",
-    "codigo": "14281",
-    "descricao": "ADVOCACIA"
+    "group": "821",
+    "class": "'-7",
+    "code": "14281",
+    "description": "ADVOCACIA"
   },
   {
-    "grupo": "821",
-    "classe": "8211",
-    "codigo": "25615",
-    "descricao": "PRESTACAO DE SERVICOS JUDICIARIOS"
+    "group": "821",
+    "class": "8211",
+    "code": "25615",
+    "description": "PRESTACAO DE SERVICOS JUDICIARIOS"
   },
   {
-    "grupo": "821",
-    "classe": "8213",
-    "codigo": "21474",
-    "descricao": "LEITURA E SELECAO - DESPACHO JUDICIAL"
+    "group": "821",
+    "class": "8213",
+    "code": "21474",
+    "description": "LEITURA E SELECAO - DESPACHO JUDICIAL"
   }
 ]

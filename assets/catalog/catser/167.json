@@ -1,74 +1,74 @@
 [
   {
-    "grupo": "167",
-    "classe": "1671",
-    "codigo": "27146",
-    "descricao": "EMISSAO DE CERTIFICADO DIGITAL A1 PARA PESSOA FISICA"
+    "group": "167",
+    "class": "1671",
+    "code": "27146",
+    "description": "EMISSAO DE CERTIFICADO DIGITAL A1 PARA PESSOA FISICA"
   },
   {
-    "grupo": "167",
-    "classe": "1671",
-    "codigo": "27154",
-    "descricao": "EMISSAO DE CERTIFICADO DIGITAL A1 MOBILE PARA PESSOA FISICA"
+    "group": "167",
+    "class": "1671",
+    "code": "27154",
+    "description": "EMISSAO DE CERTIFICADO DIGITAL A1 MOBILE PARA PESSOA FISICA"
   },
   {
-    "grupo": "167",
-    "classe": "1671",
-    "codigo": "27162",
-    "descricao": "EMISSAO DE CERTIFICADO DIGITAL A1 PARA PESSOA JURIDICA"
+    "group": "167",
+    "class": "1671",
+    "code": "27162",
+    "description": "EMISSAO DE CERTIFICADO DIGITAL A1 PARA PESSOA JURIDICA"
   },
   {
-    "grupo": "167",
-    "classe": "1671",
-    "codigo": "27170",
-    "descricao": "EMISSAO DE CERTIFICADO DIGITAL A1 PARA EQUIPAMENTO SERVIDOR"
+    "group": "167",
+    "class": "1671",
+    "code": "27170",
+    "description": "EMISSAO DE CERTIFICADO DIGITAL A1 PARA EQUIPAMENTO SERVIDOR"
   },
   {
-    "grupo": "167",
-    "classe": "1672",
-    "codigo": "27189",
-    "descricao": "EMISSAO DE CERTIFICADO DIGITAL A3, COM TOKEN PESSOA FISICA"
+    "group": "167",
+    "class": "1672",
+    "code": "27189",
+    "description": "EMISSAO DE CERTIFICADO DIGITAL A3, COM TOKEN PESSOA FISICA"
   },
   {
-    "grupo": "167",
-    "classe": "1672",
-    "codigo": "27197",
-    "descricao": "EMISSAO DE CERTIFICADO DIGITAL A3, COM TOKEN PESSOA JURIDICA"
+    "group": "167",
+    "class": "1672",
+    "code": "27197",
+    "description": "EMISSAO DE CERTIFICADO DIGITAL A3, COM TOKEN PESSOA JURIDICA"
   },
   {
-    "grupo": "167",
-    "classe": "1672",
-    "codigo": "27200",
-    "descricao": "EMISSAO DE CERTIFICADO DIGITAL A3, COM TOKEN PARA  EQUIPAMENTO SERVIDOR"
+    "group": "167",
+    "class": "1672",
+    "code": "27200",
+    "description": "EMISSAO DE CERTIFICADO DIGITAL A3, COM TOKEN PARA  EQUIPAMENTO SERVIDOR"
   },
   {
-    "grupo": "167",
-    "classe": "1673",
-    "codigo": "27219",
-    "descricao": "EMISSAO DE CERTIFICADO DIGITAL A3, SEM TOKEN PESSOA   FISICA"
+    "group": "167",
+    "class": "1673",
+    "code": "27219",
+    "description": "EMISSAO DE CERTIFICADO DIGITAL A3, SEM TOKEN PESSOA   FISICA"
   },
   {
-    "grupo": "167",
-    "classe": "1673",
-    "codigo": "27227",
-    "descricao": "EMISSAO DE CERTIFICADO DIGITAL A3, SEM TOKEN PESSOA JURIDICA"
+    "group": "167",
+    "class": "1673",
+    "code": "27227",
+    "description": "EMISSAO DE CERTIFICADO DIGITAL A3, SEM TOKEN PESSOA JURIDICA"
   },
   {
-    "grupo": "167",
-    "classe": "1673",
-    "codigo": "27235",
-    "descricao": "EMISSAO DE CERTIFICADO DIGITAL A3, SEM TOKEN PARA  EQUIPAMENTO SERVIDOR"
+    "group": "167",
+    "class": "1673",
+    "code": "27235",
+    "description": "EMISSAO DE CERTIFICADO DIGITAL A3, SEM TOKEN PARA  EQUIPAMENTO SERVIDOR"
   },
   {
-    "grupo": "167",
-    "classe": "1674",
-    "codigo": "27243",
-    "descricao": "EMISSAO DE OUTROS TIPOS DE CERTIFICADOS COM TOKEN"
+    "group": "167",
+    "class": "1674",
+    "code": "27243",
+    "description": "EMISSAO DE OUTROS TIPOS DE CERTIFICADOS COM TOKEN"
   },
   {
-    "grupo": "167",
-    "classe": "1674",
-    "codigo": "27251",
-    "descricao": "EMISSAO DE OUTROS TIPOS DE CERTIFICADOS SEM TOKEN"
+    "group": "167",
+    "class": "1674",
+    "code": "27251",
+    "description": "EMISSAO DE OUTROS TIPOS DE CERTIFICADOS SEM TOKEN"
   }
 ]

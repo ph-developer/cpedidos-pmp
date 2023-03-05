@@ -7,6 +7,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 
 import 'auth/auth_module.dart';
+import 'auth/presentation/guards/auth_guard.dart';
+import 'catalog/catalog_module.dart';
 import 'orders/orders_module.dart';
 import 'shared/config/theme/theme_config.dart';
 import 'shared/services/error_service.dart';
@@ -15,8 +17,20 @@ import 'shared/services/error_service_impl.dart';
 class AppModule extends Module {
   @override
   List<ModularRoute> get routes => [
-        ModuleRoute('/auth', module: AuthModule()),
-        ModuleRoute('/pedidos', module: OrdersModule()),
+        ModuleRoute(
+          '/auth',
+          module: AuthModule(),
+        ),
+        ModuleRoute(
+          '/pedidos',
+          module: OrdersModule(),
+          guards: [AuthGuard()],
+        ),
+        ModuleRoute(
+          '/catalogo',
+          module: CatalogModule(),
+          guards: [AuthGuard()],
+        ),
         RedirectRoute('/', to: '/auth'),
       ];
 
@@ -40,6 +54,7 @@ class AppModule extends Module {
   List<Module> get imports => [
         AuthModule(),
         OrdersModule(),
+        CatalogModule(),
       ];
 }
 

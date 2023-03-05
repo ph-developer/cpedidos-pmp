@@ -1,38 +1,38 @@
 [
   {
-    "grupo": "612",
-    "classe": "'-7",
-    "codigo": "19259",
-    "descricao": "ASSINATURA OBRAS OFICIAIS - LIVRO / REVISTA"
+    "group": "612",
+    "class": "'-7",
+    "code": "19259",
+    "description": "ASSINATURA OBRAS OFICIAIS - LIVRO / REVISTA"
   },
   {
-    "grupo": "612",
-    "classe": "'-7",
-    "codigo": "20079",
-    "descricao": "COMERCIALIZACAO - PRODUTO / COMPOSTO ORGANICO"
+    "group": "612",
+    "class": "'-7",
+    "code": "20079",
+    "description": "COMERCIALIZACAO - PRODUTO / COMPOSTO ORGANICO"
   },
   {
-    "grupo": "612",
-    "classe": "'-7",
-    "codigo": "21040",
-    "descricao": "ASSINATURA - PUBLICACAO INFORMATIZADA"
+    "group": "612",
+    "class": "'-7",
+    "code": "21040",
+    "description": "ASSINATURA - PUBLICACAO INFORMATIZADA"
   },
   {
-    "grupo": "612",
-    "classe": "6125",
-    "codigo": "4243",
-    "descricao": "ASSINATURA DE JORNAIS, REVISTAS E PERIODICOS"
+    "group": "612",
+    "class": "6125",
+    "code": "4243",
+    "description": "ASSINATURA DE JORNAIS, REVISTAS E PERIODICOS"
   },
   {
-    "grupo": "612",
-    "classe": "6125",
-    "codigo": "23000",
-    "descricao": "ASSINATURA DE PERIODICOS OFICIAIS"
+    "group": "612",
+    "class": "6125",
+    "code": "23000",
+    "description": "ASSINATURA DE PERIODICOS OFICIAIS"
   },
   {
-    "grupo": "612",
-    "classe": "6125",
-    "codigo": "23108",
-    "descricao": "ASSINATURA DE JORNAIS E PERIODICOS / ACERVO BIBLIOGRÁFICO - COM ACESSO 0N-LINE"
+    "group": "612",
+    "class": "6125",
+    "code": "23108",
+    "description": "ASSINATURA DE JORNAIS E PERIODICOS / ACERVO BIBLIOGRÁFICO - COM ACESSO 0N-LINE"
   }
 ]

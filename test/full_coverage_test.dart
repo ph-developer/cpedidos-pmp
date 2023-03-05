@@ -42,7 +42,6 @@ import 'package:cpedidos_pmp/src/shared/config/sentry/sentry_config.dart';
 import 'package:cpedidos_pmp/src/shared/config/theme/theme_config.dart';
 import 'package:cpedidos_pmp/src/shared/helpers/debounce.dart';
 import 'package:cpedidos_pmp/src/shared/helpers/input_formatters.dart';
-import 'package:cpedidos_pmp/src/shared/helpers/string_generator.dart';
 import 'package:cpedidos_pmp/src/shared/helpers/universal_imports.dart';
 import 'package:cpedidos_pmp/src/shared/managers/snackbar_manager.dart';
 import 'package:cpedidos_pmp/src/shared/services/error_service.dart';

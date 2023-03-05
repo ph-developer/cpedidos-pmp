@@ -103,6 +103,14 @@ class _OrdersSearchPageState extends State<OrdersSearchPage> {
                     tooltip: 'Cadastro de Pedidos',
                   ),
                   const SizedBox(width: 8),
+                  IconButton(
+                    icon: const Icon(Icons.menu_book_rounded),
+                    color: Theme.of(context).colorScheme.primary,
+                    onPressed: () =>
+                        Modular.to.pushReplacementNamed('/catalogo/busca'),
+                    tooltip: 'Busca de Materiais e Serviços',
+                  ),
+                  const SizedBox(width: 8),
                   LogoutButton(),
                 ],
               ),

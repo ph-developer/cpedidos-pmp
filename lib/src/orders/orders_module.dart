@@ -1,7 +1,6 @@
 // coverage:ignore-file
 
 import 'package:flutter_modular/flutter_modular.dart';
-import '../auth/presentation/guards/auth_guard.dart';
 import 'domain/repositories/order_repository.dart';
 import 'domain/usecases/delete_order.dart';
 import 'domain/usecases/get_all_orders_by_arrival_date.dart';
@@ -20,16 +19,8 @@ import 'presentation/pages/orders_search_page.dart';
 class OrdersModule extends Module {
   @override
   List<ModularRoute> get routes => [
-        ChildRoute(
-          '/cadastro',
-          child: (_, __) => const OrderRegisterPage(),
-          guards: [AuthGuard()],
-        ),
-        ChildRoute(
-          '/busca',
-          child: (_, __) => const OrdersSearchPage(),
-          guards: [AuthGuard()],
-        ),
+        ChildRoute('/cadastro', child: (_, __) => const OrderRegisterPage()),
+        ChildRoute('/busca', child: (_, __) => const OrdersSearchPage()),
         RedirectRoute('/', to: '/cadastro'),
       ];
 

@@ -1,38 +1,38 @@
 [
   {
-    "grupo": "162",
-    "classe": "1621",
-    "codigo": "26980",
-    "descricao": "CENTRAL DE SERVICOS DE TIC"
+    "group": "162",
+    "class": "1621",
+    "code": "26980",
+    "description": "CENTRAL DE SERVICOS DE TIC"
   },
   {
-    "grupo": "162",
-    "classe": "1621",
-    "codigo": "26999",
-    "descricao": "SERVICOS DE GERENCIAMENTO  DE REDES DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO (TIC)"
+    "group": "162",
+    "class": "1621",
+    "code": "26999",
+    "description": "SERVICOS DE GERENCIAMENTO  DE REDES DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO (TIC)"
   },
   {
-    "grupo": "162",
-    "classe": "1621",
-    "codigo": "27006",
-    "descricao": "SERVICOS DE GERENCIAMENTO DE SISTEMAS COMPUTACIONAIS"
+    "group": "162",
+    "class": "1621",
+    "code": "27006",
+    "description": "SERVICOS DE GERENCIAMENTO DE SISTEMAS COMPUTACIONAIS"
   },
   {
-    "grupo": "162",
-    "classe": "1621",
-    "codigo": "27014",
-    "descricao": "SERVICOS DE GERENCIAMENTO DE INFRAESTRUTURA DE TECNOLOGIA DAINFORMACAO E COMUNICACAO (TIC)"
+    "group": "162",
+    "class": "1621",
+    "code": "27014",
+    "description": "SERVICOS DE GERENCIAMENTO DE INFRAESTRUTURA DE TECNOLOGIA DAINFORMACAO E COMUNICACAO (TIC)"
   },
   {
-    "grupo": "162",
-    "classe": "1621",
-    "codigo": "27022",
-    "descricao": "OUTROS SERVICOS DE  GERENCIAMENTO DE INFRAESTRUTURA DE TECNOLOGIA DA INFORMACAO E COMUNICACAO (TIC)"
+    "group": "162",
+    "class": "1621",
+    "code": "27022",
+    "description": "OUTROS SERVICOS DE  GERENCIAMENTO DE INFRAESTRUTURA DE TECNOLOGIA DA INFORMACAO E COMUNICACAO (TIC)"
   },
   {
-    "grupo": "162",
-    "classe": "1621",
-    "codigo": "27758",
-    "descricao": "SERVICOS ESPECIALIZADOS DE  DISPONIBILIZACAO DE COPIAS DE SEGURANÇA DE DADOS (BACKUP COMO SERVICO)"
+    "group": "162",
+    "class": "1621",
+    "code": "27758",
+    "description": "SERVICOS ESPECIALIZADOS DE  DISPONIBILIZACAO DE COPIAS DE SEGURANÇA DE DADOS (BACKUP COMO SERVICO)"
   }
 ]

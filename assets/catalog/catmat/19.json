@@ -1,380 +1,380 @@
 [
   {
-    "grupo": "19",
-    "classe": "1905",
-    "padrao": "8705",
-    "codigo": "486705",
-    "descricao": " LANCHA, MATERIAL CASCO:ALUMÍNIO LIGA NAVAL, COMPRIMENTO:8 M, BOCA:1,90 M, PONTAL:0,75 M, POTÊNCIA MÁXIMA MOTOR:160 HP, QUANTIDADE PASSAGEIRO:6 UN, ACESSÓRIOS:ESTRADO ANTIDERRAPANTE, ESPELHO DE POPA, FLAPS E P, CARACTERÍSTICAS ADICIONAIS:01 BANCO PILOTO COM ENCOSTO; 02 BANCOS PARA PASSAG, TIPO MOTOR:MOTOR DE POPA, COMBUSTÍVEL:GASOLINA/DIESEL, CAPACIDADE TANQUE COMBUSTÍVEL:200 L, TIPO CAPOTA:CAPOTA REMOVÍVEL, MATERIAL CAPOTA:ALUMíNIO NAVAL 2MM"
+    "group": "19",
+    "class": "1905",
+    "standard": "8705",
+    "code": "486705",
+    "description": " LANCHA, MATERIAL CASCO:ALUMÍNIO LIGA NAVAL, COMPRIMENTO:8 M, BOCA:1,90 M, PONTAL:0,75 M, POTÊNCIA MÁXIMA MOTOR:160 HP, QUANTIDADE PASSAGEIRO:6 UN, ACESSÓRIOS:ESTRADO ANTIDERRAPANTE, ESPELHO DE POPA, FLAPS E P, CARACTERÍSTICAS ADICIONAIS:01 BANCO PILOTO COM ENCOSTO; 02 BANCOS PARA PASSAG, TIPO MOTOR:MOTOR DE POPA, COMBUSTÍVEL:GASOLINA/DIESEL, CAPACIDADE TANQUE COMBUSTÍVEL:200 L, TIPO CAPOTA:CAPOTA REMOVÍVEL, MATERIAL CAPOTA:ALUMíNIO NAVAL 2MM"
   },
   {
-    "grupo": "19",
-    "classe": "1910",
-    "padrao": "10054",
-    "codigo": "515",
-    "descricao": " NAVIO DE PASSAGEIRO, NAVIO DE PASSAGEIRO"
+    "group": "19",
+    "class": "1910",
+    "standard": "10054",
+    "code": "515",
+    "description": " NAVIO DE PASSAGEIRO, NAVIO DE PASSAGEIRO"
   },
   {
-    "grupo": "19",
-    "classe": "1915",
-    "padrao": "10053",
-    "codigo": "582",
-    "descricao": " NAVIO DE CARGA SECA, NAVIO DE CARGA SECA"
+    "group": "19",
+    "class": "1915",
+    "standard": "10053",
+    "code": "582",
+    "description": " NAVIO DE CARGA SECA, NAVIO DE CARGA SECA"
   },
   {
-    "grupo": "19",
-    "classe": "1925",
-    "padrao": "10056",
-    "codigo": "48011",
-    "descricao": " NAVIO EMPURRADOR DE EMBARCACAO, NAVIO EMPURRADOR DE EMBARCACAO"
+    "group": "19",
+    "class": "1925",
+    "standard": "10056",
+    "code": "48011",
+    "description": " NAVIO EMPURRADOR DE EMBARCACAO, NAVIO EMPURRADOR DE EMBARCACAO"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "3340",
-    "codigo": "225855",
-    "descricao": " BARCO ALUMÍNIO, MATERIAL CASCO:ALUMÍNIO, COMPRIMENTO:4,50 M, BOCA:1,30 M, PONTAL:0,45 M, POTÊNCIA INSTALADA:15 HP, MATERIAL TANQUE:NÃO APLICÁVEL, CAPACIDADE TANQUE:NÃO APLICÁVEL L"
+    "group": "19",
+    "class": "1940",
+    "standard": "3340",
+    "code": "225855",
+    "description": " BARCO ALUMÍNIO, MATERIAL CASCO:ALUMÍNIO, COMPRIMENTO:4,50 M, BOCA:1,30 M, PONTAL:0,45 M, POTÊNCIA INSTALADA:15 HP, MATERIAL TANQUE:NÃO APLICÁVEL, CAPACIDADE TANQUE:NÃO APLICÁVEL L"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "3340",
-    "codigo": "225859",
-    "descricao": " BARCO ALUMÍNIO, MATERIAL CASCO:ALUMÍNIO, COMPRIMENTO:6 M, BOCA:1,30 M, PONTAL:0,45 M, POTÊNCIA INSTALADA:25 HP, MATERIAL TANQUE:NÃO APLICÁVEL, CAPACIDADE TANQUE:NÃO APLICÁVEL L"
+    "group": "19",
+    "class": "1940",
+    "standard": "3340",
+    "code": "225859",
+    "description": " BARCO ALUMÍNIO, MATERIAL CASCO:ALUMÍNIO, COMPRIMENTO:6 M, BOCA:1,30 M, PONTAL:0,45 M, POTÊNCIA INSTALADA:25 HP, MATERIAL TANQUE:NÃO APLICÁVEL, CAPACIDADE TANQUE:NÃO APLICÁVEL L"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "3340",
-    "codigo": "225876",
-    "descricao": " BARCO ALUMÍNIO, MATERIAL CASCO:ALUMÍNIO, COMPRIMENTO:6 M, BOCA:1,30 M, PONTAL:0,53 M, POTÊNCIA INSTALADA:30 HP, MATERIAL TANQUE:NÃO APLICÁVEL, CAPACIDADE TANQUE:NÃO APLICÁVEL L"
+    "group": "19",
+    "class": "1940",
+    "standard": "3340",
+    "code": "225876",
+    "description": " BARCO ALUMÍNIO, MATERIAL CASCO:ALUMÍNIO, COMPRIMENTO:6 M, BOCA:1,30 M, PONTAL:0,53 M, POTÊNCIA INSTALADA:30 HP, MATERIAL TANQUE:NÃO APLICÁVEL, CAPACIDADE TANQUE:NÃO APLICÁVEL L"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "3340",
-    "codigo": "225888",
-    "descricao": " BARCO ALUMÍNIO, MATERIAL CASCO:ALUMÍNIO, COMPRIMENTO:8 M, BOCA:1,70 M, PONTAL:0,68 M, POTÊNCIA INSTALADA:60 HP, MATERIAL TANQUE:ALUMÍNIO, CAPACIDADE TANQUE:60 L"
+    "group": "19",
+    "class": "1940",
+    "standard": "3340",
+    "code": "225888",
+    "description": " BARCO ALUMÍNIO, MATERIAL CASCO:ALUMÍNIO, COMPRIMENTO:8 M, BOCA:1,70 M, PONTAL:0,68 M, POTÊNCIA INSTALADA:60 HP, MATERIAL TANQUE:ALUMÍNIO, CAPACIDADE TANQUE:60 L"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "3340",
-    "codigo": "275029",
-    "descricao": " BARCO ALUMÍNIO, MATERIAL CASCO:DURALUMÍNIO DE LIGA NAVAL, COMPRIMENTO:6 M, BOCA:1,50 M, PONTAL:0,55 M, CARACTERÍSTICAS ADICIONAIS:PARA 5 PASSAGEIROS, CALADO:0,15 M"
+    "group": "19",
+    "class": "1940",
+    "standard": "3340",
+    "code": "275029",
+    "description": " BARCO ALUMÍNIO, MATERIAL CASCO:DURALUMÍNIO DE LIGA NAVAL, COMPRIMENTO:6 M, BOCA:1,50 M, PONTAL:0,55 M, CARACTERÍSTICAS ADICIONAIS:PARA 5 PASSAGEIROS, CALADO:0,15 M"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "3340",
-    "codigo": "305401",
-    "descricao": " BARCO ALUMÍNIO, MATERIAL CASCO:ALUMÍNIO, COMPRIMENTO:6 M, BOCA:APROXIMADAMENTE 1,35 M, CARACTERÍSTICAS ADICIONAIS:SOLDADO, CHAPA DE 2 MM, ESTRADO DE ALUMÍNIO ANTIDE"
+    "group": "19",
+    "class": "1940",
+    "standard": "3340",
+    "code": "305401",
+    "description": " BARCO ALUMÍNIO, MATERIAL CASCO:ALUMÍNIO, COMPRIMENTO:6 M, BOCA:APROXIMADAMENTE 1,35 M, CARACTERÍSTICAS ADICIONAIS:SOLDADO, CHAPA DE 2 MM, ESTRADO DE ALUMÍNIO ANTIDE"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "3340",
-    "codigo": "456809",
-    "descricao": " BARCO ALUMÍNIO, MATERIAL CASCO:ALUMÍNIO, COMPRIMENTO:12 M, BOCA:1,70 M, PONTAL:0,70 M, POTÊNCIA INSTALADA:75 HP"
+    "group": "19",
+    "class": "1940",
+    "standard": "3340",
+    "code": "456809",
+    "description": " BARCO ALUMÍNIO, MATERIAL CASCO:ALUMÍNIO, COMPRIMENTO:12 M, BOCA:1,70 M, PONTAL:0,70 M, POTÊNCIA INSTALADA:75 HP"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "3343",
-    "codigo": "301819",
-    "descricao": " BARCO MADEIRA, COMPRIMENTO TOTAL:15,40 M, BOCA:4 M, PONTAL:MÍNIMO 1 M, CARACTERÍSTICAS ADICIONAIS:1 CONVESE CONTÍNUO E 1 TOLDO CONTÍNUO, TIPO:BALEEIRA"
+    "group": "19",
+    "class": "1940",
+    "standard": "3343",
+    "code": "301819",
+    "description": " BARCO MADEIRA, COMPRIMENTO TOTAL:15,40 M, BOCA:4 M, PONTAL:MÍNIMO 1 M, CARACTERÍSTICAS ADICIONAIS:1 CONVESE CONTÍNUO E 1 TOLDO CONTÍNUO, TIPO:BALEEIRA"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "10641",
-    "codigo": "602065",
-    "descricao": " PEQUENA EMBARCACAO COM PROPULSAO PROPRIA, MATERIAL:FIBRA DE VIDRO, CAPACIDADE PASSAGEIRO:2, CAPACIDADE TANQUE:70 L, TIPO:JET SENTADO, POTÊNCIA:300 HP"
+    "group": "19",
+    "class": "1940",
+    "standard": "10641",
+    "code": "602065",
+    "description": " PEQUENA EMBARCACAO COM PROPULSAO PROPRIA, MATERIAL:FIBRA DE VIDRO, CAPACIDADE PASSAGEIRO:2, CAPACIDADE TANQUE:70 L, TIPO:JET SENTADO, POTÊNCIA:300 HP"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "10641",
-    "codigo": "602216",
-    "descricao": " PEQUENA EMBARCACAO COM PROPULSAO PROPRIA, MATERIAL:FIBRA DE VIDRO, CAPACIDADE PASSAGEIRO:3, CAPACIDADE TANQUE:60 L, TIPO:JET SENTADO, POTÊNCIA:170 HP, CARACTERíSTICAS ADICIONAIS:MOTOR MARITIMO ASPIRADO"
+    "group": "19",
+    "class": "1940",
+    "standard": "10641",
+    "code": "602216",
+    "description": " PEQUENA EMBARCACAO COM PROPULSAO PROPRIA, MATERIAL:FIBRA DE VIDRO, CAPACIDADE PASSAGEIRO:3, CAPACIDADE TANQUE:60 L, TIPO:JET SENTADO, POTÊNCIA:170 HP, CARACTERíSTICAS ADICIONAIS:MOTOR MARITIMO ASPIRADO"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "264428",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:PAINEL 6 EM PLÁSTICO REFORÇADO COM FIBRA DE VIDRO, REFERÊNCIA FABRIL:SBP-423, APLICAÇÃO:BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "264428",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:PAINEL 6 EM PLÁSTICO REFORÇADO COM FIBRA DE VIDRO, REFERÊNCIA FABRIL:SBP-423, APLICAÇÃO:BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "264592",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:TECIDO HYPALON COR PRETA, REFERÊNCIA FABRIL:STYLE 18493, APLICAÇÃO:BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "264592",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:TECIDO HYPALON COR PRETA, REFERÊNCIA FABRIL:STYLE 18493, APLICAÇÃO:BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "291000",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:RESINA POLIÉSTER ISOFTÁLICA, USO:MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO:INDÚSTRIA NAVAL"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "291000",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:RESINA POLIÉSTER ISOFTÁLICA, USO:MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO:INDÚSTRIA NAVAL"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "291001",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:MANTA FIBRA VIDRO, USO:MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO:INDÚSTRIA NAVAL"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "291001",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:MANTA FIBRA VIDRO, USO:MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO:INDÚSTRIA NAVAL"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "291002",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:DILUENTES/SOLVENTES/MONÔMERO DE ESTIRENO, USO:MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO:INDÚSTRIA NAVAL"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "291002",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:DILUENTES/SOLVENTES/MONÔMERO DE ESTIRENO, USO:MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO:INDÚSTRIA NAVAL"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "291008",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:VERDUGO, USO:PROTEÇÃO CASCO EMBARCAÇÃO EM NEOPRENE REFORÇO BAR-, APLICAÇÃO:INDÚSTRIA NAVAL"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "291008",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:VERDUGO, USO:PROTEÇÃO CASCO EMBARCAÇÃO EM NEOPRENE REFORÇO BAR-, APLICAÇÃO:INDÚSTRIA NAVAL"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "291076",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:CATALIZADOR/PERÓXIDO DE MEKP, USO:MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO:INDÚSTRIA NAVAL"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "291076",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:CATALIZADOR/PERÓXIDO DE MEKP, USO:MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO:INDÚSTRIA NAVAL"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "291077",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:COBALTO LÍQUIDO USADO COMO ACELERADOR, USO:MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO:INDÚSTRIA NAVAL"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "291077",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:COBALTO LÍQUIDO USADO COMO ACELERADOR, USO:MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO:INDÚSTRIA NAVAL"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "292183",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:VOLANTE, USO:MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO:LANCHA, CARACTERÍSTICAS ADICIONAIS:TERMO PLÁSTICO/COR BRANCA/DIÂMETRO 35CM/FURO MOR-"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "292183",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:VOLANTE, USO:MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO:LANCHA, CARACTERÍSTICAS ADICIONAIS:TERMO PLÁSTICO/COR BRANCA/DIÂMETRO 35CM/FURO MOR-"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "295494",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:BOMBA D'ÁGUA, USO:BOMBEAR ÁGUA SALGADA, APLICAÇÃO:LANCHA, CARACTERÍSTICAS ADICIONAIS:COM SAÍDA DE 1 1/2 POLEGADA"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "295494",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:BOMBA D'ÁGUA, USO:BOMBEAR ÁGUA SALGADA, APLICAÇÃO:LANCHA, CARACTERÍSTICAS ADICIONAIS:COM SAÍDA DE 1 1/2 POLEGADA"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "317692",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:CONJUNTO, USO:FIXAÇÃO ISOLAMENTO TÉRMICO, CARACTERÍSTICAS ADICIONAIS:AÇO BAIXO CARBONO 4,8 X 34MM E ANEL CERÂMICO"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "317692",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:CONJUNTO, USO:FIXAÇÃO ISOLAMENTO TÉRMICO, CARACTERÍSTICAS ADICIONAIS:AÇO BAIXO CARBONO 4,8 X 34MM E ANEL CERÂMICO"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "317693",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:CONJUNTO, USO:FIXAÇÃO ISOLAMENTO TÉRMICO, CARACTERÍSTICAS ADICIONAIS:AÇO BAIXO CARBONO 4,8 X 139MM E ANEL CERÂMICO"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "317693",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:CONJUNTO, USO:FIXAÇÃO ISOLAMENTO TÉRMICO, CARACTERÍSTICAS ADICIONAIS:AÇO BAIXO CARBONO 4,8 X 139MM E ANEL CERÂMICO"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "332194",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:CHAVE DE BATERIA, USO:INSTALAÇÃO SISTEMA ELÉTRICO, APLICAÇÃO:LANCHA, CARACTERÍSTICAS ADICIONAIS:CHAVE ELÉTRICA FACA"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "332194",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:CHAVE DE BATERIA, USO:INSTALAÇÃO SISTEMA ELÉTRICO, APLICAÇÃO:LANCHA, CARACTERÍSTICAS ADICIONAIS:CHAVE ELÉTRICA FACA"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "344323",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:BOMBA ELÉTRICA 12 V, USO:ESGOTO, APLICAÇÃO:EMBARCAÇÃO"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "344323",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:BOMBA ELÉTRICA 12 V, USO:ESGOTO, APLICAÇÃO:EMBARCAÇÃO"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "355579",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:MOTOR PARTIDA, USO:EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS:MOTOR MARCA MWM, SÉRIE 229, DE 3 CILINDROS, MATERIAL:METÁLICO"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "355579",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:MOTOR PARTIDA, USO:EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS:MOTOR MARCA MWM, SÉRIE 229, DE 3 CILINDROS, MATERIAL:METÁLICO"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "458315",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:BOMBA ELÉTRICA 12 V, USO:EMBARCAÇÃO, APLICAÇÃO:VASO SANITÁRIO, CARACTERÍSTICAS ADICIONAIS:BOMBA MACERADORA PARA VASO SANITÁRIO ELÉTRICO, MATERIAL:METÁLICO"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "458315",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:BOMBA ELÉTRICA 12 V, USO:EMBARCAÇÃO, APLICAÇÃO:VASO SANITÁRIO, CARACTERÍSTICAS ADICIONAIS:BOMBA MACERADORA PARA VASO SANITÁRIO ELÉTRICO, MATERIAL:METÁLICO"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "458861",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:BOMBA ELÉTRICA 12 V, USO:PORÃO DE EMBARCAÇÃO, APLICAÇÃO:BARCOS, LANCHAS, CARACTERÍSTICAS ADICIONAIS:1100 GPH, POTÊNCIA 36W, BOMBEAMENTO 4.070 LITROS -, MATERIAL:ABS"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "458861",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:BOMBA ELÉTRICA 12 V, USO:PORÃO DE EMBARCAÇÃO, APLICAÇÃO:BARCOS, LANCHAS, CARACTERÍSTICAS ADICIONAIS:1100 GPH, POTÊNCIA 36W, BOMBEAMENTO 4.070 LITROS -, MATERIAL:ABS"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "458875",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:MANTA FIBRA VIDRO/450G/M2, USO:MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO:INDÚSTRIA NAVAL, MATERIAL:FIBRA DE VIDRO"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "458875",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:MANTA FIBRA VIDRO/450G/M2, USO:MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO:INDÚSTRIA NAVAL, MATERIAL:FIBRA DE VIDRO"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "458877",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:CUNHO, USO:EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS:6 POL COM BASE DE 3 POL X 2 POL, MATERIAL:AÇO INOX"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "458877",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:CUNHO, USO:EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS:6 POL COM BASE DE 3 POL X 2 POL, MATERIAL:AÇO INOX"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "458878",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:TOLETEIRA, USO:EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS:DIMENSÕES 2 X 3/16 POL., MEDINDO 0,107 X 0,50MM, MATERIAL:AÇO INOXIDÁVEL AISI-304"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "458878",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:TOLETEIRA, USO:EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS:DIMENSÕES 2 X 3/16 POL., MEDINDO 0,107 X 0,50MM, MATERIAL:AÇO INOXIDÁVEL AISI-304"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "458879",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:BUEIRA, USO:EMBARCAÇÃO, MATERIAL:TERMOPLÁSTICO, DIÂMETRO:38 MM"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "458879",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:BUEIRA, USO:EMBARCAÇÃO, MATERIAL:TERMOPLÁSTICO, DIÂMETRO:38 MM"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "459902",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:TEMANQUEIRA DO FINCAPE, USO:EMBARCAÇÃO, MATERIAL:POLIAMIDA"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "459902",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:TEMANQUEIRA DO FINCAPE, USO:EMBARCAÇÃO, MATERIAL:POLIAMIDA"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "460506",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:PASSA CABO, USO:EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS:DIMENSÕES 5.1/2\" X 1'' POLEGADA, MATERIAL:AÇO INOX"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "460506",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:PASSA CABO, USO:EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS:DIMENSÕES 5.1/2\" X 1'' POLEGADA, MATERIAL:AÇO INOX"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "460617",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:BOMBA D'ÁGUA, USO:PORÃO DE EMBARCAÇÃO, APLICAÇÃO:BARCOS, LANCHAS, CARACTERÍSTICAS ADICIONAIS:500 GPH. 1890 L/H. 12 VOLTS. 2.5 AMP. SAÍDA 3/4\", MATERIAL:METÁLICO"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "460617",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:BOMBA D'ÁGUA, USO:PORÃO DE EMBARCAÇÃO, APLICAÇÃO:BARCOS, LANCHAS, CARACTERÍSTICAS ADICIONAIS:500 GPH. 1890 L/H. 12 VOLTS. 2.5 AMP. SAÍDA 3/4\", MATERIAL:METÁLICO"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "461026",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:ACOPLAMENTO FLEXÍVEL, USO:EMBARCAÇÃO, MATERIAL:AÇO INOX"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "461026",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:ACOPLAMENTO FLEXÍVEL, USO:EMBARCAÇÃO, MATERIAL:AÇO INOX"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "461844",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:PÉ DE GALINHA PRINCIPAL, USO:EMBARCAÇÃO, MATERIAL:AÇO 1301 NORMA ASTM-A-27 GR 60/30"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "461844",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:PÉ DE GALINHA PRINCIPAL, USO:EMBARCAÇÃO, MATERIAL:AÇO 1301 NORMA ASTM-A-27 GR 60/30"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "474298",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:BOMBA DE ÓLEO, REFERÊNCIA FABRIL:3141+990, USO:EMBARCAÇÃO, MATERIAL:METÁLICO"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "474298",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:BOMBA DE ÓLEO, REFERÊNCIA FABRIL:3141+990, USO:EMBARCAÇÃO, MATERIAL:METÁLICO"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "477503",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:BURICA TIPO ARGANÉU, OLHAL, REFERÊNCIA FABRIL:CERTIF. TECNOLÓGICO NÚMERO 2332_04_2021, USO:PEIAMENTO DE HELICÓPTEROS EM NAVIOS, MATERIAL:AÇO"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "477503",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:BURICA TIPO ARGANÉU, OLHAL, REFERÊNCIA FABRIL:CERTIF. TECNOLÓGICO NÚMERO 2332_04_2021, USO:PEIAMENTO DE HELICÓPTEROS EM NAVIOS, MATERIAL:AÇO"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "481266",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:BOMBA D'ÁGUA, USO:ESGOTO, MATERIAL:TERMOPLÁSTICO, APLICAÇÃO:BARCOS, LANCHAS"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "481266",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:BOMBA D'ÁGUA, USO:ESGOTO, MATERIAL:TERMOPLÁSTICO, APLICAÇÃO:BARCOS, LANCHAS"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "481269",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:BOMBA D'ÁGUA, USO:ESGOTO, MATERIAL:TERMOPLÁSTICO, APLICAÇÃO:LANCHA"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "481269",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:BOMBA D'ÁGUA, USO:ESGOTO, MATERIAL:TERMOPLÁSTICO, APLICAÇÃO:LANCHA"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "600213",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:PORCA PLÁSTICA DA BASE DA VÁLVULA, REFERÊNCIA FABRIL:NUMBER ZODIAC Z3292, USO:BASE DA VÁLVULA, APLICAÇÃO:BOTE ZODIAC, MATERIAL:PLÁSTICO"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "600213",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:PORCA PLÁSTICA DA BASE DA VÁLVULA, REFERÊNCIA FABRIL:NUMBER ZODIAC Z3292, USO:BASE DA VÁLVULA, APLICAÇÃO:BOTE ZODIAC, MATERIAL:PLÁSTICO"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "600214",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:MANGOTE DE INFLAGEM, REFERÊNCIA FABRIL:NUMBER ZODIAC Z3046, USO:QUILHA LATERAL, APLICAÇÃO:BOTE ZODIAC, MATERIAL:BORRACHA"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "600214",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:MANGOTE DE INFLAGEM, REFERÊNCIA FABRIL:NUMBER ZODIAC Z3046, USO:QUILHA LATERAL, APLICAÇÃO:BOTE ZODIAC, MATERIAL:BORRACHA"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "600215",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:JUNTA, REFERÊNCIA FABRIL:PART NUMBER ZODIAC Z3001, USO:BASE DA VÁLVULA, APLICAÇÃO:BOTE ZODIAC, MATERIAL:METÁLICO"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "600215",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:JUNTA, REFERÊNCIA FABRIL:PART NUMBER ZODIAC Z3001, USO:BASE DA VÁLVULA, APLICAÇÃO:BOTE ZODIAC, MATERIAL:METÁLICO"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "600216",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:VÁLVULA PLÁSTICA, REFERÊNCIA FABRIL:PART NUMBER ZODIAC Z2847, USO:EMBARCAÇÃO, APLICAÇÃO:BOTE ZODIAC, MATERIAL:METÁLICO"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "600216",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:VÁLVULA PLÁSTICA, REFERÊNCIA FABRIL:PART NUMBER ZODIAC Z2847, USO:EMBARCAÇÃO, APLICAÇÃO:BOTE ZODIAC, MATERIAL:METÁLICO"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "600217",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:TAMPA, REFERÊNCIA FABRIL:PART NUMBER ZODIAC Z2846, USO:EMBARCAÇÃO, APLICAÇÃO:BOTE ZODIAC, MATERIAL:PLÁSTICO"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "600217",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:TAMPA, REFERÊNCIA FABRIL:PART NUMBER ZODIAC Z2846, USO:EMBARCAÇÃO, APLICAÇÃO:BOTE ZODIAC, MATERIAL:PLÁSTICO"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "600227",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:O'RING, REFERÊNCIA FABRIL:PART NUMBER Z2864, USO:JUNTA DA VÁLVULA Z2107, APLICAÇÃO:BOTE ZODIAC, MATERIAL:SILICONE"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "600227",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:O'RING, REFERÊNCIA FABRIL:PART NUMBER Z2864, USO:JUNTA DA VÁLVULA Z2107, APLICAÇÃO:BOTE ZODIAC, MATERIAL:SILICONE"
   },
   {
-    "grupo": "19",
-    "classe": "1940",
-    "padrao": "17605",
-    "codigo": "600255",
-    "descricao": " COMPONENTE EMBARCAÇÃO, TIPO:ORING, REFERÊNCIA FABRIL:ZODIAC Z2212, USO:EMBARCAÇÕES, APLICAÇÃO:BOTE ZODIAC, MATERIAL:SILICONE"
+    "group": "19",
+    "class": "1940",
+    "standard": "17605",
+    "code": "600255",
+    "description": " COMPONENTE EMBARCAÇÃO, TIPO:ORING, REFERÊNCIA FABRIL:ZODIAC Z2212, USO:EMBARCAÇÕES, APLICAÇÃO:BOTE ZODIAC, MATERIAL:SILICONE"
   },
   {
-    "grupo": "19",
-    "classe": "1945",
-    "padrao": "4179",
-    "codigo": "48178",
-    "descricao": " CAIXAO FLUTUANTE ( DOCAS ), CAIXAO FLUTUANTE ( DOCAS )"
+    "group": "19",
+    "class": "1945",
+    "standard": "4179",
+    "code": "48178",
+    "description": " CAIXAO FLUTUANTE ( DOCAS ), CAIXAO FLUTUANTE ( DOCAS )"
   },
   {
-    "grupo": "19",
-    "classe": "1955",
-    "padrao": "6400",
-    "codigo": "225893",
-    "descricao": " DRAGA, MATERIAL CASCO:FERRO, COMPRIMENTO:15,50 M, BOCA:5 M, PONTAL:2,60 M, CALADO:1,25 M, POTÊNCIA INSTALADA:730 HP, ARQUEAÇÃO:25 TON"
+    "group": "19",
+    "class": "1955",
+    "standard": "6400",
+    "code": "225893",
+    "description": " DRAGA, MATERIAL CASCO:FERRO, COMPRIMENTO:15,50 M, BOCA:5 M, PONTAL:2,60 M, CALADO:1,25 M, POTÊNCIA INSTALADA:730 HP, ARQUEAÇÃO:25 TON"
   },
   {
-    "grupo": "19",
-    "classe": "1955",
-    "padrao": "6400",
-    "codigo": "296378",
-    "descricao": " DRAGA, MATERIAL CASCO:AÇO INOX, COMPRIMENTO:150 MM, BOCA:150 MM, PONTAL:150 MM, COMPONENTES:GUINCHO INOX, ROLDANA NÁILON E SUPORTE EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS:CAPACIDADE COLETA 3,54ML E PESO 4,5KG"
+    "group": "19",
+    "class": "1955",
+    "standard": "6400",
+    "code": "296378",
+    "description": " DRAGA, MATERIAL CASCO:AÇO INOX, COMPRIMENTO:150 MM, BOCA:150 MM, PONTAL:150 MM, COMPONENTES:GUINCHO INOX, ROLDANA NÁILON E SUPORTE EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS:CAPACIDADE COLETA 3,54ML E PESO 4,5KG"
   }
 ]

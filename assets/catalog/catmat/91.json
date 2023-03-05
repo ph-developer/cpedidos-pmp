@@ -1,1878 +1,1878 @@
 [
   {
-    "grupo": "91",
-    "classe": "9110",
-    "padrao": "4675",
-    "codigo": "603115",
-    "descricao": " CARVÃO MINERAL, TIPO:ANTRACIO, PORCENTAGEM DE CARBONO:92 PER, GRANULOMETRIA:DE 0,8 A 1,0 MM"
+    "group": "91",
+    "class": "9110",
+    "standard": "4675",
+    "code": "603115",
+    "description": " CARVÃO MINERAL, TIPO:ANTRACIO, PORCENTAGEM DE CARBONO:92 PER, GRANULOMETRIA:DE 0,8 A 1,0 MM"
   },
   {
-    "grupo": "91",
-    "classe": "9110",
-    "padrao": "4676",
-    "codigo": "16888",
-    "descricao": " CARVÃO VEGETAL, CARVAO VEGETAL"
+    "group": "91",
+    "class": "9110",
+    "standard": "4676",
+    "code": "16888",
+    "description": " CARVÃO VEGETAL, CARVAO VEGETAL"
   },
   {
-    "grupo": "91",
-    "classe": "9110",
-    "padrao": "8775",
-    "codigo": "235008",
-    "descricao": " LENHA, TIPO MADEIRA:VARIADO, APRESENTAÇÃO:CORTADA, APLICAÇÃO:COMBUSTÍVEL CALDEIRA"
+    "group": "91",
+    "class": "9110",
+    "standard": "8775",
+    "code": "235008",
+    "description": " LENHA, TIPO MADEIRA:VARIADO, APRESENTAÇÃO:CORTADA, APLICAÇÃO:COMBUSTÍVEL CALDEIRA"
   },
   {
-    "grupo": "91",
-    "classe": "9110",
-    "padrao": "8775",
-    "codigo": "259754",
-    "descricao": " LENHA, TIPO MADEIRA:EUCALIPTO, APRESENTAÇÃO:CORTADA, APLICAÇÃO:COMBUSTÍVEL CALDEIRA"
+    "group": "91",
+    "class": "9110",
+    "standard": "8775",
+    "code": "259754",
+    "description": " LENHA, TIPO MADEIRA:EUCALIPTO, APRESENTAÇÃO:CORTADA, APLICAÇÃO:COMBUSTÍVEL CALDEIRA"
   },
   {
-    "grupo": "91",
-    "classe": "9110",
-    "padrao": "12457",
-    "codigo": "484250",
-    "descricao": " TABLETE DE AQUECER ALIMENTO, TIPO:ACENDEDOR, COMPOSIÇÃO:ÁLCOOL ETÍLICO SÓLIDO E CORANTES, COMPONENTES:KIT 4 PEÇAS"
+    "group": "91",
+    "class": "9110",
+    "standard": "12457",
+    "code": "484250",
+    "description": " TABLETE DE AQUECER ALIMENTO, TIPO:ACENDEDOR, COMPOSIÇÃO:ÁLCOOL ETÍLICO SÓLIDO E CORANTES, COMPONENTES:KIT 4 PEÇAS"
   },
   {
-    "grupo": "91",
-    "classe": "9130",
-    "padrao": "19737",
-    "codigo": "461506",
-    "descricao": " GASOLINA, USO:PARA AUTOMOTIVOS, CLASSIFICAÇÃO:COMUM, ÍNDICE DE OCTANAGEM:IAD 87 MIN"
+    "group": "91",
+    "class": "9130",
+    "standard": "19737",
+    "code": "461506",
+    "description": " GASOLINA, USO:PARA AUTOMOTIVOS, CLASSIFICAÇÃO:COMUM, ÍNDICE DE OCTANAGEM:IAD 87 MIN"
   },
   {
-    "grupo": "91",
-    "classe": "9130",
-    "padrao": "19737",
-    "codigo": "461507",
-    "descricao": " GASOLINA, USO:PARA AUTOMOTIVOS, CLASSIFICAÇÃO:ADITIVADA, ÍNDICE DE OCTANAGEM:IAD 91 MIN"
+    "group": "91",
+    "class": "9130",
+    "standard": "19737",
+    "code": "461507",
+    "description": " GASOLINA, USO:PARA AUTOMOTIVOS, CLASSIFICAÇÃO:ADITIVADA, ÍNDICE DE OCTANAGEM:IAD 91 MIN"
   },
   {
-    "grupo": "91",
-    "classe": "9130",
-    "padrao": "19737",
-    "codigo": "461508",
-    "descricao": " GASOLINA, USO:PARA AUTOMOTIVOS, CLASSIFICAÇÃO:ADITIVADA, ÍNDICE DE OCTANAGEM:IAD 95 MIN"
+    "group": "91",
+    "class": "9130",
+    "standard": "19737",
+    "code": "461508",
+    "description": " GASOLINA, USO:PARA AUTOMOTIVOS, CLASSIFICAÇÃO:ADITIVADA, ÍNDICE DE OCTANAGEM:IAD 95 MIN"
   },
   {
-    "grupo": "91",
-    "classe": "9130",
-    "padrao": "19737",
-    "codigo": "461509",
-    "descricao": " GASOLINA, USO:PARA AVIAÇÃO, CLASSIFICAÇÃO:GAV-100 LL"
+    "group": "91",
+    "class": "9130",
+    "standard": "19737",
+    "code": "461509",
+    "description": " GASOLINA, USO:PARA AVIAÇÃO, CLASSIFICAÇÃO:GAV-100 LL"
   },
   {
-    "grupo": "91",
-    "classe": "9135",
-    "padrao": "2249",
-    "codigo": "486024",
-    "descricao": " ÁLCOOL ANIDRO COMBUSTÍVEL, CLASSIFICAÇÃO:COMUM, USO:PARA AUTOMOTIVOS, COMPOSTO:ETANOL"
+    "group": "91",
+    "class": "9135",
+    "standard": "2249",
+    "code": "486024",
+    "description": " ÁLCOOL ANIDRO COMBUSTÍVEL, CLASSIFICAÇÃO:COMUM, USO:PARA AUTOMOTIVOS, COMPOSTO:ETANOL"
   },
   {
-    "grupo": "91",
-    "classe": "9135",
-    "padrao": "2249",
-    "codigo": "486025",
-    "descricao": " ÁLCOOL ANIDRO COMBUSTÍVEL, CLASSIFICAÇÃO:ADITIVADA, USO:PARA AUTOMOTIVOS, COMPOSTO:ETANOL"
+    "group": "91",
+    "class": "9135",
+    "standard": "2249",
+    "code": "486025",
+    "description": " ÁLCOOL ANIDRO COMBUSTÍVEL, CLASSIFICAÇÃO:ADITIVADA, USO:PARA AUTOMOTIVOS, COMPOSTO:ETANOL"
   },
   {
-    "grupo": "91",
-    "classe": "9140",
-    "padrao": "793",
-    "codigo": "222815",
-    "descricao": " NAFTA, ASPECTO FÍSICO:LÍQUIDO LÍMPIDO TRANSPARENTE, DENSIDADE A 4¿ CELSIUS:0,7370 A 0,7490 KG/M3, DESTILAÇÃO:0¿C A 760 MM.HG, APLICAÇÃO:FORMULAÇÃO TINTAS SECAGEM RÁPIDA"
+    "group": "91",
+    "class": "9140",
+    "standard": "793",
+    "code": "222815",
+    "description": " NAFTA, ASPECTO FÍSICO:LÍQUIDO LÍMPIDO TRANSPARENTE, DENSIDADE A 4¿ CELSIUS:0,7370 A 0,7490 KG/M3, DESTILAÇÃO:0¿C A 760 MM.HG, APLICAÇÃO:FORMULAÇÃO TINTAS SECAGEM RÁPIDA"
   },
   {
-    "grupo": "91",
-    "classe": "9140",
-    "padrao": "19739",
-    "codigo": "461534",
-    "descricao": " ÓLEO COMBUSTÍVEL, TIPO:OCB1, VISCOSIDADE:620 MM2/S, TEOR ENXOFRE:MÁXIMO DE 1% MASSA DE ENXOFRE"
+    "group": "91",
+    "class": "9140",
+    "standard": "19739",
+    "code": "461534",
+    "description": " ÓLEO COMBUSTÍVEL, TIPO:OCB1, VISCOSIDADE:620 MM2/S, TEOR ENXOFRE:MÁXIMO DE 1% MASSA DE ENXOFRE"
   },
   {
-    "grupo": "91",
-    "classe": "9140",
-    "padrao": "19739",
-    "codigo": "461535",
-    "descricao": " ÓLEO COMBUSTÍVEL, TIPO:OCA1, VISCOSIDADE:620 MM2/S, TEOR ENXOFRE:MÁXIMO DE 2% MASSA DE ENXOFRE"
+    "group": "91",
+    "class": "9140",
+    "standard": "19739",
+    "code": "461535",
+    "description": " ÓLEO COMBUSTÍVEL, TIPO:OCA1, VISCOSIDADE:620 MM2/S, TEOR ENXOFRE:MÁXIMO DE 2% MASSA DE ENXOFRE"
   },
   {
-    "grupo": "91",
-    "classe": "9140",
-    "padrao": "19739",
-    "codigo": "461536",
-    "descricao": " ÓLEO COMBUSTÍVEL, TIPO:OCB2, VISCOSIDADE:960 MM2/S, TEOR ENXOFRE:MÁXIMO DE 1% MASSA DE ENXOFRE"
+    "group": "91",
+    "class": "9140",
+    "standard": "19739",
+    "code": "461536",
+    "description": " ÓLEO COMBUSTÍVEL, TIPO:OCB2, VISCOSIDADE:960 MM2/S, TEOR ENXOFRE:MÁXIMO DE 1% MASSA DE ENXOFRE"
   },
   {
-    "grupo": "91",
-    "classe": "9140",
-    "padrao": "19739",
-    "codigo": "461537",
-    "descricao": " ÓLEO COMBUSTÍVEL, TIPO:OCA2, VISCOSIDADE:960 MM2/S, TEOR ENXOFRE:MÁXIMO DE 2% MASSA DE ENXOFRE"
+    "group": "91",
+    "class": "9140",
+    "standard": "19739",
+    "code": "461537",
+    "description": " ÓLEO COMBUSTÍVEL, TIPO:OCA2, VISCOSIDADE:960 MM2/S, TEOR ENXOFRE:MÁXIMO DE 2% MASSA DE ENXOFRE"
   },
   {
-    "grupo": "91",
-    "classe": "9140",
-    "padrao": "19739",
-    "codigo": "466762",
-    "descricao": " ÓLEO COMBUSTÍVEL, TIPO:A1 (BPF), VISCOSIDADE:620 MM2/S, TEOR ENXOFRE:MÁXIMO DE 2,50% MASSA DE ENXOFRE"
+    "group": "91",
+    "class": "9140",
+    "standard": "19739",
+    "code": "466762",
+    "description": " ÓLEO COMBUSTÍVEL, TIPO:A1 (BPF), VISCOSIDADE:620 MM2/S, TEOR ENXOFRE:MÁXIMO DE 2,50% MASSA DE ENXOFRE"
   },
   {
-    "grupo": "91",
-    "classe": "9140",
-    "padrao": "19740",
-    "codigo": "461548",
-    "descricao": " ÓLEO DIESEL, USO:AUTOMOTIVO, APRESENTAÇÃO:COM BIODIESEL, COMPOSIÇÃO:CONCENTRAÇÃO DE ENXOFRE 10 MG/KG"
+    "group": "91",
+    "class": "9140",
+    "standard": "19740",
+    "code": "461548",
+    "description": " ÓLEO DIESEL, USO:AUTOMOTIVO, APRESENTAÇÃO:COM BIODIESEL, COMPOSIÇÃO:CONCENTRAÇÃO DE ENXOFRE 10 MG/KG"
   },
   {
-    "grupo": "91",
-    "classe": "9140",
-    "padrao": "19740",
-    "codigo": "461549",
-    "descricao": " ÓLEO DIESEL, USO:AUTOMOTIVO, APRESENTAÇÃO:COM BIODIESEL, COMPOSIÇÃO:CONCENTRAÇÃO DE ENXOFRE 50 MG/KG"
+    "group": "91",
+    "class": "9140",
+    "standard": "19740",
+    "code": "461549",
+    "description": " ÓLEO DIESEL, USO:AUTOMOTIVO, APRESENTAÇÃO:COM BIODIESEL, COMPOSIÇÃO:CONCENTRAÇÃO DE ENXOFRE 50 MG/KG"
   },
   {
-    "grupo": "91",
-    "classe": "9140",
-    "padrao": "19740",
-    "codigo": "461551",
-    "descricao": " ÓLEO DIESEL, USO:FERROVIÁRIO, APRESENTAÇÃO:TFM, COMPOSIÇÃO:CONCENTRAÇÃO DE ENXOFRE 1.800 MG/KG"
+    "group": "91",
+    "class": "9140",
+    "standard": "19740",
+    "code": "461551",
+    "description": " ÓLEO DIESEL, USO:FERROVIÁRIO, APRESENTAÇÃO:TFM, COMPOSIÇÃO:CONCENTRAÇÃO DE ENXOFRE 1.800 MG/KG"
   },
   {
-    "grupo": "91",
-    "classe": "9140",
-    "padrao": "19740",
-    "codigo": "461552",
-    "descricao": " ÓLEO DIESEL, USO:AUTOMOTIVO, APRESENTAÇÃO:COM BIODIESEL"
+    "group": "91",
+    "class": "9140",
+    "standard": "19740",
+    "code": "461552",
+    "description": " ÓLEO DIESEL, USO:AUTOMOTIVO, APRESENTAÇÃO:COM BIODIESEL"
   },
   {
-    "grupo": "91",
-    "classe": "9140",
-    "padrao": "19740",
-    "codigo": "461554",
-    "descricao": " ÓLEO DIESEL, USO:MARÍTIMO, APRESENTAÇÃO:BUNKER"
+    "group": "91",
+    "class": "9140",
+    "standard": "19740",
+    "code": "461554",
+    "description": " ÓLEO DIESEL, USO:MARÍTIMO, APRESENTAÇÃO:BUNKER"
   },
   {
-    "grupo": "91",
-    "classe": "9140",
-    "padrao": "19740",
-    "codigo": "461555",
-    "descricao": " ÓLEO DIESEL, USO:MARÍTIMO, APRESENTAÇÃO:DMA"
+    "group": "91",
+    "class": "9140",
+    "standard": "19740",
+    "code": "461555",
+    "description": " ÓLEO DIESEL, USO:MARÍTIMO, APRESENTAÇÃO:DMA"
   },
   {
-    "grupo": "91",
-    "classe": "9140",
-    "padrao": "19740",
-    "codigo": "477915",
-    "descricao": " ÓLEO DIESEL, USO:AUTOMOTIVO, APRESENTAÇÃO:COM BIODIESEL, COMPOSIÇÃO:CONCENTRAÇÃO DE ENXOFRE 500 MG/KG MG/KG"
+    "group": "91",
+    "class": "9140",
+    "standard": "19740",
+    "code": "477915",
+    "description": " ÓLEO DIESEL, USO:AUTOMOTIVO, APRESENTAÇÃO:COM BIODIESEL, COMPOSIÇÃO:CONCENTRAÇÃO DE ENXOFRE 500 MG/KG MG/KG"
   },
   {
-    "grupo": "91",
-    "classe": "9140",
-    "padrao": "19741",
-    "codigo": "461558",
-    "descricao": " QUEROSENE, USO:PARA AVIAÇÃO, TIPO:QAV-1"
+    "group": "91",
+    "class": "9140",
+    "standard": "19741",
+    "code": "461558",
+    "description": " QUEROSENE, USO:PARA AVIAÇÃO, TIPO:QAV-1"
   },
   {
-    "grupo": "91",
-    "classe": "9140",
-    "padrao": "19741",
-    "codigo": "461559",
-    "descricao": " QUEROSENE, USO:PARA AVIAÇÃO, TIPO:QAV-5"
+    "group": "91",
+    "class": "9140",
+    "standard": "19741",
+    "code": "461559",
+    "description": " QUEROSENE, USO:PARA AVIAÇÃO, TIPO:QAV-5"
   },
   {
-    "grupo": "91",
-    "classe": "9140",
-    "padrao": "19741",
-    "codigo": "461560",
-    "descricao": " QUEROSENE, USO:ILUMINANTE, TIPO:QI"
+    "group": "91",
+    "class": "9140",
+    "standard": "19741",
+    "code": "461560",
+    "description": " QUEROSENE, USO:ILUMINANTE, TIPO:QI"
   },
   {
-    "grupo": "91",
-    "classe": "9140",
-    "padrao": "19741",
-    "codigo": "478331",
-    "descricao": " QUEROSENE, USO:LIMPEZA, DESENGRAXANTE, SOLVENTE, TIPO:COMUM"
+    "group": "91",
+    "class": "9140",
+    "standard": "19741",
+    "code": "478331",
+    "description": " QUEROSENE, USO:LIMPEZA, DESENGRAXANTE, SOLVENTE, TIPO:COMUM"
   },
   {
-    "grupo": "91",
-    "classe": "9140",
-    "padrao": "19741",
-    "codigo": "601033",
-    "descricao": " QUEROSENE, USO:LIMPEZA, DESENGRAXANTE, SOLVENTE, TIPO:HIDROCARBONETO, CN H2N+2"
+    "group": "91",
+    "class": "9140",
+    "standard": "19741",
+    "code": "601033",
+    "description": " QUEROSENE, USO:LIMPEZA, DESENGRAXANTE, SOLVENTE, TIPO:HIDROCARBONETO, CN H2N+2"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "214597",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:CÁLCIO, PONTO GOTA:138 ¿ C, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, APLICAÇÃO:ESTABILIZADOR NÁUTICO, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:NÃO APLICÁVEL"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "214597",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:CÁLCIO, PONTO GOTA:138 ¿ C, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, APLICAÇÃO:ESTABILIZADOR NÁUTICO, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:NÃO APLICÁVEL"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "214598",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:CÁLCIO, PONTO GOTA:95 ¿ C, TIPO ADITIVOS:ANTICORROSIVO, APLICAÇÃO:MANCAL, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:NÃO APLICÁVEL"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "214598",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:CÁLCIO, PONTO GOTA:95 ¿ C, TIPO ADITIVOS:ANTICORROSIVO, APLICAÇÃO:MANCAL, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:NÃO APLICÁVEL"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "214599",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, PONTO GOTA:165 ¿ C, TIPO ADITIVOS:ANTICORROSIVO, APLICAÇÃO:CAIXA ENGRENAGEM, CONSISTÊNCIA NLGI:0, CARACTERÍSTICAS ADICIONAIS:NÃO APLICÁVEL"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "214599",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, PONTO GOTA:165 ¿ C, TIPO ADITIVOS:ANTICORROSIVO, APLICAÇÃO:CAIXA ENGRENAGEM, CONSISTÊNCIA NLGI:0, CARACTERÍSTICAS ADICIONAIS:NÃO APLICÁVEL"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "214600",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:BÁRIO, PONTO GOTA:180 ¿ C, TIPO ADITIVOS:ANTICORROSIVO, APLICAÇÃO:MÚLTIPLA, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:NÃO APLICÁVEL"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "214600",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:BÁRIO, PONTO GOTA:180 ¿ C, TIPO ADITIVOS:ANTICORROSIVO, APLICAÇÃO:MÚLTIPLA, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:NÃO APLICÁVEL"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "214602",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO SINTÉTICO, TIPO ESPESSANTE:LÍTIO, PONTO GOTA:170 ¿ C, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, APLICAÇÃO:MÚLTIPLA, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:NÃO APLICÁVEL"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "214602",
+    "description": " GRAXA, TIPO BASE:ÓLEO SINTÉTICO, TIPO ESPESSANTE:LÍTIO, PONTO GOTA:170 ¿ C, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, APLICAÇÃO:MÚLTIPLA, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:NÃO APLICÁVEL"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "214603",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO SINTÉTICO, TIPO ESPESSANTE:LÍTIO, PONTO GOTA:220 ¿ C, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, APLICAÇÃO:MANCAL, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:NÃO APLICÁVEL"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "214603",
+    "description": " GRAXA, TIPO BASE:ÓLEO SINTÉTICO, TIPO ESPESSANTE:LÍTIO, PONTO GOTA:220 ¿ C, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, APLICAÇÃO:MANCAL, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:NÃO APLICÁVEL"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "214604",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:CÁLCIO, PONTO GOTA:260 ¿ C, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, APLICAÇÃO:CAIXA ENGRENAGEM, CONSISTÊNCIA NLGI:1, CARACTERÍSTICAS ADICIONAIS:GRAFITADA"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "214604",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:CÁLCIO, PONTO GOTA:260 ¿ C, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, APLICAÇÃO:CAIXA ENGRENAGEM, CONSISTÊNCIA NLGI:1, CARACTERÍSTICAS ADICIONAIS:GRAFITADA"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "214606",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, PONTO GOTA:180 ¿ C, TIPO ADITIVOS:ANTIOXIDANTE, APLICAÇÃO:SISTEMA MASTRO/LEME SUBMARINO, CONSISTÊNCIA NLGI:1, CARACTERÍSTICAS ADICIONAIS:BISSULFETO MOLIBIDÊNIO"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "214606",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, PONTO GOTA:180 ¿ C, TIPO ADITIVOS:ANTIOXIDANTE, APLICAÇÃO:SISTEMA MASTRO/LEME SUBMARINO, CONSISTÊNCIA NLGI:1, CARACTERÍSTICAS ADICIONAIS:BISSULFETO MOLIBIDÊNIO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "233181",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, TIPO ADITIVOS:ANTICORROSIVO/ANTIOXIDANTE/ADESIVIDADE/ANTI-FERRU-, APLICAÇÃO:AUTOMOTIVA, CARACTERÍSTICAS ADICIONAIS:NÃO APLICÁVEL"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "233181",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, TIPO ADITIVOS:ANTICORROSIVO/ANTIOXIDANTE/ADESIVIDADE/ANTI-FERRU-, APLICAÇÃO:AUTOMOTIVA, CARACTERÍSTICAS ADICIONAIS:NÃO APLICÁVEL"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "245412",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, APLICAÇÃO:LUBRIFICANTE, CARACTERÍSTICAS ADICIONAIS:AMARELA"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "245412",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, APLICAÇÃO:LUBRIFICANTE, CARACTERÍSTICAS ADICIONAIS:AMARELA"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "271739",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:CÁLCIO/LÍTIO, PONTO GOTA:180 ¿ C, TIPO ADITIVOS:ANTICORROSIVO/ANTIOXIDANTE/ANTIDESGASTE/AGENTE DE, APLICAÇÃO:MÚLTIPLA, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:AZUL"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "271739",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:CÁLCIO/LÍTIO, PONTO GOTA:180 ¿ C, TIPO ADITIVOS:ANTICORROSIVO/ANTIOXIDANTE/ANTIDESGASTE/AGENTE DE, APLICAÇÃO:MÚLTIPLA, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:AZUL"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "271741",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, PONTO GOTA:180 ¿ C, TIPO ADITIVOS:ANTICORROSIVO/ANTIOXIDANTE/ANTIDESGASTE, APLICAÇÃO:MÚLTIPLA, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:CASTANHO-CLARO"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "271741",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, PONTO GOTA:180 ¿ C, TIPO ADITIVOS:ANTICORROSIVO/ANTIOXIDANTE/ANTIDESGASTE, APLICAÇÃO:MÚLTIPLA, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:CASTANHO-CLARO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "309586",
-    "descricao": " GRAXA, TIPO BASE:POLÍMEROS SINTÉTICOS, SOLVENTES ALIFÁTICOS E ADI -, APLICAÇÃO:PEÇAS SUJEITAS A ALTAS PRESSÕES, CARACTERÍSTICAS ADICIONAIS:LÍQUIDA / SPRAY"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "309586",
+    "description": " GRAXA, TIPO BASE:POLÍMEROS SINTÉTICOS, SOLVENTES ALIFÁTICOS E ADI -, APLICAÇÃO:PEÇAS SUJEITAS A ALTAS PRESSÕES, CARACTERÍSTICAS ADICIONAIS:LÍQUIDA / SPRAY"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "315900",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO SINTÉTICO, TIPO ESPESSANTE:LÍTIO/TEFLON, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:NORMA MILL-DMM-31 72, PENETRAÇÃO ASTM 260 Á 290"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "315900",
+    "description": " GRAXA, TIPO BASE:ÓLEO SINTÉTICO, TIPO ESPESSANTE:LÍTIO/TEFLON, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:NORMA MILL-DMM-31 72, PENETRAÇÃO ASTM 260 Á 290"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "316153",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:MOS2, GRAFITE, PTFE, PONTO GOTA:180 ¿C, CONSISTÊNCIA NLGI:00/01, CARACTERÍSTICAS ADICIONAIS:ENCORPANTE BENTONA, PRETA, PENETRAÇÃO ASTM D-217, PRAZO VALIDADE:MÍNIMO 18 MÊS"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "316153",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:MOS2, GRAFITE, PTFE, PONTO GOTA:180 ¿C, CONSISTÊNCIA NLGI:00/01, CARACTERÍSTICAS ADICIONAIS:ENCORPANTE BENTONA, PRETA, PENETRAÇÃO ASTM D-217, PRAZO VALIDADE:MÍNIMO 18 MÊS"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "316175",
-    "descricao": " GRAXA, TIPO BASE:ÒLEO SINTÉTICO, BRONZE COLOIDAL, SABÕES METÁLICOS, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, APLICAÇÃO:PROTEÇÃO E LUBRIFICAÇÃO DE CONTATOS ELÉTRICOS, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:COR COBRE, PENETRAÇÃO ASTM D-217 DE 270 Á 290, PRAZO VALIDADE:MÍNIMO 18 MÊS"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "316175",
+    "description": " GRAXA, TIPO BASE:ÒLEO SINTÉTICO, BRONZE COLOIDAL, SABÕES METÁLICOS, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, APLICAÇÃO:PROTEÇÃO E LUBRIFICAÇÃO DE CONTATOS ELÉTRICOS, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:COR COBRE, PENETRAÇÃO ASTM D-217 DE 270 Á 290, PRAZO VALIDADE:MÍNIMO 18 MÊS"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "316538",
-    "descricao": " GRAXA, TIPO BASE:ÓLEOS MINERAIS E PÓ DE BISSULFETO DE MOLIBDÊNIO, TIPO ESPESSANTE:SINTÉTICO, PONTO GOTA:SPG, APLICAÇÃO:MÚLTIPLA, CARACTERÍSTICAS ADICIONAIS:TIPO PASTA G, COR CINZA, VIDA ÚTIL MÍNIMA DE 18 ME, FINALIDADE:MANUTENÇÃO E MONTAGEM DE EQUIPAMENTOS EM EMBARCA-"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "316538",
+    "description": " GRAXA, TIPO BASE:ÓLEOS MINERAIS E PÓ DE BISSULFETO DE MOLIBDÊNIO, TIPO ESPESSANTE:SINTÉTICO, PONTO GOTA:SPG, APLICAÇÃO:MÚLTIPLA, CARACTERÍSTICAS ADICIONAIS:TIPO PASTA G, COR CINZA, VIDA ÚTIL MÍNIMA DE 18 ME, FINALIDADE:MANUTENÇÃO E MONTAGEM DE EQUIPAMENTOS EM EMBARCA-"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "330486",
-    "descricao": " GRAXA, TIPO BASE:ÒLEO SINTÉTICO, BRONZE COLOIDAL, SABÕES METÁLICOS, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, APLICAÇÃO:PROTEÇÃO E LUBRIFICAÇÃO DE CONTATOS ELÉTRICOS, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:COR COBRE, PENETRAÇÃO ASTM D-217 DE 265 A 295, PRAZO VALIDADE:MÍNIMO 18 MÊS"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "330486",
+    "description": " GRAXA, TIPO BASE:ÒLEO SINTÉTICO, BRONZE COLOIDAL, SABÕES METÁLICOS, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, APLICAÇÃO:PROTEÇÃO E LUBRIFICAÇÃO DE CONTATOS ELÉTRICOS, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:COR COBRE, PENETRAÇÃO ASTM D-217 DE 265 A 295, PRAZO VALIDADE:MÍNIMO 18 MÊS"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "430348",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, PONTO GOTA:100 ¿C, TIPO ADITIVOS:LUBRIFICANTE"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "430348",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, PONTO GOTA:100 ¿C, TIPO ADITIVOS:LUBRIFICANTE"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "430349",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, PONTO GOTA:190 ¿C, TIPO ADITIVOS:ANTICORROSIVO/ANTIOXIDANTE/ANTIDESGASTE"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "430349",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, PONTO GOTA:190 ¿C, TIPO ADITIVOS:ANTICORROSIVO/ANTIOXIDANTE/ANTIDESGASTE"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "450835",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL/GRAFITE, TIPO ESPESSANTE:LÍTIO, TIPO ADITIVOS:LUBRIFICANTE, CONSISTÊNCIA NLGI:0"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "450835",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL/GRAFITE, TIPO ESPESSANTE:LÍTIO, TIPO ADITIVOS:LUBRIFICANTE, CONSISTÊNCIA NLGI:0"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "452398",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, PONTO GOTA:150 ¿C, TIPO ADITIVOS:LUBRIFICANTE"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "452398",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, PONTO GOTA:150 ¿C, TIPO ADITIVOS:LUBRIFICANTE"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "457739",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, PONTO GOTA:240 ¿C, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:BISSULFETO MOLIBIDÊNIO"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "457739",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, PONTO GOTA:240 ¿C, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:BISSULFETO MOLIBIDÊNIO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "466225",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:CÁLCIO, TIPO ADITIVOS:LUBRIFICANTE, CONSISTÊNCIA NLGI:00/01, CARACTERÍSTICAS ADICIONAIS:GRAFITADA"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "466225",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:CÁLCIO, TIPO ADITIVOS:LUBRIFICANTE, CONSISTÊNCIA NLGI:00/01, CARACTERÍSTICAS ADICIONAIS:GRAFITADA"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "473648",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL A BASE DE PETRÓLEO, TIPO ESPESSANTE:SABÃO DE LÍTIO, TIPO ADITIVOS:ANTICORROSIVO/ANTIOXIDANTE/ANTIDESGASTE, CONSISTÊNCIA NLGI:2"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "473648",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL A BASE DE PETRÓLEO, TIPO ESPESSANTE:SABÃO DE LÍTIO, TIPO ADITIVOS:ANTICORROSIVO/ANTIOXIDANTE/ANTIDESGASTE, CONSISTÊNCIA NLGI:2"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "474391",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:POLIURÉIA, PONTO GOTA:250 ¿C, TIPO ADITIVOS:ANTIOXIDANTE,INIBIDOR DE CORROSÃO EXTREMA PRESSÃO, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:PENETRAÇÃO TRABALHADA MM/10 265 - 295, TEMPERATURA"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "474391",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:POLIURÉIA, PONTO GOTA:250 ¿C, TIPO ADITIVOS:ANTIOXIDANTE,INIBIDOR DE CORROSÃO EXTREMA PRESSÃO, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:PENETRAÇÃO TRABALHADA MM/10 265 - 295, TEMPERATURA"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "478601",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:CÁLCIO/LÍTIO, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, CARACTERÍSTICAS ADICIONAIS:NORMA MIL-PRF23827"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "478601",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:CÁLCIO/LÍTIO, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, CARACTERÍSTICAS ADICIONAIS:NORMA MIL-PRF23827"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "478603",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO SINTÉTICO, TIPO ESPESSANTE:SINTÉTICO, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "478603",
+    "description": " GRAXA, TIPO BASE:ÓLEO SINTÉTICO, TIPO ESPESSANTE:SINTÉTICO, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "478641",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:CÁLCIO/LÍTIO, TIPO ADITIVOS:ANTICORROSIVO, CARACTERÍSTICAS ADICIONAIS:NORMA MIL-G-25760A"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "478641",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:CÁLCIO/LÍTIO, TIPO ADITIVOS:ANTICORROSIVO, CARACTERÍSTICAS ADICIONAIS:NORMA MIL-G-25760A"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "478643",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO SINTÉTICO, TIPO ESPESSANTE:MICROGEL E HIDROCARBONETOS, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, CARACTERÍSTICAS ADICIONAIS:NORMA MIL-G-25537"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "478643",
+    "description": " GRAXA, TIPO BASE:ÓLEO SINTÉTICO, TIPO ESPESSANTE:MICROGEL E HIDROCARBONETOS, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, CARACTERÍSTICAS ADICIONAIS:NORMA MIL-G-25537"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "478644",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:CÁLCIO/LÍTIO, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, CARACTERÍSTICAS ADICIONAIS:NORMA MIL-PRF-81322"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "478644",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:CÁLCIO/LÍTIO, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, CARACTERÍSTICAS ADICIONAIS:NORMA MIL-PRF-81322"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "478645",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, CARACTERÍSTICAS ADICIONAIS:NORMA AIR 4217-A"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "478645",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, CARACTERÍSTICAS ADICIONAIS:NORMA AIR 4217-A"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "478663",
-    "descricao": " GRAXA, TIPO BASE:SILICONE, TIPO ESPESSANTE:CÁLCIO/LÍTIO, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "478663",
+    "description": " GRAXA, TIPO BASE:SILICONE, TIPO ESPESSANTE:CÁLCIO/LÍTIO, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "478700",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO SINTÉTICO, TIPO ESPESSANTE:CÁLCIO/LÍTIO, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "478700",
+    "description": " GRAXA, TIPO BASE:ÓLEO SINTÉTICO, TIPO ESPESSANTE:CÁLCIO/LÍTIO, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "478702",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:CÁLCIO/LÍTIO, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "478702",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:CÁLCIO/LÍTIO, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "478705",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:VASELINA E GRAFITE MICRONIZADO, TIPO ADITIVOS:ANTICORROSIVO"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "478705",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:VASELINA E GRAFITE MICRONIZADO, TIPO ADITIVOS:ANTICORROSIVO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "478706",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, CARACTERÍSTICAS ADICIONAIS:TEMPERATURA DE OPERAÇÃO -30ºC A 120ºC"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "478706",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, CARACTERÍSTICAS ADICIONAIS:TEMPERATURA DE OPERAÇÃO -30ºC A 120ºC"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "478788",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:SINTÉTICO, PONTO GOTA:250 ¿C, TIPO ADITIVOS:ANTIOXIDANTE, CONSISTÊNCIA NLGI:000, CARACTERÍSTICAS ADICIONAIS:NORMA MIL-G-25537"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "478788",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:SINTÉTICO, PONTO GOTA:250 ¿C, TIPO ADITIVOS:ANTIOXIDANTE, CONSISTÊNCIA NLGI:000, CARACTERÍSTICAS ADICIONAIS:NORMA MIL-G-25537"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "478799",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:MICROGEL, PONTO GOTA:260 ¿C, TIPO ADITIVOS:ANTIOXIDANTE, CONSISTÊNCIA NLGI:1"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "478799",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:MICROGEL, PONTO GOTA:260 ¿C, TIPO ADITIVOS:ANTIOXIDANTE, CONSISTÊNCIA NLGI:1"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "478895",
-    "descricao": " GRAXA, TIPO BASE:SILICONE, TIPO ESPESSANTE:INORGÂNICO, PONTO GOTA:1900 ¿C, TIPO ADITIVOS:ANTIOXIDANTE, CONSISTÊNCIA NLGI:2"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "478895",
+    "description": " GRAXA, TIPO BASE:SILICONE, TIPO ESPESSANTE:INORGÂNICO, PONTO GOTA:1900 ¿C, TIPO ADITIVOS:ANTIOXIDANTE, CONSISTÊNCIA NLGI:2"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "479063",
-    "descricao": " GRAXA, TIPO BASE:COBRE, TIPO ESPESSANTE:SINTÉTICO, TIPO ADITIVOS:ANTICORROSIVO E LUBRIFICANTE, CONSISTÊNCIA NLGI:1, CARACTERÍSTICAS ADICIONAIS:NORMA MIL-PRF-907"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "479063",
+    "description": " GRAXA, TIPO BASE:COBRE, TIPO ESPESSANTE:SINTÉTICO, TIPO ADITIVOS:ANTICORROSIVO E LUBRIFICANTE, CONSISTÊNCIA NLGI:1, CARACTERÍSTICAS ADICIONAIS:NORMA MIL-PRF-907"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "479064",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:VASELINA RÍGIDA À BASE DE PETROLATO, TIPO ADITIVOS:ANTICORROSIVO, CONSISTÊNCIA NLGI:1"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "479064",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:VASELINA RÍGIDA À BASE DE PETROLATO, TIPO ADITIVOS:ANTICORROSIVO, CONSISTÊNCIA NLGI:1"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "479079",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, TIPO ADITIVOS:ANTICORROSIVO E LUBRIFICANTE, CONSISTÊNCIA NLGI:0, CARACTERÍSTICAS ADICIONAIS:LUBRIFICANTE SÓLIDO"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "479079",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, TIPO ADITIVOS:ANTICORROSIVO E LUBRIFICANTE, CONSISTÊNCIA NLGI:0, CARACTERÍSTICAS ADICIONAIS:LUBRIFICANTE SÓLIDO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "479121",
-    "descricao": " GRAXA, TIPO BASE:SILICONE, TIPO ESPESSANTE:SILICA AMORFA, TIPO ADITIVOS:LUBRIFICANTE"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "479121",
+    "description": " GRAXA, TIPO BASE:SILICONE, TIPO ESPESSANTE:SILICA AMORFA, TIPO ADITIVOS:LUBRIFICANTE"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "601311",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:DIN 51825, REFERÊNCIA: GMA 2EP LUBRAX. NLGI GRAU 2"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "601311",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:LÍTIO, TIPO ADITIVOS:ANTIOXIDANTE/ANTICORROSIVO, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:DIN 51825, REFERÊNCIA: GMA 2EP LUBRAX. NLGI GRAU 2"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "601312",
-    "descricao": " GRAXA, TIPO BASE:ASFALTICA, TIPO ESPESSANTE:ASFÁLTICA, TIPO ADITIVOS:ASFÁLTICA (BETUMEM), CARACTERÍSTICAS ADICIONAIS:VISCOSIDADE A 20/4/C 1,021, PONTO DE FULGOR 263¿C"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "601312",
+    "description": " GRAXA, TIPO BASE:ASFALTICA, TIPO ESPESSANTE:ASFÁLTICA, TIPO ADITIVOS:ASFÁLTICA (BETUMEM), CARACTERÍSTICAS ADICIONAIS:VISCOSIDADE A 20/4/C 1,021, PONTO DE FULGOR 263¿C"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "609",
-    "codigo": "602739",
-    "descricao": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:CÁLCIO, TIPO ADITIVOS:LUBRIFICANTE, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:GRAFITADA"
+    "group": "91",
+    "class": "9150",
+    "standard": "609",
+    "code": "602739",
+    "description": " GRAXA, TIPO BASE:ÓLEO MINERAL, TIPO ESPESSANTE:CÁLCIO, TIPO ADITIVOS:LUBRIFICANTE, CONSISTÊNCIA NLGI:2, CARACTERÍSTICAS ADICIONAIS:GRAFITADA"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "611",
-    "codigo": "214607",
-    "descricao": " ÓLEO ISOLANTE, TIPO BASE:MINERAL NAFTÊNICO, VISCOSIDADE MÁXIMA A 40¿C:11 CST, VISCOSIDADE MÁXIMA A 100ºC:3 CST, PONTO FULGOR:140 ¿ C, PONTO FLUIDEZ MÍNIMA:-12 ¿ C, APLICAÇÃO:TRANSFORMADOR/EQUIPAMENTO MANOBRA"
+    "group": "91",
+    "class": "9150",
+    "standard": "611",
+    "code": "214607",
+    "description": " ÓLEO ISOLANTE, TIPO BASE:MINERAL NAFTÊNICO, VISCOSIDADE MÁXIMA A 40¿C:11 CST, VISCOSIDADE MÁXIMA A 100ºC:3 CST, PONTO FULGOR:140 ¿ C, PONTO FLUIDEZ MÍNIMA:-12 ¿ C, APLICAÇÃO:TRANSFORMADOR/EQUIPAMENTO MANOBRA"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7650",
-    "codigo": "246498",
-    "descricao": " FLUIDO DE SISTEMA DE FREIO, APLICAÇÃO:VEÍCULO AUTOMOTIVO"
+    "group": "91",
+    "class": "9150",
+    "standard": "7650",
+    "code": "246498",
+    "description": " FLUIDO DE SISTEMA DE FREIO, APLICAÇÃO:VEÍCULO AUTOMOTIVO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7650",
-    "codigo": "262551",
-    "descricao": " FLUIDO DE SISTEMA DE FREIO, APLICAÇÃO:VEÍCULO AUTOMOTIVO, CARACTERÍSTICA ADICIONAIS:COM COMPOSTO INIBIDOR CORROSÃO, PONTO EBULIÇÃO:ACIMA DE 205¿C"
+    "group": "91",
+    "class": "9150",
+    "standard": "7650",
+    "code": "262551",
+    "description": " FLUIDO DE SISTEMA DE FREIO, APLICAÇÃO:VEÍCULO AUTOMOTIVO, CARACTERÍSTICA ADICIONAIS:COM COMPOSTO INIBIDOR CORROSÃO, PONTO EBULIÇÃO:ACIMA DE 205¿C"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7650",
-    "codigo": "263657",
-    "descricao": " FLUIDO DE SISTEMA DE FREIO, APLICAÇÃO:VEÍCULO AUTOMOTIVO, CARACTERÍSTICA ADICIONAIS:DOT 4"
+    "group": "91",
+    "class": "9150",
+    "standard": "7650",
+    "code": "263657",
+    "description": " FLUIDO DE SISTEMA DE FREIO, APLICAÇÃO:VEÍCULO AUTOMOTIVO, CARACTERÍSTICA ADICIONAIS:DOT 4"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7650",
-    "codigo": "273222",
-    "descricao": " FLUIDO DE SISTEMA DE FREIO, APLICAÇÃO:VEÍCULO AUTOMOTIVO, CARACTERÍSTICA ADICIONAIS:DOT 3"
+    "group": "91",
+    "class": "9150",
+    "standard": "7650",
+    "code": "273222",
+    "description": " FLUIDO DE SISTEMA DE FREIO, APLICAÇÃO:VEÍCULO AUTOMOTIVO, CARACTERÍSTICA ADICIONAIS:DOT 3"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7652",
-    "codigo": "246500",
-    "descricao": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:DIREÇAO HIDRÁULICA PARA VEÍCULO AOTOMOTIVO"
+    "group": "91",
+    "class": "9150",
+    "standard": "7652",
+    "code": "246500",
+    "description": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:DIREÇAO HIDRÁULICA PARA VEÍCULO AOTOMOTIVO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7652",
-    "codigo": "262552",
-    "descricao": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:DIREÇAO HIDRÁULICA PARA VEÍCULO AOTOMOTIVO, CARACTERÍSTICA ADICIONAIS:TRANSMISSÃO AUTOMÁTICA E CONVERSORES DE TORQUE"
+    "group": "91",
+    "class": "9150",
+    "standard": "7652",
+    "code": "262552",
+    "description": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:DIREÇAO HIDRÁULICA PARA VEÍCULO AOTOMOTIVO, CARACTERÍSTICA ADICIONAIS:TRANSMISSÃO AUTOMÁTICA E CONVERSORES DE TORQUE"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7652",
-    "codigo": "262696",
-    "descricao": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:LIMPEZA SISTEMA AR CONDICIONADO VEÍCULO AUTOMOTIVO, CARACTERÍSTICA ADICIONAIS:ANTIFUNGO E ANTIMOFO"
+    "group": "91",
+    "class": "9150",
+    "standard": "7652",
+    "code": "262696",
+    "description": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:LIMPEZA SISTEMA AR CONDICIONADO VEÍCULO AUTOMOTIVO, CARACTERÍSTICA ADICIONAIS:ANTIFUNGO E ANTIMOFO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7652",
-    "codigo": "359585",
-    "descricao": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:LIMPEZA DO CARTER VEÍCULO AUTOMOTIVO, CARACTERÍSTICA ADICIONAIS:ANTIFUNGO, REFERÊNCIA FABRICANTE:0M0045"
+    "group": "91",
+    "class": "9150",
+    "standard": "7652",
+    "code": "359585",
+    "description": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:LIMPEZA DO CARTER VEÍCULO AUTOMOTIVO, CARACTERÍSTICA ADICIONAIS:ANTIFUNGO, REFERÊNCIA FABRICANTE:0M0045"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7652",
-    "codigo": "427333",
-    "descricao": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:VEÍCULOS MOVIDOS A ÓLEO DIÉSEL, CARACTERÍSTICA ADICIONAIS:REDUTOR DE EMISSÕES DE ÓXIDOS DE NITROGÊNIO"
+    "group": "91",
+    "class": "9150",
+    "standard": "7652",
+    "code": "427333",
+    "description": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:VEÍCULOS MOVIDOS A ÓLEO DIÉSEL, CARACTERÍSTICA ADICIONAIS:REDUTOR DE EMISSÕES DE ÓXIDOS DE NITROGÊNIO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7652",
-    "codigo": "433068",
-    "descricao": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:INDICADO PARA ROSQUEAR, FRESAR, FURAR, MANDRILAR,, CARACTERÍSTICA ADICIONAIS:FLUIDO SINTÉTICO PARA CORTE DE FERRO, AÇO, BRONZE"
+    "group": "91",
+    "class": "9150",
+    "standard": "7652",
+    "code": "433068",
+    "description": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:INDICADO PARA ROSQUEAR, FRESAR, FURAR, MANDRILAR,, CARACTERÍSTICA ADICIONAIS:FLUIDO SINTÉTICO PARA CORTE DE FERRO, AÇO, BRONZE"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7652",
-    "codigo": "440767",
-    "descricao": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, COMPOSIÇÃO:TBM-(TERCBUTIL MERCAPTANA):28-31 (PESO %); THT-(TE"
+    "group": "91",
+    "class": "9150",
+    "standard": "7652",
+    "code": "440767",
+    "description": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, COMPOSIÇÃO:TBM-(TERCBUTIL MERCAPTANA):28-31 (PESO %); THT-(TE"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7652",
-    "codigo": "443459",
-    "descricao": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:GERAÇÃO FUMAÇA INERTE"
+    "group": "91",
+    "class": "9150",
+    "standard": "7652",
+    "code": "443459",
+    "description": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:GERAÇÃO FUMAÇA INERTE"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7652",
-    "codigo": "449563",
-    "descricao": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:INDICADO PARA CALIBRAÇÃO DO VISCOSÍMETRO/REÔMETRO, REFERÊNCIA FABRICANTE:200CPS BROOKFIELD, COMPOSIÇÃO:FLUIDOS DE SILICONE"
+    "group": "91",
+    "class": "9150",
+    "standard": "7652",
+    "code": "449563",
+    "description": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:INDICADO PARA CALIBRAÇÃO DO VISCOSÍMETRO/REÔMETRO, REFERÊNCIA FABRICANTE:200CPS BROOKFIELD, COMPOSIÇÃO:FLUIDOS DE SILICONE"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7652",
-    "codigo": "449564",
-    "descricao": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:INDICADO PARA CALIBRAÇÃO DO VISCOSÍMETRO/REÔMETRO, REFERÊNCIA FABRICANTE:10CPS BROOKFIELD, COMPOSIÇÃO:FLUIDOS DE SILICONE"
+    "group": "91",
+    "class": "9150",
+    "standard": "7652",
+    "code": "449564",
+    "description": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:INDICADO PARA CALIBRAÇÃO DO VISCOSÍMETRO/REÔMETRO, REFERÊNCIA FABRICANTE:10CPS BROOKFIELD, COMPOSIÇÃO:FLUIDOS DE SILICONE"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7652",
-    "codigo": "449565",
-    "descricao": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:INDICADO PARA CALIBRAÇÃO DO VISCOSÍMETRO/REÔMETRO, REFERÊNCIA FABRICANTE:5CPS BROOKFIELD, COMPOSIÇÃO:FLUIDOS DE SILICONE"
+    "group": "91",
+    "class": "9150",
+    "standard": "7652",
+    "code": "449565",
+    "description": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:INDICADO PARA CALIBRAÇÃO DO VISCOSÍMETRO/REÔMETRO, REFERÊNCIA FABRICANTE:5CPS BROOKFIELD, COMPOSIÇÃO:FLUIDOS DE SILICONE"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7652",
-    "codigo": "449566",
-    "descricao": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:INDICADO PARA CALIBRAÇÃO DO VISCOSÍMETRO/REÔMETRO, REFERÊNCIA FABRICANTE:300CPS BROOKFIELD, COMPOSIÇÃO:FLUIDOS DE SILICONE"
+    "group": "91",
+    "class": "9150",
+    "standard": "7652",
+    "code": "449566",
+    "description": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:INDICADO PARA CALIBRAÇÃO DO VISCOSÍMETRO/REÔMETRO, REFERÊNCIA FABRICANTE:300CPS BROOKFIELD, COMPOSIÇÃO:FLUIDOS DE SILICONE"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7652",
-    "codigo": "454542",
-    "descricao": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:FLUIDOS PARA MANÔMETRO INCLINADOS, CARACTERÍSTICA ADICIONAIS:FLUIDO AZUL;VEC-110;FR"
+    "group": "91",
+    "class": "9150",
+    "standard": "7652",
+    "code": "454542",
+    "description": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:FLUIDOS PARA MANÔMETRO INCLINADOS, CARACTERÍSTICA ADICIONAIS:FLUIDO AZUL;VEC-110;FR"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7652",
-    "codigo": "454543",
-    "descricao": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:FLUIDOS PARA MANÔMETRO INCLINADOS, CARACTERÍSTICA ADICIONAIS:FLUIDO VERDE;A-126"
+    "group": "91",
+    "class": "9150",
+    "standard": "7652",
+    "code": "454543",
+    "description": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:FLUIDOS PARA MANÔMETRO INCLINADOS, CARACTERÍSTICA ADICIONAIS:FLUIDO VERDE;A-126"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7652",
-    "codigo": "457136",
-    "descricao": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:TRANSMISSÃO AUTOMÁTICA, CARACTERÍSTICA ADICIONAIS:FLUIDO SINTÉTICO, ESPECIFICAÇÃO: ZF TE-ML 14E"
+    "group": "91",
+    "class": "9150",
+    "standard": "7652",
+    "code": "457136",
+    "description": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:TRANSMISSÃO AUTOMÁTICA, CARACTERÍSTICA ADICIONAIS:FLUIDO SINTÉTICO, ESPECIFICAÇÃO: ZF TE-ML 14E"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7652",
-    "codigo": "477124",
-    "descricao": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:TRANSMISSÃO AUTOMÁTICA, CARACTERÍSTICA ADICIONAIS:FLUIDO  SINTÉTICO, TIPO ATF DEXRON VI"
+    "group": "91",
+    "class": "9150",
+    "standard": "7652",
+    "code": "477124",
+    "description": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:TRANSMISSÃO AUTOMÁTICA, CARACTERÍSTICA ADICIONAIS:FLUIDO  SINTÉTICO, TIPO ATF DEXRON VI"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7652",
-    "codigo": "477125",
-    "descricao": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:DIREÇAO HIDRÁULICA PARA VEÍCULO AOTOMOTIVO, CARACTERÍSTICA ADICIONAIS:FLUIDO  DEXRON II"
+    "group": "91",
+    "class": "9150",
+    "standard": "7652",
+    "code": "477125",
+    "description": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:DIREÇAO HIDRÁULICA PARA VEÍCULO AOTOMOTIVO, CARACTERÍSTICA ADICIONAIS:FLUIDO  DEXRON II"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7652",
-    "codigo": "601854",
-    "descricao": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:INDICADO PARA CALIBRAÇÃO DO VISCOSÍMETRO/REÔMETRO, CARACTERÍSTICA ADICIONAIS:PADRÃO DE VISCOZIDADE 30, REFERÊNCIA FABRICANTE:SPECTRO SCIENTIFIC PV1025"
+    "group": "91",
+    "class": "9150",
+    "standard": "7652",
+    "code": "601854",
+    "description": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:INDICADO PARA CALIBRAÇÃO DO VISCOSÍMETRO/REÔMETRO, CARACTERÍSTICA ADICIONAIS:PADRÃO DE VISCOZIDADE 30, REFERÊNCIA FABRICANTE:SPECTRO SCIENTIFIC PV1025"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "7652",
-    "codigo": "601855",
-    "descricao": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:INDICADO PARA CALIBRAÇÃO DO VISCOSÍMETRO/REÔMETRO, CARACTERÍSTICA ADICIONAIS:PADRÃO DE VISCOZIDADE 120, REFERÊNCIA FABRICANTE:SPECTRO SCIENTIFIC PV1026"
+    "group": "91",
+    "class": "9150",
+    "standard": "7652",
+    "code": "601855",
+    "description": " FLUÍDO PARA APLICAÇÃO ESPECÍFICA, APLICAÇÃO:INDICADO PARA CALIBRAÇÃO DO VISCOSÍMETRO/REÔMETRO, CARACTERÍSTICA ADICIONAIS:PADRÃO DE VISCOZIDADE 120, REFERÊNCIA FABRICANTE:SPECTRO SCIENTIFIC PV1026"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "8097",
-    "codigo": "272208",
-    "descricao": " GRAXA - SILICONE, ASPECTO FÍSICO:PASTOSA, CONSISTÊNCIA:BAIXA, COMPOSIÇÃO:POLÍMERO DE METIL SILOXANO, COR:BRANCA, USO:LUBRIFICANTE, APLICAÇÃO:VIDRARIA LABORATÓRIO"
+    "group": "91",
+    "class": "9150",
+    "standard": "8097",
+    "code": "272208",
+    "description": " GRAXA - SILICONE, ASPECTO FÍSICO:PASTOSA, CONSISTÊNCIA:BAIXA, COMPOSIÇÃO:POLÍMERO DE METIL SILOXANO, COR:BRANCA, USO:LUBRIFICANTE, APLICAÇÃO:VIDRARIA LABORATÓRIO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "8097",
-    "codigo": "294386",
-    "descricao": " GRAXA - SILICONE, ASPECTO FÍSICO:PASTOSA, CONSISTÊNCIA:BAIXA, COMPOSIÇÃO:POLÍMERO DE METIL SILOXANO, COR:BRANCA, USO:LUBRIFICANTE, APLICAÇÃO:IMPRESSORA"
+    "group": "91",
+    "class": "9150",
+    "standard": "8097",
+    "code": "294386",
+    "description": " GRAXA - SILICONE, ASPECTO FÍSICO:PASTOSA, CONSISTÊNCIA:BAIXA, COMPOSIÇÃO:POLÍMERO DE METIL SILOXANO, COR:BRANCA, USO:LUBRIFICANTE, APLICAÇÃO:IMPRESSORA"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "8097",
-    "codigo": "450932",
-    "descricao": " GRAXA - SILICONE, ASPECTO FÍSICO:PASTOSA, CONSISTÊNCIA:BAIXA, COMPOSIÇÃO:FENIL METIL DE SILICONE, COR:CASTANHO, USO:BAIXAS E ALTAS TEMPERATURAS, APLICAÇÃO:COMPATÍVEL COM A MAIORIA DOS PLÁSTICOS"
+    "group": "91",
+    "class": "9150",
+    "standard": "8097",
+    "code": "450932",
+    "description": " GRAXA - SILICONE, ASPECTO FÍSICO:PASTOSA, CONSISTÊNCIA:BAIXA, COMPOSIÇÃO:FENIL METIL DE SILICONE, COR:CASTANHO, USO:BAIXAS E ALTAS TEMPERATURAS, APLICAÇÃO:COMPATÍVEL COM A MAIORIA DOS PLÁSTICOS"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "8097",
-    "codigo": "454606",
-    "descricao": " GRAXA - SILICONE, ASPECTO FÍSICO:PASTOSA, CONSISTÊNCIA:BAIXA, COMPOSIÇÃO:BASE DE SILICONE GRÁU ALIMENTÍCIO, COR:BRANCA, USO:LUBRIFICANTE"
+    "group": "91",
+    "class": "9150",
+    "standard": "8097",
+    "code": "454606",
+    "description": " GRAXA - SILICONE, ASPECTO FÍSICO:PASTOSA, CONSISTÊNCIA:BAIXA, COMPOSIÇÃO:BASE DE SILICONE GRÁU ALIMENTÍCIO, COR:BRANCA, USO:LUBRIFICANTE"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "8097",
-    "codigo": "466770",
-    "descricao": " GRAXA - SILICONE, ASPECTO FÍSICO:SÓLIDO, CONSISTÊNCIA:PASTOSA, COMPOSIÇÃO:FENIL METIL DE SILICONE, COR:INCOLOR, APLICAÇÃO:VEDAÇÃO"
+    "group": "91",
+    "class": "9150",
+    "standard": "8097",
+    "code": "466770",
+    "description": " GRAXA - SILICONE, ASPECTO FÍSICO:SÓLIDO, CONSISTÊNCIA:PASTOSA, COMPOSIÇÃO:FENIL METIL DE SILICONE, COR:INCOLOR, APLICAÇÃO:VEDAÇÃO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "10198",
-    "codigo": "262376",
-    "descricao": " ÓLEO LUBRIFICANTE., APRESENTAÇÃO:AEROSOL, ORIGEM:MINERAL DERIVADO DE PETRÓLEO, CARACTERÍSTICAS ADICIONAIS:ADITIVOS INIBIDORES CORROSÃO E OXIDAÇÃO,  DESENGRI, APLICAÇÃO:LUBRIFICAÇÃO DE PEÇAS, TIPO:WD-40"
+    "group": "91",
+    "class": "9150",
+    "standard": "10198",
+    "code": "262376",
+    "description": " ÓLEO LUBRIFICANTE., APRESENTAÇÃO:AEROSOL, ORIGEM:MINERAL DERIVADO DE PETRÓLEO, CARACTERÍSTICAS ADICIONAIS:ADITIVOS INIBIDORES CORROSÃO E OXIDAÇÃO,  DESENGRI, APLICAÇÃO:LUBRIFICAÇÃO DE PEÇAS, TIPO:WD-40"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "10198",
-    "codigo": "474487",
-    "descricao": " ÓLEO LUBRIFICANTE., ORIGEM:MINERAL, VISCOSIDADE:SAE 10W"
+    "group": "91",
+    "class": "9150",
+    "standard": "10198",
+    "code": "474487",
+    "description": " ÓLEO LUBRIFICANTE., ORIGEM:MINERAL, VISCOSIDADE:SAE 10W"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "10198",
-    "codigo": "484537",
-    "descricao": " ÓLEO LUBRIFICANTE., APRESENTAÇÃO:LÍQUIDO VISCOSO, ORIGEM:SINTÉTICO, USO:COMPREESSOR PARAFUSO REFRIGERAÇÃO, REFERÊNCIA FABRIL:FREOL UX-300"
+    "group": "91",
+    "class": "9150",
+    "standard": "10198",
+    "code": "484537",
+    "description": " ÓLEO LUBRIFICANTE., APRESENTAÇÃO:LÍQUIDO VISCOSO, ORIGEM:SINTÉTICO, USO:COMPREESSOR PARAFUSO REFRIGERAÇÃO, REFERÊNCIA FABRIL:FREOL UX-300"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "10198",
-    "codigo": "485171",
-    "descricao": " ÓLEO LUBRIFICANTE., APRESENTAÇÃO:LÍQUIDO VISCOSO, ORIGEM:MINERAL, VISCOSIDADE:VG 32, USO:MÁQUINA DE COSTURA INDUSTRIAL"
+    "group": "91",
+    "class": "9150",
+    "standard": "10198",
+    "code": "485171",
+    "description": " ÓLEO LUBRIFICANTE., APRESENTAÇÃO:LÍQUIDO VISCOSO, ORIGEM:MINERAL, VISCOSIDADE:VG 32, USO:MÁQUINA DE COSTURA INDUSTRIAL"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "10198",
-    "codigo": "486604",
-    "descricao": " ÓLEO LUBRIFICANTE., APRESENTAÇÃO:LÍQUIDO VISCOSO, ORIGEM:SINTÉTICO, VISCOSIDADE:ISO 100, 150 E 320, USO:COMPRESSOR, REFERÊNCIA FABRIL:CE 755"
+    "group": "91",
+    "class": "9150",
+    "standard": "10198",
+    "code": "486604",
+    "description": " ÓLEO LUBRIFICANTE., APRESENTAÇÃO:LÍQUIDO VISCOSO, ORIGEM:SINTÉTICO, VISCOSIDADE:ISO 100, 150 E 320, USO:COMPRESSOR, REFERÊNCIA FABRIL:CE 755"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "10198",
-    "codigo": "601656",
-    "descricao": " ÓLEO LUBRIFICANTE., APRESENTAÇÃO:LÍQUIDO VISCOSO, ORIGEM:MINERAL, VISCOSIDADE:VG 10, USO:MÁQUINA DE COSTURA INDUSTRIAL"
+    "group": "91",
+    "class": "9150",
+    "standard": "10198",
+    "code": "601656",
+    "description": " ÓLEO LUBRIFICANTE., APRESENTAÇÃO:LÍQUIDO VISCOSO, ORIGEM:MINERAL, VISCOSIDADE:VG 10, USO:MÁQUINA DE COSTURA INDUSTRIAL"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "10204",
-    "codigo": "246562",
-    "descricao": " LUBRIFICANTE ODONTOLÓGICO, COMPOSIÇÃO BÁSICA:ÓLEO MINERAL, APRESENTAÇÃO:SPRAY COM ADAPTADOR, APLICAÇÃO:CANETA ALTA ROTAÇÃO, CARACTERÍSTICAS ADICIONAIS:SEM CFC"
+    "group": "91",
+    "class": "9150",
+    "standard": "10204",
+    "code": "246562",
+    "description": " LUBRIFICANTE ODONTOLÓGICO, COMPOSIÇÃO BÁSICA:ÓLEO MINERAL, APRESENTAÇÃO:SPRAY COM ADAPTADOR, APLICAÇÃO:CANETA ALTA ROTAÇÃO, CARACTERÍSTICAS ADICIONAIS:SEM CFC"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "10204",
-    "codigo": "246563",
-    "descricao": " LUBRIFICANTE ODONTOLÓGICO, COMPOSIÇÃO BÁSICA:ÓLEO MINERAL, APRESENTAÇÃO:SPRAY COM ADAPTADOR, APLICAÇÃO:CANETA BAIXA ROTAÇÃO, CARACTERÍSTICAS ADICIONAIS:SEM CFC"
+    "group": "91",
+    "class": "9150",
+    "standard": "10204",
+    "code": "246563",
+    "description": " LUBRIFICANTE ODONTOLÓGICO, COMPOSIÇÃO BÁSICA:ÓLEO MINERAL, APRESENTAÇÃO:SPRAY COM ADAPTADOR, APLICAÇÃO:CANETA BAIXA ROTAÇÃO, CARACTERÍSTICAS ADICIONAIS:SEM CFC"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "10204",
-    "codigo": "246952",
-    "descricao": " LUBRIFICANTE ODONTOLÓGICO, COMPOSIÇÃO BÁSICA:ÓLEO MINERAL, APRESENTAÇÃO:SPRAY COM ADAPTADOR, APLICAÇÃO:CANETA DE ALTA E BAIXA ROTAÇÃO, CARACTERÍSTICAS ADICIONAIS:SEM CFC"
+    "group": "91",
+    "class": "9150",
+    "standard": "10204",
+    "code": "246952",
+    "description": " LUBRIFICANTE ODONTOLÓGICO, COMPOSIÇÃO BÁSICA:ÓLEO MINERAL, APRESENTAÇÃO:SPRAY COM ADAPTADOR, APLICAÇÃO:CANETA DE ALTA E BAIXA ROTAÇÃO, CARACTERÍSTICAS ADICIONAIS:SEM CFC"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "10204",
-    "codigo": "417981",
-    "descricao": " LUBRIFICANTE ODONTOLÓGICO, COMPOSIÇÃO BÁSICA:ÓLEO MINERAL, APRESENTAÇÃO:REFIL, APLICAÇÃO:CANETA ALTA ROTAÇÃO, CARACTERÍSTICAS ADICIONAIS:SEM CFC"
+    "group": "91",
+    "class": "9150",
+    "standard": "10204",
+    "code": "417981",
+    "description": " LUBRIFICANTE ODONTOLÓGICO, COMPOSIÇÃO BÁSICA:ÓLEO MINERAL, APRESENTAÇÃO:REFIL, APLICAÇÃO:CANETA ALTA ROTAÇÃO, CARACTERÍSTICAS ADICIONAIS:SEM CFC"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "10204",
-    "codigo": "417982",
-    "descricao": " LUBRIFICANTE ODONTOLÓGICO, COMPOSIÇÃO BÁSICA:ÓLEO MINERAL, APRESENTAÇÃO:REFIL, APLICAÇÃO:CANETA BAIXA ROTAÇÃO, CARACTERÍSTICAS ADICIONAIS:SEM CFC"
+    "group": "91",
+    "class": "9150",
+    "standard": "10204",
+    "code": "417982",
+    "description": " LUBRIFICANTE ODONTOLÓGICO, COMPOSIÇÃO BÁSICA:ÓLEO MINERAL, APRESENTAÇÃO:REFIL, APLICAÇÃO:CANETA BAIXA ROTAÇÃO, CARACTERÍSTICAS ADICIONAIS:SEM CFC"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "10204",
-    "codigo": "417983",
-    "descricao": " LUBRIFICANTE ODONTOLÓGICO, COMPOSIÇÃO BÁSICA:ÓLEO MINERAL, APRESENTAÇÃO:REFIL, APLICAÇÃO:CANETA DE ALTA E BAIXA ROTAÇÃO, CARACTERÍSTICAS ADICIONAIS:SEM CFC"
+    "group": "91",
+    "class": "9150",
+    "standard": "10204",
+    "code": "417983",
+    "description": " LUBRIFICANTE ODONTOLÓGICO, COMPOSIÇÃO BÁSICA:ÓLEO MINERAL, APRESENTAÇÃO:REFIL, APLICAÇÃO:CANETA DE ALTA E BAIXA ROTAÇÃO, CARACTERÍSTICAS ADICIONAIS:SEM CFC"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "10209",
-    "codigo": "236873",
-    "descricao": " ÓLEO REFRIGERANTE, COMPOSIÇÃO:ÓLEOS VEGETAIS, ASPECTO FÍSICO:LÍQUIDO TRANSPARENTE/AMARELADO ESVERDEADO/VISCOSO, SOLUBILIDADE:100% EM ÁGUA, ODOR:AGRADÁVEL, CORROSIVIDADE:NULA, VISCOSIDADE:10º, ACIDEZ:9 A 10, DENSIDADE:1,04 A 20¿C, APLICAÇÃO:CORTE DE METAIS EM MÁQUINAS OPERATRIZES"
+    "group": "91",
+    "class": "9150",
+    "standard": "10209",
+    "code": "236873",
+    "description": " ÓLEO REFRIGERANTE, COMPOSIÇÃO:ÓLEOS VEGETAIS, ASPECTO FÍSICO:LÍQUIDO TRANSPARENTE/AMARELADO ESVERDEADO/VISCOSO, SOLUBILIDADE:100% EM ÁGUA, ODOR:AGRADÁVEL, CORROSIVIDADE:NULA, VISCOSIDADE:10º, ACIDEZ:9 A 10, DENSIDADE:1,04 A 20¿C, APLICAÇÃO:CORTE DE METAIS EM MÁQUINAS OPERATRIZES"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "10209",
-    "codigo": "314644",
-    "descricao": " ÓLEO REFRIGERANTE, COMPOSIÇÃO:ÓLEO MINERAL, ADITIVOS EMULSIFICANTES, ESTABILIZA, ASPECTO FÍSICO:LÍQUIDO CASTANHO ESCURO TRANSLÚCIDO, SOLUBILIDADE:100% EM ÁGUA, CORROSIVIDADE:NULA, APLICAÇÃO:CORTE DE METAIS EM MÁQUINAS OPERATRIZES"
+    "group": "91",
+    "class": "9150",
+    "standard": "10209",
+    "code": "314644",
+    "description": " ÓLEO REFRIGERANTE, COMPOSIÇÃO:ÓLEO MINERAL, ADITIVOS EMULSIFICANTES, ESTABILIZA, ASPECTO FÍSICO:LÍQUIDO CASTANHO ESCURO TRANSLÚCIDO, SOLUBILIDADE:100% EM ÁGUA, CORROSIVIDADE:NULA, APLICAÇÃO:CORTE DE METAIS EM MÁQUINAS OPERATRIZES"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "10209",
-    "codigo": "444726",
-    "descricao": " ÓLEO REFRIGERANTE, COMPOSIÇÃO:PERFLUORADOS C5-18, ASPECTO FÍSICO:LÍQUIDO LÍMPIDO INCOLOR, DENSIDADE:1,8 G/ML, APLICAÇÃO:CARTUCHO DE CAPILAR"
+    "group": "91",
+    "class": "9150",
+    "standard": "10209",
+    "code": "444726",
+    "description": " ÓLEO REFRIGERANTE, COMPOSIÇÃO:PERFLUORADOS C5-18, ASPECTO FÍSICO:LÍQUIDO LÍMPIDO INCOLOR, DENSIDADE:1,8 G/ML, APLICAÇÃO:CARTUCHO DE CAPILAR"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "10209",
-    "codigo": "446760",
-    "descricao": " ÓLEO REFRIGERANTE, COMPOSIÇÃO:SEMI SINTÉTICO,AGENTES EMULSIONANTES E DE LUBRICI-, ASPECTO FÍSICO:LÍQUIDO BRANCO LEITOSO, SOLUBILIDADE:100% EM ÁGUA, CORROSIVIDADE:NULA, APLICAÇÃO:CORTE DE METAIS EM MÁQUINAS OPERATRIZES"
+    "group": "91",
+    "class": "9150",
+    "standard": "10209",
+    "code": "446760",
+    "description": " ÓLEO REFRIGERANTE, COMPOSIÇÃO:SEMI SINTÉTICO,AGENTES EMULSIONANTES E DE LUBRICI-, ASPECTO FÍSICO:LÍQUIDO BRANCO LEITOSO, SOLUBILIDADE:100% EM ÁGUA, CORROSIVIDADE:NULA, APLICAÇÃO:CORTE DE METAIS EM MÁQUINAS OPERATRIZES"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "13990",
-    "codigo": "229723",
-    "descricao": " SOLUÇÃO LUBRIFICANTE, COMPOSIÇÃO BÁSICA:POLÍMEROS SILÍCIO E OXIGÊNIO/SOLVENTES ALIFÁTICOS, ASPECTO FÍSICO:LÍQUIDO, TIPO USO:LUBRIFICAÇÃO ARMAS DE FOGO POR ULTRA-SOM, APLICAÇÃO:LUBRIFICANTE E ANTICORROSIVO"
+    "group": "91",
+    "class": "9150",
+    "standard": "13990",
+    "code": "229723",
+    "description": " SOLUÇÃO LUBRIFICANTE, COMPOSIÇÃO BÁSICA:POLÍMEROS SILÍCIO E OXIGÊNIO/SOLVENTES ALIFÁTICOS, ASPECTO FÍSICO:LÍQUIDO, TIPO USO:LUBRIFICAÇÃO ARMAS DE FOGO POR ULTRA-SOM, APLICAÇÃO:LUBRIFICANTE E ANTICORROSIVO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "13990",
-    "codigo": "276351",
-    "descricao": " SOLUÇÃO LUBRIFICANTE, COMPOSIÇÃO BÁSICA:COPOLÍMERO SEMI-CRISTALINO / SOL. ALCOÓLICA C/ VEÍ, ASPECTO FÍSICO:LÍQUIDO AZUL, TIPO USO:POLIMENTO COM PASTA DIAMANTADA, APLICAÇÃO:METALOGRAFIA"
+    "group": "91",
+    "class": "9150",
+    "standard": "13990",
+    "code": "276351",
+    "description": " SOLUÇÃO LUBRIFICANTE, COMPOSIÇÃO BÁSICA:COPOLÍMERO SEMI-CRISTALINO / SOL. ALCOÓLICA C/ VEÍ, ASPECTO FÍSICO:LÍQUIDO AZUL, TIPO USO:POLIMENTO COM PASTA DIAMANTADA, APLICAÇÃO:METALOGRAFIA"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "13990",
-    "codigo": "284612",
-    "descricao": " SOLUÇÃO LUBRIFICANTE, ASPECTO FÍSICO:LÍQUIDO, TIPO USO:ARTICULAÇÕES E ENCAIXE DE INSTRUMENTOS, APLICAÇÃO:ODONTOLÓGICA"
+    "group": "91",
+    "class": "9150",
+    "standard": "13990",
+    "code": "284612",
+    "description": " SOLUÇÃO LUBRIFICANTE, ASPECTO FÍSICO:LÍQUIDO, TIPO USO:ARTICULAÇÕES E ENCAIXE DE INSTRUMENTOS, APLICAÇÃO:ODONTOLÓGICA"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "13990",
-    "codigo": "315756",
-    "descricao": " SOLUÇÃO LUBRIFICANTE, COMPOSIÇÃO BÁSICA:ATIVO VEGETAIS E ALIFÁTICOS, ASPECTO FÍSICO:LÍQUIDO VISCOSO, TIPO USO:REPELIR UMIDADE, APLICAÇÃO:PEÇAS METÁLICAS, CARACTERÍSTICAS ADICIONAIS:NORMA MIL C 62218(AT), ÍNDICE ACIDEZ 42,01 (0-4),"
+    "group": "91",
+    "class": "9150",
+    "standard": "13990",
+    "code": "315756",
+    "description": " SOLUÇÃO LUBRIFICANTE, COMPOSIÇÃO BÁSICA:ATIVO VEGETAIS E ALIFÁTICOS, ASPECTO FÍSICO:LÍQUIDO VISCOSO, TIPO USO:REPELIR UMIDADE, APLICAÇÃO:PEÇAS METÁLICAS, CARACTERÍSTICAS ADICIONAIS:NORMA MIL C 62218(AT), ÍNDICE ACIDEZ 42,01 (0-4),"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "14780",
-    "codigo": "235090",
-    "descricao": " DESENGRIMPANTE, COMPOSIÇÃO:MICROÓLEO E PROPELENTE BUTANO/PROPANO, APRESENTAÇÃO:SPRAY, FINALIDADE:LUBRIFICANTE, APLICAÇÃO:IMPRESSORA"
+    "group": "91",
+    "class": "9150",
+    "standard": "14780",
+    "code": "235090",
+    "description": " DESENGRIMPANTE, COMPOSIÇÃO:MICROÓLEO E PROPELENTE BUTANO/PROPANO, APRESENTAÇÃO:SPRAY, FINALIDADE:LUBRIFICANTE, APLICAÇÃO:IMPRESSORA"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "14780",
-    "codigo": "242118",
-    "descricao": " DESENGRIMPANTE, COMPOSIÇÃO:ADITIVOS INIBIDORES CORROSÃO E OXIDAÇÃO,TENSOATIVO, APRESENTAÇÃO:SPRAY, APLICAÇÃO:LUBRIFICANTE E ANTICORROSIVO"
+    "group": "91",
+    "class": "9150",
+    "standard": "14780",
+    "code": "242118",
+    "description": " DESENGRIMPANTE, COMPOSIÇÃO:ADITIVOS INIBIDORES CORROSÃO E OXIDAÇÃO,TENSOATIVO, APRESENTAÇÃO:SPRAY, APLICAÇÃO:LUBRIFICANTE E ANTICORROSIVO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "14780",
-    "codigo": "242215",
-    "descricao": " DESENGRIMPANTE, COMPOSIÇÃO:ADITIVOS INIBIDORES CORROSÃO E OXIDAÇÃO,TENSOATIVO, APRESENTAÇÃO:SPRAY, FINALIDADE:ELIMINAR FERRUGEM / REPELIR UMIDADE / LUBRIFICAR, APLICAÇÃO:LUBRIFICANTE E ANTICORROSIVO"
+    "group": "91",
+    "class": "9150",
+    "standard": "14780",
+    "code": "242215",
+    "description": " DESENGRIMPANTE, COMPOSIÇÃO:ADITIVOS INIBIDORES CORROSÃO E OXIDAÇÃO,TENSOATIVO, APRESENTAÇÃO:SPRAY, FINALIDADE:ELIMINAR FERRUGEM / REPELIR UMIDADE / LUBRIFICAR, APLICAÇÃO:LUBRIFICANTE E ANTICORROSIVO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "14780",
-    "codigo": "246078",
-    "descricao": " DESENGRIMPANTE, COMPOSIÇÃO:ADITIVOS INIBIDORES CORROSÃO E OXIDAÇÃO,TENSOATIVO, APRESENTAÇÃO:SPRAY, FINALIDADE:LUBRIFICANTE, APLICAÇÃO:INSTRUMENTOS DE ALTA E BAIXA ROTAÇÃO"
+    "group": "91",
+    "class": "9150",
+    "standard": "14780",
+    "code": "246078",
+    "description": " DESENGRIMPANTE, COMPOSIÇÃO:ADITIVOS INIBIDORES CORROSÃO E OXIDAÇÃO,TENSOATIVO, APRESENTAÇÃO:SPRAY, FINALIDADE:LUBRIFICANTE, APLICAÇÃO:INSTRUMENTOS DE ALTA E BAIXA ROTAÇÃO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "14780",
-    "codigo": "261317",
-    "descricao": " DESENGRIMPANTE, APRESENTAÇÃO:SPRAY, FINALIDADE:ELIMINAR FERRUGEM / REPELIR UMIDADE / LUBRIFICAR, APLICAÇÃO:LUBRIFICANTE E ANTICORROSIVO"
+    "group": "91",
+    "class": "9150",
+    "standard": "14780",
+    "code": "261317",
+    "description": " DESENGRIMPANTE, APRESENTAÇÃO:SPRAY, FINALIDADE:ELIMINAR FERRUGEM / REPELIR UMIDADE / LUBRIFICAR, APLICAÇÃO:LUBRIFICANTE E ANTICORROSIVO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "14780",
-    "codigo": "262680",
-    "descricao": " DESENGRIMPANTE, COMPOSIÇÃO:ADITIVOS INIBIDORES CORROSÃO E OXIDAÇÃO,TENSOATIVO, APRESENTAÇÃO:SPRAY, FINALIDADE:ELIMINAR FERRUGEM / REPELIR UMIDADE / LUBRIFICAR, APLICAÇÃO:LUBRIFICANTE E ANTICORROSIVO, CARACTERÍSTICAS ADICIONAIS:SEM CFC NA COMPOSIÇÃO"
+    "group": "91",
+    "class": "9150",
+    "standard": "14780",
+    "code": "262680",
+    "description": " DESENGRIMPANTE, COMPOSIÇÃO:ADITIVOS INIBIDORES CORROSÃO E OXIDAÇÃO,TENSOATIVO, APRESENTAÇÃO:SPRAY, FINALIDADE:ELIMINAR FERRUGEM / REPELIR UMIDADE / LUBRIFICAR, APLICAÇÃO:LUBRIFICANTE E ANTICORROSIVO, CARACTERÍSTICAS ADICIONAIS:SEM CFC NA COMPOSIÇÃO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "14780",
-    "codigo": "284611",
-    "descricao": " DESENGRIMPANTE, APRESENTAÇÃO:SOLUÇÃO, FINALIDADE:ELIMINAR FERRUGEM / REPELIR UMIDADE / LUBRIFICAR, APLICAÇÃO:INSTRUMENTAL ODONTOLÓGICO, CARACTERÍSTICAS ADICIONAIS:CONCENTRADO"
+    "group": "91",
+    "class": "9150",
+    "standard": "14780",
+    "code": "284611",
+    "description": " DESENGRIMPANTE, APRESENTAÇÃO:SOLUÇÃO, FINALIDADE:ELIMINAR FERRUGEM / REPELIR UMIDADE / LUBRIFICAR, APLICAÇÃO:INSTRUMENTAL ODONTOLÓGICO, CARACTERÍSTICAS ADICIONAIS:CONCENTRADO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "14780",
-    "codigo": "297450",
-    "descricao": " DESENGRIMPANTE, COMPOSIÇÃO:ÓLEO MINERAL E ADITIVOS, FINALIDADE:PROTETIVO ANTIFERRUGINOSO, APLICAÇÃO:USO GERAL, CARACTERÍSTICAS ADICIONAIS:INIBIDOR DE OXIDAÇÃO E CORROSÃO E PROPILENTE"
+    "group": "91",
+    "class": "9150",
+    "standard": "14780",
+    "code": "297450",
+    "description": " DESENGRIMPANTE, COMPOSIÇÃO:ÓLEO MINERAL E ADITIVOS, FINALIDADE:PROTETIVO ANTIFERRUGINOSO, APLICAÇÃO:USO GERAL, CARACTERÍSTICAS ADICIONAIS:INIBIDOR DE OXIDAÇÃO E CORROSÃO E PROPILENTE"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "14780",
-    "codigo": "456240",
-    "descricao": " DESENGRIMPANTE, COMPOSIÇÃO:DESTILADO ALIFÁTICO, OLEOS DE PETRÓLEO/MINERAL, APRESENTAÇÃO:SPRAY, APLICAÇÃO:USO GERAL"
+    "group": "91",
+    "class": "9150",
+    "standard": "14780",
+    "code": "456240",
+    "description": " DESENGRIMPANTE, COMPOSIÇÃO:DESTILADO ALIFÁTICO, OLEOS DE PETRÓLEO/MINERAL, APRESENTAÇÃO:SPRAY, APLICAÇÃO:USO GERAL"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "14780",
-    "codigo": "602645",
-    "descricao": " DESENGRIMPANTE, COMPOSIÇÃO:BASE SINTÉTICA BIODEGRADÁVEL, APRESENTAÇÃO:SPRAY, APLICAÇÃO:USO GERAL"
+    "group": "91",
+    "class": "9150",
+    "standard": "14780",
+    "code": "602645",
+    "description": " DESENGRIMPANTE, COMPOSIÇÃO:BASE SINTÉTICA BIODEGRADÁVEL, APRESENTAÇÃO:SPRAY, APLICAÇÃO:USO GERAL"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "15209",
-    "codigo": "238112",
-    "descricao": " CONJUNTO LUBRIFICAÇÃO, COMPONENTES:ANTIEMBAÇANTE, DESENGRIPANTE, GRAXA LÍQUIDA E SILI"
+    "group": "91",
+    "class": "9150",
+    "standard": "15209",
+    "code": "238112",
+    "description": " CONJUNTO LUBRIFICAÇÃO, COMPONENTES:ANTIEMBAÇANTE, DESENGRIPANTE, GRAXA LÍQUIDA E SILI"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "15604",
-    "codigo": "243810",
-    "descricao": " GRAFITE, ASPECTO FÍSICO:PÓ, APLICAÇÃO:REDUTOR ATRITO / LUBRIFICAÇÃO EM GERAL"
+    "group": "91",
+    "class": "9150",
+    "standard": "15604",
+    "code": "243810",
+    "description": " GRAFITE, ASPECTO FÍSICO:PÓ, APLICAÇÃO:REDUTOR ATRITO / LUBRIFICAÇÃO EM GERAL"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "15604",
-    "codigo": "317934",
-    "descricao": " GRAFITE, ASPECTO FÍSICO:LÍQUIDO, APLICAÇÃO:REDUTOR ATRITO / LUBRIFICAÇÃO EM GERAL, CARACTERÍSTICAS ADICIONAIS:SPRAY SEM CFC"
+    "group": "91",
+    "class": "9150",
+    "standard": "15604",
+    "code": "317934",
+    "description": " GRAFITE, ASPECTO FÍSICO:LÍQUIDO, APLICAÇÃO:REDUTOR ATRITO / LUBRIFICAÇÃO EM GERAL, CARACTERÍSTICAS ADICIONAIS:SPRAY SEM CFC"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "16128",
-    "codigo": "250886",
-    "descricao": " CONDICIONADOR METAIS, ORIGEM:HIDROCARBONETOS DE BASE SINTÉTICA REAGIDOS QUIMICA, COMPOSIÇÃO:LUBRIFICANTES DE EXTREMA PRESSÃO; ANTI-CORROSIVOS, ASPECTO FÍSICO:LÍQUIDO DOURADO, VISCOSIDADE:SAE 10, APLICAÇÃO:MOTORES"
+    "group": "91",
+    "class": "9150",
+    "standard": "16128",
+    "code": "250886",
+    "description": " CONDICIONADOR METAIS, ORIGEM:HIDROCARBONETOS DE BASE SINTÉTICA REAGIDOS QUIMICA, COMPOSIÇÃO:LUBRIFICANTES DE EXTREMA PRESSÃO; ANTI-CORROSIVOS, ASPECTO FÍSICO:LÍQUIDO DOURADO, VISCOSIDADE:SAE 10, APLICAÇÃO:MOTORES"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "16172",
-    "codigo": "251545",
-    "descricao": " FLUIDO HIDRÁULICO, ORIGEM:MINERAL, VISCOSIDADE:MÍNIMO 4,9 CST A 100 ¿C E MÍNIMO 13,2 CST A 40 ¿C, PONTO FULGOR:ACIMA DE 190 ¿C, PONTO FLUIDEZ:ABAIXO DE -60 ¿C, REFERÊNCIA:MIL-H-5606G, APLICAÇÃO:LUBRIFICAÇÃO SISTEMA RECUO CANHÕES"
+    "group": "91",
+    "class": "9150",
+    "standard": "16172",
+    "code": "251545",
+    "description": " FLUIDO HIDRÁULICO, ORIGEM:MINERAL, VISCOSIDADE:MÍNIMO 4,9 CST A 100 ¿C E MÍNIMO 13,2 CST A 40 ¿C, PONTO FULGOR:ACIMA DE 190 ¿C, PONTO FLUIDEZ:ABAIXO DE -60 ¿C, REFERÊNCIA:MIL-H-5606G, APLICAÇÃO:LUBRIFICAÇÃO SISTEMA RECUO CANHÕES"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "16172",
-    "codigo": "251546",
-    "descricao": " FLUIDO HIDRÁULICO, ORIGEM:MINERAL, VISCOSIDADE:14,5 CST ACIMA DE 40 ¿C E 700 CST A -60 ¿C, PONTO FULGOR:ACIMA DE 150 ¿C, PONTO FLUIDEZ:ABAIXO DE -60 ¿C, REFERÊNCIA:MIL-PRF-6083F, APLICAÇÃO:LUBRIFICAÇÃO SISTEMA RECUO CANHÕES"
+    "group": "91",
+    "class": "9150",
+    "standard": "16172",
+    "code": "251546",
+    "description": " FLUIDO HIDRÁULICO, ORIGEM:MINERAL, VISCOSIDADE:14,5 CST ACIMA DE 40 ¿C E 700 CST A -60 ¿C, PONTO FULGOR:ACIMA DE 150 ¿C, PONTO FLUIDEZ:ABAIXO DE -60 ¿C, REFERÊNCIA:MIL-PRF-6083F, APLICAÇÃO:LUBRIFICAÇÃO SISTEMA RECUO CANHÕES"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "16172",
-    "codigo": "395540",
-    "descricao": " FLUIDO HIDRÁULICO, ORIGEM:MINERAL, VISCOSIDADE:13,6 CST A 40¿C, REFERÊNCIA:MIL-H-5606G/MIL-PRF-5606H, APLICAÇÃO:UTILIZAÇÃO EM AERONAVES"
+    "group": "91",
+    "class": "9150",
+    "standard": "16172",
+    "code": "395540",
+    "description": " FLUIDO HIDRÁULICO, ORIGEM:MINERAL, VISCOSIDADE:13,6 CST A 40¿C, REFERÊNCIA:MIL-H-5606G/MIL-PRF-5606H, APLICAÇÃO:UTILIZAÇÃO EM AERONAVES"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "16172",
-    "codigo": "478646",
-    "descricao": " FLUIDO HIDRÁULICO, ORIGEM:MINERAL, VISCOSIDADE:-57¿C A 70¿C, PONTO FULGOR:ACIMA DE 120 ¿C, PONTO FLUIDEZ:ABAIXO DE 45 ¿C, REFERÊNCIA:MIL-PRF-7870, APLICAÇÃO:UTILIZAÇÃO EM AERONAVES"
+    "group": "91",
+    "class": "9150",
+    "standard": "16172",
+    "code": "478646",
+    "description": " FLUIDO HIDRÁULICO, ORIGEM:MINERAL, VISCOSIDADE:-57¿C A 70¿C, PONTO FULGOR:ACIMA DE 120 ¿C, PONTO FLUIDEZ:ABAIXO DE 45 ¿C, REFERÊNCIA:MIL-PRF-7870, APLICAÇÃO:UTILIZAÇÃO EM AERONAVES"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "16172",
-    "codigo": "478660",
-    "descricao": " FLUIDO HIDRÁULICO, ORIGEM:MINERAL, VISCOSIDADE:-40ºC A 205ºC, PONTO FULGOR:ACIMA DE 380 ¿C, PONTO FLUIDEZ:ABAIXO DE -66 ¿C, REFERÊNCIA:MIL-PRF-8328D, APLICAÇÃO:UTILIZAÇÃO EM AERONAVES"
+    "group": "91",
+    "class": "9150",
+    "standard": "16172",
+    "code": "478660",
+    "description": " FLUIDO HIDRÁULICO, ORIGEM:MINERAL, VISCOSIDADE:-40ºC A 205ºC, PONTO FULGOR:ACIMA DE 380 ¿C, PONTO FLUIDEZ:ABAIXO DE -66 ¿C, REFERÊNCIA:MIL-PRF-8328D, APLICAÇÃO:UTILIZAÇÃO EM AERONAVES"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "16172",
-    "codigo": "478662",
-    "descricao": " FLUIDO HIDRÁULICO, ORIGEM:MINERAL, VISCOSIDADE:13,6 CST A 40¿C, PONTO FULGOR:ACIMA DE 135 ¿C, PONTO FLUIDEZ:ABAIXO DE -54 ¿C, REFERÊNCIA:MIL-PRF-5606H, APLICAÇÃO:UTILIZAÇÃO EM AERONAVES"
+    "group": "91",
+    "class": "9150",
+    "standard": "16172",
+    "code": "478662",
+    "description": " FLUIDO HIDRÁULICO, ORIGEM:MINERAL, VISCOSIDADE:13,6 CST A 40¿C, PONTO FULGOR:ACIMA DE 135 ¿C, PONTO FLUIDEZ:ABAIXO DE -54 ¿C, REFERÊNCIA:MIL-PRF-5606H, APLICAÇÃO:UTILIZAÇÃO EM AERONAVES"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "16172",
-    "codigo": "480162",
-    "descricao": " FLUIDO HIDRÁULICO, ORIGEM:MINERAL, VISCOSIDADE:MÍNIMO 2,2 CST A 40¿C, PONTO FULGOR:ACIMA DE  100 ¿C, APLICAÇÃO:PROCESSO DE ELETROEROSÃO POR PENETRAÇÃO"
+    "group": "91",
+    "class": "9150",
+    "standard": "16172",
+    "code": "480162",
+    "description": " FLUIDO HIDRÁULICO, ORIGEM:MINERAL, VISCOSIDADE:MÍNIMO 2,2 CST A 40¿C, PONTO FULGOR:ACIMA DE  100 ¿C, APLICAÇÃO:PROCESSO DE ELETROEROSÃO POR PENETRAÇÃO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "18328",
-    "codigo": "286818",
-    "descricao": " PASTA LUBRIFICANTE, COMPOSIÇÃO:A BASE DE ÁCIDOS GRAXOS, ASPECTO FÍSICO:PASTOSO, APLICAÇÃO:TUBOS E CONEXÕES DE PVC"
+    "group": "91",
+    "class": "9150",
+    "standard": "18328",
+    "code": "286818",
+    "description": " PASTA LUBRIFICANTE, COMPOSIÇÃO:A BASE DE ÁCIDOS GRAXOS, ASPECTO FÍSICO:PASTOSO, APLICAÇÃO:TUBOS E CONEXÕES DE PVC"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "18328",
-    "codigo": "354035",
-    "descricao": " PASTA LUBRIFICANTE, COMPOSIÇÃO:ÓLEO MINERAL E LUBRIFICANTES SÓLIDOS, ASPECTO FÍSICO:PASTOSO, APLICAÇÃO:AMPOLAS DE AR COMPRIMIDO"
+    "group": "91",
+    "class": "9150",
+    "standard": "18328",
+    "code": "354035",
+    "description": " PASTA LUBRIFICANTE, COMPOSIÇÃO:ÓLEO MINERAL E LUBRIFICANTES SÓLIDOS, ASPECTO FÍSICO:PASTOSO, APLICAÇÃO:AMPOLAS DE AR COMPRIMIDO"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "18328",
-    "codigo": "369408",
-    "descricao": " PASTA LUBRIFICANTE, COMPOSIÇÃO:POLIETILENO E ÓLEO MINERAIS EMULSIONÁVEIS, ASPECTO FÍSICO:PASTOSO, APLICAÇÃO:REDUTOR DA TACK DAS TINTAS OFFSET"
+    "group": "91",
+    "class": "9150",
+    "standard": "18328",
+    "code": "369408",
+    "description": " PASTA LUBRIFICANTE, COMPOSIÇÃO:POLIETILENO E ÓLEO MINERAIS EMULSIONÁVEIS, ASPECTO FÍSICO:PASTOSO, APLICAÇÃO:REDUTOR DA TACK DAS TINTAS OFFSET"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "18328",
-    "codigo": "450844",
-    "descricao": " PASTA LUBRIFICANTE, COMPOSIÇÃO:A BASE DE LUBRIFICANTE SÓLIDO DIÓXIDO DE ZIRCÔNIO, ASPECTO FÍSICO:PASTOSO, APLICAÇÃO:JUNÇÕES PARAFUSADAS FABRICADAS EM LIGAS RESISTENTE, CARACTERÍSTICAS ADICIONAIS:COR CINZA ESCURO, COEFICIENTE DE ATRITO 0,12M"
+    "group": "91",
+    "class": "9150",
+    "standard": "18328",
+    "code": "450844",
+    "description": " PASTA LUBRIFICANTE, COMPOSIÇÃO:A BASE DE LUBRIFICANTE SÓLIDO DIÓXIDO DE ZIRCÔNIO, ASPECTO FÍSICO:PASTOSO, APLICAÇÃO:JUNÇÕES PARAFUSADAS FABRICADAS EM LIGAS RESISTENTE, CARACTERÍSTICAS ADICIONAIS:COR CINZA ESCURO, COEFICIENTE DE ATRITO 0,12M"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "18328",
-    "codigo": "450845",
-    "descricao": " PASTA LUBRIFICANTE, COMPOSIÇÃO:A BASE DE LUBRIFICANTE SÓLIDO DIÓXIDO DE ZIRCÔNIO, ASPECTO FÍSICO:PASTOSO, APLICAÇÃO:JUNÇÕES PARAFUSADAS FABRICADAS EM LIGAS RESISTENTE, CARACTERÍSTICAS ADICIONAIS:COR PRETA, COEFICIENTE DE ATRITO 0,09M"
+    "group": "91",
+    "class": "9150",
+    "standard": "18328",
+    "code": "450845",
+    "description": " PASTA LUBRIFICANTE, COMPOSIÇÃO:A BASE DE LUBRIFICANTE SÓLIDO DIÓXIDO DE ZIRCÔNIO, ASPECTO FÍSICO:PASTOSO, APLICAÇÃO:JUNÇÕES PARAFUSADAS FABRICADAS EM LIGAS RESISTENTE, CARACTERÍSTICAS ADICIONAIS:COR PRETA, COEFICIENTE DE ATRITO 0,09M"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "18328",
-    "codigo": "450846",
-    "descricao": " PASTA LUBRIFICANTE, COMPOSIÇÃO:A BASE DE LUBRIFICANTE SÓLIDO DIÓXIDO DE ZIRCÔNIO, ASPECTO FÍSICO:PASTOSO, APLICAÇÃO:JUNÇÕES PARAFUSADAS FABRICADAS EM LIGAS RESISTENTE, CARACTERÍSTICAS ADICIONAIS:COR PRETA ACINZENTADO, COEFICIENTE DE ATRITO 0,10M"
+    "group": "91",
+    "class": "9150",
+    "standard": "18328",
+    "code": "450846",
+    "description": " PASTA LUBRIFICANTE, COMPOSIÇÃO:A BASE DE LUBRIFICANTE SÓLIDO DIÓXIDO DE ZIRCÔNIO, ASPECTO FÍSICO:PASTOSO, APLICAÇÃO:JUNÇÕES PARAFUSADAS FABRICADAS EM LIGAS RESISTENTE, CARACTERÍSTICAS ADICIONAIS:COR PRETA ACINZENTADO, COEFICIENTE DE ATRITO 0,10M"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "18328",
-    "codigo": "453712",
-    "descricao": " PASTA LUBRIFICANTE, COMPOSIÇÃO:ÓLEOS MINERAIS E SINTÉTICOS DE HIDROCARBONETOS,LUB, ASPECTO FÍSICO:PASTOSO, APLICAÇÃO:JUNTAS, BUCHAS, DOBRADIçAS EM MáQUINAS EM GERAL, CARACTERÍSTICAS ADICIONAIS:COR CINZA CLARO, PONTO DE FULGOR: 180ºC"
+    "group": "91",
+    "class": "9150",
+    "standard": "18328",
+    "code": "453712",
+    "description": " PASTA LUBRIFICANTE, COMPOSIÇÃO:ÓLEOS MINERAIS E SINTÉTICOS DE HIDROCARBONETOS,LUB, ASPECTO FÍSICO:PASTOSO, APLICAÇÃO:JUNTAS, BUCHAS, DOBRADIçAS EM MáQUINAS EM GERAL, CARACTERÍSTICAS ADICIONAIS:COR CINZA CLARO, PONTO DE FULGOR: 180ºC"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "18328",
-    "codigo": "453713",
-    "descricao": " PASTA LUBRIFICANTE, COMPOSIÇÃO:ÓLEO MINERAL, SABÃO COMPLEXO DE ALUMÍNIO, LUBRIFIC, ASPECTO FÍSICO:PASTOSO, APLICAÇÃO:JUNTAS, BUCHAS, DOBRADIçAS EM MáQUINAS EM GERAL, CARACTERÍSTICAS ADICIONAIS:COR BRANCA, PONTO DE FULGOR: 180ºC"
+    "group": "91",
+    "class": "9150",
+    "standard": "18328",
+    "code": "453713",
+    "description": " PASTA LUBRIFICANTE, COMPOSIÇÃO:ÓLEO MINERAL, SABÃO COMPLEXO DE ALUMÍNIO, LUBRIFIC, ASPECTO FÍSICO:PASTOSO, APLICAÇÃO:JUNTAS, BUCHAS, DOBRADIçAS EM MáQUINAS EM GERAL, CARACTERÍSTICAS ADICIONAIS:COR BRANCA, PONTO DE FULGOR: 180ºC"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "18328",
-    "codigo": "478578",
-    "descricao": " PASTA LUBRIFICANTE, COMPOSIÇÃO:ÓLEO MINERAL E LUBRIFICANTES SÓLIDOS, ASPECTO FÍSICO:PASTOSO, APLICAÇÃO:MANCAIS E ENGRENAGENS, CARACTERÍSTICAS ADICIONAIS:COR PRETO; TEMPERATURA DE TRABALHO: -35ºC A +450ºC"
+    "group": "91",
+    "class": "9150",
+    "standard": "18328",
+    "code": "478578",
+    "description": " PASTA LUBRIFICANTE, COMPOSIÇÃO:ÓLEO MINERAL E LUBRIFICANTES SÓLIDOS, ASPECTO FÍSICO:PASTOSO, APLICAÇÃO:MANCAIS E ENGRENAGENS, CARACTERÍSTICAS ADICIONAIS:COR PRETO; TEMPERATURA DE TRABALHO: -35ºC A +450ºC"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461562",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API SN, VISCOSIDADE:SAE 5W-20"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461562",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API SN, VISCOSIDADE:SAE 5W-20"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461563",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API SN, VISCOSIDADE:SAE 5W-30"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461563",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API SN, VISCOSIDADE:SAE 5W-30"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461564",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API SN, VISCOSIDADE:SAE 5W-40"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461564",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API SN, VISCOSIDADE:SAE 5W-40"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461565",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API SN, VISCOSIDADE:SAE 0W-30"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461565",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API SN, VISCOSIDADE:SAE 0W-30"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461566",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SL, VISCOSIDADE:SAE 15W-40"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461566",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SL, VISCOSIDADE:SAE 15W-40"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461567",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SN, VISCOSIDADE:SAE 10W-40"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461567",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SN, VISCOSIDADE:SAE 10W-40"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461569",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API SL/CF, VISCOSIDADE:SAE 15W-40"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461569",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API SL/CF, VISCOSIDADE:SAE 15W-40"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461570",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API SL/CF, VISCOSIDADE:SAE 20W-50"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461570",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API SL/CF, VISCOSIDADE:SAE 20W-50"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461571",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API SL/CF, VISCOSIDADE:SAE 25W-60"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461571",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API SL/CF, VISCOSIDADE:SAE 25W-60"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461572",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:MOTOCICLETA, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API SN, VISCOSIDADE:SAE 15W-50"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461572",
+    "description": " ÓLEO LUBRIFICANTE, USO:MOTOCICLETA, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API SN, VISCOSIDADE:SAE 15W-50"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461574",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:MOTOCICLETA, TIPO:MINERAL, CLASSIFICAÇÃO:API SL, VISCOSIDADE:SAE 20W-50"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461574",
+    "description": " ÓLEO LUBRIFICANTE, USO:MOTOCICLETA, TIPO:MINERAL, CLASSIFICAÇÃO:API SL, VISCOSIDADE:SAE 20W-50"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461575",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:MOTOCICLETA, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SN, VISCOSIDADE:SAE 10W-30"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461575",
+    "description": " ÓLEO LUBRIFICANTE, USO:MOTOCICLETA, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SN, VISCOSIDADE:SAE 10W-30"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461576",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:MOTOCICLETA, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SL, VISCOSIDADE:SAE 10W-30"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461576",
+    "description": " ÓLEO LUBRIFICANTE, USO:MOTOCICLETA, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SL, VISCOSIDADE:SAE 10W-30"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461577",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:PARA CAMINHÃO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API CJ-4, VISCOSIDADE:SAE 10W-40"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461577",
+    "description": " ÓLEO LUBRIFICANTE, USO:PARA CAMINHÃO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API CJ-4, VISCOSIDADE:SAE 10W-40"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461578",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:PARA CAMINHÃO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API CJ-4, VISCOSIDADE:SAE 10W-40"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461578",
+    "description": " ÓLEO LUBRIFICANTE, USO:PARA CAMINHÃO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API CJ-4, VISCOSIDADE:SAE 10W-40"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461579",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:PARA CAMINHÃO, TIPO:MINERAL, CLASSIFICAÇÃO:API CH-4, VISCOSIDADE:SAE 15W-40"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461579",
+    "description": " ÓLEO LUBRIFICANTE, USO:PARA CAMINHÃO, TIPO:MINERAL, CLASSIFICAÇÃO:API CH-4, VISCOSIDADE:SAE 15W-40"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461580",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:PARA CAMINHÃO, TIPO:MINERAL, CLASSIFICAÇÃO:API CH-4, VISCOSIDADE:SAE 20W-50"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461580",
+    "description": " ÓLEO LUBRIFICANTE, USO:PARA CAMINHÃO, TIPO:MINERAL, CLASSIFICAÇÃO:API CH-4, VISCOSIDADE:SAE 20W-50"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461654",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:ISO VG 46"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461654",
+    "description": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:ISO VG 46"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461655",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:ISO VG 100"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461655",
+    "description": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:ISO VG 100"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461656",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:SINTÉTICO, CLASSIFICAÇÃO:DIN 51524, VISCOSIDADE:ISO 68"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461656",
+    "description": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:SINTÉTICO, CLASSIFICAÇÃO:DIN 51524, VISCOSIDADE:ISO 68"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461657",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:DIN 51524, VISCOSIDADE:ISO 68"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461657",
+    "description": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:DIN 51524, VISCOSIDADE:ISO 68"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461658",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:FERROVIÁRIO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API CH-4, VISCOSIDADE:SAE 20W-50"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461658",
+    "description": " ÓLEO LUBRIFICANTE, USO:FERROVIÁRIO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API CH-4, VISCOSIDADE:SAE 20W-50"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461659",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:FERROVIÁRIO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API CF/CF2, VISCOSIDADE:SAE 40"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461659",
+    "description": " ÓLEO LUBRIFICANTE, USO:FERROVIÁRIO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API CF/CF2, VISCOSIDADE:SAE 40"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461660",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:MARÍTIMO, TIPO:MINERAL, CLASSIFICAÇÃO:API CI-4/SL, VISCOSIDADE:SAE 15W-40"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461660",
+    "description": " ÓLEO LUBRIFICANTE, USO:MARÍTIMO, TIPO:MINERAL, CLASSIFICAÇÃO:API CI-4/SL, VISCOSIDADE:SAE 15W-40"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461661",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:MARÍTIMO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SL, VISCOSIDADE:SAE 25W-40"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461661",
+    "description": " ÓLEO LUBRIFICANTE, USO:MARÍTIMO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SL, VISCOSIDADE:SAE 25W-40"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461662",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:PARA EQUIPAMENTOS AGRÍCOLAS, TIPO:SINTÉTICO, CLASSIFICAÇÃO:DIN 51524, VISCOSIDADE:ISO 68"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461662",
+    "description": " ÓLEO LUBRIFICANTE, USO:PARA EQUIPAMENTOS AGRÍCOLAS, TIPO:SINTÉTICO, CLASSIFICAÇÃO:DIN 51524, VISCOSIDADE:ISO 68"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "461663",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:PARA EQUIPAMENTOS AGRÍCOLAS, TIPO:MINERAL, CLASSIFICAÇÃO:API GL-4, VISCOSIDADE:SAE 10W-30"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "461663",
+    "description": " ÓLEO LUBRIFICANTE, USO:PARA EQUIPAMENTOS AGRÍCOLAS, TIPO:MINERAL, CLASSIFICAÇÃO:API GL-4, VISCOSIDADE:SAE 10W-30"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "462021",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:MARÍTIMO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SL, VISCOSIDADE:SAE 25W-50"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "462021",
+    "description": " ÓLEO LUBRIFICANTE, USO:MARÍTIMO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SL, VISCOSIDADE:SAE 25W-50"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "462022",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:MARÍTIMO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SN, VISCOSIDADE:SAE 90"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "462022",
+    "description": " ÓLEO LUBRIFICANTE, USO:MARÍTIMO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SN, VISCOSIDADE:SAE 90"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "462782",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:SINTÉTICO, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:ISO VG 220"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "462782",
+    "description": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:SINTÉTICO, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:ISO VG 220"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "463190",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:ATF, VISCOSIDADE:A SUFIXO A"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "463190",
+    "description": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:ATF, VISCOSIDADE:A SUFIXO A"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "466370",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:DIN 51524, VISCOSIDADE:AW 32"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "466370",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:DIN 51524, VISCOSIDADE:AW 32"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "466991",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AERONAVE, TIPO:SINTÉTICO, CLASSIFICAÇÃO:MIL-C-6529C, VISCOSIDADE:ASF-2F"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "466991",
+    "description": " ÓLEO LUBRIFICANTE, USO:AERONAVE, TIPO:SINTÉTICO, CLASSIFICAÇÃO:MIL-C-6529C, VISCOSIDADE:ASF-2F"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "467401",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:NÁULTICA 2T, TIPO:SINTÉTICO, CLASSIFICAÇÃO:NMMA TC-W3, VISCOSIDADE:MI500"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "467401",
+    "description": " ÓLEO LUBRIFICANTE, USO:NÁULTICA 2T, TIPO:SINTÉTICO, CLASSIFICAÇÃO:NMMA TC-W3, VISCOSIDADE:MI500"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "467487",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API CG-4, VISCOSIDADE:SAE 15W-40"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "467487",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API CG-4, VISCOSIDADE:SAE 15W-40"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "467488",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API GL-4, VISCOSIDADE:SAE 80"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "467488",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API GL-4, VISCOSIDADE:SAE 80"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "467489",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API GL-4, VISCOSIDADE:SAE 90"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "467489",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API GL-4, VISCOSIDADE:SAE 90"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "467490",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:PARA EQUIPAMENTOS AGRÍCOLAS, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API GL-4, VISCOSIDADE:SAE 10W-30"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "467490",
+    "description": " ÓLEO LUBRIFICANTE, USO:PARA EQUIPAMENTOS AGRÍCOLAS, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API GL-4, VISCOSIDADE:SAE 10W-30"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "467491",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API SJ, VISCOSIDADE:SAE 20W-50"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "467491",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API SJ, VISCOSIDADE:SAE 20W-50"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "467492",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SJ, VISCOSIDADE:SAE 5W-30"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "467492",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SJ, VISCOSIDADE:SAE 5W-30"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "467493",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API SL, VISCOSIDADE:SAE 20W-50"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "467493",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API SL, VISCOSIDADE:SAE 20W-50"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "467494",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:PARA EQUIPAMENTOS AGRÍCOLAS, TIPO:MINERAL, CLASSIFICAÇÃO:API TC, VISCOSIDADE:SAE 30"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "467494",
+    "description": " ÓLEO LUBRIFICANTE, USO:PARA EQUIPAMENTOS AGRÍCOLAS, TIPO:MINERAL, CLASSIFICAÇÃO:API TC, VISCOSIDADE:SAE 30"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "467556",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:ISO VG 68"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "467556",
+    "description": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:ISO VG 68"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "467708",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API CJ-4, VISCOSIDADE:SAE 5W-30"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "467708",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API CJ-4, VISCOSIDADE:SAE 5W-30"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "470282",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API SN/RC, VISCOSIDADE:SAE 0W-20"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "470282",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API SN/RC, VISCOSIDADE:SAE 0W-20"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "470286",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API CK-4, VISCOSIDADE:SAE 15W-40"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "470286",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API CK-4, VISCOSIDADE:SAE 15W-40"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "470287",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SN, VISCOSIDADE:SAE 15W-40"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "470287",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SN, VISCOSIDADE:SAE 15W-40"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "470288",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:FD 1, VISCOSIDADE:SAE 50"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "470288",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:FD 1, VISCOSIDADE:SAE 50"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "470289",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:GL-5, VISCOSIDADE:SAE 140"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "470289",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:GL-5, VISCOSIDADE:SAE 140"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "470290",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:GL-5, VISCOSIDADE:SAE 90"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "470290",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:GL-5, VISCOSIDADE:SAE 90"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "471186",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API CI-4, VISCOSIDADE:SAE 10W-40"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "471186",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API CI-4, VISCOSIDADE:SAE 10W-40"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "471190",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API SN ACEA C2/C3 - 12, VISCOSIDADE:SAE 5W-30"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "471190",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API SN ACEA C2/C3 - 12, VISCOSIDADE:SAE 5W-30"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "471192",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SL, VISCOSIDADE:SAE 10W-40"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "471192",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SL, VISCOSIDADE:SAE 10W-40"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "471969",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API CI-4, VISCOSIDADE:SAE 15W-40"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "471969",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API CI-4, VISCOSIDADE:SAE 15W-40"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "471970",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:HLP, VISCOSIDADE:ISO VG 68"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "471970",
+    "description": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:HLP, VISCOSIDADE:ISO VG 68"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "471985",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:ALLISON C4, VISCOSIDADE:SAE 10W"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "471985",
+    "description": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:ALLISON C4, VISCOSIDADE:SAE 10W"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "472263",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AERONAVE, TIPO:SINTÉTICO, CLASSIFICAÇÃO:MIL-PRF-23699, VISCOSIDADE:PRI-QPL-AS5780/SPC"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "472263",
+    "description": " ÓLEO LUBRIFICANTE, USO:AERONAVE, TIPO:SINTÉTICO, CLASSIFICAÇÃO:MIL-PRF-23699, VISCOSIDADE:PRI-QPL-AS5780/SPC"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "472896",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API CH-4, VISCOSIDADE:SAE 15W-40"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "472896",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API CH-4, VISCOSIDADE:SAE 15W-40"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "472932",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API CM C3, VISCOSIDADE:SAE 5W-30"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "472932",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API CM C3, VISCOSIDADE:SAE 5W-30"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "473129",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:ATF, VISCOSIDADE:SAE 32"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "473129",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:ATF, VISCOSIDADE:SAE 32"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "473131",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL PREMIUM, CLASSIFICAÇÃO:API GL-4, VISCOSIDADE:SAE 80W"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "473131",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL PREMIUM, CLASSIFICAÇÃO:API GL-4, VISCOSIDADE:SAE 80W"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "473132",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API GL-5, VISCOSIDADE:SAE 80W-90"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "473132",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API GL-5, VISCOSIDADE:SAE 80W-90"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "473133",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API GL-5, VISCOSIDADE:SAE 85W-140"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "473133",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:API GL-5, VISCOSIDADE:SAE 85W-140"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "473619",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:BOMBA DE VÁCUO MECÂNICA, TIPO:SINTÉTICO, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:53 CST A 40º C"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "473619",
+    "description": " ÓLEO LUBRIFICANTE, USO:BOMBA DE VÁCUO MECÂNICA, TIPO:SINTÉTICO, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:53 CST A 40º C"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "473689",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:BOMBA DE VÁCUO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:40¿C DE 57, ASTMD2270"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "473689",
+    "description": " ÓLEO LUBRIFICANTE, USO:BOMBA DE VÁCUO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:40¿C DE 57, ASTMD2270"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "473721",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:ISO VG 32"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "473721",
+    "description": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:ISO VG 32"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "473722",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:ISO VG 150"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "473722",
+    "description": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:ISO VG 150"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "473723",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:SINTÉTICO, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:ISO VG 32"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "473723",
+    "description": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:SINTÉTICO, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:ISO VG 32"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "474366",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:ISO VG 320"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "474366",
+    "description": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:ISO VG 320"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "477466",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:MOTORES 2 TEMPOS, TIPO:MINERAL, CLASSIFICAÇÃO:API TC, VISCOSIDADE:CST 100ºC"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "477466",
+    "description": " ÓLEO LUBRIFICANTE, USO:MOTORES 2 TEMPOS, TIPO:MINERAL, CLASSIFICAÇÃO:API TC, VISCOSIDADE:CST 100ºC"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "478478",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:BD-68"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "478478",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:BD-68"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "478715",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:A SUFIXO A"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "478715",
+    "description": " ÓLEO LUBRIFICANTE, USO:INDUSTRIAL, TIPO:MINERAL, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:A SUFIXO A"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "479112",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:BOMBA MECÂNICA, TIPO:SINTÉTICO, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:ULTRAGRADE 19"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "479112",
+    "description": " ÓLEO LUBRIFICANTE, USO:BOMBA MECÂNICA, TIPO:SINTÉTICO, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:ULTRAGRADE 19"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "481124",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API CK-4, VISCOSIDADE:CST 100ºC"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "481124",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SINTÉTICO, CLASSIFICAÇÃO:API CK-4, VISCOSIDADE:CST 100ºC"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "481125",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:CST 100ºC"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "481125",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:MINERAL, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:CST 100ºC"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "481558",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:MOTORES A DIESEL, TIPO:MINERAL, CLASSIFICAÇÃO:MONOVISCOSO, VISCOSIDADE:SAE 40"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "481558",
+    "description": " ÓLEO LUBRIFICANTE, USO:MOTORES A DIESEL, TIPO:MINERAL, CLASSIFICAÇÃO:MONOVISCOSO, VISCOSIDADE:SAE 40"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "481744",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:MÁQUINA DE CORTE E VINCO, TIPO:MINERAL, CLASSIFICAÇÃO:API CF, VISCOSIDADE:SAE 40"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "481744",
+    "description": " ÓLEO LUBRIFICANTE, USO:MÁQUINA DE CORTE E VINCO, TIPO:MINERAL, CLASSIFICAÇÃO:API CF, VISCOSIDADE:SAE 40"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "482948",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:PARA ENGRENAGENS SEM FIM INDUSTRIAL, TIPO:SINTÉTICO, CLASSIFICAÇÃO:DIN 51517 (CLP), VISCOSIDADE:SA WE 150"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "482948",
+    "description": " ÓLEO LUBRIFICANTE, USO:PARA ENGRENAGENS SEM FIM INDUSTRIAL, TIPO:SINTÉTICO, CLASSIFICAÇÃO:DIN 51517 (CLP), VISCOSIDADE:SA WE 150"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "485814",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SN, VISCOSIDADE:SAE 10W-30"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "485814",
+    "description": " ÓLEO LUBRIFICANTE, USO:AUTOMOTIVO, TIPO:SEMISSINTÉTICO, CLASSIFICAÇÃO:API SN, VISCOSIDADE:SAE 10W-30"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "601386",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:COMPRESSOR, TIPO:SINTÉTICO, CLASSIFICAÇÃO:DIN 51519, VISCOSIDADE:ISO VG 46"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "601386",
+    "description": " ÓLEO LUBRIFICANTE, USO:COMPRESSOR, TIPO:SINTÉTICO, CLASSIFICAÇÃO:DIN 51519, VISCOSIDADE:ISO VG 46"
   },
   {
-    "grupo": "91",
-    "classe": "9150",
-    "padrao": "19742",
-    "codigo": "603969",
-    "descricao": " ÓLEO LUBRIFICANTE, USO:EMPILHADEIRA, TIPO:MINERAL, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:SAE W40"
+    "group": "91",
+    "class": "9150",
+    "standard": "19742",
+    "code": "603969",
+    "description": " ÓLEO LUBRIFICANTE, USO:EMPILHADEIRA, TIPO:MINERAL, CLASSIFICAÇÃO:MULTIUSO, VISCOSIDADE:SAE W40"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "681",
-    "codigo": "215028",
-    "descricao": " CERA, TIPO:CERA CENTRIFUGADA, ORIGEM:CERA OLHO - PÓ OLHO, PONTO FUSÃO:81 - 86 ¿ C, UMIDADE:0,80% MAX, ÍNDICE SAPONIFICAÇÃO:68 - 88 MG KOH/G, ÍNDICE ACIDEZ:4 - 10 MG NAOH/G, CINZAS:1% MAX, COR:PRETO"
+    "group": "91",
+    "class": "9160",
+    "standard": "681",
+    "code": "215028",
+    "description": " CERA, TIPO:CERA CENTRIFUGADA, ORIGEM:CERA OLHO - PÓ OLHO, PONTO FUSÃO:81 - 86 ¿ C, UMIDADE:0,80% MAX, ÍNDICE SAPONIFICAÇÃO:68 - 88 MG KOH/G, ÍNDICE ACIDEZ:4 - 10 MG NAOH/G, CINZAS:1% MAX, COR:PRETO"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "681",
-    "codigo": "234847",
-    "descricao": " CERA, TIPO:LÍQUIDA, ORIGEM:CERAS NATURAIS, COMPOSIÇÃO:RESINA NATURAL ALCALINIZADA/PERFUME/CORANTE/ÁGUA, CARACTERÍSTICAS ADICIONAIS:ACRÍLICA, APLICAÇÃO:PISOS CERÂMICOS, GRANITOS, MÁRMORE E PAVIFLEX"
+    "group": "91",
+    "class": "9160",
+    "standard": "681",
+    "code": "234847",
+    "description": " CERA, TIPO:LÍQUIDA, ORIGEM:CERAS NATURAIS, COMPOSIÇÃO:RESINA NATURAL ALCALINIZADA/PERFUME/CORANTE/ÁGUA, CARACTERÍSTICAS ADICIONAIS:ACRÍLICA, APLICAÇÃO:PISOS CERÂMICOS, GRANITOS, MÁRMORE E PAVIFLEX"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "681",
-    "codigo": "234874",
-    "descricao": " CERA, TIPO:LÍQUIDA OU PASTOSA, COMPOSIÇÃO:PARAFINA,CERA DE POLIMENTO,ÓLEO VEGETAL HIDROGENA-, APLICAÇÃO:ASSOALHO MADEIRA"
+    "group": "91",
+    "class": "9160",
+    "standard": "681",
+    "code": "234874",
+    "description": " CERA, TIPO:LÍQUIDA OU PASTOSA, COMPOSIÇÃO:PARAFINA,CERA DE POLIMENTO,ÓLEO VEGETAL HIDROGENA-, APLICAÇÃO:ASSOALHO MADEIRA"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "681",
-    "codigo": "245704",
-    "descricao": " CERA, TIPO:LÍQUIDA, COMPOSIÇÃO:EMULSÃO CERAS, RESINA ALCALI-SOLÚVEL, RESINA ACRÍ-, CARACTERÍSTICAS ADICIONAIS:TINGIR E DAR BRILHO, APLICAÇÃO:PISOS ESCUROS, TAPETES E BORRACHAS AUTOMOTIVAS"
+    "group": "91",
+    "class": "9160",
+    "standard": "681",
+    "code": "245704",
+    "description": " CERA, TIPO:LÍQUIDA, COMPOSIÇÃO:EMULSÃO CERAS, RESINA ALCALI-SOLÚVEL, RESINA ACRÍ-, CARACTERÍSTICAS ADICIONAIS:TINGIR E DAR BRILHO, APLICAÇÃO:PISOS ESCUROS, TAPETES E BORRACHAS AUTOMOTIVAS"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "681",
-    "codigo": "264685",
-    "descricao": " CERA, TIPO:PASTOSA, COMPOSIÇÃO:EMULSÃO CERAS, RESINA ALCALI-SOLÚVEL, RESINA ACRÍ-, CARACTERÍSTICAS ADICIONAIS:DAR BRILHO LATERIA, APLICAÇÃO:AUTOMÓVEL"
+    "group": "91",
+    "class": "9160",
+    "standard": "681",
+    "code": "264685",
+    "description": " CERA, TIPO:PASTOSA, COMPOSIÇÃO:EMULSÃO CERAS, RESINA ALCALI-SOLÚVEL, RESINA ACRÍ-, CARACTERÍSTICAS ADICIONAIS:DAR BRILHO LATERIA, APLICAÇÃO:AUTOMÓVEL"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "681",
-    "codigo": "264686",
-    "descricao": " CERA, TIPO:LÍQUIDA, COMPOSIÇÃO:EMULSÃO CERAS, RESINA ALCALI-SOLÚVEL, RESINA ACRÍ-, CARACTERÍSTICAS ADICIONAIS:DAR BRILHO LATERIA, APLICAÇÃO:AUTOMÓVEL"
+    "group": "91",
+    "class": "9160",
+    "standard": "681",
+    "code": "264686",
+    "description": " CERA, TIPO:LÍQUIDA, COMPOSIÇÃO:EMULSÃO CERAS, RESINA ALCALI-SOLÚVEL, RESINA ACRÍ-, CARACTERÍSTICAS ADICIONAIS:DAR BRILHO LATERIA, APLICAÇÃO:AUTOMÓVEL"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "681",
-    "codigo": "292576",
-    "descricao": " CERA, TIPO:LÍQUIDA, COMPOSIÇÃO:A BASE DE ÁGUA, CARACTERÍSTICAS ADICIONAIS:ANTIDERRAPANTE, IMPERMEABILIZANTE E RESISTENTE AO, APLICAÇÃO:LIMPEZA DE PISOS"
+    "group": "91",
+    "class": "9160",
+    "standard": "681",
+    "code": "292576",
+    "description": " CERA, TIPO:LÍQUIDA, COMPOSIÇÃO:A BASE DE ÁGUA, CARACTERÍSTICAS ADICIONAIS:ANTIDERRAPANTE, IMPERMEABILIZANTE E RESISTENTE AO, APLICAÇÃO:LIMPEZA DE PISOS"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "681",
-    "codigo": "292577",
-    "descricao": " CERA, TIPO:LÍQUIDA, COMPOSIÇÃO:A BASE DE RESINA METALIZADA, CARACTERÍSTICAS ADICIONAIS:IMPERMEÁVEL METALIZADO, AUTO-BRILHANTE, APLICAÇÃO:PISOS LAVÁVEIS REVESTIDOS POR PLÁSTICOS, BORRACHA,"
+    "group": "91",
+    "class": "9160",
+    "standard": "681",
+    "code": "292577",
+    "description": " CERA, TIPO:LÍQUIDA, COMPOSIÇÃO:A BASE DE RESINA METALIZADA, CARACTERÍSTICAS ADICIONAIS:IMPERMEÁVEL METALIZADO, AUTO-BRILHANTE, APLICAÇÃO:PISOS LAVÁVEIS REVESTIDOS POR PLÁSTICOS, BORRACHA,"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "681",
-    "codigo": "292586",
-    "descricao": " CERA, TIPO:LÍQUIDA, COR:INCOLOR LEITOSO, COMPOSIÇÃO:A BASE DE ÁGUA, CARNAÚBA E RESINAS METALIZADAS, CARACTERÍSTICAS ADICIONAIS:ANTIDERRAPANTE, IMPERMEABILIZANTE, APLICAÇÃO:LIMPEZA DE PISOS"
+    "group": "91",
+    "class": "9160",
+    "standard": "681",
+    "code": "292586",
+    "description": " CERA, TIPO:LÍQUIDA, COR:INCOLOR LEITOSO, COMPOSIÇÃO:A BASE DE ÁGUA, CARNAÚBA E RESINAS METALIZADAS, CARACTERÍSTICAS ADICIONAIS:ANTIDERRAPANTE, IMPERMEABILIZANTE, APLICAÇÃO:LIMPEZA DE PISOS"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "681",
-    "codigo": "293179",
-    "descricao": " CERA, TIPO:LÍQUIDA, COR:AMARELA, COMPOSIÇÃO:PARAFINA,CERA DE POLIMENTO,ÓLEO VEGETAL HIDROGENA-, CARACTERÍSTICAS ADICIONAIS:FRASCO C/ ALÇA, TAMPA DOSADORA, VAL. MIN. 18 MESES, APLICAÇÃO:LIMPEZA DE PISOS"
+    "group": "91",
+    "class": "9160",
+    "standard": "681",
+    "code": "293179",
+    "description": " CERA, TIPO:LÍQUIDA, COR:AMARELA, COMPOSIÇÃO:PARAFINA,CERA DE POLIMENTO,ÓLEO VEGETAL HIDROGENA-, CARACTERÍSTICAS ADICIONAIS:FRASCO C/ ALÇA, TAMPA DOSADORA, VAL. MIN. 18 MESES, APLICAÇÃO:LIMPEZA DE PISOS"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "681",
-    "codigo": "293181",
-    "descricao": " CERA, TIPO:LÍQUIDA, COR:INCOLOR LEITOSO, COMPOSIÇÃO:PARAFINA,CERA DE POLIMENTO,ÓLEO VEGETAL HIDROGENA-, CARACTERÍSTICAS ADICIONAIS:ANTIDERRAPANTE, FRASCO C/ ALÇA, TAMPA DOSADORA, VA, APLICAÇÃO:LIMPEZA DE PISOS"
+    "group": "91",
+    "class": "9160",
+    "standard": "681",
+    "code": "293181",
+    "description": " CERA, TIPO:LÍQUIDA, COR:INCOLOR LEITOSO, COMPOSIÇÃO:PARAFINA,CERA DE POLIMENTO,ÓLEO VEGETAL HIDROGENA-, CARACTERÍSTICAS ADICIONAIS:ANTIDERRAPANTE, FRASCO C/ ALÇA, TAMPA DOSADORA, VA, APLICAÇÃO:LIMPEZA DE PISOS"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "681",
-    "codigo": "302869",
-    "descricao": " CERA, TIPO:PASTOSA, COMPOSIÇÃO:PARAFINA, CERA DE CARNAÚBA, SILICONE, SILICATO  DE, APLICAÇÃO:AUTOMÓVEL"
+    "group": "91",
+    "class": "9160",
+    "standard": "681",
+    "code": "302869",
+    "description": " CERA, TIPO:PASTOSA, COMPOSIÇÃO:PARAFINA, CERA DE CARNAÚBA, SILICONE, SILICATO  DE, APLICAÇÃO:AUTOMÓVEL"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "681",
-    "codigo": "327952",
-    "descricao": " CERA, TIPO:LÍQUIDA, COMPOSIÇÃO:EMULSÃO CERAS, RESINA ALCALI-SOLÚVEL, RESINA ACRÍ-, APLICAÇÃO:PISOS E SUPERFÍCIES ESCURAS"
+    "group": "91",
+    "class": "9160",
+    "standard": "681",
+    "code": "327952",
+    "description": " CERA, TIPO:LÍQUIDA, COMPOSIÇÃO:EMULSÃO CERAS, RESINA ALCALI-SOLÚVEL, RESINA ACRÍ-, APLICAÇÃO:PISOS E SUPERFÍCIES ESCURAS"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "681",
-    "codigo": "351157",
-    "descricao": " CERA, TIPO:LÍQUIDA, COR:INCOLOR, COMPOSIÇÃO:DISPERSÕES ACRÍLICAS, RESINA FUMÁTICA, COADJUVANTE, CARACTERÍSTICAS ADICIONAIS:AUTOBRILHO, APLICAÇÃO:MADEIRA"
+    "group": "91",
+    "class": "9160",
+    "standard": "681",
+    "code": "351157",
+    "description": " CERA, TIPO:LÍQUIDA, COR:INCOLOR, COMPOSIÇÃO:DISPERSÕES ACRÍLICAS, RESINA FUMÁTICA, COADJUVANTE, CARACTERÍSTICAS ADICIONAIS:AUTOBRILHO, APLICAÇÃO:MADEIRA"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "681",
-    "codigo": "356286",
-    "descricao": " CERA, TIPO:LÍQUIDA, COR:PRETO"
+    "group": "91",
+    "class": "9160",
+    "standard": "681",
+    "code": "356286",
+    "description": " CERA, TIPO:LÍQUIDA, COR:PRETO"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "681",
-    "codigo": "402986",
-    "descricao": " CERA, TIPO:PASTOSA, COR:INCOLOR LEITOSO, COMPOSIÇÃO:CERA CARNAÚBA E POLI-TETRAFLUOR-ETILENO (TEFLON), CARACTERÍSTICAS ADICIONAIS:DILUÍVEL, PULVERIZAR VEÍCULO LAVADO, APLICAÇÃO:AUTOMÓVEL"
+    "group": "91",
+    "class": "9160",
+    "standard": "681",
+    "code": "402986",
+    "description": " CERA, TIPO:PASTOSA, COR:INCOLOR LEITOSO, COMPOSIÇÃO:CERA CARNAÚBA E POLI-TETRAFLUOR-ETILENO (TEFLON), CARACTERÍSTICAS ADICIONAIS:DILUÍVEL, PULVERIZAR VEÍCULO LAVADO, APLICAÇÃO:AUTOMÓVEL"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "681",
-    "codigo": "436730",
-    "descricao": " CERA, TIPO:PASTOSA, COR:BRANCA, COMPOSIÇÃO:DERIVADOS DE PETRÓLEO, CARACTERÍSTICAS ADICIONAIS:SEMI-SINTÉTICA"
+    "group": "91",
+    "class": "9160",
+    "standard": "681",
+    "code": "436730",
+    "description": " CERA, TIPO:PASTOSA, COR:BRANCA, COMPOSIÇÃO:DERIVADOS DE PETRÓLEO, CARACTERÍSTICAS ADICIONAIS:SEMI-SINTÉTICA"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "681",
-    "codigo": "456534",
-    "descricao": " CERA, TIPO:LÍQUIDA, COR:BRANCA, CARACTERÍSTICAS ADICIONAIS:AUTOBRILHO, RESISTENTE E ANTIESTÁTICO, APLICAÇÃO:TRATAMENTO DE PISOS"
+    "group": "91",
+    "class": "9160",
+    "standard": "681",
+    "code": "456534",
+    "description": " CERA, TIPO:LÍQUIDA, COR:BRANCA, CARACTERÍSTICAS ADICIONAIS:AUTOBRILHO, RESISTENTE E ANTIESTÁTICO, APLICAÇÃO:TRATAMENTO DE PISOS"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "682",
-    "codigo": "215582",
-    "descricao": " CERA ABELHA, TIPO:CERA BRUTA, APLICAÇÃO:COSMÉTICOS, COR:NATURAL"
+    "group": "91",
+    "class": "9160",
+    "standard": "682",
+    "code": "215582",
+    "description": " CERA ABELHA, TIPO:CERA BRUTA, APLICAÇÃO:COSMÉTICOS, COR:NATURAL"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "682",
-    "codigo": "215583",
-    "descricao": " CERA ABELHA, TIPO:CERA BRUTA, APLICAÇÃO:FARMACÉUTICA, COR:NATURAL"
+    "group": "91",
+    "class": "9160",
+    "standard": "682",
+    "code": "215583",
+    "description": " CERA ABELHA, TIPO:CERA BRUTA, APLICAÇÃO:FARMACÉUTICA, COR:NATURAL"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "682",
-    "codigo": "215584",
-    "descricao": " CERA ABELHA, TIPO:CERA BRUTA, APLICAÇÃO:ODONTOLÓGICA, COR:NATURAL"
+    "group": "91",
+    "class": "9160",
+    "standard": "682",
+    "code": "215584",
+    "description": " CERA ABELHA, TIPO:CERA BRUTA, APLICAÇÃO:ODONTOLÓGICA, COR:NATURAL"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "682",
-    "codigo": "215585",
-    "descricao": " CERA ABELHA, TIPO:CERA BRUTA, APLICAÇÃO:APICULTURA, COR:NATURAL"
+    "group": "91",
+    "class": "9160",
+    "standard": "682",
+    "code": "215585",
+    "description": " CERA ABELHA, TIPO:CERA BRUTA, APLICAÇÃO:APICULTURA, COR:NATURAL"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "682",
-    "codigo": "215586",
-    "descricao": " CERA ABELHA, TIPO:CERA BRUTA, APLICAÇÃO:VELA, COR:NATURAL"
+    "group": "91",
+    "class": "9160",
+    "standard": "682",
+    "code": "215586",
+    "description": " CERA ABELHA, TIPO:CERA BRUTA, APLICAÇÃO:VELA, COR:NATURAL"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "682",
-    "codigo": "215588",
-    "descricao": " CERA ABELHA, TIPO:CERA BRANQUEADA, APLICAÇÃO:FARMACÉUTICA, COR:NATURAL"
+    "group": "91",
+    "class": "9160",
+    "standard": "682",
+    "code": "215588",
+    "description": " CERA ABELHA, TIPO:CERA BRANQUEADA, APLICAÇÃO:FARMACÉUTICA, COR:NATURAL"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "682",
-    "codigo": "215589",
-    "descricao": " CERA ABELHA, TIPO:CERA BRANQUEADA, APLICAÇÃO:ODONTOLÓGICA, COR:NATURAL"
+    "group": "91",
+    "class": "9160",
+    "standard": "682",
+    "code": "215589",
+    "description": " CERA ABELHA, TIPO:CERA BRANQUEADA, APLICAÇÃO:ODONTOLÓGICA, COR:NATURAL"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "682",
-    "codigo": "215590",
-    "descricao": " CERA ABELHA, TIPO:CERA ALVEOLADA, APLICAÇÃO:APICULTURA, COR:NATURAL"
+    "group": "91",
+    "class": "9160",
+    "standard": "682",
+    "code": "215590",
+    "description": " CERA ABELHA, TIPO:CERA ALVEOLADA, APLICAÇÃO:APICULTURA, COR:NATURAL"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "682",
-    "codigo": "261571",
-    "descricao": " CERA ABELHA, TIPO:MASSA SÓLIDA, APLICAÇÃO:FARMACÉUTICA, COR:AMARELA, ODOR:AROMÁTICO AGRADÁVEL, PONTO FUSÃO:62 A 66¿C, CARACTERÍSTICA ADICIONAIS:INSOLÚVEL EM ÁGUA E SOLÚVEL A ÉTER E CLOROFÓRMIO"
+    "group": "91",
+    "class": "9160",
+    "standard": "682",
+    "code": "261571",
+    "description": " CERA ABELHA, TIPO:MASSA SÓLIDA, APLICAÇÃO:FARMACÉUTICA, COR:AMARELA, ODOR:AROMÁTICO AGRADÁVEL, PONTO FUSÃO:62 A 66¿C, CARACTERÍSTICA ADICIONAIS:INSOLÚVEL EM ÁGUA E SOLÚVEL A ÉTER E CLOROFÓRMIO"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "682",
-    "codigo": "279886",
-    "descricao": " CERA ABELHA, TIPO:CERA BRANQUEADA, APLICAÇÃO:FARMACÉUTICA, COR:BRANCA, ODOR:AROMÁTICO AGRADÁVEL (ODOR DE MEL), PONTO FUSÃO:54 A 56¿C, CARACTERÍSTICAS ADICIONAIS:INSOLÚVEL EM ÁGUA, SOLÚVEL EM XILOL"
+    "group": "91",
+    "class": "9160",
+    "standard": "682",
+    "code": "279886",
+    "description": " CERA ABELHA, TIPO:CERA BRANQUEADA, APLICAÇÃO:FARMACÉUTICA, COR:BRANCA, ODOR:AROMÁTICO AGRADÁVEL (ODOR DE MEL), PONTO FUSÃO:54 A 56¿C, CARACTERÍSTICAS ADICIONAIS:INSOLÚVEL EM ÁGUA, SOLÚVEL EM XILOL"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "10177",
-    "codigo": "244051",
-    "descricao": " ÓLEO COCO, COMPONENTE BÁSICO:COCO DESIDRATADO, ASPECTO FÍSICO:PASTOSO, COR:AMARELA, APLICAÇÃO:INDUSTRIAL"
+    "group": "91",
+    "class": "9160",
+    "standard": "10177",
+    "code": "244051",
+    "description": " ÓLEO COCO, COMPONENTE BÁSICO:COCO DESIDRATADO, ASPECTO FÍSICO:PASTOSO, COR:AMARELA, APLICAÇÃO:INDUSTRIAL"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "10178",
-    "codigo": "307513",
-    "descricao": " ÓLEO DE PEROBA, COMPOSIÇÃO:SOLVENTES MINERAL E VEGETAL COM AROMATIZANTE, ASPECTO FÍSICO:LÍQUIDO OLEOGINOSO, AROMA:MADEIRA NATURAL, APLICAÇÃO:LIMPEZA, LUSTRO E RENOVAÇÃO DE MÓVEIS DE MADEIRA"
+    "group": "91",
+    "class": "9160",
+    "standard": "10178",
+    "code": "307513",
+    "description": " ÓLEO DE PEROBA, COMPOSIÇÃO:SOLVENTES MINERAL E VEGETAL COM AROMATIZANTE, ASPECTO FÍSICO:LÍQUIDO OLEOGINOSO, AROMA:MADEIRA NATURAL, APLICAÇÃO:LIMPEZA, LUSTRO E RENOVAÇÃO DE MÓVEIS DE MADEIRA"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "15748",
-    "codigo": "245781",
-    "descricao": " CERA  SEMI-SINTÉTICA, ORIGEM:PETRÓLEO, APRESENTAÇÃO:ESCAMAS, TIPO USO:DETERMINAR BRILHO DO VERNIZ, APLICAÇÃO:RESTAURAÇÃO OBRAS DE ARTE, CARACTERÍSTICAS ADICIONAIS:MICROCRISTALINA"
+    "group": "91",
+    "class": "9160",
+    "standard": "15748",
+    "code": "245781",
+    "description": " CERA  SEMI-SINTÉTICA, ORIGEM:PETRÓLEO, APRESENTAÇÃO:ESCAMAS, TIPO USO:DETERMINAR BRILHO DO VERNIZ, APLICAÇÃO:RESTAURAÇÃO OBRAS DE ARTE, CARACTERÍSTICAS ADICIONAIS:MICROCRISTALINA"
   },
   {
-    "grupo": "91",
-    "classe": "9160",
-    "padrao": "15748",
-    "codigo": "429912",
-    "descricao": " CERA  SEMI-SINTÉTICA, ORIGEM:VEGETAL, APRESENTAÇÃO:PASTOSA, APLICAÇÃO:RESTAURAÇÃO OBRAS DE ARTE, CARACTERÍSTICAS ADICIONAIS:MICROCRISTALINA"
+    "group": "91",
+    "class": "9160",
+    "standard": "15748",
+    "code": "429912",
+    "description": " CERA  SEMI-SINTÉTICA, ORIGEM:VEGETAL, APRESENTAÇÃO:PASTOSA, APLICAÇÃO:RESTAURAÇÃO OBRAS DE ARTE, CARACTERÍSTICAS ADICIONAIS:MICROCRISTALINA"
   }
 ]

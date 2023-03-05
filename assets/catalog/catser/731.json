@@ -1,104 +1,104 @@
 [
   {
-    "grupo": "731",
-    "classe": "'-7",
-    "codigo": "4090",
-    "descricao": "LOCACAO DE MAQUINAS DE ESCREVER E CALCULAR"
+    "group": "731",
+    "class": "'-7",
+    "code": "4090",
+    "description": "LOCACAO DE MAQUINAS DE ESCREVER E CALCULAR"
   },
   {
-    "grupo": "731",
-    "classe": "'-7",
-    "codigo": "17990",
-    "descricao": "LOCACAO EQUIPAMENTOS DE IMPRESSAO"
+    "group": "731",
+    "class": "'-7",
+    "code": "17990",
+    "description": "LOCACAO EQUIPAMENTOS DE IMPRESSAO"
   },
   {
-    "grupo": "731",
-    "classe": "'-7",
-    "codigo": "18228",
-    "descricao": "LOCACAO DE EQUIPAMENTO - CONDICIONAMENTO FISICO"
+    "group": "731",
+    "class": "'-7",
+    "code": "18228",
+    "description": "LOCACAO DE EQUIPAMENTO - CONDICIONAMENTO FISICO"
   },
   {
-    "grupo": "731",
-    "classe": "'-7",
-    "codigo": "20818",
-    "descricao": "LOCACAO APARELHO AR CONDICIONADO"
+    "group": "731",
+    "class": "'-7",
+    "code": "20818",
+    "description": "LOCACAO APARELHO AR CONDICIONADO"
   },
   {
-    "grupo": "731",
-    "classe": "7312",
-    "codigo": "12556",
-    "descricao": "LOCACAO DE EQUIPAMENTO AUDIOVISUAL / SOM / VIDEO / FILMAGEM"
+    "group": "731",
+    "class": "7312",
+    "code": "12556",
+    "description": "LOCACAO DE EQUIPAMENTO AUDIOVISUAL / SOM / VIDEO / FILMAGEM"
   },
   {
-    "grupo": "731",
-    "classe": "7312",
-    "codigo": "15750",
-    "descricao": "INFORMATICA - LOCACAO EQUIPAMENTOS"
+    "group": "731",
+    "class": "7312",
+    "code": "15750",
+    "description": "INFORMATICA - LOCACAO EQUIPAMENTOS"
   },
   {
-    "grupo": "731",
-    "classe": "7312",
-    "codigo": "20222",
-    "descricao": "LOCACAO EQUIPAMENTO / INSTRUMENTO / PECA / COMPONENTE - MEDICO / ODONTOLOGICO / OFTALMOLOGICO"
+    "group": "731",
+    "class": "7312",
+    "code": "20222",
+    "description": "LOCACAO EQUIPAMENTO / INSTRUMENTO / PECA / COMPONENTE - MEDICO / ODONTOLOGICO / OFTALMOLOGICO"
   },
   {
-    "grupo": "731",
-    "classe": "7312",
-    "codigo": "20885",
-    "descricao": "LOCACAO ACUMULADOR ELETRICO"
+    "group": "731",
+    "class": "7312",
+    "code": "20885",
+    "description": "LOCACAO ACUMULADOR ELETRICO"
   },
   {
-    "grupo": "731",
-    "classe": "7312",
-    "codigo": "21490",
-    "descricao": "LOCACAO EQUIPAMENTO - TRADUCAO SIMULTANEA / SONORIZACAO"
+    "group": "731",
+    "class": "7312",
+    "code": "21490",
+    "description": "LOCACAO EQUIPAMENTO - TRADUCAO SIMULTANEA / SONORIZACAO"
   },
   {
-    "grupo": "731",
-    "classe": "7312",
-    "codigo": "21679",
-    "descricao": "LOCACAO GERADOR ELETRICO"
+    "group": "731",
+    "class": "7312",
+    "code": "21679",
+    "description": "LOCACAO GERADOR ELETRICO"
   },
   {
-    "grupo": "731",
-    "classe": "7312",
-    "codigo": "21733",
-    "descricao": "LOCACAO/MANUTENCAO MAQUINA VENDA AUTOMATICA"
+    "group": "731",
+    "class": "7312",
+    "code": "21733",
+    "description": "LOCACAO/MANUTENCAO MAQUINA VENDA AUTOMATICA"
   },
   {
-    "grupo": "731",
-    "classe": "7312",
-    "codigo": "21962",
-    "descricao": "LOCACAO TRANSFORMADOR ENERGIA"
+    "group": "731",
+    "class": "7312",
+    "code": "21962",
+    "description": "LOCACAO TRANSFORMADOR ENERGIA"
   },
   {
-    "grupo": "731",
-    "classe": "7312",
-    "codigo": "22233",
-    "descricao": "LOCACAO DE ENERGIA ININTERRUPTA (NOBREAK)"
+    "group": "731",
+    "class": "7312",
+    "code": "22233",
+    "description": "LOCACAO DE ENERGIA ININTERRUPTA (NOBREAK)"
   },
   {
-    "grupo": "731",
-    "classe": "7312",
-    "codigo": "22829",
-    "descricao": "LOCACAO / MANUTENCAO MAQUINA HEMODIALISE"
+    "group": "731",
+    "class": "7312",
+    "code": "22829",
+    "description": "LOCACAO / MANUTENCAO MAQUINA HEMODIALISE"
   },
   {
-    "grupo": "731",
-    "classe": "7312",
-    "codigo": "23019",
-    "descricao": "LOCACAO APARELHO TRANSMISSAO/RECEPCAO MENSAGENS"
+    "group": "731",
+    "class": "7312",
+    "code": "23019",
+    "description": "LOCACAO APARELHO TRANSMISSAO/RECEPCAO MENSAGENS"
   },
   {
-    "grupo": "731",
-    "classe": "7312",
-    "codigo": "24589",
-    "descricao": "LOCACAO SONDA PERFURACAO E PRODUCAO"
+    "group": "731",
+    "class": "7312",
+    "code": "24589",
+    "description": "LOCACAO SONDA PERFURACAO E PRODUCAO"
   },
   {
-    "grupo": "731",
-    "classe": "7312",
-    "codigo": "24600",
-    "descricao": "LOCACAO SONDAS E PLATAFORMAS - TRANSHIPMENT"
+    "group": "731",
+    "class": "7312",
+    "code": "24600",
+    "description": "LOCACAO SONDAS E PLATAFORMAS - TRANSHIPMENT"
   }
 ]

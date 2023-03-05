@@ -1,12 +1,8 @@
 {
   "rules": {
-    ".read": "auth != null",
-    ".write": "auth != null",
-    "orders": {
-      ".indexOn": [
-        "sendDate",
-        "arrivalDate"
-      ]
+    "archive": {
+      ".read": "auth.uid != null",
+      ".write": false
     }
   }
 }

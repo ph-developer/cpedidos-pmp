@@ -1,32 +1,32 @@
 [
   {
-    "grupo": "173",
-    "classe": "1731",
-    "codigo": "21148",
-    "descricao": "CONSULTORIA E ASSESSORIA - TECNOLOGIA INFORMACAO"
+    "group": "173",
+    "class": "1731",
+    "code": "21148",
+    "description": "CONSULTORIA E ASSESSORIA - TECNOLOGIA INFORMACAO"
   },
   {
-    "grupo": "173",
-    "classe": "1731",
-    "codigo": "21644",
-    "descricao": "CONSULTORIA E ASSESSORIA - INTERNET"
+    "group": "173",
+    "class": "1731",
+    "code": "21644",
+    "description": "CONSULTORIA E ASSESSORIA - INTERNET"
   },
   {
-    "grupo": "173",
-    "classe": "1731",
-    "codigo": "21652",
-    "descricao": "CONSULTORIA E ASSESSORIA - TELEINFORMATICA"
+    "group": "173",
+    "class": "1731",
+    "code": "21652",
+    "description": "CONSULTORIA E ASSESSORIA - TELEINFORMATICA"
   },
   {
-    "grupo": "173",
-    "classe": "1731",
-    "codigo": "27332",
-    "descricao": "SERVICOS DE CONSULTORIA EM TECNOLOGIA DA INFORMACAO E COMUNICACAO (TIC)"
+    "group": "173",
+    "class": "1731",
+    "code": "27332",
+    "description": "SERVICOS DE CONSULTORIA EM TECNOLOGIA DA INFORMACAO E COMUNICACAO (TIC)"
   },
   {
-    "grupo": "173",
-    "classe": "1731",
-    "codigo": "27340",
-    "descricao": "SERVICOS DE CONSULTORIA EM  SEGURANCA DE TECNOLOGIA DA INFORMACAO E COMUNICACAO (TIC)"
+    "group": "173",
+    "class": "1731",
+    "code": "27340",
+    "description": "SERVICOS DE CONSULTORIA EM  SEGURANCA DE TECNOLOGIA DA INFORMACAO E COMUNICACAO (TIC)"
   }
 ]

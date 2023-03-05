@@ -1,14 +1,14 @@
 [
   {
-    "grupo": "641",
-    "classe": "'-7",
-    "codigo": "4391",
-    "descricao": "TRANSPORTE RODOVIARIO - PESSOAL POR COLETIVOS (AUXILIO TRANSPORTE )"
+    "group": "641",
+    "class": "'-7",
+    "code": "4391",
+    "description": "TRANSPORTE RODOVIARIO - PESSOAL POR COLETIVOS (AUXILIO TRANSPORTE )"
   },
   {
-    "grupo": "641",
-    "classe": "'-7",
-    "codigo": "16713",
-    "descricao": "TRANSPORTE DE CARGA - INTERNACIONAL"
+    "group": "641",
+    "class": "'-7",
+    "code": "16713",
+    "description": "TRANSPORTE DE CARGA - INTERNACIONAL"
   }
 ]

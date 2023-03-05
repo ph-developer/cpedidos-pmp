@@ -1,14 +1,14 @@
 [
   {
-    "grupo": "715",
-    "classe": "'-7",
-    "codigo": "15385",
-    "descricao": "CONFERENCIA / ENVELOPAMENTO / PAGAMENTO DE VALORES"
+    "group": "715",
+    "class": "'-7",
+    "code": "15385",
+    "description": "CONFERENCIA / ENVELOPAMENTO / PAGAMENTO DE VALORES"
   },
   {
-    "grupo": "715",
-    "classe": "7155",
-    "codigo": "24724",
-    "descricao": "INVESTIMENTO COLIGADA/CONTROLADA"
+    "group": "715",
+    "class": "7155",
+    "code": "24724",
+    "description": "INVESTIMENTO COLIGADA/CONTROLADA"
   }
 ]

@@ -1,20 +1,20 @@
 [
   {
-    "grupo": "174",
-    "classe": "1741",
-    "codigo": "27359",
-    "descricao": "SERVICOS DE  PROJETO DE  REDES DE TECNOLOGIA DA INFORMACAO ECOMUNICACAO (TIC)"
+    "group": "174",
+    "class": "1741",
+    "code": "27359",
+    "description": "SERVICOS DE  PROJETO DE  REDES DE TECNOLOGIA DA INFORMACAO ECOMUNICACAO (TIC)"
   },
   {
-    "grupo": "174",
-    "classe": "1741",
-    "codigo": "27367",
-    "descricao": "SERVICOS DE PROJETO DE TOPOGRAFIAS DE CIRCUITOS INTEGRADOS"
+    "group": "174",
+    "class": "1741",
+    "code": "27367",
+    "description": "SERVICOS DE PROJETO DE TOPOGRAFIAS DE CIRCUITOS INTEGRADOS"
   },
   {
-    "grupo": "174",
-    "classe": "1741",
-    "codigo": "27375",
-    "descricao": "SERVICOS DE PROJETO DE CIRCUITOS INTEGRADOS"
+    "group": "174",
+    "class": "1741",
+    "code": "27375",
+    "description": "SERVICOS DE PROJETO DE CIRCUITOS INTEGRADOS"
   }
 ]

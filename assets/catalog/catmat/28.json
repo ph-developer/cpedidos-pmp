@@ -1,492 +1,492 @@
 [
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "3611",
-    "codigo": "468401",
-    "descricao": " BLOCO DE MOTOR A GASOLINA, REFERÊNCIA:7086917, APLICAÇÃO:VEÍCULO FIAT DOBLO: ATRACTIVE MOTOR: 1.4, 8V, FLEX"
+    "group": "28",
+    "class": "2805",
+    "standard": "3611",
+    "code": "468401",
+    "description": " BLOCO DE MOTOR A GASOLINA, REFERÊNCIA:7086917, APLICAÇÃO:VEÍCULO FIAT DOBLO: ATRACTIVE MOTOR: 1.4, 8V, FLEX"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "3954",
-    "codigo": "265290",
-    "descricao": " BUJÃO ÓLEO ABASTECIMENTO, REFERÊNCIA:4N09/AA, APLICAÇÃO:VEÍCULO FORD F-1000, ANO 1997, USO:DIFERENCIAL"
+    "group": "28",
+    "class": "2805",
+    "standard": "3954",
+    "code": "265290",
+    "description": " BUJÃO ÓLEO ABASTECIMENTO, REFERÊNCIA:4N09/AA, APLICAÇÃO:VEÍCULO FORD F-1000, ANO 1997, USO:DIFERENCIAL"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "3954",
-    "codigo": "469116",
-    "descricao": " BUJÃO ÓLEO ABASTECIMENTO, REFERÊNCIA:14325311, APLICAÇÃO:FIAT DOBLO MODELO: ATRACTIVE, USO:DIFERENCIAL"
+    "group": "28",
+    "class": "2805",
+    "standard": "3954",
+    "code": "469116",
+    "description": " BUJÃO ÓLEO ABASTECIMENTO, REFERÊNCIA:14325311, APLICAÇÃO:FIAT DOBLO MODELO: ATRACTIVE, USO:DIFERENCIAL"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "4139",
-    "codigo": "442097",
-    "descricao": " CAIXA DIREÇÃO, TIPO:CAIXA DE DIREÇÃO, APLICAÇÃO:VEICULO FIAT FIORINO, ANO 2008"
+    "group": "28",
+    "class": "2805",
+    "standard": "4139",
+    "code": "442097",
+    "description": " CAIXA DIREÇÃO, TIPO:CAIXA DE DIREÇÃO, APLICAÇÃO:VEICULO FIAT FIORINO, ANO 2008"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "4139",
-    "codigo": "465773",
-    "descricao": " CAIXA DIREÇÃO, TIPO:CAIXA DE DIREÇÃO, APLICAÇÃO:VEÍCULO MBB SPRINTER 415 CDI ANO 2012/2013"
+    "group": "28",
+    "class": "2805",
+    "standard": "4139",
+    "code": "465773",
+    "description": " CAIXA DIREÇÃO, TIPO:CAIXA DE DIREÇÃO, APLICAÇÃO:VEÍCULO MBB SPRINTER 415 CDI ANO 2012/2013"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "4139",
-    "codigo": "465949",
-    "descricao": " CAIXA DIREÇÃO, APLICAÇÃO:VEÍCULO BLINDADO CASCAVEL, REFERÊNCIA:1805-030-417"
+    "group": "28",
+    "class": "2805",
+    "standard": "4139",
+    "code": "465949",
+    "description": " CAIXA DIREÇÃO, APLICAÇÃO:VEÍCULO BLINDADO CASCAVEL, REFERÊNCIA:1805-030-417"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "4139",
-    "codigo": "465950",
-    "descricao": " CAIXA DIREÇÃO, APLICAÇÃO:VEÍCULO BLINDADO URUTU, REFERÊNCIA:1805-030-514"
+    "group": "28",
+    "class": "2805",
+    "standard": "4139",
+    "code": "465950",
+    "description": " CAIXA DIREÇÃO, APLICAÇÃO:VEÍCULO BLINDADO URUTU, REFERÊNCIA:1805-030-514"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "4139",
-    "codigo": "469090",
-    "descricao": " CAIXA DIREÇÃO, APLICAÇÃO:VEICULO FIAT DOBLO ATRACTIVE MOTOR: 1.4, 8V, FLEX, REFERÊNCIA:51990939"
+    "group": "28",
+    "class": "2805",
+    "standard": "4139",
+    "code": "469090",
+    "description": " CAIXA DIREÇÃO, APLICAÇÃO:VEICULO FIAT DOBLO ATRACTIVE MOTOR: 1.4, 8V, FLEX, REFERÊNCIA:51990939"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "4139",
-    "codigo": "469091",
-    "descricao": " CAIXA DIREÇÃO, APLICAÇÃO:VEICULO FIAT DOBLO ATRACTIVE MOTOR: 1.4, 8V, FLEX, REFERÊNCIA:51933594"
+    "group": "28",
+    "class": "2805",
+    "standard": "4139",
+    "code": "469091",
+    "description": " CAIXA DIREÇÃO, APLICAÇÃO:VEICULO FIAT DOBLO ATRACTIVE MOTOR: 1.4, 8V, FLEX, REFERÊNCIA:51933594"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "4139",
-    "codigo": "478533",
-    "descricao": " CAIXA DIREÇÃO, TIPO:HIDRÁULICA, APLICAÇÃO:VEÍCULO VOLKSWAGEN WORKER 15.210, REFERÊNCIA:2SO/422053"
+    "group": "28",
+    "class": "2805",
+    "standard": "4139",
+    "code": "478533",
+    "description": " CAIXA DIREÇÃO, TIPO:HIDRÁULICA, APLICAÇÃO:VEÍCULO VOLKSWAGEN WORKER 15.210, REFERÊNCIA:2SO/422053"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "4664",
-    "codigo": "469421",
-    "descricao": " CARTER DE MOTOR A COMBUSTAO, APLICAÇÃO:FIAT DOBLO; ATRACTIVE; MOTOR: 1.4, 8V, FLEX"
+    "group": "28",
+    "class": "2805",
+    "standard": "4664",
+    "code": "469421",
+    "description": " CARTER DE MOTOR A COMBUSTAO, APLICAÇÃO:FIAT DOBLO; ATRACTIVE; MOTOR: 1.4, 8V, FLEX"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "5893",
-    "codigo": "245274",
-    "descricao": " CORREIA DENTADA TRANSMISSÃO, REFERÊNCIA:60662990, APLICAÇÃO:VEÍCULO MARCA FIAT, MODELO MAREA 1.8 16V, ANO 2001"
+    "group": "28",
+    "class": "2805",
+    "standard": "5893",
+    "code": "245274",
+    "description": " CORREIA DENTADA TRANSMISSÃO, REFERÊNCIA:60662990, APLICAÇÃO:VEÍCULO MARCA FIAT, MODELO MAREA 1.8 16V, ANO 2001"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "5893",
-    "codigo": "257150",
-    "descricao": " CORREIA DENTADA TRANSMISSÃO, REFERÊNCIA:CÓDIGO 90469582, APLICAÇÃO:VEÍCULO CHEVROLET BLAZER 2.2 MPFI ANO 1997/1998"
+    "group": "28",
+    "class": "2805",
+    "standard": "5893",
+    "code": "257150",
+    "description": " CORREIA DENTADA TRANSMISSÃO, REFERÊNCIA:CÓDIGO 90469582, APLICAÇÃO:VEÍCULO CHEVROLET BLAZER 2.2 MPFI ANO 1997/1998"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "5893",
-    "codigo": "285975",
-    "descricao": " CORREIA DENTADA TRANSMISSÃO, APLICAÇÃO:VEÍCULO GOL MI, ANO 1998"
+    "group": "28",
+    "class": "2805",
+    "standard": "5893",
+    "code": "285975",
+    "description": " CORREIA DENTADA TRANSMISSÃO, APLICAÇÃO:VEÍCULO GOL MI, ANO 1998"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "5893",
-    "codigo": "286448",
-    "descricao": " CORREIA DENTADA TRANSMISSÃO, APLICAÇÃO:VEÍCULO FORD RANGER XL, TURBO DIESEL"
+    "group": "28",
+    "class": "2805",
+    "standard": "5893",
+    "code": "286448",
+    "description": " CORREIA DENTADA TRANSMISSÃO, APLICAÇÃO:VEÍCULO FORD RANGER XL, TURBO DIESEL"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "5893",
-    "codigo": "297781",
-    "descricao": " CORREIA DENTADA TRANSMISSÃO, APLICAÇÃO:VEÍCULO CHEVROLET, MODELO S-10, ANO 2004"
+    "group": "28",
+    "class": "2805",
+    "standard": "5893",
+    "code": "297781",
+    "description": " CORREIA DENTADA TRANSMISSÃO, APLICAÇÃO:VEÍCULO CHEVROLET, MODELO S-10, ANO 2004"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "5893",
-    "codigo": "297889",
-    "descricao": " CORREIA DENTADA TRANSMISSÃO, APLICAÇÃO:VEÍCULO VOLKSWAGEN, MODELO SANTANA 1.8, ANO 2002"
+    "group": "28",
+    "class": "2805",
+    "standard": "5893",
+    "code": "297889",
+    "description": " CORREIA DENTADA TRANSMISSÃO, APLICAÇÃO:VEÍCULO VOLKSWAGEN, MODELO SANTANA 1.8, ANO 2002"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "5893",
-    "codigo": "312282",
-    "descricao": " CORREIA DENTADA TRANSMISSÃO, APLICAÇÃO:VEÍCULO MITSUBISHI, MODELO L-200 ANO 2003"
+    "group": "28",
+    "class": "2805",
+    "standard": "5893",
+    "code": "312282",
+    "description": " CORREIA DENTADA TRANSMISSÃO, APLICAÇÃO:VEÍCULO MITSUBISHI, MODELO L-200 ANO 2003"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "5893",
-    "codigo": "321564",
-    "descricao": " CORREIA DENTADA TRANSMISSÃO, APLICAÇÃO:VEÍCULO VOLKSWAGEM, MODELO KOMBI, ANO 1998"
+    "group": "28",
+    "class": "2805",
+    "standard": "5893",
+    "code": "321564",
+    "description": " CORREIA DENTADA TRANSMISSÃO, APLICAÇÃO:VEÍCULO VOLKSWAGEM, MODELO KOMBI, ANO 1998"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "5893",
-    "codigo": "325959",
-    "descricao": " CORREIA DENTADA TRANSMISSÃO, REFERÊNCIA:1356859106, APLICAÇÃO:VEÍCULO TOYOTA HILUX 3.0D 4 X 4, ANO 2003, CARACTERÍSTICAS ADICIONAIS:SINCRONIZADA"
+    "group": "28",
+    "class": "2805",
+    "standard": "5893",
+    "code": "325959",
+    "description": " CORREIA DENTADA TRANSMISSÃO, REFERÊNCIA:1356859106, APLICAÇÃO:VEÍCULO TOYOTA HILUX 3.0D 4 X 4, ANO 2003, CARACTERÍSTICAS ADICIONAIS:SINCRONIZADA"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "5893",
-    "codigo": "330938",
-    "descricao": " CORREIA DENTADA TRANSMISSÃO, APLICAÇÃO:VEÍCULO FIAT PÁLIO WEEKEND ANO 2002/2003, CARACTERÍSTICAS ADICIONAIS:SINCRONIZADA"
+    "group": "28",
+    "class": "2805",
+    "standard": "5893",
+    "code": "330938",
+    "description": " CORREIA DENTADA TRANSMISSÃO, APLICAÇÃO:VEÍCULO FIAT PÁLIO WEEKEND ANO 2002/2003, CARACTERÍSTICAS ADICIONAIS:SINCRONIZADA"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "5893",
-    "codigo": "345262",
-    "descricao": " CORREIA DENTADA TRANSMISSÃO, APLICAÇÃO:VEÍCULO FIAT UNO FLEX, MOTOR FIRE, ANO 2005"
+    "group": "28",
+    "class": "2805",
+    "standard": "5893",
+    "code": "345262",
+    "description": " CORREIA DENTADA TRANSMISSÃO, APLICAÇÃO:VEÍCULO FIAT UNO FLEX, MOTOR FIRE, ANO 2005"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "5893",
-    "codigo": "373640",
-    "descricao": " CORREIA DENTADA TRANSMISSÃO, REFERÊNCIA:99456477, APLICAÇÃO:VEÍCULO FIAT, MODELO DUCATO COMBINATO, ANO 2004, CARACTERÍSTICAS ADICIONAIS:VEÍCULO A DIESEL"
+    "group": "28",
+    "class": "2805",
+    "standard": "5893",
+    "code": "373640",
+    "description": " CORREIA DENTADA TRANSMISSÃO, REFERÊNCIA:99456477, APLICAÇÃO:VEÍCULO FIAT, MODELO DUCATO COMBINATO, ANO 2004, CARACTERÍSTICAS ADICIONAIS:VEÍCULO A DIESEL"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "5893",
-    "codigo": "470386",
-    "descricao": " CORREIA DENTADA TRANSMISSÃO, REFERÊNCIA:7088439, APLICAÇÃO:FIAT DOBLO; MODELO: ATRACTIVE; MOTOR: 1.4 8V.FLEX"
+    "group": "28",
+    "class": "2805",
+    "standard": "5893",
+    "code": "470386",
+    "description": " CORREIA DENTADA TRANSMISSÃO, REFERÊNCIA:7088439, APLICAÇÃO:FIAT DOBLO; MODELO: ATRACTIVE; MOTOR: 1.4 8V.FLEX"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "5893",
-    "codigo": "476502",
-    "descricao": " CORREIA DENTADA TRANSMISSÃO, REFERÊNCIA:6008.001.606.00.0, APLICAÇÃO:VEÍCULO AGRALE MARRUÁ 4X4 DIESEL"
+    "group": "28",
+    "class": "2805",
+    "standard": "5893",
+    "code": "476502",
+    "description": " CORREIA DENTADA TRANSMISSÃO, REFERÊNCIA:6008.001.606.00.0, APLICAÇÃO:VEÍCULO AGRALE MARRUÁ 4X4 DIESEL"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "5893",
-    "codigo": "603698",
-    "descricao": " CORREIA DENTADA TRANSMISSÃO, REFERÊNCIA:AT 10 840 25, APLICAÇÃO:MÁQUINAS INDUSTRIAIS"
+    "group": "28",
+    "class": "2805",
+    "standard": "5893",
+    "code": "603698",
+    "description": " CORREIA DENTADA TRANSMISSÃO, REFERÊNCIA:AT 10 840 25, APLICAÇÃO:MÁQUINAS INDUSTRIAIS"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "6430",
-    "codigo": "466157",
-    "descricao": " EIXO COMANDO VÁLVULA, REFERÊNCIA:2392-900-023, APLICAÇÃO:VEÍCULO BLINDADO URUTU / CASCAVEL"
+    "group": "28",
+    "class": "2805",
+    "standard": "6430",
+    "code": "466157",
+    "description": " EIXO COMANDO VÁLVULA, REFERÊNCIA:2392-900-023, APLICAÇÃO:VEÍCULO BLINDADO URUTU / CASCAVEL"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "6430",
-    "codigo": "466158",
-    "descricao": " EIXO COMANDO VÁLVULA, REFERÊNCIA:2391-900-461, APLICAÇÃO:VEÍCULO BLINDADO URUTU / CASCAVEL"
+    "group": "28",
+    "class": "2805",
+    "standard": "6430",
+    "code": "466158",
+    "description": " EIXO COMANDO VÁLVULA, REFERÊNCIA:2391-900-461, APLICAÇÃO:VEÍCULO BLINDADO URUTU / CASCAVEL"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "6430",
-    "codigo": "466159",
-    "descricao": " EIXO COMANDO VÁLVULA, REFERÊNCIA:2391-303-226, APLICAÇÃO:VEÍCULO BLINDADO URUTU / CASCAVEL"
+    "group": "28",
+    "class": "2805",
+    "standard": "6430",
+    "code": "466159",
+    "description": " EIXO COMANDO VÁLVULA, REFERÊNCIA:2391-303-226, APLICAÇÃO:VEÍCULO BLINDADO URUTU / CASCAVEL"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "6430",
-    "codigo": "466160",
-    "descricao": " EIXO COMANDO VÁLVULA, REFERÊNCIA:1711-120-196[, APLICAÇÃO:VEÍCULO BLINDADO URUTU / CASCAVEL"
+    "group": "28",
+    "class": "2805",
+    "standard": "6430",
+    "code": "466160",
+    "description": " EIXO COMANDO VÁLVULA, REFERÊNCIA:1711-120-196[, APLICAÇÃO:VEÍCULO BLINDADO URUTU / CASCAVEL"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "6430",
-    "codigo": "466161",
-    "descricao": " EIXO COMANDO VÁLVULA, REFERÊNCIA:2393-900-353[, APLICAÇÃO:VEÍCULO BLINDADO URUTU / CASCAVEL"
+    "group": "28",
+    "class": "2805",
+    "standard": "6430",
+    "code": "466161",
+    "description": " EIXO COMANDO VÁLVULA, REFERÊNCIA:2393-900-353[, APLICAÇÃO:VEÍCULO BLINDADO URUTU / CASCAVEL"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "6430",
-    "codigo": "469811",
-    "descricao": " EIXO COMANDO VÁLVULA, REFERÊNCIA:55216808, APLICAÇÃO:VEICULO, FIAT DOBLO; MODELO: ATRACTIVE"
+    "group": "28",
+    "class": "2805",
+    "standard": "6430",
+    "code": "469811",
+    "description": " EIXO COMANDO VÁLVULA, REFERÊNCIA:55216808, APLICAÇÃO:VEICULO, FIAT DOBLO; MODELO: ATRACTIVE"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "9960",
-    "codigo": "603107",
-    "descricao": " MOTOR DE EXPLOSAO A GASOLINA EXCETO DE AERONAVE, POTÊNCIA:5,5 HP, TIPO:4 TEMPOS, TEMPO FUNCIONAMENTO:CONTÍNUO, 3.600 RPM, APLICAçãO:CASA FARINHA"
+    "group": "28",
+    "class": "2805",
+    "standard": "9960",
+    "code": "603107",
+    "description": " MOTOR DE EXPLOSAO A GASOLINA EXCETO DE AERONAVE, POTÊNCIA:5,5 HP, TIPO:4 TEMPOS, TEMPO FUNCIONAMENTO:CONTÍNUO, 3.600 RPM, APLICAçãO:CASA FARINHA"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "10788",
-    "codigo": "252837",
-    "descricao": " PISTÃO, USO:MOTOR DE POPA, REFERÊNCIA:G3P697 STD, APLICAÇÃO:MOTOR MERCURY DE 25 HP,MOD. M-97, ANO 1999"
+    "group": "28",
+    "class": "2805",
+    "standard": "10788",
+    "code": "252837",
+    "description": " PISTÃO, USO:MOTOR DE POPA, REFERÊNCIA:G3P697 STD, APLICAÇÃO:MOTOR MERCURY DE 25 HP,MOD. M-97, ANO 1999"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "10788",
-    "codigo": "374444",
-    "descricao": " PISTÃO, USO:ACELERADOR, APLICAÇÃO:CAMINHÃO MERCEDES BENS 914, TIPO:ORIGINAL"
+    "group": "28",
+    "class": "2805",
+    "standard": "10788",
+    "code": "374444",
+    "description": " PISTÃO, USO:ACELERADOR, APLICAÇÃO:CAMINHÃO MERCEDES BENS 914, TIPO:ORIGINAL"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "15395",
-    "codigo": "240387",
-    "descricao": " TUBO NÍVEL ÓLEO, MATERIAL:VIDRO, DIÂMETRO:5/8 POL, COMPRIMENTO:2000 MM, APLICAÇÃO:VISUALIZAR NÍVEL ÓLEO CALDEIRA"
+    "group": "28",
+    "class": "2805",
+    "standard": "15395",
+    "code": "240387",
+    "description": " TUBO NÍVEL ÓLEO, MATERIAL:VIDRO, DIÂMETRO:5/8 POL, COMPRIMENTO:2000 MM, APLICAÇÃO:VISUALIZAR NÍVEL ÓLEO CALDEIRA"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "16609",
-    "codigo": "258049",
-    "descricao": " MOTOR POPA, TIPO:ELÉTRICO, POTÊNCIA:115 HP, APLICAÇÃO:LANCHA, CARACTERÍSTICAS ADICIONAIS:04 TEMPOS, COMBUSTÍVEL:GASOLINA"
+    "group": "28",
+    "class": "2805",
+    "standard": "16609",
+    "code": "258049",
+    "description": " MOTOR POPA, TIPO:ELÉTRICO, POTÊNCIA:115 HP, APLICAÇÃO:LANCHA, CARACTERÍSTICAS ADICIONAIS:04 TEMPOS, COMBUSTÍVEL:GASOLINA"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "16609",
-    "codigo": "272880",
-    "descricao": " MOTOR POPA, TIPO:RABETA, POTÊNCIA:5 HP, CARACTERÍSTICAS ADICIONAIS:SISTEMA PARTIDA MANUAL, CARBURADOR, SISTEMA DE PRO, QUANTIDADE CILINDRO:1 UN, CAPACIDADE TANQUE:2,5 L"
+    "group": "28",
+    "class": "2805",
+    "standard": "16609",
+    "code": "272880",
+    "description": " MOTOR POPA, TIPO:RABETA, POTÊNCIA:5 HP, CARACTERÍSTICAS ADICIONAIS:SISTEMA PARTIDA MANUAL, CARBURADOR, SISTEMA DE PRO, QUANTIDADE CILINDRO:1 UN, CAPACIDADE TANQUE:2,5 L"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "16609",
-    "codigo": "272882",
-    "descricao": " MOTOR POPA, TIPO:RABETA, POTÊNCIA:8 HP, CARACTERÍSTICAS ADICIONAIS:SISTEMA DE PARTIDA MANUAL, SISTEMA DIREÇÃO TIPO MA, QUANTIDADE CILINDRO:2 UN, CAPACIDADE TANQUE:2,5 L"
+    "group": "28",
+    "class": "2805",
+    "standard": "16609",
+    "code": "272882",
+    "description": " MOTOR POPA, TIPO:RABETA, POTÊNCIA:8 HP, CARACTERÍSTICAS ADICIONAIS:SISTEMA DE PARTIDA MANUAL, SISTEMA DIREÇÃO TIPO MA, QUANTIDADE CILINDRO:2 UN, CAPACIDADE TANQUE:2,5 L"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "16609",
-    "codigo": "273144",
-    "descricao": " MOTOR POPA, TIPO:PARTIDA MANUAL, POTÊNCIA:25 HP, CARACTERÍSTICAS ADICIONAIS:SISTEMA PROTEÇÃO PROPULSÃO: AMORTECEDORA BORRACHA, QUANTIDADE CILINDRO:2 UN, CAPACIDADE TANQUE:MÍNIMA DE 25 L, TIPO MOTOR:2 TEMPOS"
+    "group": "28",
+    "class": "2805",
+    "standard": "16609",
+    "code": "273144",
+    "description": " MOTOR POPA, TIPO:PARTIDA MANUAL, POTÊNCIA:25 HP, CARACTERÍSTICAS ADICIONAIS:SISTEMA PROTEÇÃO PROPULSÃO: AMORTECEDORA BORRACHA, QUANTIDADE CILINDRO:2 UN, CAPACIDADE TANQUE:MÍNIMA DE 25 L, TIPO MOTOR:2 TEMPOS"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "16609",
-    "codigo": "273145",
-    "descricao": " MOTOR POPA, TIPO:PARTIDA MANUAL, POTÊNCIA:15 HP, CARACTERÍSTICAS ADICIONAIS:SISTEMA PROTEÇÃO PROPULSÃO: AMORTECEDORA BORRACHA, QUANTIDADE CILINDRO:2 UN, CAPACIDADE TANQUE:MÍNIMA DE 25 L, TIPO MOTOR:2 TEMPOS"
+    "group": "28",
+    "class": "2805",
+    "standard": "16609",
+    "code": "273145",
+    "description": " MOTOR POPA, TIPO:PARTIDA MANUAL, POTÊNCIA:15 HP, CARACTERÍSTICAS ADICIONAIS:SISTEMA PROTEÇÃO PROPULSÃO: AMORTECEDORA BORRACHA, QUANTIDADE CILINDRO:2 UN, CAPACIDADE TANQUE:MÍNIMA DE 25 L, TIPO MOTOR:2 TEMPOS"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "16609",
-    "codigo": "275015",
-    "descricao": " MOTOR POPA, TIPO:RABETA, POTÊNCIA:5 HP, CARACTERÍSTICAS ADICIONAIS:SISTEMA PARTIDA MANUAL, CARBURADOR, SISTEMA DE PRO, QUANTIDADE CILINDRO:1 UN, CAPACIDADE TANQUE:MÍNIMO 2,5 L"
+    "group": "28",
+    "class": "2805",
+    "standard": "16609",
+    "code": "275015",
+    "description": " MOTOR POPA, TIPO:RABETA, POTÊNCIA:5 HP, CARACTERÍSTICAS ADICIONAIS:SISTEMA PARTIDA MANUAL, CARBURADOR, SISTEMA DE PRO, QUANTIDADE CILINDRO:1 UN, CAPACIDADE TANQUE:MÍNIMO 2,5 L"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "16609",
-    "codigo": "297025",
-    "descricao": " MOTOR POPA, TIPO:PARTIDA MANUAL, POTÊNCIA:25 HP, APLICAÇÃO:BOTE, CARACTERÍSTICAS ADICIONAIS:SISTEMA PROTEÇÃO PROPULSÃO, AMORTECEDORA BORRACHA,, COMBUSTÍVEL:GASOLINA, CAPACIDADE TANQUE:25 L, TIPO MOTOR:2 TEMPOS"
+    "group": "28",
+    "class": "2805",
+    "standard": "16609",
+    "code": "297025",
+    "description": " MOTOR POPA, TIPO:PARTIDA MANUAL, POTÊNCIA:25 HP, APLICAÇÃO:BOTE, CARACTERÍSTICAS ADICIONAIS:SISTEMA PROTEÇÃO PROPULSÃO, AMORTECEDORA BORRACHA,, COMBUSTÍVEL:GASOLINA, CAPACIDADE TANQUE:25 L, TIPO MOTOR:2 TEMPOS"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "16609",
-    "codigo": "301283",
-    "descricao": " MOTOR POPA, TIPO:ELÉTRICO, POTÊNCIA:60 HP, APLICAÇÃO:EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS:SISTEMA POWER TRIM/LUBRIFICAÇÃO CÁRTER ÚMIDO E SEN, COMBUSTÍVEL:GASOLINA, QUANTIDADE CILINDRO:3 UN, CAPACIDADE TANQUE:24 L, TIPO MOTOR:4 TEMPOS, SISTEMA DIREÇÃO:CAIXA COMANDO, VELOCIDADE:5.000 A 6.000 RPM"
+    "group": "28",
+    "class": "2805",
+    "standard": "16609",
+    "code": "301283",
+    "description": " MOTOR POPA, TIPO:ELÉTRICO, POTÊNCIA:60 HP, APLICAÇÃO:EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS:SISTEMA POWER TRIM/LUBRIFICAÇÃO CÁRTER ÚMIDO E SEN, COMBUSTÍVEL:GASOLINA, QUANTIDADE CILINDRO:3 UN, CAPACIDADE TANQUE:24 L, TIPO MOTOR:4 TEMPOS, SISTEMA DIREÇÃO:CAIXA COMANDO, VELOCIDADE:5.000 A 6.000 RPM"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "16609",
-    "codigo": "323789",
-    "descricao": " MOTOR POPA, TIPO:PARTIDA MANUAL, POTÊNCIA:25 HP, APLICAÇÃO:EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS:PESO APROX 65KG, ALTURA RABETA 423MM, TRANSFÊNCIA, COMBUSTÍVEL:GASOLINA, QUANTIDADE CILINDRO:2 UN, CAPACIDADE TANQUE:24 L, TIPO MOTOR:4 TEMPOS, SISTEMA DIREÇÃO:BRAÇO COMANDO, VELOCIDADE:5.000 A 6.000 RPM"
+    "group": "28",
+    "class": "2805",
+    "standard": "16609",
+    "code": "323789",
+    "description": " MOTOR POPA, TIPO:PARTIDA MANUAL, POTÊNCIA:25 HP, APLICAÇÃO:EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS:PESO APROX 65KG, ALTURA RABETA 423MM, TRANSFÊNCIA, COMBUSTÍVEL:GASOLINA, QUANTIDADE CILINDRO:2 UN, CAPACIDADE TANQUE:24 L, TIPO MOTOR:4 TEMPOS, SISTEMA DIREÇÃO:BRAÇO COMANDO, VELOCIDADE:5.000 A 6.000 RPM"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "16609",
-    "codigo": "325110",
-    "descricao": " MOTOR POPA, TIPO:PARTIDA MANUAL, POTÊNCIA:15 HP, APLICAÇÃO:BARCO ALUMÍNIO, CARACTERÍSTICAS ADICIONAIS:VÁLVULAS AUTOMÁTICAS DESCOMPRESSÃO, REFRIGERADO A, QUANTIDADE MARCHAS:2 UN, QUANTIDADE CILINDRO:2 UN, CAPACIDADE TANQUE:23 L, TIPO MOTOR:2 TEMPOS, VELOCIDADE:4.500 A 5.800 RPM"
+    "group": "28",
+    "class": "2805",
+    "standard": "16609",
+    "code": "325110",
+    "description": " MOTOR POPA, TIPO:PARTIDA MANUAL, POTÊNCIA:15 HP, APLICAÇÃO:BARCO ALUMÍNIO, CARACTERÍSTICAS ADICIONAIS:VÁLVULAS AUTOMÁTICAS DESCOMPRESSÃO, REFRIGERADO A, QUANTIDADE MARCHAS:2 UN, QUANTIDADE CILINDRO:2 UN, CAPACIDADE TANQUE:23 L, TIPO MOTOR:2 TEMPOS, VELOCIDADE:4.500 A 5.800 RPM"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "16609",
-    "codigo": "347488",
-    "descricao": " MOTOR POPA, TIPO:PARTIDA MANUAL, POTÊNCIA:40 HP, APLICAÇÃO:BOTE, CARACTERÍSTICAS ADICIONAIS:SISTEMA DE IGNIÇÃO MANUAL, COMBUSTÍVEL:GASOLINA, CAPACIDADE TANQUE:24 L, TIPO MOTOR:2 TEMPOS"
+    "group": "28",
+    "class": "2805",
+    "standard": "16609",
+    "code": "347488",
+    "description": " MOTOR POPA, TIPO:PARTIDA MANUAL, POTÊNCIA:40 HP, APLICAÇÃO:BOTE, CARACTERÍSTICAS ADICIONAIS:SISTEMA DE IGNIÇÃO MANUAL, COMBUSTÍVEL:GASOLINA, CAPACIDADE TANQUE:24 L, TIPO MOTOR:2 TEMPOS"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "16609",
-    "codigo": "357753",
-    "descricao": " MOTOR POPA, TIPO:PARTIDA ELÉTRICA, POTÊNCIA:60 HP, APLICAÇÃO:EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS:849 CM3, FLUXO DIRECIONADO, 3 CARBURADORES, COMBUSTÍVEL:GASOLINA, TIPO MOTOR:2 TEMPOS, SISTEMA DIREÇÃO:CAIXA COMANDO, VELOCIDADE:4.500 A 5.500 RPM"
+    "group": "28",
+    "class": "2805",
+    "standard": "16609",
+    "code": "357753",
+    "description": " MOTOR POPA, TIPO:PARTIDA ELÉTRICA, POTÊNCIA:60 HP, APLICAÇÃO:EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS:849 CM3, FLUXO DIRECIONADO, 3 CARBURADORES, COMBUSTÍVEL:GASOLINA, TIPO MOTOR:2 TEMPOS, SISTEMA DIREÇÃO:CAIXA COMANDO, VELOCIDADE:4.500 A 5.500 RPM"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "16609",
-    "codigo": "378758",
-    "descricao": " MOTOR POPA, TIPO:RABETA, POTÊNCIA:13 HP, CARACTERÍSTICAS ADICIONAIS:SISTEMA DE PARTIDA MANUAL, SISTEMA DIREÇÃO TIPO MA, QUANTIDADE CILINDRO:2 UN, CAPACIDADE TANQUE:2,5 L"
+    "group": "28",
+    "class": "2805",
+    "standard": "16609",
+    "code": "378758",
+    "description": " MOTOR POPA, TIPO:RABETA, POTÊNCIA:13 HP, CARACTERÍSTICAS ADICIONAIS:SISTEMA DE PARTIDA MANUAL, SISTEMA DIREÇÃO TIPO MA, QUANTIDADE CILINDRO:2 UN, CAPACIDADE TANQUE:2,5 L"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "16609",
-    "codigo": "392683",
-    "descricao": " MOTOR POPA, TIPO:PARTIDA ELÉTRICA, POTÊNCIA:90 HP, CARACTERÍSTICAS ADICIONAIS:DIÂMETRO CURSO 79X81,4/TAXA COMPRESSÃO 8,9, COMBUSTÍVEL:GASOLINA, QUANTIDADE CILINDRO:4 UN, TIPO MOTOR:4 TEMPOS, SISTEMA DIREÇÃO:MANETE, VELOCIDADE:5.000 A 6.000 RPM"
+    "group": "28",
+    "class": "2805",
+    "standard": "16609",
+    "code": "392683",
+    "description": " MOTOR POPA, TIPO:PARTIDA ELÉTRICA, POTÊNCIA:90 HP, CARACTERÍSTICAS ADICIONAIS:DIÂMETRO CURSO 79X81,4/TAXA COMPRESSÃO 8,9, COMBUSTÍVEL:GASOLINA, QUANTIDADE CILINDRO:4 UN, TIPO MOTOR:4 TEMPOS, SISTEMA DIREÇÃO:MANETE, VELOCIDADE:5.000 A 6.000 RPM"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "16609",
-    "codigo": "407625",
-    "descricao": " MOTOR POPA, TIPO:PARTIDA MANUAL, POTÊNCIA:20 HP, APLICAÇÃO:LANCHA, CARACTERÍSTICAS ADICIONAIS:CARBURADOR, COMBUSTÍVEL:GASOLINA, QUANTIDADE MARCHAS:2 UN, QUANTIDADE CILINDRO:2 UN, TIPO MOTOR:4 TEMPOS, VELOCIDADE:4.000 A 5.000 RPM"
+    "group": "28",
+    "class": "2805",
+    "standard": "16609",
+    "code": "407625",
+    "description": " MOTOR POPA, TIPO:PARTIDA MANUAL, POTÊNCIA:20 HP, APLICAÇÃO:LANCHA, CARACTERÍSTICAS ADICIONAIS:CARBURADOR, COMBUSTÍVEL:GASOLINA, QUANTIDADE MARCHAS:2 UN, QUANTIDADE CILINDRO:2 UN, TIPO MOTOR:4 TEMPOS, VELOCIDADE:4.000 A 5.000 RPM"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "16609",
-    "codigo": "603108",
-    "descricao": " MOTOR POPA, TIPO:RABETA LONGA, POTÊNCIA:13 HP, APLICAÇÃO:EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS:SISTEMA DE PARTIDA MANUAL, COMBUSTÍVEL:GASOLINA, CAPACIDADE TANQUE:6,50 L, TIPO MOTOR:4 TEMPOS, SISTEMA DIREÇÃO:MANETE"
+    "group": "28",
+    "class": "2805",
+    "standard": "16609",
+    "code": "603108",
+    "description": " MOTOR POPA, TIPO:RABETA LONGA, POTÊNCIA:13 HP, APLICAÇÃO:EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS:SISTEMA DE PARTIDA MANUAL, COMBUSTÍVEL:GASOLINA, CAPACIDADE TANQUE:6,50 L, TIPO MOTOR:4 TEMPOS, SISTEMA DIREÇÃO:MANETE"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "17370",
-    "codigo": "354728",
-    "descricao": " RETENTOR EIXO HÉLICE, APLICAÇÃO:MOTOR DE POPA SUZUKI 30 HP, ANO 2000"
+    "group": "28",
+    "class": "2805",
+    "standard": "17370",
+    "code": "354728",
+    "description": " RETENTOR EIXO HÉLICE, APLICAÇÃO:MOTOR DE POPA SUZUKI 30 HP, ANO 2000"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "17371",
-    "codigo": "355547",
-    "descricao": " ROTOR BOMBA D'ÁGUA, APLICAÇÃO:MOTOR DE POPA YAMAHA 40 HP, ANO 2007"
+    "group": "28",
+    "class": "2805",
+    "standard": "17371",
+    "code": "355547",
+    "description": " ROTOR BOMBA D'ÁGUA, APLICAÇÃO:MOTOR DE POPA YAMAHA 40 HP, ANO 2007"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "17371",
-    "codigo": "603206",
-    "descricao": " ROTOR BOMBA D'ÁGUA, USO:BOMBA D'ÁGUA, APLICAÇÃO:MOTOR JOHNSON ENVIRUDE"
+    "group": "28",
+    "class": "2805",
+    "standard": "17371",
+    "code": "603206",
+    "description": " ROTOR BOMBA D'ÁGUA, USO:BOMBA D'ÁGUA, APLICAÇÃO:MOTOR JOHNSON ENVIRUDE"
   },
   {
-    "grupo": "28",
-    "classe": "2805",
-    "padrao": "17726",
-    "codigo": "324613",
-    "descricao": " ROLETE DE BIELA, USO:MOTOR DE POPA, REFERÊNCIA:31-43012A1, APLICAÇÃO:MOTOR MERCURY MARINER 115HP, SÉRIE OT-131776, ANO"
+    "group": "28",
+    "class": "2805",
+    "standard": "17726",
+    "code": "324613",
+    "description": " ROLETE DE BIELA, USO:MOTOR DE POPA, REFERÊNCIA:31-43012A1, APLICAÇÃO:MOTOR MERCURY MARINER 115HP, SÉRIE OT-131776, ANO"
   },
   {
-    "grupo": "28",
-    "classe": "2815",
-    "padrao": "2500",
-    "codigo": "252800",
-    "descricao": " ANEL DE SEGMENTO, USO:MOTOR DE POPA, APLICAÇÃO:MOTOR MERCURY DE 25 HP,MOD. M-97, ANO 1999"
+    "group": "28",
+    "class": "2815",
+    "standard": "2500",
+    "code": "252800",
+    "description": " ANEL DE SEGMENTO, USO:MOTOR DE POPA, APLICAÇÃO:MOTOR MERCURY DE 25 HP,MOD. M-97, ANO 1999"
   },
   {
-    "grupo": "28",
-    "classe": "2815",
-    "padrao": "3543",
-    "codigo": "293742",
-    "descricao": " BIELA MOTOR A DIESEL, APLICAÇÃO:VEÍCULO TOYOTA HILUX, ANO 1998"
+    "group": "28",
+    "class": "2815",
+    "standard": "3543",
+    "code": "293742",
+    "description": " BIELA MOTOR A DIESEL, APLICAÇÃO:VEÍCULO TOYOTA HILUX, ANO 1998"
   },
   {
-    "grupo": "28",
-    "classe": "2815",
-    "padrao": "3610",
-    "codigo": "465806",
-    "descricao": " BLOCO DE MOTOR A DIESEL, TIPO:COMPRESSOR 77MM, APLICAÇÃO:VEÍCULO BLINDADO CASCAVEL / URUTU, REFERÊNCIA:2680-200-478"
+    "group": "28",
+    "class": "2815",
+    "standard": "3610",
+    "code": "465806",
+    "description": " BLOCO DE MOTOR A DIESEL, TIPO:COMPRESSOR 77MM, APLICAÇÃO:VEÍCULO BLINDADO CASCAVEL / URUTU, REFERÊNCIA:2680-200-478"
   },
   {
-    "grupo": "28",
-    "classe": "2815",
-    "padrao": "3610",
-    "codigo": "465807",
-    "descricao": " BLOCO DE MOTOR A DIESEL, TIPO:COMPRESSOR 94MM, APLICAÇÃO:VEÍCULO BLINDADO CASCAVEL / URUTU, REFERÊNCIA:5106-016-943"
+    "group": "28",
+    "class": "2815",
+    "standard": "3610",
+    "code": "465807",
+    "description": " BLOCO DE MOTOR A DIESEL, TIPO:COMPRESSOR 94MM, APLICAÇÃO:VEÍCULO BLINDADO CASCAVEL / URUTU, REFERÊNCIA:5106-016-943"
   },
   {
-    "grupo": "28",
-    "classe": "2815",
-    "padrao": "3990",
-    "codigo": "308439",
-    "descricao": " COMPRESSOR CONDICIONADOR AR, REFERÊNCIA FABRICANTE:0K72B61450 (KIA MOTORS), APLICAÇÃO:VEÍCULO KIA MOTORS, MOD BESTA GS GRAND, ANO 2004"
+    "group": "28",
+    "class": "2815",
+    "standard": "3990",
+    "code": "308439",
+    "description": " COMPRESSOR CONDICIONADOR AR, REFERÊNCIA FABRICANTE:0K72B61450 (KIA MOTORS), APLICAÇÃO:VEÍCULO KIA MOTORS, MOD BESTA GS GRAND, ANO 2004"
   },
   {
-    "grupo": "28",
-    "classe": "2815",
-    "padrao": "3990",
-    "codigo": "469910",
-    "descricao": " COMPRESSOR CONDICIONADOR AR, REFERÊNCIA FABRICANTE:REFERENCIA: 51837810, APLICAÇÃO:FIAT DOBLO; ATRACTIVE:MOTOR: 1.4, 8V, FLEX"
+    "group": "28",
+    "class": "2815",
+    "standard": "3990",
+    "code": "469910",
+    "description": " COMPRESSOR CONDICIONADOR AR, REFERÊNCIA FABRICANTE:REFERENCIA: 51837810, APLICAÇÃO:FIAT DOBLO; ATRACTIVE:MOTOR: 1.4, 8V, FLEX"
   },
   {
-    "grupo": "28",
-    "classe": "2815",
-    "padrao": "9964",
-    "codigo": "600386",
-    "descricao": " MOTOR DE POPA, POTÊNCIA:40 HP, TIPO MOTOR:2 TEMPOS, CAPACIDADE TANQUE:25 L, SISTEMA PARTIDA:ELÉTRICA, CILINDRADA:196 CC, CARACTERíSTICAS ADICIONAIS:COMANDO A DISTÂNCIA"
+    "group": "28",
+    "class": "2815",
+    "standard": "9964",
+    "code": "600386",
+    "description": " MOTOR DE POPA, POTÊNCIA:40 HP, TIPO MOTOR:2 TEMPOS, CAPACIDADE TANQUE:25 L, SISTEMA PARTIDA:ELÉTRICA, CILINDRADA:196 CC, CARACTERíSTICAS ADICIONAIS:COMANDO A DISTÂNCIA"
   },
   {
-    "grupo": "28",
-    "classe": "2815",
-    "padrao": "13477",
-    "codigo": "396769",
-    "descricao": " VOLANTE MOTOR, REFERÊNCIA:123106S310, APLICAÇÃO:VEÍCULO NISSAN FRONTIER ANO 2006/2007"
+    "group": "28",
+    "class": "2815",
+    "standard": "13477",
+    "code": "396769",
+    "description": " VOLANTE MOTOR, REFERÊNCIA:123106S310, APLICAÇÃO:VEÍCULO NISSAN FRONTIER ANO 2006/2007"
   },
   {
-    "grupo": "28",
-    "classe": "2815",
-    "padrao": "13477",
-    "codigo": "475898",
-    "descricao": " VOLANTE MOTOR, REFERÊNCIA:ERR 719, APLICAÇÃO:VEÍCULO LAND ROVER DEFENDER 4X4 DIESEL"
+    "group": "28",
+    "class": "2815",
+    "standard": "13477",
+    "code": "475898",
+    "description": " VOLANTE MOTOR, REFERÊNCIA:ERR 719, APLICAÇÃO:VEÍCULO LAND ROVER DEFENDER 4X4 DIESEL"
   },
   {
-    "grupo": "28",
-    "classe": "2815",
-    "padrao": "16812",
-    "codigo": "308368",
-    "descricao": " TURBINA MOTOR, REFERÊNCIA FABRICANTE:MR355222 (MITSUBISHI), APLICAÇÃO:MITSUBISHI, L200 GL, 4X4, 4CC, MMC, ANO 2004/2005"
+    "group": "28",
+    "class": "2815",
+    "standard": "16812",
+    "code": "308368",
+    "description": " TURBINA MOTOR, REFERÊNCIA FABRICANTE:MR355222 (MITSUBISHI), APLICAÇÃO:MITSUBISHI, L200 GL, 4X4, 4CC, MMC, ANO 2004/2005"
   },
   {
-    "grupo": "28",
-    "classe": "2815",
-    "padrao": "16812",
-    "codigo": "468751",
-    "descricao": " TURBINA MOTOR, REFERÊNCIA FABRICANTE:2240-400-041, APLICAÇÃO:VEICULO BLINDADO CASCAVEL"
+    "group": "28",
+    "class": "2815",
+    "standard": "16812",
+    "code": "468751",
+    "description": " TURBINA MOTOR, REFERÊNCIA FABRICANTE:2240-400-041, APLICAÇÃO:VEICULO BLINDADO CASCAVEL"
   },
   {
-    "grupo": "28",
-    "classe": "2815",
-    "padrao": "16812",
-    "codigo": "469017",
-    "descricao": " TURBINA MOTOR, REFERÊNCIA FABRICANTE:2682-003-203, APLICAÇÃO:VEÍCULO BLINDADO URUTU/CASCAVEL"
+    "group": "28",
+    "class": "2815",
+    "standard": "16812",
+    "code": "469017",
+    "description": " TURBINA MOTOR, REFERÊNCIA FABRICANTE:2682-003-203, APLICAÇÃO:VEÍCULO BLINDADO URUTU/CASCAVEL"
   },
   {
-    "grupo": "28",
-    "classe": "2815",
-    "padrao": "17889",
-    "codigo": "603111",
-    "descricao": " MOTOR DIESEL, POTÊNCIA:7 CV, TIPO:VERTICAL, CARACTERÍSTICAS ADICIONAIS:REFRIGERADO A AR, PARTIDA RETRÁTIL, TIPO MOTOR:4 TEMPOS, QUANTIDADE CILINDRO:1 UN"
+    "group": "28",
+    "class": "2815",
+    "standard": "17889",
+    "code": "603111",
+    "description": " MOTOR DIESEL, POTÊNCIA:7 CV, TIPO:VERTICAL, CARACTERÍSTICAS ADICIONAIS:REFRIGERADO A AR, PARTIDA RETRÁTIL, TIPO MOTOR:4 TEMPOS, QUANTIDADE CILINDRO:1 UN"
   },
   {
-    "grupo": "28",
-    "classe": "2895",
-    "padrao": "4696",
-    "codigo": "49085",
-    "descricao": " CATA - VENTO, CATA - VENTO"
+    "group": "28",
+    "class": "2895",
+    "standard": "4696",
+    "code": "49085",
+    "description": " CATA - VENTO, CATA - VENTO"
   }
 ]

@@ -1,68 +1,68 @@
 [
   {
-    "grupo": "949",
-    "classe": "'-7",
-    "codigo": "13196",
-    "descricao": "RECUPERACAO DE ECOSSISTEMA AGREDIDO"
+    "group": "949",
+    "class": "'-7",
+    "code": "13196",
+    "description": "RECUPERACAO DE ECOSSISTEMA AGREDIDO"
   },
   {
-    "grupo": "949",
-    "classe": "'-7",
-    "codigo": "15547",
-    "descricao": "CONTROLE DE ZOONOSE"
+    "group": "949",
+    "class": "'-7",
+    "code": "15547",
+    "description": "CONTROLE DE ZOONOSE"
   },
   {
-    "grupo": "949",
-    "classe": "'-7",
-    "codigo": "16500",
-    "descricao": "CONTROLE MICROBIOLOGICO / QUALIDADE DO AR"
+    "group": "949",
+    "class": "'-7",
+    "code": "16500",
+    "description": "CONTROLE MICROBIOLOGICO / QUALIDADE DO AR"
   },
   {
-    "grupo": "949",
-    "classe": "'-7",
-    "codigo": "16730",
-    "descricao": "MEIO AMBIENTE / RECURSOS NATURAIS RENOVAVEIS -  EXECUCAO  DEPOLITICA NACIONAL"
+    "group": "949",
+    "class": "'-7",
+    "code": "16730",
+    "description": "MEIO AMBIENTE / RECURSOS NATURAIS RENOVAVEIS -  EXECUCAO  DEPOLITICA NACIONAL"
   },
   {
-    "grupo": "949",
-    "classe": "'-7",
-    "codigo": "19895",
-    "descricao": "ESTUDOS E PROJETOS PRESERVACAO / EXTRACAO / TRATAMENTO / SE-CAGEM MADEIRA"
+    "group": "949",
+    "class": "'-7",
+    "code": "19895",
+    "description": "ESTUDOS E PROJETOS PRESERVACAO / EXTRACAO / TRATAMENTO / SE-CAGEM MADEIRA"
   },
   {
-    "grupo": "949",
-    "classe": "'-7",
-    "codigo": "21423",
-    "descricao": "PLANO GERENCIAMENTO RESIDUOS SOLIDOS"
+    "group": "949",
+    "class": "'-7",
+    "code": "21423",
+    "description": "PLANO GERENCIAMENTO RESIDUOS SOLIDOS"
   },
   {
-    "grupo": "949",
-    "classe": "'-7",
-    "codigo": "21458",
-    "descricao": "ZONEAMENTO AMBIENTAL"
+    "group": "949",
+    "class": "'-7",
+    "code": "21458",
+    "description": "ZONEAMENTO AMBIENTAL"
   },
   {
-    "grupo": "949",
-    "classe": "'-7",
-    "codigo": "21466",
-    "descricao": "PLANO DE MANEJO"
+    "group": "949",
+    "class": "'-7",
+    "code": "21466",
+    "description": "PLANO DE MANEJO"
   },
   {
-    "grupo": "949",
-    "classe": "'-7",
-    "codigo": "21741",
-    "descricao": "DESINFESTACAO POR ATMOSFERA ANOXIA"
+    "group": "949",
+    "class": "'-7",
+    "code": "21741",
+    "description": "DESINFESTACAO POR ATMOSFERA ANOXIA"
   },
   {
-    "grupo": "949",
-    "classe": "'-7",
-    "codigo": "21881",
-    "descricao": "DESINFESTACAO / CONTROLE PASSAROS"
+    "group": "949",
+    "class": "'-7",
+    "code": "21881",
+    "description": "DESINFESTACAO / CONTROLE PASSAROS"
   },
   {
-    "grupo": "949",
-    "classe": "'-7",
-    "codigo": "22055",
-    "descricao": "SERVICO DE PROFILAXIA AMBIENTAL SEM PRODUTO QUIMICO"
+    "group": "949",
+    "class": "'-7",
+    "code": "22055",
+    "description": "SERVICO DE PROFILAXIA AMBIENTAL SEM PRODUTO QUIMICO"
   }
 ]

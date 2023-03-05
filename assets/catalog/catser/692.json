@@ -1,26 +1,26 @@
 [
   {
-    "grupo": "692",
-    "classe": "'-7",
-    "codigo": "4146",
-    "descricao": "FORNECIMENTO DE AGUA CANALIZADA"
+    "group": "692",
+    "class": "'-7",
+    "code": "4146",
+    "description": "FORNECIMENTO DE AGUA CANALIZADA"
   },
   {
-    "grupo": "692",
-    "classe": "'-7",
-    "codigo": "17299",
-    "descricao": "FORNECIMENTO / TRANSPORTE DE AGUA - CARRO PIPA"
+    "group": "692",
+    "class": "'-7",
+    "code": "17299",
+    "description": "FORNECIMENTO / TRANSPORTE DE AGUA - CARRO PIPA"
   },
   {
-    "grupo": "692",
-    "classe": "'-7",
-    "codigo": "22845",
-    "descricao": "FORNECIMENTO DE AGUA E COLETA DE ESGOTO SANITARIO"
+    "group": "692",
+    "class": "'-7",
+    "code": "22845",
+    "description": "FORNECIMENTO DE AGUA E COLETA DE ESGOTO SANITARIO"
   },
   {
-    "grupo": "692",
-    "classe": "6929",
-    "codigo": "27979",
-    "descricao": "SERVICO DE MONITORAMENTO DE ABASTECIMENTO DE ÁGUA"
+    "group": "692",
+    "class": "6929",
+    "code": "27979",
+    "description": "SERVICO DE MONITORAMENTO DE ABASTECIMENTO DE ÁGUA"
   }
 ]

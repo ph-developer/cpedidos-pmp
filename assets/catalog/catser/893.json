@@ -1,20 +1,20 @@
 [
   {
-    "grupo": "893",
-    "classe": "'-7",
-    "codigo": "3794",
-    "descricao": "BENEFICIAMENTO DE SUCATA"
+    "group": "893",
+    "class": "'-7",
+    "code": "3794",
+    "description": "BENEFICIAMENTO DE SUCATA"
   },
   {
-    "grupo": "893",
-    "classe": "'-7",
-    "codigo": "24805",
-    "descricao": "SERVICO DE AJUSTE E MONTAGEM DE PECAS E PRODUTOS"
+    "group": "893",
+    "class": "'-7",
+    "code": "24805",
+    "description": "SERVICO DE AJUSTE E MONTAGEM DE PECAS E PRODUTOS"
   },
   {
-    "grupo": "893",
-    "classe": "'-7",
-    "codigo": "24821",
-    "descricao": "SERVICO DE FUNDICAO"
+    "group": "893",
+    "class": "'-7",
+    "code": "24821",
+    "description": "SERVICO DE FUNDICAO"
   }
 ]

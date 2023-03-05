@@ -1,26 +1,26 @@
 [
   {
-    "grupo": "678",
-    "classe": "'-7",
-    "codigo": "3719",
-    "descricao": "PRESTACAO DE SERVICOS DE AGENCIAMENTO DE VIAGENS"
+    "group": "678",
+    "class": "'-7",
+    "code": "3719",
+    "description": "PRESTACAO DE SERVICOS DE AGENCIAMENTO DE VIAGENS"
   },
   {
-    "grupo": "678",
-    "classe": "6781",
-    "codigo": "24791",
-    "descricao": "FORNECIMENTO PASSAGEM FLUVIAL"
+    "group": "678",
+    "class": "6781",
+    "code": "24791",
+    "description": "FORNECIMENTO PASSAGEM FLUVIAL"
   },
   {
-    "grupo": "678",
-    "classe": "6782",
-    "codigo": "9920",
-    "descricao": "INFORMACAO SOBRE ROTEIRO TURISTICO NACIONAL E INTERNACIONAL"
+    "group": "678",
+    "class": "6782",
+    "code": "9920",
+    "description": "INFORMACAO SOBRE ROTEIRO TURISTICO NACIONAL E INTERNACIONAL"
   },
   {
-    "grupo": "678",
-    "classe": "6782",
-    "codigo": "9938",
-    "descricao": "INFORMACAO SOBRE EVENTOS SOCIAIS, ESPORTIVOS, CULTURAIS  NA-CIONAIS E INTERNACIONAIS"
+    "group": "678",
+    "class": "6782",
+    "code": "9938",
+    "description": "INFORMACAO SOBRE EVENTOS SOCIAIS, ESPORTIVOS, CULTURAIS  NA-CIONAIS E INTERNACIONAIS"
   }
 ]

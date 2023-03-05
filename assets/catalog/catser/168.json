@@ -1,20 +1,20 @@
 [
   {
-    "grupo": "168",
-    "classe": "1681",
-    "codigo": "27260",
-    "descricao": "SERVICOS AUXILIARES DE TECNOLOGIA INFORMACAO E COMUNICACAO"
+    "group": "168",
+    "class": "1681",
+    "code": "27260",
+    "description": "SERVICOS AUXILIARES DE TECNOLOGIA INFORMACAO E COMUNICACAO"
   },
   {
-    "grupo": "168",
-    "classe": "1682",
-    "codigo": "27278",
-    "descricao": "SERVICOS DE DIGITALIZACAO / INDEXACAO DE DOCUMENTOS"
+    "group": "168",
+    "class": "1682",
+    "code": "27278",
+    "description": "SERVICOS DE DIGITALIZACAO / INDEXACAO DE DOCUMENTOS"
   },
   {
-    "grupo": "168",
-    "classe": "1682",
-    "codigo": "27286",
-    "descricao": "SERVICOS DE LEITURA OTICA / CONVERSAO DE ARQUIVOS DIGITAIS -OCR"
+    "group": "168",
+    "class": "1682",
+    "code": "27286",
+    "description": "SERVICOS DE LEITURA OTICA / CONVERSAO DE ARQUIVOS DIGITAIS -OCR"
   }
 ]

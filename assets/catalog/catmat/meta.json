@@ -1,6 +1,6 @@
 {
-  "data_extracao": "09/01/2023",
-  "arquivos": [
+  "extraction_date": "09/01/2023",
+  "files": [
     "10.json",
     "13.json",
     "15.json",
@@ -74,7 +74,7 @@
     "96.json",
     "99.json"
   ],
-  "grupos": {
+  "groups": {
     "10": "ARMAMENTO",
     "13": "MUNIÇÕES E EXPLOSIVOS",
     "15": "AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
@@ -598,7 +598,7 @@
     "9930": "EQUIPAMENTOS E ARTIGOS MORTUÁRIOS E DE CEMITÉRIO",
     "9999": "ITENS DIVERSOS"
   },
-  "padroes": {
+  "standards": {
     "1712": "PEÇAS / ACESSÓRIOS ARMAMENTO",
     "2995": "ARMA DE FOGO DE PEQUENO PORTE - REVÓLVER / PISTOLA",
     "13794": "ANEL FERROLHO",
