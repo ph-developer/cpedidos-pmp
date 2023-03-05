@@ -5,4 +5,7 @@ import '../errors/failures.dart';
 
 abstract class IMaterialCatalogRepository {
   AsyncResult<Material, CatalogFailure> getMaterialByCode(String code);
+  AsyncResult<List<Material>, CatalogFailure> getMaterialsByDescription(
+    String query,
+  );
 }

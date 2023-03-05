@@ -1,8 +1,8 @@
 import 'dart:convert';
 
-import 'package:collection/collection.dart';
 import 'package:flutter/services.dart';
 
+import '../../../shared/helpers/string_helper.dart';
 import '../../domain/entities/material.dart';
 import '../../domain/errors/failures.dart';
 import '../../infra/datasources/material_catalog_datasource.dart';
@@ -12,24 +12,42 @@ import '../models/material_metadata_model.dart';
 typedef SearchTest = bool Function(Map<String, String> materialMap);
 
 class MaterialCatalogDatasourceImpl implements IMaterialCatalogDatasource {
-  final _basePath = 'assets/catalog/catser';
-  final _metaPath = 'assets/catalog/catser/meta.json';
+  final _basePath = 'assets/catalog/catmat';
+  final _metaPath = 'assets/catalog/catmat/meta.json';
 
   @override
   Future<Material> getMaterialByCode(String code) async {
     final metadata = await _loadMetadata();
 
     for (final file in metadata.files) {
-      final material = await _searchInFile(
+      final materials = await _searchInFile(
         '$_basePath/$file',
         (materialMap) => materialMap['code'] == code,
         metadata,
       );
 
-      if (material != null) return material;
+      if (materials.isNotEmpty) return materials.first;
     }
 
     throw const MaterialNotFound();
+  }
+
+  @override
+  Future<List<Material>> getMaterialsByDescription(String query) async {
+    final metadata = await _loadMetadata();
+    final materials = <Material>[];
+
+    for (final file in metadata.files) {
+      final foundMaterials = await _searchInFile(
+        '$_basePath/$file',
+        (serviceMap) => serviceMap['description']?.has(query) == true,
+        metadata,
+      );
+
+      materials.addAll(foundMaterials);
+    }
+
+    return materials;
   }
 
   Future<MaterialMetadataModel> _loadMetadata() async {
@@ -39,7 +57,7 @@ class MaterialCatalogDatasourceImpl implements IMaterialCatalogDatasource {
     return MaterialMetadataModel.fromMap(map);
   }
 
-  Future<Material?> _searchInFile(
+  Future<Iterable<Material>> _searchInFile(
     String filePath,
     SearchTest test,
     MaterialMetadataModel metadata,
@@ -50,7 +68,6 @@ class MaterialCatalogDatasourceImpl implements IMaterialCatalogDatasource {
     return List<Map>.from(list)
         .map(Map<String, String>.from)
         .where(test)
-        .map((map) => MaterialDTO.fromMap(map, metadata))
-        .firstOrNull;
+        .map((map) => MaterialDTO.fromMap(map, metadata));
   }
 }

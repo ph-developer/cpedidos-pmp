@@ -1,20 +1,18 @@
-import 'package:equatable/equatable.dart';
+import 'item.dart';
 
-class Service extends Equatable {
+class Service extends Item {
   final String groupCode;
   final String groupDescription;
   final String classCode;
   final String classDescription;
-  final String code;
-  final String description;
 
   const Service({
     required this.groupCode,
     required this.groupDescription,
     required this.classCode,
     required this.classDescription,
-    required this.code,
-    required this.description,
+    required super.code,
+    required super.description,
   });
 
   @override

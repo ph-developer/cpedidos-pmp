@@ -8,20 +8,24 @@ import '../../../shared/managers/snackbar_manager.dart';
 import '../../../shared/widgets/buttons/outline_button.dart';
 import '../../../shared/widgets/inputs/select_input.dart';
 import '../../../shared/widgets/inputs/text_input.dart';
-import '../cubits/orders_search_cubit.dart';
-import '../cubits/orders_search_state.dart';
+import '../cubits/items_search_cubit.dart';
+import '../cubits/items_search_state.dart';
 
-class OrdersSearchPage extends StatefulWidget {
-  const OrdersSearchPage({Key? key}) : super(key: key);
+class ItemsSearchPage extends StatefulWidget {
+  const ItemsSearchPage({Key? key}) : super(key: key);
 
   @override
-  State<OrdersSearchPage> createState() => _OrdersSearchPageState();
+  State<ItemsSearchPage> createState() => _ItemsSearchPageState();
 }
 
-class _OrdersSearchPageState extends State<OrdersSearchPage> {
-  final cubit = Modular.get<OrdersSearchCubit>();
+class _ItemsSearchPageState extends State<ItemsSearchPage> {
+  final cubit = Modular.get<ItemsSearchCubit>();
 
-  final searchTypeEC = TextEditingController(text: 'sendDate');
+  int pagination = 1;
+  final maxItensByPage = 20;
+
+  final itemTypeEC = TextEditingController(text: 'material');
+  final searchTypeEC = TextEditingController(text: 'code');
   final queryEC = TextEditingController();
   final queryFocus = FocusNode();
 
@@ -33,53 +37,65 @@ class _OrdersSearchPageState extends State<OrdersSearchPage> {
 
   @override
   void dispose() {
+    itemTypeEC.dispose();
     searchTypeEC.dispose();
     queryEC.dispose();
     super.dispose();
   }
 
   void initSearchForm() {
-    var lastSearchType = 'sendDate';
+    var lastItemType = 'material';
+    var lastSearchType = 'code';
     var lastQuery = '';
 
     Future<void> onChange() async {
-      if (searchTypeEC.text.isEmpty || queryEC.text.isEmpty) {
-        if (searchTypeEC.text == 'sendDate') {
+      if (itemTypeEC.text.isEmpty ||
+          searchTypeEC.text.isEmpty ||
+          queryEC.text.isEmpty) {
+        if (itemTypeEC.text == 'material' && searchTypeEC.text == 'code') {
           await cubit.reset();
         } else {
           await cubit.setDirty();
         }
-      } else if (searchTypeEC.text != lastSearchType ||
+      } else if (itemTypeEC.text != lastItemType ||
+          searchTypeEC.text != lastSearchType ||
           queryEC.text != lastQuery) {
         await cubit.setDirty();
       }
+      lastItemType = itemTypeEC.text;
       lastSearchType = searchTypeEC.text;
       lastQuery = queryEC.text;
     }
 
+    itemTypeEC.addListener(onChange);
     searchTypeEC.addListener(onChange);
     queryEC.addListener(onChange);
   }
 
   void clearForm() {
-    searchTypeEC.text = 'sendDate';
+    itemTypeEC.text = 'material';
+    searchTypeEC.text = 'code';
     queryEC.text = '';
     queryFocus.requestFocus();
   }
 
   @override
   Widget build(BuildContext context) {
-    return BlocListener<OrdersSearchCubit, OrdersSearchState>(
+    return BlocListener<ItemsSearchCubit, ItemsSearchState>(
       bloc: cubit,
       listener: (context, state) {
         if (state is FailureState) {
           context.showErrorSnackBar(state.failure.message);
+        } else if (state is LoadedState) {
+          setState(() {
+            pagination = 1;
+          });
         }
       },
       child: Scaffold(
         appBar: AppBar(
           leading: Icon(
-            Icons.manage_search_rounded,
+            Icons.menu_book_rounded,
             color: Theme.of(context).colorScheme.primary,
             weight: 2,
           ),
@@ -87,7 +103,7 @@ class _OrdersSearchPageState extends State<OrdersSearchPage> {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
               Text(
-                'Busca de Pedidos',
+                'Busca de Materiais e Serviços',
                 style: TextStyle(
                   color: Theme.of(context).colorScheme.primary,
                   fontWeight: FontWeight.bold,
@@ -104,11 +120,11 @@ class _OrdersSearchPageState extends State<OrdersSearchPage> {
                   ),
                   const SizedBox(width: 8),
                   IconButton(
-                    icon: const Icon(Icons.menu_book_rounded),
+                    icon: const Icon(Icons.manage_search_rounded),
                     color: Theme.of(context).colorScheme.primary,
                     onPressed: () =>
-                        Modular.to.pushReplacementNamed('/catalogo/busca'),
-                    tooltip: 'Busca de Materiais e Serviços',
+                        Modular.to.pushReplacementNamed('/pedidos/busca'),
+                    tooltip: 'Busca de Pedidos',
                   ),
                   const SizedBox(width: 8),
                   LogoutButton(),
@@ -129,6 +145,7 @@ class _OrdersSearchPageState extends State<OrdersSearchPage> {
               children: [
                 _buildSearchFormRow(context),
                 _buildDataTableRow(context),
+                _buildPagination(context),
               ],
             ),
           ),
@@ -138,7 +155,7 @@ class _OrdersSearchPageState extends State<OrdersSearchPage> {
   }
 
   Widget _buildSearchFormRow(BuildContext context) {
-    return BlocBuilder<OrdersSearchCubit, OrdersSearchState>(
+    return BlocBuilder<ItemsSearchCubit, ItemsSearchState>(
       bloc: cubit,
       builder: (context, state) {
         final isEnabled = state is! LoadingState;
@@ -148,9 +165,7 @@ class _OrdersSearchPageState extends State<OrdersSearchPage> {
                 state is LoadedState ||
                 state is FailureState);
 
-        final queryLabel = searchTypeEC.text == 'sendDate'
-            ? 'Data de Envio ao Financeiro'
-            : 'Data de Chegada';
+        final queryLabel = searchTypeEC.text == 'code' ? 'Código' : 'Descrição';
 
         return Row(
           children: [
@@ -158,11 +173,24 @@ class _OrdersSearchPageState extends State<OrdersSearchPage> {
               child: Padding(
                 padding: const EdgeInsets.all(8),
                 child: SelectInput(
+                  controller: itemTypeEC,
+                  label: 'Tipo do Item',
+                  items: const {
+                    'material': 'Material',
+                    'service': 'Serviço',
+                  },
+                ),
+              ),
+            ),
+            Flexible(
+              child: Padding(
+                padding: const EdgeInsets.all(8),
+                child: SelectInput(
                   controller: searchTypeEC,
                   label: 'Buscar Por',
                   items: const {
-                    'sendDate': 'Data de Envio ao Financeiro',
-                    'arrivalDate': 'Data de Chegada',
+                    'code': 'Código',
+                    'description': 'Descrição',
                   },
                 ),
               ),
@@ -175,9 +203,10 @@ class _OrdersSearchPageState extends State<OrdersSearchPage> {
                   focusNode: queryFocus,
                   controller: queryEC,
                   label: queryLabel,
-                  formatters: [InputFormatters.date],
+                  formatters: [InputFormatters.uppercase],
                   autofocus: true,
                   onSubmitted: (_) => cubit.search(
+                    itemTypeEC.text,
                     searchTypeEC.text,
                     queryEC.text,
                   ),
@@ -197,7 +226,11 @@ class _OrdersSearchPageState extends State<OrdersSearchPage> {
                 icon: Icons.search_rounded,
                 label: 'Buscar',
                 type: ButtonType.success,
-                onPressed: () => cubit.search(searchTypeEC.text, queryEC.text),
+                onPressed: () => cubit.search(
+                  itemTypeEC.text,
+                  searchTypeEC.text,
+                  queryEC.text,
+                ),
               ),
             ),
             Padding(
@@ -220,19 +253,19 @@ class _OrdersSearchPageState extends State<OrdersSearchPage> {
   Widget _buildDataTableRow(BuildContext context) {
     return Padding(
       padding: const EdgeInsets.all(8),
-      child: BlocBuilder<OrdersSearchCubit, OrdersSearchState>(
+      child: BlocBuilder<ItemsSearchCubit, ItemsSearchState>(
         bloc: cubit,
         builder: (context, state) {
           if (state is LoadedState) {
-            if (state.orders.isEmpty) {
+            if (state.items.isEmpty) {
               return Row(
                 children: [
                   Text(
-                    (searchTypeEC.text == 'sendDate')
-                        ? 'Não foram encontrados pedidos enviados na data '
-                            'informada.'
-                        : 'Não foram encontrados pedidos recebidos na data '
-                            'informada.',
+                    (itemTypeEC.text == 'material')
+                        ? 'Não foram encontrados materiais que atendem aos '
+                            'critérios de busca informados.'
+                        : 'Não foram encontrados serviços que atendem aos '
+                            'critérios de busca informados.',
                   ),
                 ],
               );
@@ -244,9 +277,7 @@ class _OrdersSearchPageState extends State<OrdersSearchPage> {
               ),
               columnWidths: const {
                 0: FixedColumnWidth(70),
-                1: FlexColumnWidth(3),
-                2: FlexColumnWidth(3),
-                3: FlexColumnWidth(9),
+                1: FlexColumnWidth(),
               },
               defaultVerticalAlignment: TableCellVerticalAlignment.middle,
               children: [
@@ -257,29 +288,7 @@ class _OrdersSearchPageState extends State<OrdersSearchPage> {
                         padding: EdgeInsets.all(8),
                         child: Center(
                           child: Text(
-                            '#',
-                            style: TextStyle(fontWeight: FontWeight.bold),
-                          ),
-                        ),
-                      ),
-                    ),
-                    TableCell(
-                      child: Padding(
-                        padding: EdgeInsets.all(8),
-                        child: Center(
-                          child: Text(
-                            'Secretaria',
-                            style: TextStyle(fontWeight: FontWeight.bold),
-                          ),
-                        ),
-                      ),
-                    ),
-                    TableCell(
-                      child: Padding(
-                        padding: EdgeInsets.all(8),
-                        child: Center(
-                          child: Text(
-                            'Projeto',
+                            'Código',
                             style: TextStyle(fontWeight: FontWeight.bold),
                           ),
                         ),
@@ -298,40 +307,72 @@ class _OrdersSearchPageState extends State<OrdersSearchPage> {
                     ),
                   ],
                 ),
-                ...state.orders.map(
-                  (order) => TableRow(
-                    children: [
-                      TableCell(
-                        child: Padding(
-                          padding: const EdgeInsets.all(8),
-                          child: Column(
-                            children: [
-                              Text(order.type),
-                              Text(order.number),
-                            ],
+                ...state.items
+                    .skip((pagination - 1) * maxItensByPage)
+                    .take(maxItensByPage)
+                    .map(
+                      (item) => TableRow(
+                        children: [
+                          TableCell(
+                            child: Padding(
+                              padding: const EdgeInsets.all(8),
+                              child: Center(child: Text(item.code)),
+                            ),
                           ),
-                        ),
+                          TableCell(
+                            child: Padding(
+                              padding: const EdgeInsets.all(8),
+                              child: Text(item.description),
+                            ),
+                          ),
+                        ],
                       ),
-                      TableCell(
-                        child: Padding(
-                          padding: const EdgeInsets.all(8),
-                          child: Text(order.secretary),
-                        ),
-                      ),
-                      TableCell(
-                        child: Padding(
-                          padding: const EdgeInsets.all(8),
-                          child: Text(order.project),
-                        ),
-                      ),
-                      TableCell(
-                        child: Padding(
-                          padding: const EdgeInsets.all(8),
-                          child: Text(order.description),
-                        ),
-                      ),
-                    ],
-                  ),
+                    ),
+              ],
+            );
+          } else {
+            return const SizedBox();
+          }
+        },
+      ),
+    );
+  }
+
+  Widget _buildPagination(BuildContext context) {
+    return Padding(
+      padding: const EdgeInsets.all(8),
+      child: BlocBuilder<ItemsSearchCubit, ItemsSearchState>(
+        bloc: cubit,
+        builder: (context, state) {
+          if (state is LoadedState && state.items.isNotEmpty) {
+            final page = pagination;
+            final pages = (state.items.length / maxItensByPage).ceil();
+            final itemsCount = state.items.length;
+
+            return Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                IconButton(
+                  onPressed: pagination > 1
+                      ? () {
+                          setState(() {
+                            pagination--;
+                          });
+                        }
+                      : null,
+                  icon: const Icon(Icons.arrow_back_rounded),
+                ),
+                Text('Página $page de $pages - $itemsCount '
+                    'ite${itemsCount == 1 ? 'm' : 'ns'} encontrados'),
+                IconButton(
+                  onPressed: page < pages
+                      ? () {
+                          setState(() {
+                            pagination++;
+                          });
+                        }
+                      : null,
+                  icon: const Icon(Icons.arrow_forward_rounded),
                 ),
               ],
             );

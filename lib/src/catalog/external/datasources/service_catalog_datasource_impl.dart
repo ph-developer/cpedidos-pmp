@@ -1,8 +1,8 @@
 import 'dart:convert';
 
-import 'package:collection/collection.dart';
 import 'package:flutter/services.dart';
 
+import '../../../shared/helpers/string_helper.dart';
 import '../../domain/entities/service.dart';
 import '../../domain/errors/failures.dart';
 import '../../infra/datasources/service_catalog_datasource.dart';
@@ -20,16 +20,34 @@ class ServiceCatalogDatasourceImpl implements IServiceCatalogDatasource {
     final metadata = await _loadMetadata();
 
     for (final file in metadata.files) {
-      final service = await _searchInFile(
+      final services = await _searchInFile(
         '$_basePath/$file',
         (serviceMap) => serviceMap['code'] == code,
         metadata,
       );
 
-      if (service != null) return service;
+      if (services.isNotEmpty) return services.first;
     }
 
     throw const ServiceNotFound();
+  }
+
+  @override
+  Future<List<Service>> getServicesByDescription(String query) async {
+    final metadata = await _loadMetadata();
+    final services = <Service>[];
+
+    for (final file in metadata.files) {
+      final foundServices = await _searchInFile(
+        '$_basePath/$file',
+        (serviceMap) => serviceMap['description']?.has(query) == true,
+        metadata,
+      );
+
+      services.addAll(foundServices);
+    }
+
+    return services;
   }
 
   Future<ServiceMetadataModel> _loadMetadata() async {
@@ -39,7 +57,7 @@ class ServiceCatalogDatasourceImpl implements IServiceCatalogDatasource {
     return ServiceMetadataModel.fromMap(map);
   }
 
-  Future<Service?> _searchInFile(
+  Future<Iterable<Service>> _searchInFile(
     String filePath,
     SearchTest test,
     ServiceMetadataModel metadata,
@@ -50,7 +68,6 @@ class ServiceCatalogDatasourceImpl implements IServiceCatalogDatasource {
     return List<Map>.from(list)
         .map(Map<String, String>.from)
         .where(test)
-        .map((map) => ServiceDTO.fromMap(map, metadata))
-        .firstOrNull;
+        .map((map) => ServiceDTO.fromMap(map, metadata));
   }
 }

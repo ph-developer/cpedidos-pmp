@@ -1,14 +1,12 @@
-import 'package:equatable/equatable.dart';
+import 'item.dart';
 
-class Material extends Equatable {
+class Material extends Item {
   final String groupCode;
   final String groupDescription;
   final String classCode;
   final String classDescription;
   final String standardCode;
   final String standardDescription;
-  final String code;
-  final String description;
 
   const Material({
     required this.groupCode,
@@ -17,8 +15,8 @@ class Material extends Equatable {
     required this.classDescription,
     required this.standardCode,
     required this.standardDescription,
-    required this.code,
-    required this.description,
+    required super.code,
+    required super.description,
   });
 
   @override

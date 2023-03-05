@@ -23,9 +23,26 @@ class ServiceCatalogRepositoryImpl implements IServiceCatalogRepository {
       return Success(service);
     } on CatalogFailure catch (failure) {
       return Failure(failure);
-      // } catch (exception, stackTrace) {
-      //   await _errorService.reportException(exception, stackTrace);
-      //   return const Failure(UnknownError());
+    } catch (exception, stackTrace) {
+      await _errorService.reportException(exception, stackTrace);
+      return const Failure(UnknownError());
+    }
+  }
+
+  @override
+  AsyncResult<List<Service>, CatalogFailure> getServicesByDescription(
+    String query,
+  ) async {
+    try {
+      final service =
+          await _serviceCatalogDatasource.getServicesByDescription(query);
+
+      return Success(service);
+    } on CatalogFailure catch (failure) {
+      return Failure(failure);
+    } catch (exception, stackTrace) {
+      await _errorService.reportException(exception, stackTrace);
+      return const Failure(UnknownError());
     }
   }
 }

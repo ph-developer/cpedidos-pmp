@@ -28,4 +28,21 @@ class MaterialCatalogRepositoryImpl implements IMaterialCatalogRepository {
       return const Failure(UnknownError());
     }
   }
+
+  @override
+  AsyncResult<List<Material>, CatalogFailure> getMaterialsByDescription(
+    String query,
+  ) async {
+    try {
+      final material =
+          await _materialCatalogDatasource.getMaterialsByDescription(query);
+
+      return Success(material);
+    } on CatalogFailure catch (failure) {
+      return Failure(failure);
+    } catch (exception, stackTrace) {
+      await _errorService.reportException(exception, stackTrace);
+      return const Failure(UnknownError());
+    }
+  }
 }

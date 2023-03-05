@@ -5,4 +5,7 @@ import '../errors/failures.dart';
 
 abstract class IServiceCatalogRepository {
   AsyncResult<Service, CatalogFailure> getServiceByCode(String code);
+  AsyncResult<List<Service>, CatalogFailure> getServicesByDescription(
+    String query,
+  );
 }
