@@ -2,27 +2,24 @@
 
 import 'package:flutter/material.dart';
 
-import 'package:flutter_modular/flutter_modular.dart';
-
-import 'src/app_module.dart';
-import 'src/shared/config/firebase/firebase_config.dart';
-import 'src/shared/config/sentry/sentry_config.dart';
-import 'src/shared/widgets/loaders/logo_fullscreen_loader.dart';
+import 'core/boot/boot.dart';
+import 'core/router/router.dart';
+import 'core/theme/theme.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
-  runApp(const LogoFullscreenLoader());
+  runApp(
+    const LogoFullscreenLoader(),
+  );
 
-  await Future.delayed(const Duration(seconds: 1));
-
-  await FirebaseConfig.setup();
-
-  await SentryConfig.setup(
+  await Boot.run(
     () => runApp(
-      ModularApp(
-        module: AppModule(),
-        child: const AppWidget(),
+      MaterialApp.router(
+        title: 'Controle de Pedidos - Prefeitura Municipal de Penápolis',
+        themeMode: themeMode,
+        theme: currentTheme,
+        routerConfig: router,
       ),
     ),
   );
