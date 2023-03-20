@@ -17,28 +17,18 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#binaries-for-features">Binaries for Features</a></li>
-    <li><a href="#binaries-for-tests">Binaries for Tests</a></li>
+    <li><a href="#scripts-for-development">Scripts for Development</a></li>
     <li><a href="#user-for-tests">User for Tests</a></li>
   </ol>
 </details>
 
 <br>
 
-## Binaries for Features
+## Scripts for Development
 
 <br>
 
-In the folder 'bin' we have some binaries to generate or update feature assets, they are:
-- <b>catalog_csv_convert.ps1:</b> used to convert catmat.csv and catser.csv files, into *.json (used for debug purposes) and *.min.json (used by application). The csv files must be inside '/assets/catalog' folder. The output files will be generated in same folder.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Binaries for Tests
-
-<br>
-
-In the folder 'bin' we also have some binaries to help development, they are:
+In the folder 'bin' we also have some scripts to help development, they are:
 - <b>coverage.ps1:</b> used to automate full coverage tests (using full_coverage package).
 - <b>start_firebase_emulators.ps1:</b> used to start firebase emulators with dummy data for tests.
 
