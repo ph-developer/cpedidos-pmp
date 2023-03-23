@@ -26,11 +26,13 @@ class _PasswordInputState extends State<PasswordInput> {
   bool showPassword = false;
 
   void _fixEdgePasswordRevealButton() {
-    focusNode.unfocus();
-    Future.microtask(() {
-      focusNode.requestFocus();
-      if (kIsWeb) context.callMethod('fixPasswordCss');
-    });
+    if (kIsWeb) {
+      focusNode.unfocus();
+      Future.microtask(() {
+        focusNode.requestFocus();
+        context.callMethod('fixPasswordCss');
+      });
+    }
   }
 
   @override

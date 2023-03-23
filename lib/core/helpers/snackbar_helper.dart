@@ -36,7 +36,7 @@ class SnackbarHelper {
         elevation: 0,
         duration: duration ?? defaultDuration,
         backgroundColor: Colors.transparent,
-        content: SuccessSnackbar(
+        content: ErrorSnackbar(
           message: message,
           duration: duration ?? defaultDuration,
         ),
