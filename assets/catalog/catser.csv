@@ -1,6 +1,6 @@
 ﻿Lista CATSER;;;;;;;
 Fonte: DW-Siasg;;;;;;;
-Extração realizada em 09/01/2023;;;;;;;
+Extração realizada em 30/03/2023;;;;;;;
 ({Tipo Material Serviço} = Serviço) E ({Sit Atual Mat Serv} = Ativo);;;;;;;
 ;;;;;;;
 Tipo Material Serviço;Grupo Serviço;;Classe Material;;Codigo Material Serviço;;Sit Atual Mat Serv
