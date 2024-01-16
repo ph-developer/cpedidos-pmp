@@ -1,44 +1,37 @@
-# Miscellaneous
-*.class
-*.log
-*.pyc
-*.swp
 .DS_Store
-.atom/
-.buildlog/
-.history
-.svn/
-migrate_working_dir/
+.thumbs.db
+node_modules
 
-# IntelliJ related
-*.iml
-*.ipr
-*.iws
-.idea/
+# Quasar core related directories
+.quasar
+/dist
+/quasar.config.*.temporary.compiled*
 
-# The .vscode folder contains launch configuration and tasks you configure in
-# VS Code which you may wish to be included in version control, so this line
-# is commented out by default.
-#.vscode/
+# Cordova related directories and files
+/src-cordova/node_modules
+/src-cordova/platforms
+/src-cordova/plugins
+/src-cordova/www
 
-# Flutter/Dart/Pub related
-**/doc/api/
-**/ios/Flutter/.last_build_id
-.dart_tool/
-.flutter-plugins
-.flutter-plugins-dependencies
-.packages
-.pub-cache/
-.pub/
-/build/
+# Capacitor related directories and files
+/src-capacitor/www
+/src-capacitor/node_modules
 
-# Symbolication related
-app.*.symbols
+# BEX related directories and files
+/src-bex/www
+/src-bex/js/core
 
-# Obfuscation related
-app.*.map.json
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-# Android Studio will place build artifacts here
-/android/app/debug
-/android/app/profile
-/android/app/release
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# local .env files
+.env.local*

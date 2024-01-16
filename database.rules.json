@@ -1,8 +1,6 @@
 {
   "rules": {
-    "archive": {
-      ".read": "auth.uid != null",
-      ".write": false
-    }
+    ".read": true,
+    ".write": false
   }
 }
