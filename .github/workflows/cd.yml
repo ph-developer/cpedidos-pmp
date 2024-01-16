@@ -1,0 +1,62 @@
+name: CD
+on:
+  push:
+    branches: [main]
+
+jobs:
+  test-coverage:
+    name: Coverage
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Flutter SDK
+        uses: subosito/flutter-action@v2
+        with:
+          channel: "stable"
+          cache: true
+
+      - name: Flutter Version
+        run: flutter --version
+
+      - name: Run Flutter Pub Get
+        run: flutter pub get
+
+      - name: Run Unit and Widget Tests With Coverage
+        run: flutter test --coverage
+
+      - name: Coveralls
+        uses: coverallsapp/github-action@master
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+  deploy-website-on-firebase-hosting:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Flutter SDK
+        uses: subosito/flutter-action@v2
+        with:
+          channel: "stable"
+          cache: true
+
+      - name: Flutter Version
+        run: flutter --version
+
+      - name: Run Flutter Pub Get
+        run: flutter pub get
+
+      - name: Build Web App
+        run: flutter build web --release --dart-define SENTRY_DSN=${{ secrets.SENTRY_DSN }}
+
+      - name: Deploy Web App to Firebase Hosting
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: "${{ secrets.GITHUB_TOKEN }}"
+          firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT_CPEDIDOS_PMP }}"
+          projectId: cpedidos-pmp
+          channelId: live
